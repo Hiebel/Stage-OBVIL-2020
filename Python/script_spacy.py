@@ -19,7 +19,7 @@ def lire_json(chemin):
 
 dossier = sys.argv[1]
 
-repertoire_Spacy = "Spacy2"
+repertoire_Spacy = "Spacy"
 if not os.path.exists(repertoire_Spacy):
 	os.makedirs(repertoire_Spacy)
 
