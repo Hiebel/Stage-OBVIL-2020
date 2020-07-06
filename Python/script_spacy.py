@@ -17,12 +17,20 @@ def lire_json(chemin):
     file.close()
     return dic
 
+
+# Dossier donné en paramètre du script
+# C'est le nom du dossier qui contient les fichiers sur lesquels travailler
 dossier = sys.argv[1]
 
+# Liste des tags que l'on souhaite extraire
+types = sys.argv[2:]
+
+# Création du répertoire de sortie appelé "Spacy"
 repertoire_Spacy = "Spacy"
 if not os.path.exists(repertoire_Spacy):
 	os.makedirs(repertoire_Spacy)
 
+# Choix du format de sortie et création du dossier correspondant
 format = int(input("Sous quel format enregister les résultats ? (0 pour json, 1 pour csv)\n"))
 
 if format == 0:
@@ -36,16 +44,25 @@ if not os.path.exists(repertoire):
 rep_dossier = "%s/%s" % (repertoire, dossier)
 if not os.path.exists(rep_dossier):
 	os.makedirs(rep_dossier)
-	
+
+
 namespace = "{http://www.tei-c.org/ns/1.0}"
 print("Chargement du module français de Spacy")
 nlp = fr_core_news_sm.load()
 print("Chargement terminé")
 
 print("Affichage du fichier en cours de traitement")
+
+# variable permettant de choisir la taille du contexte gauche et droite 
+# le chiffre représente le nombre de caractères
+taille_contexte = 30
+
+# Boucle qui traite fichier par fichier
 for fichier in glob.glob("%s/*" % dossier):
 	nom_fichier = fichier.split("\\")[1]
 	print(nom_fichier)
+	
+	# Récupération du contenu textuel du fichier (partie "text" du format XML-TEI)
 	tree = ET.parse(fichier)
 	root = tree.getroot()
 	contenu = ""
@@ -55,24 +72,55 @@ for fichier in glob.glob("%s/*" % dossier):
 			if el != "\n":
 				contenu += el
 				contenu += " "
-		#contenu = contenu.replace("\n", " ")
 		doc = nlp(contenu)
+		
+		# pour la sortie en JSON
 		if format == 0:
 			dic_res = {}
+			# boucle sur chaque entité détectée par Spacy
 			for ent in doc.ents:
-				resultatSpacy=ent.start_char,ent.end_char,ent.label_
-				entite=list(resultatSpacy)
-				dic_res[ent.text] = entite
-			ecrire_json("%s/%s/%s.json" % (repertoire, dossier, nom_fichier), dic_res)
+				if len(types) == 0 or ent.label_ in types:
+					contexte = contenu[ent.start_char-taille_contexte:ent.end_char+taille_contexte]
+					contexte = contexte.replace("\n", " ")
+					resultatSpacy=ent.start_char,ent.end_char,ent.label_, contexte
+					entite=list(resultatSpacy)
+					dic_res[ent.text] = entite
+					
+			# définition du nom du fichier de sortie
+			nom_sauvegarde = nom_fichier[:-4]
+			if len(types) == 0:
+				nom_sauvegarde += "_ALL"
+			else:
+				for el in types:
+					nom_sauvegarde += "_%s" % el
+					
+			# création du fichier de sortie
+			ecrire_json("%s/%s/%s.json" % (repertoire, dossier, nom_sauvegarde), dic_res)
+			
+		#pour la sortie en CSV
 		else:
-			csv = ""
+			csv = "Tag,Entité,Indice_Début,Indice_Fin,Contexte\n"
+			# boucle sur chaque entité détectée par Spacy
 			for ent in doc.ents:
-				resultatSpacy=ent.start_char,ent.end_char,ent.label_
-				ligne = ""
-				for el in resultatSpacy[:-1]:
-					ligne += "%s," % el
-				ligne += resultatSpacy[-1]
-				csv += ent.text + ligne + "\n"
-			file = open("%s/%s/%s.csv" % (repertoire, dossier, nom_fichier), "w", encoding="utf-8")
+				if len(types) == 0 or ent.label_ in types:
+					resultatSpacy=ent.label_, ent.text, ent.start_char, ent.end_char
+					ligne = ""
+					for el in resultatSpacy:
+						ligne += "%s," % el
+					contexte = contenu[ent.start_char-taille_contexte:ent.end_char+taille_contexte]
+					contexte = contexte.replace("\n", " ")
+					ligne += contexte
+					csv += ligne + "\n"
+					
+			# définition du nom du fichier de sortie
+			nom_sauvegarde = nom_fichier[:-4]
+			if len(types) == 0:
+				nom_sauvegarde += "_ALL"
+			else:
+				for el in types:
+					nom_sauvegarde += "_%s" % el
+			
+			# création du fichier de sortie
+			file = open("%s/%s/%s.csv" % (repertoire, dossier, nom_sauvegarde), "w", encoding="utf-8")
 			file.write(csv)
 			file.close()
