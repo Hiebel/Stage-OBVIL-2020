@@ -3,7 +3,7 @@ import random
 import json
 
 # Ajout - bibliothèque de lecture de documents XML
-import xml.etree.ElementTree as ET
+from lxml import etree
 
 from collections import defaultdict
 from pathlib import Path
@@ -14,14 +14,17 @@ from spacy.matcher import PhraseMatcher
 from spacy.tokens import Span
 
 #ici Chemin vers un modèle existant
-model_name = 'models/fr_core_news_md'
+#model_name = 'models/fr_core_news_md'
+model_name = 'fr_core_news_sm'
 #model_name = "models/ar-model-test"
 
 # Chemin vers le dossier contenant les fichiers texte à annoter
-input_dir = "input_corpus/"
+#input_dir = "input_corpus/"
+input_dir = "Corpus/test"
 
 # Chemin vers le dossier pour enregister les sorties
-output_dir = "output/"
+#output_dir = "output/"
+output_dir = "Corpus/test_output"
 
 #ici optionel: Chemin vers une liste d'entités sous le format entité\tlabel\n
 #Si on ne veut pas utiliser le fichier d'entités, laisser vide:  entities_file=""
@@ -202,8 +205,8 @@ def make_doc(nlp, text, ner=None):
 
 # Ajout - Fontion de lecture du contenu textuel d'un fichier XML-TEI
 def lire_TEI_XML(input_file):
-    tree = ET.parse(input_file)
-    root = tree.getroot()
+    parser = etree.XMLParser(recover=True)
+    root = etree.parse(input_file, parser)
     contenu = ""
     for texte in root.iter("{http://www.tei-c.org/ns/1.0}text"):
         textes = texte.itertext()
