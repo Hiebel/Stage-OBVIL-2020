@@ -40,9 +40,9 @@ chkr = SpellChecker("fr")
 chemin_liste = "Liste_correction/liste.csv"
 
 # Le fichier contient-il des entetes ? La variable est à True si oui, False sinon
-presence_entetes = True
+presence_entetes = False
 
-# Si le fichier contient des entêtes, il faut les définir ici
+# Si le fichier contient des entêtes (presence_entetes = True), il faut les définir ici
 # La première valeur de la liste sera le nom de la colonne des formes erronées, et la deuxième celle des formes correctes
 liste_entetes = ["forme_erronée", "forme_correcte"]
 
