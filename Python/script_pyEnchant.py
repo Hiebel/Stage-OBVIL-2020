@@ -34,6 +34,29 @@ if not os.path.exists(dossier_sortie):
 # Instance du vérificateur orthographique (la langue est entre parenthèses)
 chkr = SpellChecker("fr")
 
+# Chargement de la liste d'erreurs personnalisée
+
+# Chemhin du fichier csv sous la forme erreur,correction
+chemin_liste = "Liste_correction/liste.csv"
+
+# Le fichier contient-il des entetes ? La variable est à True si oui, False sinon
+presence_entetes = True
+
+# Si le fichier contient des entêtes, il faut les définir ici
+# La première valeur de la liste sera le nom de la colonne des formes erronées, et la deuxième celle des formes correctes
+liste_entetes = ["forme_erronée", "forme_correcte"]
+
+with open(chemin_liste, "r", encoding="utf-8", newline='') as csvfile:
+    if presence_entetes == False:
+        reader = csv.reader(csvfile, delimiter=',')
+        for row in reader:
+            print(row)
+            chkr.replace_always(row[0], row[1])
+    else:
+        reader = csv.DictReader(csvfile, delimiter=',')
+        for row in reader:
+            chkr.replace_always(row[liste_entetes[0]], row[liste_entetes[1]])
+
 # Chemin du fichier csv qui contiendra la liste des erreurs avec la correction proposée et le fichier d'origine
 fichier_erreurs = "%s/erreurs.csv" % dossier_sortie
 
@@ -63,6 +86,7 @@ with open(fichier_erreurs, "w", encoding="utf-8", newline='') as csvfile:
 				else:
 					ligne.append("Pas de correction trouvée")
 				contexte = err.leading_context(50) + err.word + err.trailing_context(50)
+				contexte = contexte.replace("\n", " ")
 				ligne.append(contexte)
 				ligne.append(nom_fichier)
 				spamwriter.writerow(ligne)
