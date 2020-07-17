@@ -38,8 +38,8 @@ chkr = SpellChecker("fr")
 fichier_erreurs = "%s/erreurs.csv" % dossier_sortie
 
 with open(fichier_erreurs, "w", encoding="utf-8", newline='') as csvfile:
-	fieldnames = ["Erreur détectée", "Correction proposée", "Fichier"]
-	spamwriter = csv.writer(csvfile, delimiter=",")
+	fieldnames = ["Erreur_détectée", "Correction_proposée", "Contexte", "Fichier"]
+	spamwriter = csv.writer(csvfile, delimiter="\t")
 	spamwriter.writerow(fieldnames)
 	
 	for fichier in glob.glob("%s/*" % dossier_corpus):
@@ -62,6 +62,8 @@ with open(fichier_erreurs, "w", encoding="utf-8", newline='') as csvfile:
 					ligne.append(chkr.suggest(err.word)[0])
 				else:
 					ligne.append("Pas de correction trouvée")
+				contexte = err.leading_context(50) + err.word + err.trailing_context(50)
+				ligne.append(contexte)
 				ligne.append(nom_fichier)
 				spamwriter.writerow(ligne)
 			correction_contenu = chkr.get_text()
