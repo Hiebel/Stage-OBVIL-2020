@@ -35,27 +35,32 @@ if not os.path.exists(dossier_sortie):
 chkr = SpellChecker("fr")
 
 # Chargement de la liste d'erreurs personnalisée
+charger_liste = True
 
-# Chemhin du fichier csv sous la forme erreur,correction
-chemin_liste = "Liste_correction/liste.csv"
 
-# Le fichier contient-il des entetes ? La variable est à True si oui, False sinon
-presence_entetes = False
+if charger_liste:
+	# Chemin du fichier csv sous la forme erreur,correction
+	chemin_liste = "Liste_correction/liste.csv"
 
-# Si le fichier contient des entêtes (presence_entetes = True), il faut les définir ici
-# La première valeur de la liste sera le nom de la colonne des formes erronées, et la deuxième celle des formes correctes
-liste_entetes = ["forme_erronée", "forme_correcte"]
+	# Le fichier contient-il des entetes ? La variable est à True si oui, False sinon
+	presence_entetes = False
 
-with open(chemin_liste, "r", encoding="utf-8", newline='') as csvfile:
-    if presence_entetes == False:
-        reader = csv.reader(csvfile, delimiter=',')
-        for row in reader:
-            print(row)
-            chkr.replace_always(row[0], row[1])
-    else:
-        reader = csv.DictReader(csvfile, delimiter=',')
-        for row in reader:
-            chkr.replace_always(row[liste_entetes[0]], row[liste_entetes[1]])
+	# Si le fichier contient des entêtes (presence_entetes = True), il faut les définir ici
+	# La première valeur de la liste sera le nom de la colonne des formes erronées, et la deuxième celle des formes correctes
+	liste_entetes = ["forme_erronée", "forme_correcte"]
+
+	delimiteur = ","
+
+	with open(chemin_liste, "r", encoding="utf-8", newline='') as csvfile:
+		if presence_entetes == False:
+			reader = csv.reader(csvfile, delimiter=delimiteur)
+			for row in reader:
+				print(row)
+				chkr.replace_always(row[0], row[1])
+		else:
+			reader = csv.DictReader(csvfile, delimiter=delimiteur)
+			for row in reader:
+				chkr.replace_always(row[liste_entetes[0]], row[liste_entetes[1]])
 
 # Chemin du fichier csv qui contiendra la liste des erreurs avec la correction proposée et le fichier d'origine
 fichier_erreurs = "%s/erreurs.csv" % dossier_sortie
