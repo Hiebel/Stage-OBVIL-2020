@@ -1,22 +1,35 @@
 import sys
 import json
 import glob
-import xml.etree.ElementTree as ET
+from lxml import etree
 import spacy
 import fr_core_news_sm
 import os
 
 def ecrire_json(chemin , contenu):
-    file = open(chemin , "w", encoding="utf-8")
-    file.write(json.dumps(contenu , indent=2, ensure_ascii=False))
-    file.close()
+	file = open(chemin , "w", encoding="utf-8")
+	file.write(json.dumps(contenu , indent=2, ensure_ascii=False))
+	file.close()
 
 def lire_json(chemin):
-    file = open(chemin , "r", encoding="utf-8")
-    dic = json.load(file)
-    file.close()
-    return dic
+	file = open(chemin , "r", encoding="utf-8")
+	dic = json.load(file)
+	file.close()
+	return dic
 
+def lire_TEI_XML(input_file):
+	namespace = "{http://www.tei-c.org/ns/1.0}text"
+	parser = etree.XMLParser(recover=True)
+	root = etree.parse(input_file, parser)
+	contenu = ""
+	for texte in root.iter(namespace):
+		textes = texte.itertext()
+		for cpt, el in enumerate(textes):
+			if el != "\n":
+				contenu += el
+				contenu += " "
+		contenu = contenu.replace("\n", " ")
+	return contenu
 
 # Dossier donné en paramètre du script
 # C'est le nom du dossier qui contient les fichiers sur lesquels travailler
@@ -62,16 +75,14 @@ for fichier in glob.glob("%s/*" % dossier):
 	nom_fichier = fichier.split("\\")[1]
 	print(nom_fichier)
 	
-	# Récupération du contenu textuel du fichier (partie "text" du format XML-TEI)
-	tree = ET.parse(fichier)
-	root = tree.getroot()
-	contenu = ""
-	for text in root.iter("{http://www.tei-c.org/ns/1.0}text"):
-		textes = text.itertext()
-		for cpt, el in enumerate(textes):
-			if el != "\n":
-				contenu += el
-				contenu += " "
+	# Récupération du contenu textuel du fichier (format XML-TEI ou txt)
+	extension = fichier.split(".")[-1]
+	if extension == "txt" or extension == "xml":
+		if extension == "xml":
+			contenu = lire_TEI_XML(fichier)
+		else:
+			with open(fichier, 'r', encoding = "utf-8") as fin:
+				contenu = fin.read()
 		doc = nlp(contenu)
 		
 		# pour la sortie en JSON
@@ -103,7 +114,8 @@ for fichier in glob.glob("%s/*" % dossier):
 			# boucle sur chaque entité détectée par Spacy
 			for ent in doc.ents:
 				if len(types) == 0 or ent.label_ in types:
-					resultatSpacy=ent.label_, ent.text, ent.start_char, ent.end_char
+					#resultatSpacy=ent.label_, ent.text, ent.start_char, ent.end_char
+					resultatSpacy=ent.label_, '"' + ent.text + '"', ent.start_char, ent.end_char
 					ligne = ""
 					for el in resultatSpacy:
 						ligne += "%s," % el
