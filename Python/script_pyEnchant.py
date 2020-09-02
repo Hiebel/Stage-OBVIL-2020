@@ -22,7 +22,7 @@ def lire_TEI_XML(input_file):
 
 
 # Chemin vers le dossier contenant les fichiers texte ou XML-TEI à corriger
-dossier_corpus = "Corpus/test2"
+dossier_corpus = "Evaluation/test"
 
 # Chemin vers le dossier pour enregister les sorties
 dossier_sortie = "%s_script_correction" % dossier_corpus
@@ -35,7 +35,7 @@ if not os.path.exists(dossier_sortie):
 chkr = SpellChecker("fr")
 
 # Chargement de la liste d'erreurs personnalisée
-charger_liste = True
+charger_liste = False
 
 
 if charger_liste:
@@ -55,7 +55,6 @@ if charger_liste:
 		if presence_entetes == False:
 			reader = csv.reader(csvfile, delimiter=delimiteur)
 			for row in reader:
-				print(row)
 				chkr.replace_always(row[0], row[1])
 		else:
 			reader = csv.DictReader(csvfile, delimiter=delimiteur)
@@ -75,7 +74,7 @@ with open(fichier_erreurs, "w", encoding="utf-8", newline='') as csvfile:
 		if extension == "txt" or extension == "xml":
 			print("Traitement du fichier %s" % fichier)
 			nom_fichier = fichier.split("\\")[1]
-			sans_extension = nom_fichier.split(".")[-2]
+			sans_extension = nom_fichier.split(".")[0]
 			if extension == "xml":
 				contenu = lire_TEI_XML(fichier)
 			else:
