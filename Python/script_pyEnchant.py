@@ -22,7 +22,7 @@ def lire_TEI_XML(input_file):
 
 
 # Chemin vers le dossier contenant les fichiers texte ou XML-TEI à corriger
-dossier_corpus = "Evaluation/test"
+dossier_corpus = "Evaluation/Correction/Corriger"
 
 # Chemin vers le dossier pour enregister les sorties
 dossier_sortie = "%s_script_correction" % dossier_corpus
@@ -80,12 +80,14 @@ with open(fichier_erreurs, "w", encoding="utf-8", newline='') as csvfile:
 			else:
 				with open(fichier, 'r', encoding = "utf-8") as fin:
 					contenu = fin.read()
+            # A tester : ne pas corriger les noms propres
 			chkr.set_text(contenu)
 			for err in chkr:
 				ligne = []
 				ligne.append(err.word)
 				if len(chkr.suggest(err.word)) > 0:
-					err.replace(chkr.suggest(err.word)[0])
+					err.replace(chkr.suggest(err.word)[0])   # [0] signifie prendre le candidat ayant la distance de Levenshtein la plus proche
+                    # Si deux candidats ont une distance égale, je ne sais pas quel est le critère qui choisit le candidat
 					ligne.append(chkr.suggest(err.word)[0])
 				else:
 					ligne.append("Pas de correction trouvée")
