@@ -1,0 +1,606 @@
+Tag,Entité,Indice_Début,Indice_Fin,Contexte
+LOC,"république Paris Typ",9,29,
+LOC,"rue Monsieur",41,53,publique Paris Typ. A PARENT, rue Monsieur le-Prince 31 La république FO
+PER,"Prince 31 La république",57,80,yp. A PARENT, rue Monsieur le-Prince 31 La république FONDEE  SUR LES SEPT LIBERTÉS
+MISC,"SEPT LIBERTÉS ABSOLUES",97,119,La république FONDEE  SUR LES SEPT LIBERTÉS ABSOLUES  ET GARANTIE Par la révolutio
+MISC,"GARANTIE",124,132,ES SEPT LIBERTÉS ABSOLUES  ET GARANTIE Par la révolution permanente 
+MISC,"Draguicha",167,176,la révolution permanente PAR  Draguicha-Yérémia STANOÏEVITCH   Prix :
+PER,"Yérémia STANOÏEVITCH",177,197,ion permanente PAR  Draguicha-Yérémia STANOÏEVITCH   Prix : 1 fr. 50 c.  Paris  
+LOC,"Prix ",200,205,guicha-Yérémia STANOÏEVITCH   Prix : 1 fr. 50 c.  Paris  EN VENTE
+LOC,"Paris",220,225,ÏEVITCH   Prix : 1 fr. 50 c.  Paris  EN VENTE CHEZ TOUS LES LIBRA
+PER,"A. PARENT",266,275,CHEZ TOUS LES LIBRAIRES  TYP. A. PARENT, RUE MONSIEUR-LE-PRINCE, 31 1
+ORG,"RUE MONSIEUR",277,289,ES LIBRAIRES  TYP. A. PARENT, RUE MONSIEUR-LE-PRINCE, 31 1870  " Savez-v
+MISC,"PRINCE",293,299,P. A. PARENT, RUE MONSIEUR-LE-PRINCE, 31 1870  " Savez-vous combie
+MISC,"Savez",312,317,ONSIEUR-LE-PRINCE, 31 1870  " Savez-vous combien doit être fortem
+LOC,"RASPAIL",628,635,ur corps dans un égout  ? »   RASPAIL.  La république  CHAPITRE PRE
+ORG,"L’ÉTAT",672,678,épublique  CHAPITRE PREMIER   L’ÉTAT, LA SOCIÉTÉ, LA FAMILLE, LA R
+ORG,"SOCIÉTÉ",683,690,CHAPITRE PREMIER   L’ÉTAT, LA SOCIÉTÉ, LA FAMILLE, LA RÉPUBLIQUE ET
+ORG,"LA FAMILLE",692,702,PREMIER   L’ÉTAT, LA SOCIÉTÉ, LA FAMILLE, LA RÉPUBLIQUE ET LE GOUVERNE
+ORG,"LA RÉPUBLIQUE",704,717,ÉTAT, LA SOCIÉTÉ, LA FAMILLE, LA RÉPUBLIQUE ET LE GOUVERNEMENT.  I  Que l
+LOC,"État",748,752,ET LE GOUVERNEMENT.  I  Que l’État se base sur la volonté, en ta
+LOC,"État",886,890, l’auteur de l’État ; — que l’État est l’équi libre des volontés
+LOC,"État",1115,1119,pendance matérielle ; — que l’État qui réalise la liberté mène à
+PER,"Ceux",1203,1207,rielle, au bonheur général.   Ceux qui croient à l’existence d’u
+LOC,"État",1487,1491,it précédé l’institution de l’État, et qu’ils appellent l’état d
+MISC,"Je donne",1533,1541,appellent l’état de nature.   Je donne, moi aussi, à l’Etat pour bas
+ORG,"l’Etat",1556,1562,ure.   Je donne, moi aussi, à l’Etat pour base une sorte de conven
+MISC,"Si",1679,1681,e conçois cette convention.   Si l’État se forme par une conve
+LOC,"État",1684,1688,çois cette convention.   Si l’État se forme par une convention, 
+LOC,"État",1980,1984, le gouvernement ne fondent l’État. Bien plus : l’État n’est pas
+LOC,"État",2000,2004,fondent l’État. Bien plus : l’État n’est pas le résultat de la c
+PER,"Rousseau",2095,2103,ement conclue, comme le pense Rousseau. Si l’État était la conséquen
+LOC,"État",2110,2114,comme le pense Rousseau. Si l’État était la conséquence d’une vo
+LOC,"État",2246,2250,tracteraient ; et cependant l’État est indestructible, comme je 
+LOC,"L’État",2307,2313,je le démontrerai ci-après.   L’État est imposé. Celui qui l’a imp
+MISC,"Dieu",2356,2360,Celui qui l’a imposé n’est ni Dieu ni l’homme. Je ne crois ni   
+PER,"Proudhon",2542,2550,e le fait très-bien remarquer Proudhon.   Dirai-je que l’État est im
+PER,"Dirai",2554,2559,ès-bien remarquer Proudhon.   Dirai-je que l’État est imposé par 
+LOC,"État",2569,2573,er Proudhon.   Dirai-je que l’État est imposé par la nature des 
+LOC,"L’État",2646,2652, ne serait pas clair du tout, L’État est imposé  par la nature de 
+LOC,"État",2801,2805,lonté n’est pas l’auteur de l’État. Elle n’en est pas non plus l
+LOC,"État",2887,2891,ture, voilà le fondateur de l’État, et la volonté n’est que le m
+ORG,"l’Etat",3099,3105,autres termes, l’existence de l’Etat ne dépend pas de la volonté. 
+LOC,"Puisque",3137,3144,e dépend pas de la volonté.   Puisque la société politique est la c
+LOC,"État",3400,3404,nce naturelle, c’est-à-dire l’État.  - 10 -  La volonté est la b
+LOC,"État ",3502,3507,ent, sans la volonté, point d’État ; ce qui est d’ailleurs avéré 
+LOC,"État",3774,3778,olonté, ni, par conséquent, l’État non plus, qui se trouve primi
+LOC,"Partout",3842,3849,ment gravé dans la volonté.   Partout où il y a volonté, il y a Éta
+LOC,"État ",3876,3881,out où il y a volonté, il y a État : il germe de lui-même. Cepend
+LOC,"État",3943,3947,t la volonté est la base de l’État. Y a-t-il là contradiction  ?
+LOC,"Non",3980,3983, a-t-il là contradiction  ?   Non. Analysons la volonté. Ne nou
+MISC,"Le choc",5186,5193,ercle de leur souveraineté.   Le choc est donc inévitable. Les volo
+LOC,"État",5286,5290,produite par ce choc, c’est l’État au moment de sa conception  ;
+LOC,"État",5742,5746, l’homme ait  voulu  fonder l’État et l’ait fondé par un acte li
+MISC,"Nous avons donc trouvé",5797,5819,n acte libre de sa volonté.   Nous avons donc trouvé une loi de la volonté. Cette 
+MISC,"La volonté",5894,5904,à la liberté la plus absolue. La volonté ne s’est pas faite toute seul
+MISC,"s’",5908,5910,a plus absolue. La volonté ne s’est pas faite toute seule. Ell
+MISC,"s’",5945,5947,as faite toute seule. Elle ne s’est pas non plus imposé à elle
+MISC,"s’",6251,6253,ant à d’autres volontés, elle s’arrête ; au moment où elle s’e
+MISC,"s’",6280,6282, s’arrête ; au moment où elle s’est, arrêtée, les rapports ent
+LOC,"État",6374,6378,nt commencé à se former, et l’État est né.   Mon assertion, que 
+MISC,"Mon assertion",6389,6402,e former, et l’État est né.   Mon assertion, que la volonté est la base  
+LOC,"État",6446,6450,té est la base  passive  de l’État est maintenant claire et prou
+MISC,"Si",6793,6795,y avait pas eu de volontés.   Si vous demandez  comment  l’Éta
+LOC,"État",6822,6826, Si vous demandez  comment  l’État est venu au monde, je vous ré
+LOC,"État",6966,6970,et si vous demandez  quand  l’État a été constitué, je réponds :
+LOC,"État",7253,7257,ention, un pacte qui  crée  l’État, mais c’est une convention qu
+LOC,"État",7875,7879, pas la convention qui crée l’État, mais c’est elle qui le règle
+LOC,"État",8449,8453,soient libres ou non, voilà l’État. Même dans le cas où les volo
+ORG,"l’Etat",8547,8553,ous le régime de la tyrannie, l’Etat ne cesserait pas pour cela d’
+PER,"Rousseau",8621,8629, contrairement à l’opinion de Rousseau. Quoique mauvais ou malade, l
+LOC,"État",8660,8664, Quoique mauvais ou malade, l’État n’en  — 15 -  reste pas moins
+LOC,"Etat ",8698,8703,n  — 15 -  reste pas moins un Etat ; la maladie n’est pas la mort
+LOC,"État",8942,8946,issance et la croissance de l’État autour de lui. Dire que c’est
+MISC,"N’",9250,9252, préféré la paix à la guerre. N’auraient-elles pas pu aussi se
+LOC,"Etat ",9344,9349,-à-dire pour la négation de l’Etat ?   Non. Comme il est vrai que
+LOC,"Non",9353,9356,our la négation de l’Etat ?   Non. Comme il est vrai que toute 
+ORG,"l’Etat",10096,10102,quent ne pas se pononcer pour l’Etat.   Nous voyons ainsi qu’une d
+MISC,"Nous voyons",10106,10117,as se pononcer pour l’Etat.   Nous voyons ainsi qu’une des principales 
+LOC,"Etat",10321,10325,’égoïsme inné, pour la base d’Etat. Cet égoïsme n’est que le pro
+ORG,"l’Etat",10526,10532,la volonté. Si vous dites que l’Etat se fonde sur l’intérêt, vous 
+MISC,"C’",10700,10702,rêt auquel elle sert de base. C’est donc toujours la volonté q
+MISC,"qu’",10808,10811,de ses attributs. Il n’est là qu’accidentellement : en tant que
+MISC,"J’",10874,10876,mple qualité de la volonté.   J’ai dit que c’est du choc des v
+ORG,"l’Etat",10968,10974,rts, et que ces rapports sont l’Etat dans sa conception, Ces rappo
+ORG,"l’Etat",11192,11198,t saine. Quand les membres de l’Etat sont inégaux entre eux, la so
+MISC,"révolutions,—",11287,11300,e de l’Etat s’atteste par les révolutions,— lutte éternelle entre les pri
+MISC,"Etats du passé et du présent",11372,11400,les non-privilégiés. Tous les Etats du passé et du présent, n’ayant pas été radicalement
+LOC,"État",11509,11513,t malades.   Impossible que l’État sans la radicale égalité se t
+MISC,"S’",11690,11692,, qu’il y ait  le plus fort . S’il existait, l’État, même sans
+LOC,"État",11707,11711, plus fort . S’il existait, l’État, même sans l’égalité, ne sera
+PER,"Maîtrisée",11871,11880,—  toute la société en échec. Maîtrisée, elle ne bougerait pas. Qui s
+MISC,"s’",12570,12572,ci commencent à se grouper, à s’unir, la balance penche de leu
+MISC,"révolution",12623,12633,he de leur côté ; et voilà la révolution, le déplacement de la force, 
+MISC,"Force",12694,12699,t par suite la négation d’une Force éternelle dans la société qui
+MISC,"C’",13168,13170,ace : elle veut être partout. C’est l’égalité. Ainsi, l’imposs
+MISC,"C’",13376,13378,les rapports des volontés.    C’est une grande aberration de f
+MISC,"Plus les hommes",14527,14542,alité politique et sociale.   Plus les hommes sont inégaux physiquement, pl
+LOC,"État",14617,14621,d’une complète égalité dans l’État. Supposons les hommes inégaux
+LOC,"Moi ",14918,14922,evoirs communs ? Vous ? Non.— Moi ? Non plus.—Un autre ? Encore 
+MISC,"s’",15016,15018, honnête et impartial. — Mais s’il ne  — 21 -  l’est pas ? Et 
+MISC,"s’",15053,15055,  — 21 -  l’est pas ? Et puis s’il est ignorant ? Si vous voul
+ORG,"l’Etat",15095,15101,orant ? Si vous voulez fonder l’Etat sur la moralité supposée de v
+LOC,"croyez",15165,15171,aîtres, n’en parlons plus. Et croyez-vous que, si je consens qu’un
+LOC,"croyez",15355,15361,de respecter son  injustice , croyez-vous que je tiendrai ma parol
+MISC,"J’",15815,15817,re l’inégalité à l’égalité.   J’ai montré que, dans le cas mêm
+MISC,"J’",15964,15966,urs pour l’égalité sociale.   J’ai fait voir que, si l’égalité
+LOC,"État",16311,16315,mesure de nos rapports dans l’État. Je m’explique.   Tous les ho
+MISC,"N’",16893,16895,iller, parler, écrire, etc.   N’oublions pas quel est le but d
+MISC,"C’",16953,16955, de notre désir d’être égaux. C’est pour prévenir la guerre ci
+MISC,"J’",17188,17190,e de nos forces et besoins.   J’établis donc l’égalité absolue
+MISC,"États",18635,18640,t plus radicale que celle des États actuels.   J’ai démontré la n
+MISC,"J’",18652,18654,ue celle des États actuels.   J’ai démontré la nécessité d’une
+LOC,"la France",18983,18992,re ! — Êtes-vous bien sûr que la France est un pays d’égalité ? Est-c
+LOC,"Français",19046,19054, Est-ce que, par hasard, tout Français est égal politiquement à l’em
+LOC,"Français",19095,19103,olitiquement à l’empereur des Français ? Qu’en dites-vous ?… D’aille
+MISC,"Qu’",19106,19109,t à l’empereur des Français ? Qu’en dites-vous ?… D’ailleurs, j
+MISC,"Tant",19317,19321, au point de vue politique.   Tant que vous aurez vos empereurs,
+LOC,"États",19415,19420,ique (surtout comme celui des États-Unis) , ne rêvez pas d’égalit
+MISC,"Quand je demande l’égalité absolue politique",19463,19507,êvez pas d’égalité absolue.   Quand je demande l’égalité absolue politique, il est évident que je ne veu
+LOC,"Suisse",19861,19867,u’on ne l’est actuellement en Suisse ou aux États-Unis.   Mais l’é
+LOC,"États",19875,19880,actuellement en Suisse ou aux États-Unis.   Mais l’égalité absolu
+MISC,"Nous avons vu qu’",20166,20183,ue est-elle possible ? Oui.   Nous avons vu qu’en fait de droits politiques l
+MISC,"L’",21212,21214,orsqu’il s’agit de liberté.   L’économie sociale n’exige pas q
+MISC,"C’",22587,22589,naturellement impossibles.    C’est donc d’une autre manière q
+MISC,"J’",22675,22677,économique. Je m’explique.    J’ai demandé l’égalité économiqu
+LOC,"Or",23220,23222,et le danger n’existe plus.   Or, je vous  le  demande, est-el
+MISC,"qu’",23416,23419,it demander le superflu. Pour qu’ils   - 29 -   soient matériel
+MISC,"s’",23593,23595,u’ils ne soient pas réduits à s’exténuer par l’excès du travai
+MISC,"n’",23705,23707, celle de sa famille assurées n’est-il pas tout aussi matériel
+ORG,"n’",23998,24000,endance matérielle le citoyen n’a pu parvenir à cette possibil
+MISC,"l’indépendance matérielle",24194,24219,procurer. Je le répète donc : l’indépendance matérielle, et non l’égalité des biens, 
+LOC,"l’",24381,24383, je le répète encore, quant à l’indépendance matérielle, égal 
+MISC,"l’indépendance matérielle",24644,24669,non l’égalité des biens, mais l’indépendance matérielle, je suis socialiste. Selon mo
+MISC,"n’",24716,24718,ste. Selon moi, le socialisme n’a qu’un seul but, celui de tro
+MISC,"j’",24841,24843,a chercher.   La manière dont j’imagine la réalisation de l’in
+MISC,"Nous voulons l’",24972,24987,de l’État et de la société.   Nous voulons l’égalité économique pour garant
+ORG,"l’Etat",25054,25060,alité politique. Mais dès que l’Etat se mêle de vouloir réaliser l
+LOC,"État s’",25243,25250,onomique,il ne faut pas que l’État s’en mêle : l’État est gouverné 
+LOC,"État",25262,25266, pas que l’État s’en mêle : l’État est gouverné par la majorité.
+LOC,"Français",25346,25354,priétaire. Sur 38 millions de Français, il n’y a que quelques millio
+MISC,"CroyezVous",25489,25499,aysans, bourgeois). Eh bien ! CroyezVous que cette majorité propriétai
+LOC,"État",25847,25851,ormeront la majorité. Alors l’État ne pourra-t-il pas, sans inco
+MISC,"C’",26278,26280,e, il n’y a pas de plus fort. C’est-à-dire que les expropriés,
+MISC,"C’",26575,26577,s à être expropriés ou lésés. C’est la guerre ; et tant que vo
+LOC,"État",26701,26705,priés par « l’autorité » de l’État, cette guerre se renouvellera
+MISC,"C’",26752,26754, renouvellera incessamment.   C’est pour cela que le socialism
+MISC,"S’",26829,26831,especter les  droits acquis . S’il les respecte, c’est donc, n
+MISC,"c’",26848,26850,s acquis . S’il les respecte, c’est donc, non parce qu’ils ont
+ORG,"l’Etat",27186,27192,cez à la force autoritaire de l’Etat et que vous en appelez au pri
+PER,"Louis Blanc",27298,27309, l’indépendance matérielle.   Louis Blanc est, en général, l’adversaire
+PER,"Grave",27370,27375,du principe d’individualisme. Grave erreur qui résulte de ce qu’i
+LOC,"État",27426,27430,e ce qu’il ne distingue pas l’État de la société. Presque tout l
+MISC,"S’",27855,27857,ier ? Mais qui ? Les hommes ? S’ils ne sont pas préalablement 
+PER,"—Pardon",28914,28921,arantir  quand je. n’ai rien ?—Pardon , frère et citoyen ! Elles te
+MISC,"Si",29128,29130, ce trésor, de tout ton être. Si tu es incapable de protéger t
+LOC,"Résumons ",29340,29349,manière dont je la conçois.   Résumons : J’ai prouvé que l’État n’est
+MISC,"J’",29351,29353,t je la conçois.   Résumons : J’ai prouvé que l’État n’est aut
+LOC,"État",29369,29373, Résumons : J’ai prouvé que l’État n’est autre chose que les rap
+LOC,"États",29757,29762,prérogatives du président des États-Unis nous paraissent  — 33 — 
+LOC,"A",30215,30216, ne sont-ils pas  libres  ?   A quoi sert la liberté ? A se d
+LOC,"État",30461,30465, vrai but de la société, de l’État.   Nous avons fondé l’Etat su
+MISC,"Nous avons fondé l’Etat",30469,30492,t de la société, de l’État.   Nous avons fondé l’Etat sur ce qui est l’essence même
+PER,"Rousseau",30803,30811, la volonté, comme le pensait Rousseau. C’est la spontanéité de la n
+MISC,"C’",30813,30815,é, comme le pensait Rousseau. C’est la spontanéité de la natur
+MISC,"De",30876,30878, qui est le moteur éternel.   De cela nous avons conclu l’égal
+LOC,"État",31068,31072,, à la béatitude ;  II  Que l’État est éternel, c’est-à-dire qu’
+LOC,"État",31188,31192,vantent de pouvoir détruire l’État. Proudhon proclame hautement 
+PER,"Proudhon",31194,31202,t de pouvoir détruire l’État. Proudhon proclame hautement son anarch
+LOC,"État",31292,31296, ce qu’il propose n’est que l’État sous une autre forme.   Si vo
+MISC,"Si",31321,31323,’État sous une autre forme.   Si vous vous flattez de trouver 
+LOC,"État",31355,31359,ous vous flattez de trouver l’État, dans l’enfance de l’humanité
+LOC,"État",31618,31622, que vous n’avez pas trouvé l’État à l’origine tel   qu’il est a
+LOC,"État",31691,31695,i, vous niez l’existence de l’État à cette époque, vous commette
+LOC,"Cherchez",31783,31791,t la forme pour de l’essence. Cherchez, au commencement de la chose,
+LOC,"État ",31926,31931,anité pourrait se passer de l’État : ce serait en perdant la volo
+LOC,"État",32040,32044, vivra la volonté, existera l’État. Or la volonté est éternelle 
+LOC,"État",32083,32087,olonté est éternelle ; donc l’État l’est aussi.   Croyez-vous qu
+LOC,"Croyez",32103,32109, ; donc l’État l’est aussi.   Croyez-vous que si tous les hommes d
+LOC,"Etat ",32524,32529,ils pourraient se passer de l’Etat ? Aucunement. Voici pourquoi :
+MISC,"Une volonté qui  ",33459,33476, la volonté à se  réaliser . (Une volonté qui  ne veut pas  se réaliser est s
+LOC,"État",33969,33973,encent à se dessiner, voilà l’État.   Voici ce que je veux dire 
+ORG,"l’Etat",34106,34112,te d’anges, pourraient abolir l’Etat et ne retenir que la société 
+LOC,"L’ÉTAT",34210,34216,ÉTÉ  DÉGÉNÉRERAIT TOUJOURS EN L’ÉTAT. Et la  société économique, t
+LOC,"Etat",34306,34310,possible que sur la base de l’Etat. L’association doit être l’ac
+ORG,"l’Etat n’",34496,34505,. Cependant nous avons vu que l’Etat n’est pas du tout « l’acte libre
+ORG,"l’Etat",34585,34591, l’association, dégénérant en l’Etat, ne le serait pas non plus et
+LOC,"la France",34699,34708,Supposons que les citoyens de la France proclament  unanimement  l’ab
+LOC,"État ",34751,34756,unanimement  l’abolition de l’État : toutes les lois cessent, tou
+PER,"Paul",34973,34977, proclamation de l’anarchie ? Paul et Pierre, qui sont séparémen
+MISC,"Pierre",34981,34987,ation de l’anarchie ? Paul et Pierre, qui sont séparément moins fo
+PER,"Jean",35025,35029,nt séparément moins forts que Jean, et qui lui sont égaux en for
+PER,"Jean",35125,35129, réunis, la première fois que Jean ravirait le pain de l’un d’eu
+ORG,"l’Etat",35251,35257,’embryon de l’Etat est conçu, l’Etat existe .   Maintenant allons 
+MISC,"Un peuple",35359,35368, Supposons le cas extrême :   Un peuple, comme j’en viens de citer l’
+LOC,"État",35433,35437,le, proclame l’abolition de l’État. Le peuple, avec son anarchie
+MISC,"qu’",35469,35472,Le peuple, avec son anarchie, qu’a-t-il prétendu faire ? Pureme
+MISC,"Eh",35911,35913,nt  le plus fort .   — 41 —   Eh bien ! en consacrant le droit
+MISC,"qu’",35958,35961,acrant le droit du plus fort, qu’a fait le peuple ? A-t-il abol
+PER,"aboli l’État ",35987,36000, qu’a fait le peuple ? A-t-il aboli l’État ? Jamais. lI a proclamé l’inég
+PER,"lI",36010,36012,A-t-il aboli l’État ? Jamais. lI a proclamé l’inégalité, l’inj
+LOC,"État",36135,36139,-t-il détruit l’État ? Non. L’État est devenu  mauvais , malade,
+LOC,"État",36204,36208, non mort.   Pour supprimer l’État, vous proclamez L’anarchie ! 
+LOC,"L’",36225,36227,primer l’État, vous proclamez L’anarchie ! Cependant l’anarchi
+LOC,"État",36386,36390, gouvernement formel aboli, l’État, qui naît avant le gouverneme
+LOC,"État",36584,36588,des anges pour se passer de l’État. Pour cela, ils n’ont qu’un m
+LOC,"État",36658,36662,e : devenir fous.  III  Que l’État naît au moment où se rencontr
+PER,"l’État",36748,36754,olontés.   Cela veut dire que l’État est plus ancien que la famill
+LOC,"Etat",36970,36974,oisième être, ils ont conçu l’Etat. Avant leur contact physique,
+LOC,"Etat",37272,37276,res volontés ne fondent pas l’Etat, puisqu’en réalité il n’y en 
+LOC,"Êtes",37358,37362,e l’esclave étant détruite.   Êtes-vous bien sûr de ce que vous 
+MISC,"N’avez",37625,37631,is dans l’essence de l’homme. N’avez-vous pas vu des esclaves deve
+LOC,"Avez",37900,37904,t   - 43 - perdu la volonté ? Avez-vous compté le nombre de mess
+MISC,"C’",38586,38588,lité telle que je la propose. C’est justement là ce que je ne 
+LOC,"France",38686,38692,e choses existe chez vous, en France, au moment où j’écris, et pou
+LOC,"la France",38753,38762,tant personne ne se doute que la France est un Etat. L’État, chez les
+LOC,"Etat",38770,38774,se doute que la France est un Etat. L’État, chez les deux premiè
+LOC,"État",38778,38782, que la France est un Etat. L’État, chez les deux premières volo
+LOC,"État",38959,38963,vernement. La définition de l’État et du gouvernement.   Nous av
+MISC,"Nous avons vu que ce serait une idée vide",38986,39027, l’État et du gouvernement.   Nous avons vu que ce serait une idée vide de réalité que d’attribuer la
+LOC,"État",39073,39077,d’attribuer la fondation de l’État à un commandement catégorique
+LOC,"État",39463,39467,peuple n’est pas le père de l’État, il l’est du gouvernement  fo
+LOC,"État",39728,39732,st impossible de s’imaginer l’État sans un gouvernement de fait.
+LOC,"État",39784,39788,de fait. Là où j’ai dit que l’État est plus ancien que le gouver
+MISC,"D’",40230,40232,soit peu, ils n’existent pas. D’un autre côté, si le maintien 
+ORG,"l’Etat",40504,40510,ndestructible tout autant que l’Etat, vu qu’il en est la conséquen
+MISC,"s’",41190,41192,ille s’agrandit, ses membres, s’éloignant de la souche commune
+MISC,"l’amour",41325,41332, étranger les uns aux autres, l’amour et l’amitié ne suffisent plus
+MISC,"l’amitié",41336,41344,es uns aux autres, l’amour et l’amitié ne suffisent plus pour mainte
+PER,"formel institué",41595,41610,pports. Voilà le gouvernement formel institué. C’est donc le peuple qui cré
+MISC,"C’",41612,41614,gouvernement formel institué. C’est donc le peuple qui crée le
+MISC,"Or",41798,41800,on des rapports des volontés, Or, établir cette démarcation, c
+MISC,"C’",42291,42293,exécuter la volonté générale. C’est une commission exécutive. 
+PER,"Rousseau",42745,42753,consistent tous leurs droits. Rousseau se trompe donc en affirmant q
+MISC,"C’",43104,43106, à tout moment par le peuple. C’est la volonté générale qui in
+MISC,"révolution ",43298,43309, l’état actuel des choses, la révolution ; comme le peuple a le droit d
+MISC,"Nous avons démontré",43622,43641,urs possible sans l’émeute.   Nous avons démontré, que toutes les fois qu’il n’
+LOC,"Résumons ",43824,43833,olution n’est pas l’anarchie. Résumons :   L’État est ou devrait être
+LOC,"L’État",43837,43843, pas l’anarchie. Résumons :   L’État est ou devrait être, d’après 
+MISC,"Que le meilleur État",44066,44086,maintenir cet équilibre.   V  Que le meilleur État est l’État libre ; — que la m
+LOC,"État",44093,44097,V  Que le meilleur État est l’État libre ; — que la meilleure fo
+LOC,"République démocratique",44154,44177, forme gouvernementale est la République démocratique, non présidentielle, fondée s
+PER,"Rousseau",44304,44312,volution permanente .   Avant Rousseau, on cherchait la pierre philo
+LOC,"Etat",44360,44364,pierre philosophale en fait d’Etat. Rousseau est venu nous dire 
+PER,"Rousseau",44366,44374, philosophale en fait d’Etat. Rousseau est venu nous dire qu’il est 
+PER,"Rousseau",44572,44580,ntraire, il serait funeste.   Rousseau s’est fourvoyé. Je démontrera
+MISC,"Un régime politique",45117,45136,tion à cette loi évidente ?   Un régime politique, où tout est permis au despot
+LOC,"Etat",45342,45346, Dès qu’il existe une forme d’Etat qui est la pire, il doit en e
+MISC,"J’",45697,45699,nt, ceci quant à la forme :   J’espère avoir démontré que l’ég
+LOC,"Or",45867,45869,berté complète et garantie.   Or il ne s’agit que de choisir l
+MISC,"Nous avons vu que",46249,46266,t n’ayant pas de président.   Nous avons vu que, sans l’égalité absolue, la s
+PER,"président de la république",46759,46785,ionnelle, les prérogatives du président de la république étant les droits politiques g
+LOC,"État ",47007,47012, famille est l’idéal d’un bon État ; — qu’avec l’Etat-famille il 
+ORG,"l’Etat",47024,47030,éal d’un bon État ; — qu’avec l’Etat-famille il est impossible de 
+LOC,"État",47108,47112,e.   Puisqu’il est vrai que l’État commence déjà au moment où se
+MISC,"C’",47280,47282,x  volontés, dans la famille. C’est donc une misérable banalit
+LOC,"État",47388,47392, de réellement différent de l’État.   La seule différence entre 
+LOC,"État",47438,47442,férence entre la famille et l’État est que la famille est l’idéa
+LOC,"État",47483,47487, famille est l’idéal d’un bon État. Dans l’État, nous avons pris
+LOC,"État",47496,47500,l’idéal d’un bon État. Dans l’État, nous avons pris l’égalité ab
+LOC,"Etat",47731,47735,inissent ces rapports. Dans l’Etat, tout sa fait par calcul ; da
+MISC,"l’Etatfamille",47768,47781,out sa fait par calcul ; dans l’Etatfamille, par amour, sans que pour cel
+ORG,"l’Etat",47843,47849,la volonté disparaisse ni que l’Etat puisse être nié.   Tout cela 
+MISC,"Etat-   ",47901,47909,ut cela est impossible dans l’Etat-   — 53 — peuple. Les liens sympa
+LOC,"Puisque",48605,48612,a plus abominable tyrannie.   Puisque la famille est l’idéal d’un b
+LOC,"Etat",48645,48649, famille est l’idéal d’un bon Etat, puisqu’il est même impossibl
+LOC,"Etat",48706,48710,ible d’abolir la pire sorte d’Etat, sans parler de l’idéal ; pui
+MISC,"N’",48877,48879,qui cherchent à la détruire ? N’est-il pas évident que cela se
+LOC,"Etat",48932,48936,cela serait impossible ? Si l’Etat est éternel, la famille, cet 
+LOC,"Etat",48966,48970, est éternel, la famille, cet Etat idéal, ci-   - 54 — mentée pa
+LOC,"Etat",49050,49054,lus forte raison.    En plein Etat, la famille-Etat existe. L’au
+LOC,"Etat",49067,49071,    En plein Etat, la famille-Etat existe. L’autorité paternelle
+LOC,"Etat",49124,49128,ernelle (le gouvernement de l’Etat-famille) , en tant qu’elle n’
+ORG,"l’Etat",49242,49248,rée, mais même encouragée par l’Etat. Il paraît donc que l’Etat da
+ORG,"l’Etat",49269,49275,ar l’Etat. Il paraît donc que l’Etat dans l’Etat n’est pas impossi
+ORG,"l’Etat n’",49281,49290,l paraît donc que l’Etat dans l’Etat n’est pas impossible.  VII  La S
+MISC,"VII",49311,49314,l’Etat n’est pas impossible.  VII  La Société.   L’homme, mêlé 
+MISC,"L’homme",49330,49337,possible.  VII  La Société.   L’homme, mêlé aux plus forts et aux p
+LOC,"Vienne",49627,49633, exploité par le plus fort.   Vienne l’Etat qui les lui garantit, 
+ORG,"L’Etat",49779,49785, Il les a reçus de la nature. L’Etat ne fait que les lui  garantir
+MISC,"D’",50025,50027,ans le second, ils le sont.   D’où il résulte encore qu’il y a
+ORG,"l’Etat",50161,50167,ue les hommes se rencontrent, l’Etat est conçu, et ils deviennent 
+ORG,"l’Etat",50328,50334, hommes soient les membres de l’Etat et les citoyens ceux de la so
+ORG,"l’Etat",50430,50436,ue la société se distingue de l’Etat.   Prenez le mot de société d
+ORG,"Prenez",50440,50446,été se distingue de l’Etat.   Prenez le mot de société dans sa plu
+ORG,"l’Etat",50601,50607,association indépendamment de l’Etat .   Nous avons démontré que d
+MISC,"Nous avons démontré",50612,50631, indépendamment de l’Etat .   Nous avons démontré que dans l’Etat. la volonté e
+ORG,"l’Etat",50641,50647, Nous avons démontré que dans l’Etat. la volonté est la  base pass
+MISC,"Dans la société",50685,50700,onté est la  base passive .   Dans la société, la volonté est  active . On 
+MISC,"s’",50743,50745,est  active . On est libre de s’associer ou de ne pas s’associ
+MISC,"s’",50767,50769,re de s’associer ou de ne pas s’associer.    L’Etat nous garan
+ORG,"L’Etat",50782,50788,r ou de ne pas s’associer.    L’Etat nous garantit nos libertés, l
+LOC,"L’Etat",51004,51010,us y ajoutons ce qui suit :   L’Etat, étant puissant, il arrivera 
+LOC,"État",51347,51351,lité possible des associés. L’État, ce colosse, entrant dans leu
+ORG,"l’Etat c’",51464,51473,dre. Tout ce que je demande à l’Etat c’est de ne pas se mêler des aff
+LOC,"Etat",51540,51544,u socialisme  en sa qualité d’Etat .   Par conséquent, si l’Etat
+LOC,"Etat",51570,51574,Etat .   Par conséquent, si l’Etat faisait des avances à la soci
+ORG,"l’Etat",51668,51674,son autorité ni sa puissance, l’Etat alors n’agirait point comme t
+ORG,"l’Etat",51838,51844,possible. Voici pourquoi ; Si l’Etat veut faire des avances aux as
+LOC,"État",51947,51951,t exceptionnel, il agit comme État. Il se trouvera une minorité 
+ORG,"l’Etat",52052,52058,e céder : donc l’acte part de l’Etat. Il n’est pas nécessaire que 
+ORG,"l’Etat",52163,52169,l se trouve dans la caisse de l’Etat une somme disponible. Si la m
+ORG,"l’Etat",52362,52368,ite à céder : l’acte émane de l’Etat. Il est évident que, pour que
+LOC,"État",52401,52405,l est évident que, pour que l’État puisse agir en société financ
+LOC,"État",52578,52582, parce que la  majorité  de l’État financier n’est pas la majori
+MISC,"En général",52721,52731, c’est-à-dire le plus fort.   En général, d’après ce que j’ai déjà dit
+LOC,"État",52831,52835,s contre toute immixtion de l’État dans les affaires des associa
+MISC,"Nous avons fondé l’Etat sur l’individualisme",53542,53586,ôté du plus fort momentané.   Nous avons fondé l’Etat sur l’individualisme, nous fondons la société sur 
+PER,"Louis Blanc",53646,53657,le principe d’association. Si Louis Blanc eût fait cette distinction, i
+PER,"Voulez",53874,53880,lle, sans l’individualisme.   Voulez-vous aller plus loin que la s
+LOC,"État",54168,54172,ereuse, du moment qu’il y a l’État fondé non sur de la sensibler
+LOC,"Etat",54265,54269,ul, puisque, dis-je, il y a l’Etat au-dessus et au-dessous de vo
+LOC,"L’État",54405,54411,as le « frère » moins fort.   L’État sert la société en lui prépar
+ORG,"l’Etat",54925,54931,ermit la liberté garantie par l’Etat.   Et cependant la liberté es
+PER,"CHAPITRE II",55299,55310,me qui n’est que le moyen .   CHAPITRE II   Que la liberté est commune 
+MISC,"Que la liberté",55313,55327,ue le moyen .   CHAPITRE II   Que la liberté est commune à tous les peuple
+MISC,"République",55631,55641,uvernement simple, qui est la République.   Nous avons démontré que ce
+MISC,"C’",55854,55856,e impossible sans la liberté. C’est la liberté qui nous mène a
+PER,"Auprès",55957,55963,ncement et le couronnement.   Auprès de la liberté, l’Etat et la p
+ORG,"l’Etat",55979,55985,ment.   Auprès de la liberté, l’Etat et la patrie sont des pygmées
+ORG,"l’Etat",56017,56023,t la patrie sont des pygmées, l’Etat n’étant qu’un simple moyen, e
+ORG,"Puisque l’Etat n’",56146,56163,ne noble habitude.   — 62 —   Puisque l’Etat n’est-qu’un moyen, et que la con
+LOC,"Etat",56237,56241,t que le moyen d’arriver à un Etat capable de servir d’instrumen
+MISC,"Une mauvaise constitution",56352,56377,st que  le moyen du moyen .   Une mauvaise constitution est pire que nulle. La consti
+LOC,"morale ",56740,56747,tisme. L’hypocrisie endort la morale ; le despotisme la provoque, l
+MISC,"Une mauvaise constitution n’",56830,56858,t par être vaincu par elle.   Une mauvaise constitution n’est pas celle qui n’est pas as
+LOC,"Suisse",57190,57196,63 —  les constitutions de la Suisse et des ÉtatsUnis.    Tous les
+MISC,"ÉtatsUnis",57204,57213,titutions de la Suisse et des ÉtatsUnis.    Tous les peuples étant co
+ORG,"Nier",57478,57482,commune à tous les peuples.   Nier et refuser la liberté à l’hum
+PER,"Gela",57886,57890, seront toujours possibles.   Gela prouve que toute tyrannie est
+PER,"Gela",57931,57935, toute tyrannie est précaire. Gela prouve aussi que toute libert
+MISC,"Tyrans ",58042,58049,ue, est également précaire.   Tyrans ! cessez votre tyrannie, car e
+PER,"Libéraux ",58110,58119,le pourrait vous coûter cher. Libéraux ! soyez radicaux ! fondez votr
+LOC,"soyez radicaux !",58121,58137, vous coûter cher. Libéraux ! soyez radicaux ! fondez votre liberté sur  — 6
+LOC,"Libéraux",58241,58249,erté ne sera plus compromise. Libéraux et tyrans ! de grâce n’oublie
+MISC,"Je bonheur !",58802,58814,rité, la science, le progrès, Je bonheur ! L’homme brute, l’homme esclav
+MISC,"L’homme brute",58815,58828,nce, le progrès, Je bonheur ! L’homme brute, l’homme esclave et la misère
+MISC,"République démocratique non présidentielle",59378,59420,é à la fois, sous la forme de République démocratique non présidentielle.   L’un des principaux objets
+LOC,"L’",59424,59426,ratique non présidentielle.   L’un des principaux objets de ce
+MISC,"C’",59845,59847,a liberté lui est nécessaire. C’est justement le contraire de 
+MISC,"c’",60012,60014,constitution libérale ? Non ; c’est de lui donner les moeurs d
+PER,"Jules Simon",60201,60212,peuple qui la comprend, » dit Jules Simon.   Mais il ne s’agit pas de «
+PER,"Renverser",60797,60806,  fait , c’est la révolution. Renverser une tyrannie gardée par des c
+MISC,"s’",61748,61750,tution, n’étant pas libérale, s’y oppose ? Il faut instruire l
+MISC,"N’",61898,61900,igatoire, gratuite et libre ? N’est-il donc pas clair qu’il fa
+MISC,"Si",62424,62426,ts  constitutifs  libéraux.   Si la civilisation est la base e
+MISC,"Grecs",62551,62556,fait-il donc, que les anciens Grecs, sans la véritable civilisati
+MISC,"Germains",62605,62613, civilisation, et les anciens Germains, sans ancune, jouissaient d’u
+LOC,"la France",62699,62708, plus, comment se fait-il que la France et l’Allemagne, qui sont infi
+LOC,"Allemagne",62714,62723,se fait-il que la France et l’Allemagne, qui sont infiniment plus civ
+MISC,"Grecs",62769,62774,iment plus civilisées que les Grecs et les Germains, n’ont pas le
+MISC,"Germains",62782,62790,vilisées que les Grecs et les Germains, n’ont pas le brin de liberté
+MISC,"Grecs",62825,62830,nt pas le brin de liberté des Grecs et des Germains, et se courbe
+MISC,"Germains",62838,62846,n de liberté des Grecs et des Germains, et se courbent lâchement sou
+PER,"Napoléon",62902,62910, sous le régime personnel des Napoléon et des Bismark ? M. Jules Sim
+LOC,"Bismark ",62918,62926,personnel des Napoléon et des Bismark ? M. Jules Simon ! veuillez m’
+PER,"Jules Simon ",62931,62943, Napoléon et des Bismark ? M. Jules Simon ! veuillez m’expliquer cela.  
+PER,"J’",63975,63977,ore et toujours la liberté.   J’ai dit que le chemin vers la c
+ORG,"Prenez",64248,64254,en avez presque plus besoin ! Prenez-le quand il vous est indispen
+MISC,"Le chemin ne sera ni long ni pénible",64348,64384,’êtes pas encore civilisé, et Le chemin ne sera ni long ni pénible.   II est vrai qu’un peuple h
+MISC,"Sans la liberté",64759,64774,erté avec la civilisation :   Sans la liberté, point de civilisation ; sans
+LOC,"Europe",65459,65465,oriques jusqu’à nos jours, en Europe aussi bien qu’en Amérique, en
+LOC,"Amérique",65483,65491,s, en Europe aussi bien qu’en Amérique, en France et en Allemagne au
+LOC,"France",65496,65502,aussi bien qu’en Amérique, en France et en Allemagne aussi bien qu
+LOC,"Allemagne",65509,65518,’en Amérique, en France et en Allemagne aussi bien qu’en Suisse et au
+LOC,"Suisse",65536,65542,en Allemagne aussi bien qu’en Suisse et aux États-Unis, gouverne e
+LOC,"États",65550,65555,ussi bien qu’en Suisse et aux États-Unis, gouverne et commande le
+LOC,"Europe",66391,66397,été octroyé par le prince (en Europe)  ou par la majorité (Etats-U
+MISC,"Etats-Unis",66420,66430, Europe)  ou par la majorité (Etats-Unis, Suisse).  Toute liberté octr
+LOC,"Suisse",66432,66438, par la majorité (Etats-Unis, Suisse).  Toute liberté octroyée est
+MISC,"Je vais m’",67415,67425,re dans la vie d’un peuple.   Je vais m’expliquer encore mieux.   Là o
+MISC,"Là où la liberté",67451,67467,s m’expliquer encore mieux.   Là où la liberté est incomplète, elle l’est ré
+MISC,"c’",68175,68177,es droits  politiques  à lui, c’est une preuve que la liberté 
+ORG,"n’",68217,68219,euve que la liberté du peuple n’est pas complète.   J’adresse 
+MISC,"J’",68239,68241, peuple n’est pas complète.   J’adresse au juste-milieu la loi
+MISC,"C’",68561,68563, dépens des droits du peuple. C’est alors que les canons et le
+MISC,"D’",68645,68647,eur rôle funeste et sanglant. D’autre part, quand le peuple n’
+MISC,"Cela",68861,68865,er le peu de liberté qu’il a. Cela est également impossible sans
+PER,"Etats",69051,69056, Le despotisme et les coups d’Etats, la démagogie et la guillotin
+LOC,"Suisse",69238,69244,le nous explique pourquoi, en Suisse et en Russie, il n’y a presqu
+LOC,"Russie",69251,69257,que pourquoi, en Suisse et en Russie, il n’y a presque pas de révo
+LOC,"Suisse",69299,69305,resque pas de révolutions. En Suisse, c’est le peuple qui a tous l
+MISC,"S’",69405,69407,vec personne, et il prospère. S’il ne fait pas de révolutions,
+LOC,"Russie",69478,69484,e qu’il n’en a pas besoin. En Russie, c’est le czar qui commande e
+MISC,"S’",69637,69639, ignorance et sert le maître. S’il ne fait pas de révolutions,
+MISC,"c’",69706,69708, ou parce qu’il ignore ce que c’est, ou parce qu’il n’ose pas.
+MISC,"c’",69850,69852, viens d’énoncer. On le voit, c’est une continuité éternelle d
+LOC,"État",69910,69914, de révolutions et de coups d’État. Bien plus, le gouvernement  
+MISC,"C’",70353,70355,jours l’air d’être nationale. C’est ainsi que les Français ont
+MISC,"Français",70373,70381,ationale. C’est ainsi que les Français ont attendu quinze siècles po
+MISC,"guerre civile  ",70642,70657, droit et inévitablement à la guerre civile  ?   C’en serait bien assez pou
+MISC,"C’",70661,70663,ement à la guerre civile  ?   C’en serait bien assez pour nous
+PER,"Bonaparte",71622,71631,inventée et pratiquée par les Bonaparte et imitée en Espagne et en Se
+LOC,"Espagne",71645,71652,ar les Bonaparte et imitée en Espagne et en Serbie : la monarchie s
+LOC,"Serbie ",71659,71666,te et imitée en Espagne et en Serbie : la monarchie soi-disant démo
+MISC,"C’",71706,71708,chie soi-disant démocratique. C’est la forme de monarchie la p
+MISC,"J’",73193,73195,me   et du peuple.  5 - 78 -  J’avais demandé la liberté radic
+PER,"—",73282,73283,nettement plus tard là-dessus — pour éviter la guerre civile.
+MISC,"Gouvernement",73387,73399, la place aux prérogatives du Gouvernement et que ces prérogatives tuent
+MISC,"Les constitutionnels",73460,73480,le peu de liberté que l’on a. Les constitutionnels ont employé tous les moyens p
+MISC,"Constitution",73599,73611,n parle des  garanties  de la Constitution. Elles sont impossibles, puis
+MISC,"s’",73943,73945,elle-même . Il est absurde de s’imaginer une force omnipotente
+MISC,"Constitution",74041,74053,Le seul moyen de garantir une Constitution est la liberté radicale .   L
+MISC,"Gouvernement",74216,74228,s complétement libre et où le Gouvernement a les droits politi-  — 79 - 
+MISC,"Estce",74591,74596,e fonde cette loi naturelle ? Estce bien sur un élément constitut
+LOC,"Conséquemment",74875,74888, nous et ce qui est à nous.   Conséquemment, quel que soit le degré de ci
+MISC,"Gouvernement",75520,75532,voici :   Quand je dis que le Gouvernement ne doit pas avoir de droits p
+PER,"Dieu ",76901,76906,ent gouverner par la grâce de Dieu ! Posons-nous maintenant en to
+MISC,"Gouvernement",77031,77043,divisée entre le peuple et le Gouvernement, où les lois sont faites avec
+ORG,"coopération du Gouvernement",77077,77104, les lois sont faites avec la coopération du Gouvernement et sous l’influence de ses pr
+ORG,"n’",77168,77170,atives et de ses baïonnettes, n’est-il pas vrai  qu’en effet  
+MISC,"qu’",77249,77252,peuple est divisée , de sorte qu’il s’y trouve  deux  souverain
+MISC,"s’",77255,77257, est divisée , de sorte qu’il s’y trouve  deux  souverainetés,
+MISC,"Gouvernement",77418,77430, impossibles  ! Quand donc le Gouvernement a ses priviléges politiques à
+ORG,"l’Etat",77573,77579,forces suprêmes sociales dans l’Etat. Maintenant, il s’agit de fai
+MISC,"c’",77663,77665,ilibrer ces forces hostiles ; c’est là le sublime du constitut
+MISC,"— 82 — d’État",77861,77874,ieurs chambres, des conseils  — 82 — d’État, différentes sortes de sénats
+MISC,"C’",78060,78062,épétant sans paix ni trêve.   C’est en vain que vous cherchez 
+MISC,"N’",79075,79077,litique et le faire crouler ? N’estil pas également vrai qu’un
+MISC,"République",79448,79458, Et ce gouvernement, c’est la République .   Puisque le peuple ignoran
+LOC,"Puisque",79463,79470,ment, c’est la République .   Puisque le peuple ignorant ne compren
+LOC,"Gouvernement",79711,79723,s les deux, en interdisant au Gouvernement tous les droits politiques, e
+MISC,"J’",79807,79809,être question d’équilibre .   J’ai donc eu raison en disant, a
+LOC,"Quiconque",80055,80064,e remarque à faire :  — 84 —  Quiconque pensera que, par ces moyens, 
+LOC,"ter ",82269,82273,voir de les écar5.     -86 -  ter ? Oui. Nous ne pouvons ni les 
+MISC,"C’",82604,82606,ver au moyen du paratonnerre. C’est pour cela que, ne pouvant 
+MISC,"C’",83400,83402,la vue de mes yeux physiques. C’est ce qui me rappelle que nou
+MISC,"Si",84646,84648, la  souveraineté du peuple . Si cette sainteté n’était pas da
+MISC,"Si",84875,84877,e serait bien indifférente.   Si on n’a voulu, par cette ficti
+MISC,"c’",85109,85111,mes au sérieux cette fiction, c’est de la stupidité. La vérité
+MISC,"— temps",85445,85452, âge. Mais, pour notre temps, — temps de réclame, — elle est trop n
+PER,"—",85465,85466,re temps, — temps de réclame, — elle est trop naïve. Justemen
+MISC,"C’",85794,85796,sant cause commune avec elle. C’est ainsi que nous avons vu de
+LOC,"France",85837,85843,ue nous avons vu deux fois en France la souveraineté récompensant 
+LOC,"pays ",86742,86747,ssession de toute la force du pays : ils deviennent maîtres absol
+MISC,"N’",87824,87826,ous nommez la  souveraineté . N’est-ce pas assez que vous êtes
+MISC,"N’",88041,88043, la vie, l’attrait de la vie. N’est-ce pas assez que vous êtes
+MISC,"Enlevez",89083,89090,force devient plus infernale. Enlevez-lui donc ce dangereux instrum
+LOC,"État",89618,89622,l est absurde de penser que l’État puisse être gouverné en même 
+ORG,"l’Etat",89777,89783,entredétruisent, de sorte que l’Etat, se trouvant pour ainsi dire 
+MISC,"C’",89863,89865,s, serait pulvérisé lui-même. C’est donc toujours la majorité 
+MISC,"Quand vous aurez analysé",90936,90960,e peuple, vive la patrie  !   Quand vous aurez analysé le peuple, et que vous aurez 
+MISC,"Dei",91185,91188, la phrase :  Vox populi, vox Dei , vous paraîtra absurde et in
+LOC,"direz ",91333,91339, de la nation, mais vous vous direz : Voilà un esclave qui s’affra
+PER,"Celleci",91917,91924,t obligée envers la minorité. Celleci a le droit de réclamer la gar
+LOC,"A",92022,92023,nt nous parlerons ci-après.   A présent j’arrive au moment d’
+ORG,"Nier",93272,93276,ité de devenir la majorité.   Nier les droits de la majorité, c’
+MISC,"C’",93620,93622,nt qu’elle reste la majorité. C’est pour cela que j’appelle le
+MISC,"Nous avons",94165,94175, plus fort et pouvant tout.   Nous avons dit aussi que la minorité, po
+MISC,"c’",94759,94761,la liberté de la presse, mais c’est toujours la majorité qui e
+MISC,"c’",95058,95060, mais à une seule condition,  c’est que les sept libertés mino
+MISC,"qu’",95368,95371,e  d’être le plus fort , tant qu’elle est la force effective. O
+MISC,"c’",95580,95582,us fort. Garantir ces droits, c’est chercher à consolider le p
+MISC,"S’",95636,95638,r le plus fort dans sa force. S’il y a quelqu’un qui ait besoi
+MISC,"Nous avons vu qu’",95741,95758,té, qui est le plus faible.   Nous avons vu qu’il est absurde de parler des d
+MISC,"Par là",96439,96445,r dans la minorité l’homme.   Par là, il est évident que les droit
+MISC,"S’",96886,96888,ue les droits de la minorité, S’il y a un despote, c’est proba
+LOC,"État",97297,97301,qui a fait les fameux coups d’État en France, mais la majorité q
+LOC,"France",97305,97311,it les fameux coups d’État en France, mais la majorité qui les app
+ORG,"l’Etat",97707,97713,nus doivent être garantis par l’Etat. Celui-ci étant  une société 
+MISC,"Un des principaux buts",97939,97961,s minoritaires politiques .   Un des principaux buts de ce livre est de trouver le
+MISC,"c’",98285,98287,rs par la majorité des voix : c’est donc toujours la majorité 
+PER,"ci",98545,98547,connue  de la majorité. Celle-ci ne peut pas être forcée d’obé
+LOC,"État",98995,98999,t la complète séparation de l’État et de l’Égalise. Le cadre de 
+ORG,"l’Égalise",99006,99015,te séparation de l’État et de l’Égalise. Le cadre de ce livre étant t
+ORG,"Permettre",99137,99146,és que je nomme  absolues .   Permettre à l’homme de penser ce qu’il 
+MISC,"Si",99696,99698,ont que de la contrebande.    Si vous ôtez à la minorité le dr
+MISC,"Si",100515,100517,otre injustice envers elle.   Si, au contraire, vous reconnais
+PER,"Obliger",101006,101013,s être question de critique.  Obliger le critiqueur de critiquer se
+MISC,"La censure",101102,101112,est dé fendre la critique .   La censure, c’est la guerre à outrance. 
+MISC,"c’",101114,101116,e la critique .   La censure, c’est la guerre à outrance.   La
+MISC,"c’",101163,101165,utrance.   La presse limitée, c’est une plaisanterie indigne, 
+MISC,"c’",101241,101243,risie.   La presse illimitée, c’est la libre critique.   Dès l
+MISC,"qu’",101282,101285,bre critique.   Dès l’instant qu’il n’est pas permis de  tout  
+MISC,"Qu’",101344,101347, dire, la vérité est traquée. Qu’il y ait une loi sur la presse
+MISC,"c’",101426,101428, droit commun qui la régisse, c’est égal : la li-  — 105 -  be
+ORG,"n’",101492,101494,absolue de parler et d’écrire n’existe plus.   J’entends la li
+MISC,"J’",101509,101511, et d’écrire n’existe plus.   J’entends la liberté de parler e
+MISC,"s’",102020,102022,ur égoïsme ou leur ignorance, s’attaqueront à la morale ;  mai
+MISC,"abso6",102486,102491,a base de toutes les libertés abso6.  — 106 —  lues, qui découlen
+MISC,"Quand la liberté de parler",102653,102679,ant si ce droit est absolu.   Quand la liberté de parler n’est pas absolue, il y a san
+MISC,"c’",102962,102964,ation de la critique, puisque c’est alors le critiqué qui la d
+MISC,"c’",103071,103073, de la minorité de critiquer, c’est le pousser à la guerre civ
+ORG,"n’",103521,103523,tabli que ce droit de parler, n’étant pas absolu, est nul ; do
+PER,"n’auriez",103666,103674,iberté de tout dire, pourquoi n’auriez-vous pas la liberté de  noter
+PER,"j’",103941,103943,est probablement pas pour que j’aie le droit de déclamer tout 
+MISC,"s’",104038,104040,c bien que ce droit de parler s’entende en ce sens, qu’il me s
+MISC,"n’",104268,104270,Mais si la liberté de réunion n’est pas absolue, la liberté de
+MISC,"s’",104342,104344,e sera pas non plus, puisque, s’il y avait des réunions qui fu
+MISC,"qu’",104582,104585, ne serait plus absolu.  Pour qu’il y ait donc droit de parler 
+PER,"— Certainement",104818,104832, de se réunir avec des armes ?— Certainement. Mais, ne craignez rien, il e
+MISC,"s’",105929,105931,à leur tour, assez naïfs pour s’associer publiquement dans le 
+MISC,"pis",106022,106025,i néanmoins ils le font, tant pis pour eux, puisque leurs crime
+MISC,"Si",106107,106109,unis avec plus de facilité.   Si nous nous réunissons ou assoc
+MISC,"Tout homme",106503,106513,vailler le soit également .   Tout homme, et notamment celui qui est a
+MISC,"Nous avons vu que la liberté en général",107058,107097,, de professer sa religion.   Nous avons vu que la liberté en général, et surtout les libertés radi
+MISC,"République",107434,107444,De là, nous avons conclu à la République.  On voit donc que les cinq l
+MISC,"République",107524,107534,ons d’établir, nécessitent la République. Les vouloir, c’est vouloir l
+MISC,"République",107566,107576,Les vouloir, c’est vouloir la République . S’imaginer ces libertés gar
+MISC,"S’",107579,107581,c’est vouloir la République . S’imaginer ces libertés garantie
+MISC,"République",107624,107634,libertés garanties hors de la République, serait donc absurde. De là, 
+LOC,"Reconnaître",107824,107835, aucun autre gouvernement .   Reconnaître toutes ces six libertés primi
+LOC,"Quiconque",108621,108630,au maintien de ces libertés.  Quiconque proclamerait leur suspension 
+PER,"Louis de Bourbon",109298,109314,on permanente.   Vous envoyez Louis de Bourbon à la guillotine et Maximilien
+PER,"Maximilien de Habsbourg",109334,109357,de Bourbon à la guillotine et Maximilien de Habsbourg aux balles après qu’ils vous 
+PER,"Punissez",109444,109452,able. Je trouve cela stupide. Punissez-les plutôt avant qu’ils ne vo
+PER,"Punissez",109547,109555,iés, martyrisés et massacrés. Punissez-les au moment où ils commence
+PER,"Ecrivez",109664,109671,ir au moment où ils achèvent. Ecrivez donc en tête de vos codes pén
+ORG,"Orgarnisez",110125,110135,es.dans la nature de l’homme. Orgarnisez et modifiez les autres droits
+LOC,"Jamais",110303,110309,communes à tous les peuples.  Jamais le suffrage universel ne saur
+MISC,"C’",111431,111433,s qui ne sont pas contestés ? C’est ainsi que le droit de mang
+LOC,"Etat",111766,111770,à 'son alimentation . Quand l’Etat punit de mort, ce n’est pas n
+MISC,"C’",112050,112052,’ont pas le droit d’en user . C’est ainsi, par exemple, que l’
+MISC,"s’",112670,112672,a liber té de se réunir et de s’associer au fond comme une seu
+MISC,"s’",112809,112811, parler, écrire, se réunir et s’associer, travailler, croire, 
+MISC,"république",112850,112860, travailler, croire, vivre en république et défendre les libertés abso
+ORG,"n’",112985,112987,onclus aux libertés absolues, n’est pas la seule qui puisse êt
+MISC,"II",113045,113047,être produite en leur faveur. II existe encore mille raisons e
+MISC,"s’",113920,113922,e pas en droit de me demander s’il est  politique  et sans dan
+MISC,"c’",114339,114341, l’avoir, car sans la liberté,c’est la tyranniè, et la tyranni
+MISC,"affermir mon assertion",114486,114508,autres considérations peuvent affermir mon assertion, mais elles sont accessoires.
+MISC,"CHAPITRE V",114691,114701,e côté qu’on les envisage.    CHAPITRE V   Le pacte social et la Const
+MISC,"Constitution",114726,114738,TRE V   Le pacte social et la Constitution.   Le, pacte, qui garantit le
+LOC,"Celle",115425,115430,de la constitution ellemême.  Celle-ci ne peut pas l’annuler .   
+ORG,"l’Etat",115529,115535,t que de prendre les rênes de l’Etat, s’oblige à respecter dans la
+ORG,"Toute assemblée nationale",116150,116175,in d’aucun vote ni suffrage.  Toute assemblée nationale, toute majorité du peuple, mê
+ORG,"l’Etat",117215,117221, dire  qu’avec l’existence de l’Etat commence le pacte social qui 
+MISC,"C’",117306,117308,s absolues et primitives .    C’est pour cela que l’on n’a pas
+MISC,"C’",117456,117458,sérable pour nous les donner. C’est de la mère na-  — 121 —  t
+MISC,"N’",117846,117848,vant vos libertés primitives. N’oubliez donc pas que c’est tou
+MISC,"Grecs",118245,118250,, la grandeur que les anciens Grecs et Romains ont atteinte sous 
+LOC,"Romains",118254,118261,deur que les anciens Grecs et Romains ont atteinte sous l’égide de 
+LOC,"Français",118324,118332,république. Nous avons vu les Français étonner le monde par leur cou
+LOC,"Mexique",118554,118561,e la plus grande possible. Au Mexique, nous avons vu ce que peut fa
+LOC,"Suisse",118708,118714,a belle concorde qui règne en Suisse, en unissant comme une famill
+MISC,"Nous trouvons la république",118806,118833,utour du foyer républicain.   Nous trouvons la république, avec sa grandeur bienfaisant
+MISC,"l’orient",118893,118901,e, au nord comme au sud, dans l’orient comme dans l’occident,   — 12
+MISC,"l’occident",118913,118923,sud, dans l’orient comme dans l’occident,   — 123 —   chez le Latin co
+MISC,"Latin",118945,118950,occident,   — 123 —   chez le Latin comme chez le Germain. Je veu
+PER,"Germain",118965,118972,  chez le Latin comme chez le Germain. Je veux la montrer aussi che
+MISC,"Serbes",119030,119036,hez un peuple slave, chez les Serbes, dans un moment des plus crit
+LOC,"Serbie",119385,119391,tue l’actuelle principauté de Serbie, n’est arrivée à son indépend
+PER,"Karageorge",119543,119553,re ottoman pendant dix ans.   Karageorge, chef suprême de la guerre, n
+PER,"Laissons",119841,119849,était :  le guide suprême .   Laissons parler un certain historien s
+PER,"Karageorge",119900,119910,storien serbe sur le temps de Karageorge. Cet  — 124 -  écrivain, qui 
+LOC,"Karageorge",120000,120010,vouloir flatter la mémoire de Karageorge, puisqu’il est un partisan de
+MISC,"dynastie Obrénovitch",120044,120064,isqu’il est un partisan de la dynastie Obrénovitch, ne laisse pas d’ad mirer la 
+MISC,"Serbes",120111,120117,’ad mirer la liberté dont les Serbes ont joui pendant le temps où 
+MISC,"Karageorge",120147,120157, ont joui pendant le temps où Karageorge participait à la direction de
+MISC,"M. Stoïan Bochkovitch",120241,120262,rbes. Cet historien s’appelle M. Stoïan Bochkovitch. Les citations que nous allon
+PER,"Prota M. Nénadovitch",120365,120385,ur les mémoires de mon aïeul, Prota M. Nénadovitch, dans le journal la  Vila :  
+LOC,"Vila ",120407,120412,adovitch, dans le journal la  Vila :  « On pourrait dire que le  
+ORG,"Sénat national",120442,120456,:  « On pourrait dire que le  Sénat national  avait plus tard gêné le guid
+MISC,"C’",120877,120879,t les commandants de l’armée. C’est l’assemblée nationale qui 
+LOC,"Russie",121129,121135,, envoyait des députations en Russie et à Constantinople. »   « A 
+LOC,"Constantinople",121141,121155,es députations en Russie et à Constantinople. »   « A cette époque, le peu
+LOC,"Turquie",121445,121452, guerre continuelle contre la Turquie. »   Les Romains proclamaient
+LOC,"Romains",121462,121469,le contre la Turquie. »   Les Romains proclamaient souvent pour des
+MISC,"Serbes",121583,121589,ens du peuple. Une poignée de Serbes a combattu, durant dix pénibl
+MISC,"Je suis jalouxd’",121748,121764,onnait en pleine guerre . »   Je suis jalouxd’être un rejeton de ce peuple s
+LOC,"Monténégro",121897,121907,ie. Les guerres éternelles du Monténégro avec la Turquie, les insurrec
+LOC,"Turquie",121916,121923,rnelles du Monténégro avec la Turquie, les insurrections toujours r
+LOC,"Bosnie",121968,121974,ions toujours renaissantes en Bosnie et en Herzégovine, et le  — 1
+LOC,"Herzégovine",121981,121992, renaissantes en Bosnie et en Herzégovine, et le  — 126 — soulèvement a
+LOC,"Dalmatie",122034,122042,26 — soulèvement actuel de la Dalmatie en sont la preuve éclatante. 
+LOC,"Serbie",122141,122147,serbe punira les tyrans de la Serbie qui lui ont octroyé une const
+MISC,"Un peuple",122195,122204,yé une constitution  canaille Un peuple qui est assez mûr et assez so
+MISC,"le Croissant",122306,122318,nt la guerre, qui a pu battre le Croissant sans se servir de dictature, 
+PER,"l’Alcoran",122458,122467,la domination abrutissante de l’Alcoran, à plus forte raison, est dig
+MISC,"A L’AME DE MON PÈRE",122573,122592,uelles. Je la lui propose .   A L’AME DE MON PÈRE.   La science m’a montré que 
+MISC,"s’",122831,122833,sentir soi-même,  cette force s’il en fut , que nous appelons 
+MISC,"C’",123424,123426, de ne pas obéir aux tyrans . C’est toi qui a mis ce noble ger
+LOC,"Merci",123475,123480,e noble germe dans mon coeur. Merci.   Tu as été préfet sous Milo
+LOC,"Tu",123484,123486,erme dans mon coeur. Merci.   Tu as été préfet sous Miloche ; 
+PER,"Miloche ",123506,123514,erci.   Tu as été préfet sous Miloche ; tu as beaucoup souffert de c
+LOC,"Yagodina",123692,123700,, à la tête du département de Yagodina.   Mais quand Voutchitch, apr
+MISC,"Voutchitch",123715,123725,ent de Yagodina.   Mais quand Voutchitch, après avoir exilé le despote
+MISC,"Karageorgévitch",123861,123876, destitua.   Sous le règne de Karageorgévitch, des femmes intrigantes dirig
+LOC,"Miloche",124108,124115,laient ramener le vieux tyran Miloche, et les autres partager le go
+LOC,"Serbie",124269,124275,est mortel aux intérêts de la Serbie, tu te séparas de ces égoïste
+PER,"prince Karageorgévitch",124414,124436,teurs attentèrent à la vie du prince Karageorgévitch. Etant alors ministre de la j
+LOC,"Turquie",124577,124584,-nationale et octroyée par la Turquie proclamât l’immunité des séna
+LOC,"Miloche",124789,124796,partisans des kaïmakams et de Miloche demandèrent l’immixtion de la
+LOC,"Turquie",124827,124834,demandèrent l’immixtion de la Turquie dans nos affaires nationales.
+LOC,"Etem",124901,124905,tas pour empêcher l’arrivée d’Etem-pacha à Belgrade. Il arriva p
+LOC,"Belgrade",124914,124922,cher l’arrivée d’Etem-pacha à Belgrade. Il arriva pourtant, et tu do
+PER,"Karageorgévitch",124986,125001, ta démission de ministre.    Karageorgévitch fut détrôné. Miloche rentra. 
+LOC,"Serbie",125712,125718,abri des tyrans actuels de la Serbie.   Miloche voulut te faire ju
+LOC,"Miloche",125722,125729,yrans actuels de la Serbie.   Miloche voulut te faire juger, contra
+MISC,"Mis en liberté",126032,126046,unal te déclara  innocent .   Mis en liberté, on te menaça par le poignard
+PER,"l’Autriche ",126121,126132,Tu demandas le passeport pour l’Autriche ; on te le refusa, en te menaç
+MISC,"c’",126296,126298,i était le plus près. Hélas ! c’était l’ennemi de notre pays. 
+PER,"Michel",126420,126426,tu revins.   Sous le règne de Michel, quoique traqué par la police
+MISC,"Toi",126568,126571,n assassina le prince Michel. Toi, ton frère et moi, nous dûmes
+MISC,"C’",126657,126659,rison sous un régime barbare. C’était le coup mortel pour un v
+LOC,"Autriche",127091,127099,e ta famille. Tu te rendis en Autriche.   Tes bourreaux n’étaient pa
+PER,"Tes",127103,127106,. Tu te rendis en Autriche.   Tes bourreaux n’étaient pas encor
+LOC,"prison de Belgrade",127165,127183,re sa-  — 432 —  tisfaits. La prison de Belgrade avait mis en toi le germe de 
+LOC,"Belgrade",127278,127286,ina tes jours. Les régents de Belgrade interdirent le transport de t
+LOC,"Serbie",127328,127334, le transport de ton corps en Serbie. Pendant quatre jours, ton co
+PER,"Adieu",127490,127495,aux prières de ta famille.    Adieu, auteur de mes jours. Adieu, 
+PER,"Adieu",127518,127523,  Adieu, auteur de mes jours. Adieu, mon meilleur ami, Dors en pa
+PER,"Dors",127543,127547,urs. Adieu, mon meilleur ami, Dors en paix le sommeil éternel, e
+MISC,"DRAGUICHA",127692,127701,rai aux tyrans . A bientôt.   DRAGUICHA.  FIN Paris. Typ A. PARENT, r
+LOC,"Paris",127708,127713, A bientôt.   DRAGUICHA.  FIN Paris. Typ A. PARENT, rue Monsieur 
+PER,"Typ A. PARENT",127715,127728,tôt.   DRAGUICHA.  FIN Paris. Typ A. PARENT, rue Monsieur le Prince, 31. 
+LOC,"rue Monsieur le Prince",127730,127752,A.  FIN Paris. Typ A. PARENT, rue Monsieur le Prince, 31.     

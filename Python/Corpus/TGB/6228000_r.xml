@@ -1,0 +1,2850 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="6228000" xml:id="cb39927091d">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Suite de la collection universelle des mémoires particuliers relatifs à l'histoire de France. Tome premier [i.e. LXIX] -[LXX]</title>
+        <respStmt>
+          <resp key="360">Éditeur scientifique</resp>
+          <name key="11994494">Bellier-Duchesnay, Alexandre-Claude (1739-1810)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>TGB (BnF – OBVIL)</publisher>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">Suite de la collection universelle des mémoires particuliers relatifs à l'histoire de France. Tome premier [i.e. LXIX] -[LXX]</title>
+        <title level="a">Tome 70</title>
+        <biblScope unit="volumes" n="2"/>
+        <idno>cb39927091d</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno>http://gallica.bnf.fr/ark:/12148/bpt6k6228000q</idno>
+          <publisher/>
+          <date when="1806">1806-1807</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData>
+      <date>1806</date>
+      <title>Suite de la collection universelle des mémoires particuliers relatifs à l'histoire de France. Tome premier [i.e. LXIX] -[LXX] — Tome 70</title>
+      <dewey>900 - Géographie, histoire, sciences auxiliaires de l'histoire</dewey>
+      <meta-data_comprehensiveness_score>0.37</meta-data_comprehensiveness_score>
+      <authors/>
+    </xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <pb xml:id="PAG_00000001" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f1.image"/>
+      <pb xml:id="PAG_00000002" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f2.image"/>
+      <pb xml:id="PAG_00000003" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f3.image"/>
+      <pb xml:id="PAG_00000004" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f4.image"/>
+      <pb xml:id="PAG_00000005" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f5.image"/>
+      <div>
+        <head>Suite</head>
+        <p>
+DE LA
+</p>
+        <p>
+COLLECTION .UNIVERSELLE
+DES MÉMOÎRES PARTICULIERS
+4 RELATIFS
+</p>
+        <p>
+A L’HISTOIRE DE FRANCE.
+</p>
+        <p>
+CHRONOLOGIE SEPTENNAIRE.
+</p>
+        <pb xml:id="PAG_00000006" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f6.image"/>
+        <p>
+A compter du premier juillet 1806, il paroîtra régulièrement
+tous les mois, un volume du commencement, et un volume de
+la suite de cette Collection.
+</p>
+        <p>
+Le prix de la souscription, pour douze volumes, papier ordinaire
+, à Paris , est de 60 fr.
+</p>
+        <p>
+En papier vélin, le prix des douze volumes est de ioo fr.
+</p>
+        <p>
+Les souscripteurs des départemens qui voudront les recevoir
+par la poste, payeront de plus 1 fr. 5o c. par volume.
+</p>
+        <p>
+ON SOUSCRIT,
+</p>
+        <p>
+A PARIS ,
+</p>
+        <p>
+Au bureau de la Collection des Mémoires, etc., rue
+des Noyers" n° 37. — S’adresser à M. PERRIN,
+audit bureau. Il faut affranchir le port de l’argent
+et des lettres.
+</p>
+        <p>
+Chez les principaux libraires. -
+</p>
+        <p>
+Dans les chefs-lieux des départemens, chez l’imprimeur
+libraire de la préfecture.
+</p>
+        <p>
+A Londres , chez. DE BOFFE, Gerard-Street.
+</p>
+        <p>
+A St.-Petersbourg. KLOSTERMANN.
+</p>
+        <p>
+A Moscou. Riss et SAUCET.
+</p>
+        <p>
+A Vienne.. 4 ART ARIA.
+</p>
+        <p>
+A Berllrl. FÀucizE.
+</p>
+        <p>
+A Madrid FACONDO RAMOS ;
+A Lisbonne PAUL MARTIN. r
+A Milan GIEGLER.
+</p>
+        <p>
+A Manheim ..-•%« FONTAINE.
+</p>
+        <p>
+- A Leipzich. BESSON.
+</p>
+        <p>
+A Francfort. FRED. ESSLINGER ;
+Et chez les principaux libraires de l’Europe.
+</p>
+        <pb xml:id="PAG_00000007" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f7.image"/>
+      </div>
+      <div>
+        <head>Suite</head>
+        <p>
+DE LA
+</p>
+        <p>
+COLLECTION UNIVERSELLE
+DES MÉMOIRES PARTICULIERS
+</p>
+      </div>
+      <div>
+        <head>Relatifs</head>
+        <p>
+A L’HISTOIRE DE FRANGE,
+DÉDIÉE
+</p>
+        <p>
+A SON ALTESSE IMPÉRIALE
+</p>
+      </div>
+      <div>
+        <head>Monseigneur</head>
+        <p>
+LE PRINCE JOACHIM,
+GRAND AMIRAL DE FRANCE, DUC REGNANT
+DE CLÈYES ET DE BERG, etc., etc.
+</p>
+        <p>
+i TOME LXX.
+</p>
+        <p>
+i
+
+</p>
+        <p>
+A PARIS,
+RUE DE V AU GIRARD, N°. I7.
+</p>
+        <p>
+DE L’IMPRIMERIE ET FONDERIE DE L. ORIZET.
+</p>
+        <p>
+1807.
+</p>
+        <pb xml:id="PAG_00000008" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f8.image"/>
+        <pb xml:id="PAG_00000009" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f9.image"/>
+        <p>
+Tome LXX. A
+</p>
+        <p>
+CHRONOLOGIE
+SEPTENNAIRE.
+</p>
+        <p>
+LIVRE I TROISIESM E.
+</p>
+        <p>
+M. DC.
+</p>
+        <p>
+SOMMAIRE.
+</p>
+        <p>
+1. De l’an Jubilé, et .des cérémonies accoustumées
+que l’on faiet Ú Bonzc.
+</p>
+        <p>
+2. Du séjour du duc de Savoye Ú Paris ; de
+Vaccord qu’ilfit avec le roy ; et de son retour
+en Savoye.
+</p>
+        <p>
+3. Mutinerie des gens de guerre de l’archiduc.
+
+</p>
+        <p>
+4. De la prinse des forts de Saincl-André
+et de Creve-cœur par le prince Maurice.
+</p>
+        <p>
+5. Duël du sieur de Briauté, et sa mort.
+</p>
+        <p>
+6. Voyage du sieur d A lincour à Rome,
+et du traicté du mariage du roy avec la
+princesse de Florence.
+</p>
+        <p>
+7. Conférence à Fontainebleau, entre Vévesque
+d’iwieu.v et le sieur du Plessis.
+</p>
+        <p>
+8. Dessein de Nicole Mignon d’empoisonner
+le roy , et de sa punition.
+</p>
+        <p>
+(j. De plusieurs attentats contre le roy.
+</p>
+        <p>
+1 Coo.
+</p>
+        <pb xml:id="PAG_00000010" n="2" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f10.image"/>
+        <p>
+10. Exploits du prince Maurice en Flandre,
+II. De Varmée de Varchiduc Albert. Harangue
+de l’infante aux soldats. Déffaicte
+des trouppes du comte Ernest.
+</p>
+        <p>
+12. Bataille pres de Nieuport, gaignée par
+le comte Maurice. Nieuport et le fort dIsabelle
+assiégez en vain. La Borlotte tué.
+</p>
+        <p>
+Retraicte du prince Maurice et de son armée,
+en Hollande.
+</p>
+        <p>
+IP, Entreprise des comtes de Gaury- pour
+tuer le roy d’Escosse.
+</p>
+        <p>
+14. Des conquestes du roy en Savoy e et en
+Bresse.
+</p>
+        <p>
+15. Des espous ailles de la roy ne à Florence ;
+son arrivée à Marseille ; et de ses
+entrées en’ Avignon et à Lyon,
+16. De la bénédiction nuptiale du roy et de
+la royne.
+</p>
+        <p>
+17. De quelques choses notables qui se sont
+- passées à Rome durant le Jubilé, et à Notre-Dame
+de Lorrette.
+</p>
+        <p>
+18. Le duc de Mercuré esleu général de Parméc
+en Hongrie, et de ce qui s’est passé
+en Pologne, Suède et Trans-silvanie.
+</p>
+        <p>
+Au premier jour de l’an, le pape Clément
+VIII fit l’ouverture du Jubilé, laquelle
+il ne put faire la vueille de Noël, ainsi que
+</p>
+        <p>
+600.
+</p>
+        <pb xml:id="PAG_00000011" n="3" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f11.image"/>
+        <p>
+A z
+</p>
+        <p>
+l’on a accoustumé de faire, à cause de la
+douleur de ses goûtes.
+</p>
+        <p>
+Sa Saincteté fut portée dans une chaire,
+jusques à la Porte-Saiucte, laquelle ne s’ouvre
+jamais que durant l’an du Jubilé : tous
+les cardinaux, et les ambassadeurs de l’empereur
+, et des roys et princes chrestiens,
+marchoient en une solemnelle procession,
+chacun selon son rang, avec tout le clergé
+et tous les officiers de la villè de Rome, et
+une si grande multitude de peuple, de toutes
+nations, - que les Romains affermoient n’en
+avoir jamais veu un si grand nombre en leur
+ville, qui y estoient venus de toutes les parties
+du monde, au commencement de ceste
+année.
+Les cérémonies qui s’ohserverent à l’ouverture
+du Jubilé furent telles ; le pape estant
+arrivé à la Porte-Saincte, laquelle est
+tousjours fermée de murailles, et ne s’ouvre
+jamais, qu’en ceste année, prend un cierge
+d’une main, et un petit marteau d’argent de
+l’autre, avec lequel il en frappe trois coups
+contre la muraille, qui est incontinent abbatuë
+par gens destinez à cest effect. En faisant
+ceste cérémonie, sa Saincteté dit plusieurs
+oraisons, et bénist cest œuvre, tandis que le
+clergé chante plusieurs pscaumes et hymijes,
+</p>
+        <p>
+1600 ;
+
+<pb xml:id="PAG_00000012" n="4" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f12.image"/>et que le peuple ramasse les pieces de brique
+de la muraille, qu’il garde fort curieusement.
+</p>
+        <p>
+Ce faict, le pape entre en l’église ; l’on chante
+Vespres, auxquelles la grace du Jubilé commence
+, qui dure un an. Ceste grâce du Jubilé
+se gaigne, en faisant les œuvres de cha,
+rité chrestienne, et visitant les quatre églises
+de Rome desputées à cest effect. De ce qui
+s’est passé à Rome, durant ceste saincte année,
+nous le dirons cy-après. Voyons cependant
+ce qui se faict à Paris, aux estrennes.
+</p>
+        <p>
+Nous avons dit cy-devant que ce n’estoit
+que banquets et festins, à la réception du
+duc de Savoye à la cour de France, sur la ,
+fin de l’an passé, ce qui se continua encore
+au commencement de cestuy-cy. Le roy et
+le duc s’entr'estrennerent. Le due envoya
+au roy deux grands bassins et deux vases de
+crystal pour ses estrennes ; et le roy luy
+donna une enseigne de diamants, dans laquelle
+, entre autres, il y en avoit un où l’on
+voyoit le pourtraict de sa majesté : c’estoit
+une très-belle piece, de laquelle le duc fit
+un fort grand estât.
+</p>
+        <p>
+Le duc voulut faire paroistre la grandeur
+de ses libéralitez, au commencement de ceste
+années car il n’ y eut aucun qui luy donnastle
+bon jour, à qui il ne fit quelques présents. If
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000013" n="5" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f13.image"/>
+        <p>
+A 3
+</p>
+        <p>
+en envoya mesme aux grands et aux principaux
+de la cour : aucuns les refuserent ; d’autres
+les prindrent. Le mareschal de Biron (i) ,
+entre autres, ne voulut recevoir les chevaux
+qu’il luy présenta. L’on tient toutesfois
+qu’il fit ce refus à dessein, afin de couvrir sa
+mauvaise intention, et faire estimer qu’il ne
+l’aimoit point : mais en ce temps là, le sieur
+de Villeroy, allant voir le coilate d’A uvergne,
+trouva la Fin (2) , négociateur affidé
+dudict mareschal de Biron et des autres
+conspirateurs, ainsi que nous dirons cy-après,
+qui parloit à luy dans sa chambre : or, on ne
+pensoit pas que la Fin fust en cour. Le roy
+fut asseuré par ceste veuë qu’il y estoit, et
+que, depuis le lendemain des festes de Noël,
+il avoit, toutes les nuicts, conféré avec Jacob,
+.confident du duc. L’on dit que le duc avoit
+esté adverty de la naissance de ceste conspiration,
+estant encore en Savoye, qui fut la
+cause principale de son voyage en France,
+quelque prétexte qu’il prît du marquisat.
+</p>
+        <p>
+Bref, le duc fit, à ce premier jour de l’an-
+née, tant de libéralitez, qu’il eut de bons
+advis de ce qui se disoit au cabinet.
+</p>
+        <p>
+Le 2 janvier, le roy mena le duc à SainctGermain,
+voir ses bastiments : l’on luy feit
+voir, pour luy donner contentement, tout
+</p>
+      </div>
+      <div>
+        <head>1600j</head>
+        <pb xml:id="PAG_00000014" n="6" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f14.image"/>
+        <p>
+ce qu’il y a de belles maisons à l’entour de
+Paris, et où il pou voit prendre récréation et
+plaisir : après qu’il les eut. toutes veuës, sa
+majesté luy voulut encores faire voir sa cour
+de parlement : car tout ce qu’il avoit veu
+n’estoit rien en comparaison de la grandeur
+admirable de cest auguste sénat, duquel jadis
+plusieurs empereurs, roys et princes venans
+à Paris, en avoient plus admiré la justice
+qui |s’y rendoit, que tout ce qu’ils y
+avoient veu. Le roy envoye donc dire à M. le
+premier .président de Harlay, qu’il les vouloit
+aller voir et escouter. L’on fit préparer
+la loge de la chambre dorée, où le roy et lé
+duc, qui estoient montez du Louvre par
+Lasteau, jusques au jardin et logis du sieur
+premier président, se mirent, pour voir sans
+estre veus. Il fut plaidé une cause aussi tragique
+qui s’en puisse excogiter, laquelle M. le
+premier président avoit faict choisir ; le subjet
+de laquelle estoit d’un assassinat faict à
+Paris, d’un nommé Jean Prost, praeticien.
+</p>
+        <p>
+Sa mere en accuse un boulenger où il estoit
+logé, sur de très-apparentes présomptions
+de quelque argent qu’elle luy avoit envoyé.
+</p>
+        <p>
+Par arrest, le boul en ger eut la question ordinaire
+et extraordinaire ; après laquelle il
+fut eslargi pour un temps, à la charge de se
+</p>
+        <p>
+:1600.
+</p>
+        <pb xml:id="PAG_00000015" n="7" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f15.image"/>
+        <p>
+A 4
+</p>
+        <p>
+représenter en justice. Peu après, trois voleurs
+gascons sont pris, pour avoir volé une
+maison, et condamnez dès le lendemain, par
+sentence derniere, d’estre pendus. A l’exécution
+, le dernier des trois dit que le boulenger
+estoit innocent de ce que l’on l’accu soit,
+pour le faict de Jean Prost, et dit que
+c’est luy avec la Sale son compagnon y qui.
+</p>
+        <p>
+avoient tué ledict Prost, pensant qu’il eust
+de l’argent ; et qu’après l’avoir tué, ils l’avoient
+jetté dans les aisances du logis où ils se
+retiroient, auquel il estoit encores : ce qui
+fut trouvé. Le boulenger, par cela déclaré
+innocent, présente requeste à la cour, demande
+réparation d’honneur , et des despens,
+dommages et intérêts à l’encontre de la inere :
+la mere. au contraire se deffend, et dit que
+son accusation estoit sans calomnie. Pour le
+boulenger, maistre Anne Robert plaida ; et
+pour la mere, maistr e Arnault ; et pour l’intérêt
+du roy, messire Servin, advocat général
+de sa majesté.
+</p>
+        <p>
+Le roy et le duc y prirent un singulier
+plaisir de les escouter : tous deux firent le
+jugement de ceux qui avoient le mieux parlé,
+mais surtout ils louërent l’équité de la cour,
+laquelle mit les parties hors de cour et de
+procès.
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000016" n="8" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f16.image"/>
+        <p>
+Le roy , à la requeste du duc , luy accorda
+aussi une grace qu’il luy demanda, d’une
+pauvre femme adultéresse, condamnée à là
+mort, et dont l’adultere avoit été exécute,
+pour avoir commis ce péché estant serviteur
+domestique : ce qu’elle eust aussi esté, sinon
+qu’elle se trouva grosse. Ceste gracè fut accordée
+par le roy au duc, nonobstant tout
+ce qui fut dit ét fait par la cour et par les
+gens du roy, pour luy remonstrer la conséquence.
+Sa majesté le voulut de puissance absoluë
+ ; à la charge toutesfois de mort civile,
+pour estre en prison perpétuelle, où elle
+seroit nourrie aux despens du mary.
+</p>
+        <p>
+Toutes ces bonnes réceptions, tous ces
+exercices, tous ces passe-temps, ne faisoientoublier
+au duc le soing de ses affaires. Il avoit
+dit à M. de Villeroy, qu’il n’estoit venu pour
+rendre le marquisat. Le roy aussi, estant à
+Fontainebleau , luy dit, qu il seroit tous jours
+son amy , mais qu’il vouloit son nïarquîsat.
+</p>
+        <p>
+Ils estoient bien contraires de volonté.
+</p>
+        <p>
+Le duc fut adverty que sa majesté disoit
+quelquefois tout haut en son cabinet., que le ;
+duc estoit un galand et brave prince, mais
+qu’il luy retenoit son marquisat. Ces paroles
+luy faisoient présumer que le rapport du
+chevalier Breton et de Roncas, que le roy
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000017" n="9" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f17.image"/>desiroit de le voir, et qu’ils s’accorderoient,
+ne se trouveroit pas ; car toutes les fois que
+le duc parloit au roy en particulier, pour
+vuider ceste affaire, le roy le prioit qu’ils
+remissent leurs affaires à leur conseil.
+</p>
+        <p>
+Ceste longueur ne plaisoit au duc : toutesfois
+il s’y accorda ; et pour traicter de leurs
+affaires et différents, de la part du roy fut
+nommé, messieurs le connestable , le chancelier,
+le mareschal de Biron, le marquis
+de Rosny , et le sieur de Villeroy ; de la part
+du duc, son chancelier Bely, le marquis de
+Lullins, de Jacob, le comte de Moret, et des
+Alimes.
+</p>
+        <p>
+Les députez du roy demandent la restitution
+du marquisat de Saluces, en tel estât
+qu’il estoit, lors de la surprise d’iceluy par le
+duc.
+</p>
+        <p>
+Les députez du duc, après plusieurs subtilitez,
+proposent un eschange pour la restilution,
+et se plaignent de la protection de
+Geneve, qui n’estoit comprise en la paix en
+mots exprez, ainsi que les autres villes.
+</p>
+        <p>
+A quoy il fut respondu, que le roy ne
+njouloit point d’eschange, mais seulement
+son marquisat, et que pour le faict de Geneve
+, qu’il estoit compris en la paix, sous
+le nom des alliez des Suisses, et que ce que
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000018" n="10" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f18.image"/>le duc disoit en cela, n’estoit que pour chercher
+nouvelles querelles.
+</p>
+        <p>
+- Les députez rapportent au duc ces difficultez
+: il les propose à son conseil. Ceux qui
+ne désirent que la guerre luy disent, que la
+restitution ny Veschange ne luy seroit ,estre
+que honteuse, et qu’une bonne guerre luy
+seroit plus honorable que ceste composition.
+</p>
+        <p>
+Les autres luy conseillent qu’il fetee la paioo
+à quelque prix que ce soit. Mais tous ces conseils
+estoient passionnez.
+</p>
+        <p>
+Le duc,,suivant les pourparlers faicts à
+Lyon, Pont Beauvoisin et Suze, en l’an i5g5,
+demande l’investiture du marquisat pour l’un
+de ses enfants. L’on luy répond, qu’on n’estoit
+plus en ces termes ; que Von veut la restitution
+pure et simple du marquisat..
+</p>
+        <p>
+Le duc alors se plaignit que le conseil de
+sa majesté le traictoit avec trop de rigueur ;
+qu’il peiisoit trouver en France de la courtoisie
+ ; qu’on le vouloit contraindre à des
+choses préjudiciables y que son ambassadeur
+Vavoit trompé, luy disant que majesté
+desiroit qu’il le vinst trouver pour accorder
+leurs différents : A quoy le roy luy respondit,
+qu’il n avoit jamais parlé de cela y que
+son ambassadeur s’eslait mesconté ; qu’il
+avoit bien dit, qu’il espéroit que le duc, ve-
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000019" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f19.image"/>
+        <p>
+SEPTENNAIRE. II
+</p>
+        <p>
+fiant le voir, ne sJen retourneroit pas sans
+estre d’accord.
+</p>
+        <p>
+Ces réparties finies, le duc se plaint, que
+son voyage donc luy seroit inutile. Alors le
+roy luy dit : afin d’avoir une bonne amitié
+avec vous, choisissez de me contenter par un
+eschange, ou par la restitution y je vous l’accorde,
+ce que je n’eusse jamais faict avec vos
+ambassadeurs.
+</p>
+        <p>
+Le duc communique cette résolution à son
+conseil ; il ne peut se résoudre ny d’eschanger,
+ny de restituer : pour couvrir son long
+séjour à Paris, tantost il contrefaict l’amoureux
+d’une belle dame, et puis il dit qu’il
+veut voir la foire de Saint-Germain. Les courtisans
+s’en ennuyent, et une risée courut de
+luy , qu’il le faudroit chasser par édict.
+</p>
+        <p>
+Puis que le roy luy a voit donné ce choix
+de l’eschange ou de la restitution, l’on fut
+d’advis de ne le presser, ains luy donner du
+temps pour y songer :1e duc faisoit estat de
+s’en vouloir aller sans dire adieu ; mais ce
+qui le retint, fut les remonstrances que quelques-uns
+de son conseil luy dirent : « qu’il se
+rendroit par ce moyen la risée des princes
+de l’Europe , et les François, ennemis irréconciliables
+, qui, offensez d’une telle clandestine
+départie, seroient plutost en armes
+</p>
+        <p>
+.I(}OC¡:
+
+<pb xml:id="PAG_00000020" n="12" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f20.image"/>dans son pays qu’il n y seroit arrivé. » Enfin,
+le sieur Zamet l’estant allé visiter, ils tombent
+en propos sur les articles du traicté qui -.:
+estoient en débat, lesquelles leuës, ledict
+sieur Zamet asseura ledict duc, Que sa majesté
+luy donneroit trois mois pour choisir
+l’une ou Vautre de ces conditiQns, de la restitution
+ou de teschange. Ces paroles entenduës
+par le duc, il se résolut. d’accorder et
+signer les dix-huict articles suivants :
+1. Que le marquisat de Saluces sera rendu
+et restitué à sa majesté par le duc de Savoye,
+dedans le premier jour du mois de juin prochain,
+pour en jouyr et user comme fais oient
+lee roys ses prédécesseurs, lors quil estoit entre
+leurs- mains, sans aucune remise, longueur,
+et difficulté, fondée sur quelque couleur
+et prétexte que ce soit.
+</p>
+        <p>
+2. Et sadicte majesté promet et accorde audict
+sieur duc, de ne donner la charge et gouvernement
+du pays, a personne, qu’il ait occasion
+de tenir pour ennemy,
+3. Pareillement, d’employer à la garde
+des villes et places d’iceluy , des compagnies
+suisses, excepté dans les chasteaux , où sa
+majesté se meut servir de capitaines et soldats
+François, ou de teff autres que bon luy semblera.
+
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000021" n="13" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f21.image"/>
+        <p>
+4. Néantmoins, sadicle majesté n’entend
+d’estre obligée de tenir des Suisses dedans
+lesdictes villes, que pour le temps que durera
+le compromis faicten la personne de sa saincteté,
+cy-apres déclaré et specifie.
+</p>
+        <p>
+5. Ou bien, ledict sieur duc cédera et délivrera
+à sadicte majesté, pour la récompense
+dudict marquisat de Saluces, dedans le susdict
+premier jour du mois de juin, tout le pays
+de Bresse, qui est situé depuis la riviere de
+Saône, jusqu’à celle de Dain, laquelle riviere
+de Dain demeurera commune entre sa majesté
+et ledict sieur duc, pour en jouyr chacun
+de son costé ; compris en iceluy pays la ville
+et citadelle de Bourg, et les autres places qui
+eu défendent ; Barcelonnette avec son vicariatjusques
+l’Argentiere, le val de Sivre, celuy
+de la Pérouse, avec tout ce qui en dépend ;
+ensemble la "ville et chasteau de Pignerol,
+avec son territoire, moyennant quoy, sadicte
+majesté luy transporteroit tous les droicts
+qu’elle a audict ma/ &lt;/uisat, à la charge toutes
+fois qu 'il laissera jouir les habitans dudict
+marquisat, qui ont servy sa majeste, ou la
+serviront cy-après, de leurs biens librement et
+seurement : et réciproquement, cent qui ont
+servy et serviront ledict sieur duc, jouy ront
+pareillement de leurs biens, tant audict mar-
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000022" n="14" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f22.image"/>quisat qu’autres lieux qui seront remis à s,7dicte
+majesté par ledict sieur duc J sans quYil
+soit tien innové, devant ledict délay nj après,
+au préjudice des uns et des autres, selon le réglement
+qui en sera faict par sadicte majesté
+et ledict sieur duc.
+</p>
+        <p>
+6. DJ avantage, les villes et places de Centai,
+de Mont, Roques- Palmier, ChasteauDauphin
+et autres tenues par ledict sieur du c,
+appartenantes à sa majesté, et pareillement
+celles que sa majesté possede en Bresse, Savoye,
+Barcelonnette etailleurs, appartenantes
+audict sieur duc, seront respectivement rendues
+au mesme temps que la restitution dudict
+marquisat se fera, et en cas de permutation,
+celles de Bresse, et de Barcelonnetle,
+demeureront à sa majesté en laforme cy-des-
+sus dicte, et les autres seront remises de part
+et d’autre.
+</p>
+        <p>
+7. Toutes lesquelles places seront rendues
+en l’estât auquel elles sont de présent, sans
+que sadicte majesté et ledict sieur duc soient
+tenus de payer ny rembourser les despenses
+faictes de part et d’autre, à fortifier et reparer
+les dictes places.
+</p>
+        <p>
+8. Pareillement, le fort de Beche-Dauphiu
+basty par ledict sieur durant la guerre) sera
+desmoly en mesme temps.
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000023" n="15" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f23.image"/>g. Les inventaires deuement certifiez de
+toutes les pièces d’artillerie, pouldre, et boulets) 
+et autres llzunitions de guerre qui estaient
+dans les villes et places dudict marquisat,
+quand ledict sieur duc y est entré, serontfidellement
+représentez à sa majesté, quand
+ledict sieur duc es lira l’un ou Vautre desdicts
+deux partis, sur lesquels sa dicte majesté décl
+arera sa volonté pour la restitution d’icelle,
+qui sera effectuée par ledict sieur duc, tant
+en espece qu’en argent, au prix et ainsi quil
+sera arresté par sadicte majesté avec ledict
+sieur duc.
+</p>
+        <p>
+10 Toutes procédures, jugements et sentences
+données en justice d’une part et d’autre) 
+devant le présent accord, où les parties
+ont contesté volontairement, auront lieu et
+sortiront leur plain et entier effect, en tout
+cas de restitution ou permutation dudict mar-
+quisat. : toutes-fois il sera loisible aux parties
+de se pourvoir par revision, et selon tordre
+et disposition de droict, des loix et ordonnances.
+
+</p>
+        <p>
+11. Ne sera faicle auèune recherche des
+impositions, contributions et levées de deniers
+et de n.nvres, faictes audict pays contre ceux
+quiles ont ordonnées, receucs et administrées
+départ et d’autre, jusques au présent traicté.
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000024" n="16" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f24.image"/>i 3.
+</p>
+        <p>
+.600.
+</p>
+        <p>
+12. Et afin que les habitants des villes et
+pays qui doivent estre restituez, ne soient surchargez
+et travaillez inducment d’impositions
+et levées de deniers, durant le délay accordé
+audict sieur duc, pour oster et effectuer r un
+desdicts deux partis, sous couleur de payement
+tant des arrérages desdictes impositions
+ordonnées devant et depuis la paix faicte à
+Vervins, que du courant de la solde et entretenementde
+capitaines et gens de guerre commis
+à la garde desdictes villes et pays, et autres
+prétextes ,jusques à la sus dicte restitution
+ou permutation dudict marquisat, a esté accorde,
+qu/il ne sera faict aucune levée de deniers
+sur les habitans desdictes villes et pays,
+conformément à ce qui a esté convenu, tant
+par le traicté de Vervins, que par les reglemens
+et accords faicts depuis, pour le payement
+desdicts arrérages et deniers par les députez
+de sa majesté, et ledict sieur duc, au
+commencement de l’année , pour /'entretenement
+ordinaire des garnisons cstablies à la
+garde desdictes villes et places 1, ci des officiers
+employez dans les estats des dicte s garnisons,
+sans que, de part et d’autre, il puisse de nouveau
+estre rien imposé d’avantage. Déclarons
+tout ce qui sera faict et entrepris au contraire,
+subject à restitution et réparation.
+</p>
+        <pb xml:id="PAG_00000025" n="17" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f25.image"/>
+        <p>
+-t ouie f.X'X.
+</p>
+      </div>
+      <div>
+        <head>R</head>
+        <p>
+13. Et sur ce que ledict sieur duc a requis
+sa majeste de vouloir approuver de confirmer
+les inféodations qu’il afaictes audict marquisat,
+advenant qll/il opte la restitution d’iceluy,
+sa majesté a déclaré qu’estant informé
+de la qualité desdictes inféodations, elle y
+aura tel esgard que son service luy pourroit
+permettre pour la gratification dudict duc y
+sans toutes fois que sa majesté soit obligée au
+remboursement de ce qui pourroit avoir esté
+Payép°urle sdictes inféodations, sinon entan t
+qu d sera de son bon plaisir.
+</p>
+        <p>
+14. Et d autant que ledict sieur duc a requis
+samajesté de luy donner temps pour con-
+férer avec ses vassaux et subjects des deu.J&gt;
+partis sllsdicls, devant que d’accepter l’un ou
+l autre, sa majesté désirant luy tesrnoigncr
+en ceste occasion, comme en toutes autres,
+sa bonne volonté, accordé audict sieur duc
+la susdicte cslection, à la charge aussi qu’il
+optera et effectuera l’un ou l’autre desdicts
+deux partis dedansle susdict temps du premier
+de juin, sans en retrancher, diminuer ou altérer
+aucune chose, ny user d’aucltne remise,
+longueur et difficulté fondee sur quelque
+couleur et occasion que ce soit.
+</p>
+        <p>
+i5. A quoy ledict:sicur duc a obligé, dez à
+présent comme pourlors, sa f&gt;y et: parole, et.sa-
+</p>
+        <p>
+IGoo.
+
+<pb xml:id="PAG_00000026" n="18" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f26.image"/>dicte majesté faict, le semblable ,pour l’accom-
+plissement et exécution des choses accordées
+par les présens articles, qui dépendent d’elle.
+</p>
+        <p>
+16. Pareillement, a esté convenu entre sa
+majesté et ledict sieur duc, qu’ils consentiront,
+comme dez à présent ils consentent, après
+que la restitution aura esté réellement et de
+faict accomplie, si ledict sieur duc en faict option,
+que nostredict saint pere le pape Clément
+VIII juge des différents qui sont entre
+sa majesté et ledict sieur duc, suivant ce qui
+a esté accordé par le susdict traicté de Vervins
+, et ce dedans trois ans.
+</p>
+        <p>
+17. Promettant d’accomplir et exécuter de
+bonne foy, de part et d’autre, ce qui sera ordonné
+par sa saincteté dedans le susdict
+temps , sans auc une longueur ou difficulté,
+pour quelque cause ou prétexte que ce
+soit, ainsi qu’il est porté par le traicté dit
+Vervins.
+</p>
+        <p>
+18. Et pour plus grande asseurance de
+l’exécution du traicté, en tous les points et articles
+Y contenus, lesdicts sieurs roy et duc de
+Savoye supplient très-humblemens sa saincteté,
+que, comme par ses bonnes et paternelles
+exhortations ils sont entrez en ceste
+ojoye d’accord, illuy plaise, commepere com-
+mun , continuer le soin qu’elle a cy-devant
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000027" n="19" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f27.image"/>
+        <p>
+B 2
+</p>
+        <p>
+Ynonstré à nourrir la paix, et asseurer entre
+eux une bonne amitié, et ce faisant, en ocCM~c
+M~e ~o/z/ze ~TTzz e~c~ y ~z~~ e ?z occasions"qui
+se pourroient presenter, interposer
+son authoricé pour Veniiere et réelle exécution
+des choses promises de part et d’autre
+ainsi et en la forme qu’il est contenu audict
+présent traicté., Faict à Paris le 27 jour du
+mois de février 1600. Signe H E N R Y et
+EMANUEL ; et cacheté des cachets de
+sa majesté, et dudict sieur duc de Savoye.
+</p>
+        <p>
+Peu de temps après cet accord, le duc prit
+congé du roy , qui le conduit jusqu’au pont
+de Charenton, et luy donna les sieurs de
+Pralin., et le baron de Lux (3) , pour raccompagner
+en son retour. Il passa par 1a Champagne
+et par la Bourgogne, d’où il entra en
+ ;Bresse, et alla à Bourg : ses conducteurs retournèrent
+vers le roy, et luy rapportèrent
+quelques propos qu’il usa en son voyage,
+par lesquels il estoit aysé à présumer qu’il ne
+tiendroit point son accord : nonobstant, ledict
+duc escrivit de Bourg au roy, qu’il estoit
+très-content de l’accord, et quil s’en alloit
+en Piedmont, pour en prendre la résolution ,
+que sa majesté attendoit de luy. Le duc de
+Savoye donc, retourné en son pays, au contraire
+de ses promesses, ne les voulut tenir :
+ce qui occasionna la conqueste que le roy fit
+</p>
+        <p>
+160o.
+
+<pb xml:id="PAG_00000028" n="20" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f28.image"/>en Savoye et en Bresse, de laquelle nous parlerons
+cy-après.
+</p>
+        <p>
+Nous avons dit cy-dessus que l’archiduc
+Albert avoit retiré, sur la fin de l’année
+passée, son armée de l’isle de Bommel, où il
+avoit laissé bonne garnison, dans la forteresse
+nouvelle de Sainct-André , et dans le fort de
+Creve-cœur, que l’Admirant avoit pris ; aussi
+qu’il avoit mis. hiverner son armée par les
+garnisons, cependant que les villes de Brabaut
+et de Flandres luy faisoient des entrées
+pour la réception de l’infante d’Espagne, sa
+femme ; si bien que la fin de l’année et le
+commencement de ceste-ci se passèrent, sans
+y avoir esté faict rien de remarquable. Cest
+hyver fut fort aspre et long, durant lequel
+les garnisons desdits forts de Creve-cœur et
+Saint-André pastirent beaucoup, sans faire
+monstre, ny avoir payement de plusieurs
+mois, dont les archjducs leur estoient arriérez
+: ce fut le prétexte de leur mutinerie,
+qu’ils commencèrent en chassant leurs capitaines
+et tous les officiers ; et se licencièrent
+à faire tous actes d’hostilitez , aussi bien sur
+les subjets des archiducs, qu’au pays ennemy,
+protestant toutesfois de demeurer au
+service et obéissance du roy d’Espagne, et
+de l’archiduc Albert d’Autriche, son beau-
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000029" n="1" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f29.image"/>
+        <p>
+B 4
+</p>
+        <p>
+frere, ne demandans autre chose que leur
+payement ; à quoy l’archiduc et l’infante se
+monstrerent un peu nonchalans. Le prince
+Maurice, qui pareillement s’estoit retiré,
+ayant néantmoins tousjours l’oeil au guet,
+et le pied alerte, avec le reste de ses forces,
+ne voulant perdre si belle occasion de ceste
+mutinerie, mais en faire son profit, l’hy ver
+estant escoulé, donna le rendez-vous à son
+armée, ez-environs de Roterdamet à Willenstadt,
+partit le 18 du mois de mars 1600 de la
+Haye, et vint à Dordreclit, où, deux jours
+après, s’estatit embarqué avec plusieurs seigneurs,
+colonels, chefs et capitaines , il remonta
+la riviçre de Meuse, avec deux cents
+navires, jusques au fort de Creve-coeur. Le
+yingt-uniesme, y ayant mis pied en terre avec
+son armée, et commencé à y planter son canon,
+il fit d’abordée sommer la place de se
+rendre. Il y avoit dedans quatre compagnies
+Walonnes, lesquelles se souvenans de leur
+mutinerie ( ores que tout leur fut pardonné,
+ou du moins on le leur promit) , et du peu
+d’apparence qu’il y avoit d’estre secourus
+en temps, voyans la diligence que le prince
+faisoit pour les forcer, condescendirent à
+l’appointement qu’il leur présenta ; et, le 24
+dudict mois, rendirent le fort, dont les deux.
+</p>
+        <p>
+1600,
+
+<pb xml:id="PAG_00000030" n="22" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f30.image"/>compagnies ne se flans à Farchiduc, se rengerent
+volontairement au service des Estats ,
+et les deux autres se retirerent au fort dé
+Saint-André.
+</p>
+        <p>
+Le fort de Creve-cœur estant à si bon
+marché venu en la puissance des Estats, le
+prince voyant ce commencement luy estre
+heureux , entra avec son armée dans l’isle de
+Bommel, pour assiéger le fort de SainctAndré
+, ce qu’il fit le 26 dudict mois, nonobstant
+les fréquentes pluyes et froidures,
+ses gens estans contraincts se tenir à couvert
+dans les navires esparses de part et d’autre ,
+sur les’rivieres de Meuse et de Wahal.
+</p>
+        <p>
+Le prince ne fut pas sitost venu devant le
+fort de Sainct-André , qu’il y fit dresser plusieurs
+forts pour asseurer son camp, et pour
+engarder l’Espagnol de secourir la place,
+ny de le venir importuner par quelques
+courses.
+</p>
+        <p>
+Entr'autres, il fit faire un fort au village
+de Hessel, et sept redoutes , qui furent nommées
+les sept Planetles sur les advenuës
+de ce village : au village de Rossem, il en fit
+trois, avec des retranchements pour aller de
+l’un à l’autre , opposez au nord et au west du
+fort Saint-André ; et pour engarder que les
+navires naviguans sur la riviere de Wahal
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000031" n="23" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f31.image"/>
+        <p>
+B 4
+</p>
+        <p>
+ne fussent endommagez par le canon de
+Sainct-André, il fit fouyr un canal qui entrecoupoit
+de droict fil un destour de la riviere,
+lequel canal fut appelé la Croix SainctAndré.
+Du costé de Brabant, par delà la riviere
+de Meuse, aux villages de Maren et de
+Kessel, il fit aussi dresser sept forts, distants
+de trois cents pas en trois cents pas, s’entretenants
+par de bonnes et fortes tranchées
+qui alloient de l’un à l’autre , pour loger
+seurement sa cavalerie et son infanterie, en
+cas de nécessite. Bref, il fit faire tant de forts,
+qu’il seroit impossible de les bien désigner
+par escrit : les portraits en ont été faits en
+taille douce ; le lecteur curieux les pourra
+voir , 4et juger par iceux quel chef d’armée
+c’est que le prince Maurice, et comme il tenoit
+son camp si bien fermé, que son ennemy
+eust eu du mal assez à en entamer un
+quartier avec trente mille hommes.
+</p>
+        <p>
+Le prince estant ainsi retranché et fortifié,
+dans son camp, l’archiduc fut hors d’espoir
+de le pouvoir forcer, tout luy venant contre
+son souhait ; car les eaux furent tellement
+desbordées, que les retranchements du, camp
+du prince en estoient remplis ; et les assiégez
+furent contraincts de se loger en terre , dedans
+leur rempart comme connils, palissants
+</p>
+        <p>
+16ool
+
+<pb xml:id="PAG_00000032" n="24" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f32.image"/>beaucoup, sous l’espoir qu’ils seroient secourus
+, reconciliez et payez , faisans leur devoir
+de tirer leur canon pour empescher les approches
+du prince, qui vouloit battre et
+faire breche ; mais les eaux l’empescherent
+d’en approcher ; si bien que les assiégeans et
+assiégez ne firent autre chose que battre en
+ruyne , et s’entrecharger à coups d’artillerie.
+</p>
+        <p>
+Le premier jour du mois de may , les eaux
+commençant à s’escouler et s’abaisser , le
+prince commanda qu’à l’obscurité de la nuit,
+et au déclin de la lune, on fist les approches ,
+avec bons retranchements du costé de Rossem
+et de Herwaerdem, pour y dresser ses
+batteries : et tost après, envoya un tambour
+sommer les assiégez, lesquels, combien qu’assez
+délibérez de tenir la place pour l’archiduc
+, néanmoins presterent l’oreille, et consentirent
+d’entrer en communication.
+</p>
+        <p>
+Le quatre et cinq dudict mois, les sieurs
+d’Urtembrouk et Wander Aa furent envoyez
+vers aucuns d’entr'eux, qui se trouvèrent
+au-dehors dés tranchées de la demi-lune
+que le fort de Sainct-André avoit hors de sa
+contr'escarpe : il leur fut remonstré en ceste
+communication, le peu de moyen d’estresecourus
+, l’incertitude de leur reconciliation y
+et le peu d’apparence d’estre payez de leurs
+</p>
+        <p>
+4600.
+
+<pb xml:id="PAG_00000033" n="25" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f33.image"/>services par les archiducs, qui se montaient
+à de grandes sommes de deniers, veu l’urgente
+nécessité de leurs affaires. A tout cela,
+les députez des assiégez respondirent : « quTil
+leur estoit deu cinq cent mille florins ; qu’ils
+s’estoient conservez jusques alors, et paty
+jusques à l’impossible ; qu’ils ne rendroient
+jamais la place, qu’ils ne fussent payez de
+leur deu, par qui que ce fust. » Le prince
+leur faict offrir jusques à cent mille florins :
+au refus de cest offre, cè pourparler est
+rompu ; aussi que les assiégez avoient aperçu
+un signal de la ville de Bosleduc, qui n’en
+est distante que de deux lieuës : ce signal fut
+faict avec des flambeaux, qui les advertissoit
+qu’ils seroient secourus dans quatre jours.
+</p>
+        <p>
+Les assiégez , estans par trop incommodez,
+voyans les soldats du prince avancez jùsques
+au pied de leur contr'escarpe, et qu’on désignoit
+deux ponts, pour, après la bresche
+faite, venir à l’assaut-, lesdits quatre jours de
+leur espoir expirez, et ne voyans aucun avancement
+de secours, environ les deux heures
+après midy dudit jour, demandèrent, de rechef,
+si le prince vouloit entendre à composition.
+
+</p>
+        <p>
+Le prince craignant (ce qu’il prévoyoit,
+et qui advint tost après) un autre nouveau
+</p>
+      </div>
+      <div>
+        <head>1600</head>
+        <pb xml:id="PAG_00000034" n="26" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f34.image"/>
+        <p>
+desbord des rivieres, qui l’eust contraint quitter
+ses approches et tranchées qu’il avoit de-,
+yant St.-André, et d’en retirer son canon ; avec
+grand travail ; après que les assiégez luy
+eurent envoyé huict d’entre eux, leur reddition
+fut accordée , et leur fut promis la
+somme de cent vingt et cinq mille florins, et
+qu’ils demeureroient dedans le fort jusques à
+ce que l’argent leur auroit esté compté ; en
+promettans et jurans au prince, qu’aussi long
+temps qu’ils demeureroient attend ans ledict
+argent en ce fort, qu’ils le garderoient fidellement,
+et le maintiendroient pour le service
+des Estats et du prince ; ensemble d’obéir aux
+capitaines et officiers qui, de sa part, leur seroient
+ordonnez ; renonçans et révoquans le
+serment qu’ils pouvaient avoir faict au roy
+d’Espagne ouàl’archiduc Albert. Ausurplus,
+les points et articles furent tels :
+Que les blessez ci malades seront envoyez
+en quelque ville des dites Provinces-Unies y
+lesquels recevront leur part et portion, autant
+que leur contingent pourra porter en ladicte
+somme de 125,000 florins.
+Qu’aux veufves seroit donné une gratuite,
+tirée de ladicte somme. ,
+</p>
+        <p>
+Tous soldats d’entre eux -ayans par cy dej
+vant servy les Estats, ou ledict seigneur prince,
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000035" n="27" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f35.image"/>auront leur pardon, et seront payez de ce qui
+leur est deu hors de la somme sus dicte.
+</p>
+        <p>
+Tous ceux qui se voudront retirer, seront
+payez et satisfaits hors de ladicte somme,
+ausquels sera donné bon passeport, et scuifconduit
+ ; que Jesdicts soldats seront aussi
+bien traictez que les meilleurs que les Estats
+puissent avoir.
+</p>
+        <p>
+Ceux qui y sont venus du fort de Crevecœur,
+seront aussi payez comme les autres.
+</p>
+        <p>
+Qu’à tous soldats a} ans esté iiii service
+dudict seigneur prince , requérans congé et
+passeport, ne leur sera point refuse, moyennant
+qu 'ils ne le demandent pas mal à propos
+, et hors de raison.
+</p>
+        <p>
+Rien ne leur pourra estre reproché de tout
+ce qui s’est maintenanl passé.
+</p>
+        <p>
+Les soldats pourront, par advis dudict seigneur
+prince, choisir huit capitaines des régimens
+Wallons du seigneur de Hachicourt
+et du marquis, et trois des Alemans.
+</p>
+        <p>
+Tous commissaires, prevosts , brasseurs,
+boulengers, vivandiers , et tous autres qui se
+voudront relirer, auront bon et seur saufconduit.
+
+</p>
+        <p>
+Le chapelain se pourra pareillernent retirer
+librement, avec tous ses ornemens, équipage
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000036" n="28" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f36.image"/>et bagage, auquel sera donné sauf-conduit
+eù convoy comme aux autres. 1
+Que tous reformez, sergents et caporaux J
+appointez au service du roy d’Espagne, au,
+ront pareil traitement y demeurans au service
+dudict seigneur prince et Estats.
+</p>
+        <p>
+Tous commissaires, capitaines et officiers ,
+auront augmentation, tirée de ladicte somme,
+à Vadvenant de ce que chacun soldat pourra
+tirer.
+</p>
+        <p>
+Que le jour de demain , commissaires seront
+envoyez dedans le fort, pour prendre J
+par inventaire, l’artillerie, munitions et viw
+vres qui s y trouveront.
+</p>
+        <p>
+Es tans sortis hors du fort, ils feront pareil
+serment que les autres soldats estans au service
+dudicto seigneur prince et Estats.
+</p>
+        <p>
+L’onziesme dudict mois, ils sortirent hors
+du fort, et furent, par les commissaires des
+Estats, payez teste pour teste , jusques à onze
+cens vingt et quatre hommes passez à monstre
+, reèevant chacun , jusques aux moindres
+payes, cent et six florins. Lesquels tous sortis,
+le prince y envoya quatre de ses compagnies ;
+puis il y entra avec tous les seigneurs de sa
+suite.
+</p>
+        <p>
+Après que lesdicts soldats eurent reçeur
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000037" n="29" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f37.image"/>leur argent, estans tous sortis, ils furent
+quand et quand embarquez, et envoyez, par
+eau, en garnison, par cy par là, ez-villes
+desdites provinces. Voilà comment cette forteresse,
+qu’on tenoit inexpugnable , fut à bon
+marché acquise aux Estats , non seulement la
+place, l’artillerie, munitions et provision de
+guerre, et de vivres, qui portoient plus en
+valeur que les 125,000 florins ; mais une
+trouppe d’aussi braves hommes, que l’archiduc
+eust eus de long temps en son armée,
+gens d’eslite, et vieux soldats aguerris. Le
+prince Maurice trouva , en ce fort, nonante
+et six barriques de poudre, quelques
+milliers de boulets, dix-huict pieces d’artillerie,
+et autres sortes d’armes et munitions
+en grand nombre , avec grande quantité de
+froment , seigle , moirillon , grain, brise à
+brasser , et autres vivres et provisions.
+</p>
+        <p>
+Environ ce temps, le sieur de Briauté (4) ,
+jeune gentil-homme françois, capitaine d’une
+compagnie de cavalerie au service des Estats,
+hardy comme l’espée jusques au bout, tenant
+garnison en la ville de Saincte-Gheertruidenberghe,
+receut quelques paroles de
+mes pris , tant de sa personne, que de la nation
+françoise , mal rapportées , et légèrement
+proférées par certain soldat, renié du
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000038" n="30" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f38.image"/>party des Estats , surnommé Lekerbitkem^
+c’est à dire friand morcelet, pour sa hardiesse,
+lieutenant de la compagnie de cavalerie
+de Grobbendonc , gouverneur de Bosleduc
+en Brabant. Briauté, faisant en cela tort
+à son degré et à sa réputation, pour si légers
+propos, ordinaires entre soldats, s’attaquer à
+un qui n’estoit de sa qualitéluy envoya un
+cartel, le deffiant corps à corps, cinq contre
+cinq, dix contre dix, ou vingt contre vingt.
+</p>
+        <p>
+Ce cartel fut accepté par Lekerbitk-em, de
+vingt contre vingt, à cheval, avec armes ordinaires
+, telles qu’ils portoient journellement
+à la guerre. Le jour et la place désignée
+, quoy que le prince Maurice le luy eust
+desconseillé et deffendu , luy alléguant l’occasion
+frivolle de la querelle, et l’inégalité
+de sa personne à celle d’un traistre et renégat
+ ; néantmoins Briauté ayant pris à l’eslite
+dix-neuf soldats , cavaliers de sa compagnie ,
+presque tous François, ausquels il se fioit le
+plus, sa personne faisant le vingtiesme, sortant
+de la ville de Gheertruidenberghe, faisant
+à entendre au sieur de Wingaerde, gouverneur
+de la place, que c’estoit du consentement
+du prince, et luy ayant donné, au cas
+qu’il mourust au combat, ses meilleures armes,
+qui estoient autant belles, riches, cfc
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000039" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f39.image"/>
+        <p>
+SEPTENNAIRE. 3ï
+</p>
+        <p>
+industrieusement élabourées que prince
+sçauroit porter, sortit de la ville, pour se
+trouver en la place du combat, arrestée de
+part et d’autre, à mi-chemin de Bosleduc et
+de Gheertruidenberghe.
+</p>
+        <p>
+Briauté ne trouvant point son ennemy,
+s’advança plus qu’il ne devoit, tant il estoit
+ardent ; il le rencontra à demye lieuë de Bosleduc.
+Aux approches, ils chargèrent esgalement
+ ; Briauté, et les siens, avec longues scopettes,
+qui sont longues pistoles, seulement ;
+et Lekerbitken, avec le carrabin et la scopette.
+Les deux chefs s’estoient donnez auparavant
+un signe pour' s’entrecognoistre ;
+Briauté, qui avoit un grand pennache blanc,
+choisit Lekerbitken qui en avoit un rouge,
+et le fon ça de telle furie avec ses gens, qu’il
+le tua, luy donnant de sa scopette dans la visiere
+: à cet abbord, cinq de ceux de Bosleduc
+furent tuez, dont le frere de Lekerbitken en
+estoit un. Il sembloit que Briauté deust estre
+victorieux ; mais ceux de Bosleduc reprenais
+courage, pour venger la mort de leur-chef,
+retournerent de plus grand’furie que devant
+- à la charge, qui mit l’es pouvante parmy les
+gens de Briauté , lesquels prenant la fuite,
+laissèrent leur capitaine au danger, qui fut
+pris prisonnier, avec un sien cousin : il y en
+</p>
+        <p>
+j6oo »
+
+<pb xml:id="PAG_00000040" n="32" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f40.image"/>eut quelques uns de tuez, et aucuns prinrcnt
+la fuite. Briauté et trois des siens amenez prisonniers
+à Bosleduc, Grobendonc estant au
+devant de la porte ,attendant le retour de Lekerbitken,
+et pour sçavoir dès premiers comment
+le combat s’estait porté, ne voyant point
+son lieutenant, demanda où il estoit ; luy
+ayant esté respondu qu’il estoit mort, et son
+frere avec, il répliqua : Hé ! pourquoy n’avez
+vous tué ceux-cy ? Ausquelles paroles, ses
+</p>
+        <p>
+gens se ruèrent sur Briauté et son cousin,
+qu’ils massacrerent ainsi de sang froid. Si l’on
+doitréputer le faict de Briauté à grandeur de
+courage, ou à légereté et présum ption , je
+m’en rapporte ; par mon conseil, il ne l’eust
+pas fait ; mais il cherclioit les duels, pour lesquels
+il s’estoit absenté de la cour de France.
+</p>
+        <p>
+Quant à Grobendonc , qui commanda de le
+tuër de sang froid, c’est un massacre qu’il ne
+devoit faire faire.
+</p>
+        <p>
+Nous avons dit cy dessus comme le mariage
+du roy et de la royne Marguerite, duchesse
+Çle Valois, fut déclaré nul, et que le mariage
+de la princesse de Florence avec le roy se
+commençoit : il est maintenant question de
+sçavoir ce qui se passa quand il fut conclu et
+, arresté.
+</p>
+        <p>
+Le roy envoya à Rome le sieur d’Alincourt,
+
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000041" n="33" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f41.image"/>
+        <p>
+Tome LXX. C
+</p>
+        <p>
+court (5) , chevalier de ses ordres, pour remercier
+le pape de la justice qu’il luy avoit
+faict rendre en la déclaration de la nullité de
+son mariage. Il s’embarqua à Antibes, sur
+une gallere que la seigneurie de Gênes luy
+envoya pour aller en leur ville, où il fut
+très - bien reçu, et traicté magnifiquement
+au palais de Grimaldi. Il print la poste de
+Gênes à Rome, et eut audience de sa saincteté
+le lendemain de son arrivée.
+</p>
+        <p>
+Peu de jours après, le sieur de Sillery ,-ambassadèur
+du roy à Rome, et ledit sieur d’Alincourt,
+allèrent à Florence , pour, suivant
+le pouvoir donné audict sieur de Sillery, par
+lettres patentes du roy , du 6 de janvier an
+présent, accorder le mariage d’entre luy et la
+serénissime princesse Marie de Médicis (6) ,
+fille de François, grand duc de Toscane, et de
+Jeanne, archiduchesse d’Autriche, et roy ne
+née de Hon grie et de Ber cheure. (7) Fer dinand
+son oncle, à présent grand duc de Toscane,
+eut ceste recherche fort agréable ; il n’y eut
+point de difficulté. Le contract en fut passé
+le vingt-cinquiesme jour d’avril, au palais
+de Pity , ez-présenoes de Charles - Antoine
+Putei, arclievesque de Pise, et du très-il-,
+lustre Yirginio Ursino, duc de Bracciàno : la
+constitution fut de six cent mille escus, avec
+</p>
+        <p>
+1600 ;
+
+<pb xml:id="PAG_00000042" n="34" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f42.image"/>bagues, joyaux, et autres meubles précieux.
+</p>
+        <p>
+Aussitost que le contract fut signé, l’on
+chanta le cantique de resjouissance au palais
+de Pitti.età l’Annonciade ; toute la ville de
+Florence se mit en allegresse, et la princesse
+Marie, déclarée royne de France, disna publiquement,
+et fut assise à table sous un daiz ;
+son oncle s’assit beaucoup plus bas qu’elle :
+ledict duc de Braecmnoluy bailla à laver
+les mains, et ledict sieur de Sillery, ambassadeur
+du roy, la serviette. Le reste de ceste
+journée se passa en toutes sortes de récréations.
+Peu de jours après, ledict sieur d’Alinçourt
+vint apporter ces bonnes nouvelles au
+roy , avec le portraict de la royne, que la
+grande duchesse luy envoya : comme aussi
+le roy envoya le sien au grand duc par le
+sieur de Frontenac, qui, al lant servir la royne
+de premier maistre d’hostel, luy présenta la
+premiere lettre de la part de sa majesté.
+</p>
+        <p>
+Voilà la deuxiesme fois que les rois de
+France ont pris femme en la maison de Médicis,
+laquelle est à présent une des plus
+grandes d’Italie ; l’origine et commencement
+de laquelle plusieurs historiens rapportent
+à un chevalier françois, nommé Everard de
+Médici, lequel suivit l’empereur Charlema.
+</p>
+        <p>
+gne en Italie, lorsqu’il en chassa les Lom-
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000043" n="35" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f43.image"/>
+        <p>
+C a,
+</p>
+        <p>
+bards, auquel temps, et pendant qu’il estoit
+à Florence, un géant, nommé Mugel, d’une
+grandeur desmesurée , faisoitune infinité de
+massacres et brigandages, au terroir que l’on
+a tousjotirs depuis appelé Muge/la, des barbaries
+et cruautez duquel estant esmeu le
+chevalier Everard de Médicis, se résolut de
+l’aller combattre corps à corps, pour affranchir
+le pays de sa tyrannie ; en quoy la di,.
+</p>
+        <p>
+vine providence renforça tellement son,courage,
+que l’impitoyable Mugel resta mort
+Sur le champ, et pour despouille mémorable,
+laissa au victorieux Everard une masse ceste,
+accompagnée de six boules de fer, dont ce
+brave guerrier , pour immortaliser cest acte
+héroïque, blasonna ses armoiries, les dévisans
+d’un champ d’or à cinq tourteaux de
+gueules , chargé de France en chef, pour ce
+que, en combattant contre ce cruel géant,
+il avoit reçeu en son escusson pleinement
+champé d’or, un coup de masse qui y avoit
+laissé l’impression de plusieurs boules encore
+toutes sanglantes , à raison des massacres et
+boucheries fraischement exécutées par ce
+voleur.
+</p>
+        <p>
+La victoire obtenue , Everard ne voulut
+retourner en France avec Charl èmagne,
+pour ce que ceux de Florence se voyans af-
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000044" n="36" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f44.image"/>franchis par sa vertu, l’honorèrent d’un si
+gracieux accueil, qu’il fut contraint d’oublier
+son pays naturel, et la France sa patrie,
+et pour le reste de sa-yie, s’arrester au champ
+Je ses viçtoires, pour y planter une postérité
+qui, au temps à venir, refleuriroit des
+f l e-L-trs-rd e lis, et £
+fleurie lis, et germeroit des roys et roynes
+de France : voylà comme commença le bonKéuEide-la*
+maisonide Médicis (8)..
+</p>
+        <p>
+Depuis Everard jusques à Jean de Médicis,
+dit le 'Pieux, fils d’Everard JI de
+Médicis" fils de Chiarissimo de Médicis, il
+y eut plusieurs grands personnages de ceste
+maison, lesquels font mention Aretin, Villani,
+et Nestor, renommez historiens ; comme
+fut Allemano de Médicis, pere de Silvestre,
+qui fut gonfaloniiier de Florence, du temps
+de Louis de Baviere, empereur ; Viery de
+Médicis,. qui a ppaisa la division et mutinerie
+populaire des Florentins, laquelle avoit duré
+depuis l’an 1378, jusques en l’an 1381., remit
+le peuple en sa franchise, et le sénat de
+Florence en son auctorité. Jacques de Médicis,
+chevalier, qui deffendit si valeureusement
+les tranchées du camp Florentin à Montcatin
+ ; Jean de Médicis, fils de Bernardin ,
+qui print Luques pour les Florentins, accompagné
+de trois cents chevaux ? et cinq cents
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000045" n="3" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f45.image"/>hommes d’infanterie, à' la barbe de trois
+camps, que les Pisans avoient campé devant
+ladicte ville : un autre Jean, si renommé. par
+les historiens, de ce qu’ayant le vicomte milanois
+( grand ennemy des florentins) tenue
+la scarpérie longuement assiégée, il ,se mit
+aux champs avec cent hommes de pied , et
+sur la minuict, se faisant chemin à force d’armes,
+mit ses gens dansja ville, qulestoit
+aux abois , fit lever le siege à l’ennemy, délivra
+sa patrie du manifeste danger où elle se
+trouvoit pour lors.
+</p>
+        <p>
+Nous n’aurions jamais faict, si nous yous
+lions esplucher par le,, inciiu , et meticeity.
+</p>
+        <p>
+au long tout-ce que les, chevaliers. illustres
+de la maison derMécUci%oht ;fajçtdie_siigiîad&amp;:, &lt;
+bien diray-je que Jean fia Médicis, dit le
+p-ieux, fut gonfalonniçr dç Florencellari-i 4^3 j,
+(magistrat de justice souverain, presque
+semblable au dictateur des anciens Romains) ,
+éstoit riche , noble, clément, accord, sensée,.-
+aumosnier , miséricordieux tout ce que se
+peut, honoré, aymé, redouté de tous ; ilnedemandq.
+jamais honneur en la république, et
+si les eut tous ; détesta la guerre plus que là
+mort, et si y fit de grands exploicts ; moyenne
+lapais à quelque prix que ce fust, jamais,
+n’offensa personne , fit plaisir à tous., mesme
+</p>
+        <p>
+lôoôi1-
+
+<pb xml:id="PAG_00000046" n="38" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f46.image"/>à ses enhemys. Il eut.deux fils, lesquels fi-rent
+deux branches en la maison de Médicis ; l’aisné
+s’appeloit, : A
+</p>
+        <p>
+Cosme-le- Grand , pere de la patrife, et le
+deuxiesme, Laurens, duquel est desçendue
+Marie, princesse de Florence, déclarée royne
+de France, ainsi que nous dirons après que
+nous aurons descrit la généalogie .de- C09me.
+</p>
+        <p>
+Je-Grand, l’aisné, duquel les Histoires sont
+toutes pleines de losanges de ce grand personnage.
+Il’devint suspect à plusieurs, à cause
+de son excessive libéralité et facilité de moeurs,
+expérimenta l’incolistanoe de la fortune , et
+la force de l’envie ;laquelle, comme un autre
+Coriolan, le fit exiler quelque temps de sa
+patrie ingrate : mais ce luy fut un eschelon
+pour-monter à une plus grande gloire, et
+pour s’ancrer plus avant dans les coeurs de
+ses citoyens , qui le rappelèrent depuis, luy
+allant toute la ville au-devant, avec grande
+pompe et magnificence, le saluant pere de la,
+patrie ; lequel tiltre d’honneur kiy est demeuré
+sravé en son tombeau.: retour que les
+historienscomparent à celuv de Cicéron en la
+ville de Rome, et disent que jamais auparavant
+aucun n’entra avec tant de gloire et d’appareil
+que luy eu la ville de Florence. Une partie
+jde ses ennemis furent bannis sans espérance
+</p>
+        <p>
+4500,
+</p>
+        <pb xml:id="PAG_00000047" n="39" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f47.image"/>
+        <p>
+C 4
+</p>
+        <p>
+de rappel ; les autres massacrez et descapitez
+par le peuple. Il rétablit, par sa puissance,
+François Sforce en son duché de Milan ;
+bastit -et fonda somptueusement cinq belles
+églises ou monasteres, et autant de palais,
+y employant quatre millions d’or. Il donna
+aux pauvres un million d’or par aumosne ;
+fit un bel hospital en Hiérusalem, qu’il
+renta magnifiquement, "pour l’usage des pèlerins
+ ; gouverna la république paisiblement
+trente-un ans, fut le premier homme d’estat,
+le plus riche, le plus aumosnier, le plus respecté
+de son siecle , et de tous autres en général
+(pour parler avec Nestor) , qui ont
+laissé leurs mémoires engravez ez-anciennes
+et modernes maisons de l’Italie. Il décéda
+l’an 1464, regretté mesmes de ses ennemis,
+laissant un exemple immortel à tous les princes
+chrestiens, que la piété , dévotion , et
+vertu chrestienne n’est pas incompatible avec
+l’estat, voire le renforce et l’asseure davantage
+que toutes les ruses et inventions humaines,
+subjectes à mille événements dangereux
+et funestes. Il maria
+Pierre de Médicis son fils, à Lucrèce de
+Tornaboni , de laquelle il eut,
+Laurens, pcre des Muses, et Julien son
+frere. L"on compare ceste Tornaboni à Cor-
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000048" n="40" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f48.image"/>nélia, mere des Gracches, qui fit instruire,
+et forma elle-mesme ez-bonnes lettres, .ces
+deux beaux esprits romains, et en toute sortede
+vertu. Politian a descrit en vers latins le
+triomphe de Julian, pour la victoire qu’il
+emporta aux tournois sur la plus-part de
+la noblesse d’Italie, et le progrez de son heureuse
+éducation. Deslors la maison de Laurens
+estoit comme une eschole de tous les
+plus doctes personnages de l’Europe, tels que
+furent Politian , Aretin , Ficin, Lascaris,
+Calcondile, et Trapezonce. Aussi le prince
+de la Mirande, homme d’esprit admirable^
+et autres , l’ont loué hautement et immortalisé
+enleurs doctes escrits, et luy ont acquis
+le surnom de pere clés sciences, esquelles il
+estoit très-versé , principalement en philosophie,
+poésie, musique ; tesmoins les beaux
+livres qu’il en a escrit. Il avoit les lettres en
+telle estime, et surtout la philosophie, qu’il
+prisoit plus ce qu’il en avoit que tous les
+thrésors du monde : aussi il fit dresser à gros
+frais une librairie de toutes sortes de livres
+grecs et latins , qu’il faisoit venir du bout de
+la Grèce. Je laisse à part la con j uration des
+Pazzi, contre luy et son frere Julian qui y fut
+massacré : la plus sanglante tragédie qui se
+puisse lire, et en laquelle se voit la grandeur
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000049" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f49.image"/>
+        <p>
+SEPTENNAIRE. 4I
+</p>
+        <p>
+du courage de Laurens, et l’affection plus
+que filiale que les Florentins luy portoiènt,
+et un traict admirable de la providence de
+Dieu, qui permit que ces deux freres, poursuivis
+à mort dedans l’église mesme, fussent
+( Dieu le voulant ainsi en témoignage de leur
+innocence et intégrité) peres de deux papes ;
+Julien de Jules de Médicis, qui fut Clément
+septiesme, et Laurens de Jean de Médicis,
+appelé puis après Léon dixiesme : mais surtout
+le nom de Laurens fut si célèbre partout
+l’univers, que mesme le grand turc Bajazet
+luy livra Bandin garotté, assassineur. de
+son frere Julien : le sultan d’Egypte l’honora
+de présens et ambassades honorables : les
+grands princes et les roys rechercherent son
+amitié. Politian descrit en une épistre sa
+mort, et les grands prodiges et pronostiques
+qui la précédèrent. Ledict Laurens laissa
+après soy trois enfants signalez ;
+</p>
+        <p>
+1 Jean, depuis pape Léon X ;
+2°. Pierre, second du nom , qui gouverna
+la république après son pere, quelque temps,
+et puis, pour avoir adhéré à Charles VIII,
+roy de France, et rendu quelques places
+fortes, fut proscrit par les Florentins, sa
+maison et ses biens pillez , la belle bibliothèque
+de Laurens ravagée : il se rengea du
+</p>
+      </div>
+      <div>
+        <head>1600</head>
+        <pb xml:id="PAG_00000050" n="42" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f50.image"/>
+        <p>
+party de Loys XII ; espousa la cause de te
+France , pour laquelle il battailla au royaume
+de -Naples jusques à la mort.
+</p>
+        <p>
+3°. Julian de Médicis , qui fut surnommé
+le Magnifique pour deux causes : pour estre
+libéral et munifique à toutes sortes de gens,
+et pour se plaire à choses exquises, rares et
+magnifiques, comme peintures, pierreries ,
+spectacles, et autres. Il entra au gouvernement
+de la république, fut lieutenant général
+de l’armée du pape, pour le secours des.
+</p>
+        <p>
+Sforcia et de l’Italie, ayant pris pour femme
+Philiberte de Savoye duchesse de Nemours,
+qu’il espousa avec grande pompe et magnificence
+non ouye, si qu’aux seules nopces
+furent despéndus cent cinquante mille escus.
+</p>
+        <p>
+Il mourut sans enfans légitimes, ne laissant
+qu’Hypolite de Mcidicis, qui fut archevesque
+d’A vignon et cardinal, luy succédant aja
+gouvernement de la Toscane, son neveu, filsde
+son frere Pierre, nommé,
+Laurens, duc d’Urbin, pere de Catherine
+de Médicis, royne de France, mere de tant
+de roys, et
+</p>
+        <p>
+Alexandre (g) , qui fut installé à la seigneurie
+de Florence par l’empereur Charles Y,
+avec lettres authentiques et expresses sur ce
+faict, qu’il reçeut au mois de juillet de l’an
+</p>
+        <p>
+j6oo.
+</p>
+        <pb xml:id="PAG_00000051" n="43" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f51.image"/>
+        <p>
+1531, scéllées du sceau d’or., où l’empereur
+le déclare prince de Florence, et en donne
+là cause, pour délivrer ceste pauvre république
+des séditions sanglantes , desquelles
+de tout tçmps elle avoit esté agitée ; et pour
+dompter son courage., si prompt et facite à
+désordre et rebellion ; à quoy se pouvoit facilement
+obvier par le gouvernement d’un
+souverain. L’empereur avoit reçeu beaucoup
+de bravades de ceste seigneurie ; l’avoit
+tenue assiégée presque un aixentier, jusques
+à la forcer de se.rendre à sa mercy : luy avoit
+pardonné, le sac de la ville, et pour ce, usant
+de sa victoire, la pouvant retenir pour soy Y
+s’il eust voulu, ayma Inièux y establir à jamais
+la maison de Médicis : et pour l’authoriser
+d’avantage, donna en mariage audit
+Alexandre, sa fille Marguerite d’Autriche.
+</p>
+        <p>
+Ces lettres leuës et intimées à la république,
+par Musserola son ambassadeur, furent l’e--
+çeuës de tftus avec grand applaudissement et
+resjouissance de toute la seigneurie : la forme
+des anciens magistrats fut abolie ; toute la
+police changée en une meilleure. ; la principauté
+introduicte l’an i53i, le 5 de juillet,
+et mois septiesme de l’année, jour que Florence
+doit tenir pour natal, et principe de
+SQn bonheur et repos, et l’enregistrer aux
+</p>
+        <p>
+1600Î
+
+<pb xml:id="PAG_00000052" n="44" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f52.image"/>fastes d’une mémoire et feste éternelle.
+</p>
+        <p>
+Alexandre, après avoir estably sa principauté
+par des belles loix qu’il fit, et par ceste belle
+forteressse qu’il bastit, pour tenir en-cervelle
+ses subjects, fut tué en sa maison, et en luy
+finit la branche de Cosme le grand , fils aisné
+de Jean-le pieux,
+Cosme de Médicis, son cousin:, luy succéda,,
+lequel fut reçeu seigneur dfe Florence :
+iljestoit issu d’un Laarens de Médicis, frère
+puiené de Cosme le .Grand, qui eut pour fils
+Pierre François, pere de Jean de .Médicis ,
+duquel nasquit Jean, surnomme l’invincible,
+per.e de ce Cosme, d’où nous parlons maintenant.
+Les Florentins, pour ne contreveniraux
+loix que leur avoit donné l’empereur, et
+n’ayans estéaucunement consentans à la mort très-inique
+d’Alexandre, reçeurent- Cosme pour
+leur .prince, avec beaucoup d’affection
+ ; et l’empereur , par lettres expresses ,.
+</p>
+        <p>
+ordoittia que doresnavant il serqit-honoré de
+</p>
+        <p>
+tilt,re. de duc*, que -ses devanciers n’avoient
+jamais voulu prendre, ge contentans dunom
+de seigneur. Il eut de madame Eléonor de
+Tolede, fille du vice-roy de Naples, cinq enfants
+, Francois, Ferdinand, Pierre Garcia J
+« 
+Isabelle, et Eléonor. François,
+filsaisiié de Cosme a esté l’unde¡,
+</p>
+        <p>
+1600,
+</p>
+        <pb xml:id="PAG_00000053" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f53.image"/>
+        <p>
+SEPTENNAIRE. 4S
+</p>
+        <p>
+.plus braves princes de ce siècle ; il fut marié
+à Jeanne d’Autriche, fille de l’empereur
+Ferdinand, mere de la royne, et mourut
+sans hoirs masles.
+</p>
+        <p>
+Ferdinand, oncle de la royne, défaillant
+La ligne masculine de de son frere, succéda
+à ses vertus et à son duché, qu’il gouverne
+aujourd’huy si heureusement que chacun
+sçait, ayant espousé madame Christine de
+Lorraine, fille du duc de Lorraine, une des
+_nobles, anciennes, catholiques et héroïques
+maisons de toute la chrestienté.
+</p>
+        <p>
+Voilà un abrégé de la généalogie de la
+,maison de Médicis, laquelle nous a donné
+deux roynes de France, Catherine femme
+de Henry II, et Marie qui, recherchée par
+l’empereur Rodolphe, .est en cest an 1600 ,
+réservé pour le roy Henry IV, et déclarée
+royne de France : de son mariage, de sa venuë
+en France, et de la bénédiction nuptiale,
+nous le dirons cy-après.
+</p>
+        <p>
+Durant que l’on çontractoit le mariage du
+roy à Floreilce, sa majesté s’en alla à Fontainebleau
+pour y faire sa diete, où cependant
+qu’il y.fut, il s’y passa une conférence
+fort célebre entre monsieur Févesque d’Evreux(
+io) ,et le sieur du Plessis Mornay (II).
+</p>
+        <p>
+L’occasion de laquelle jfot telle,. Le sieur du
+</p>
+        <p>
+1600.
+</p>
+        <p>
+J.
+</p>
+        <pb xml:id="PAG_00000054" n="49" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f54.image"/>
+        <p>
+Plessis dès l’année passée avoit mis un livre
+en lumière, intitulé, l’lnstition de la
+ïSaincte Eucharistie, dans lequel il vouloit
+prouver, par le tesmoignage des Peres, que
+la saincte messe n’avoit été seulement incognuë
+en corps et en masse, mais com-
+batuë en toutes ses parties par la vénérable
+antiquité.
+</p>
+        <p>
+Dès que ce livre fut mis. en lumiere, il
+« ■'y remarqua par plusieurs docteurs en théologie,
+une infinité de faulsetez aux allégations
+qu’il faisoit des Peres. Il fut deffendu,
+par censure de la faculté de Paris ; en d’autres
+endroits, on le brûla publiquement. Bulenger
+fut des premiers qui y respondit. Du
+Puy, officiai de Bazas, Fronto le duc, jésuite
+, en font imprimer des inventaires des
+passages falsifiez ; l’on publie les et cetera
+-qu’il avoit oubliez ; l’on ne parle que de ce livre
+parmy les doctes.
+</p>
+        <p>
+Le 20 de mars de ceste présente année,
+ledict sieur du Plessis estant à Paris, rencontra
+ail logis de madame la princesse d’O-¡
+ranae, le sieur de sainte Marie du Mont
+( qui faisoit encores lors profession de la religion
+prétendue réforméé )  ; ils retomberent
+sur quelques propos qu’ils avoient eu les
+jours précédents, touchant -ce livre, dans
+</p>
+        <p>
+&gt;600.
+
+<pb xml:id="PAG_00000055" n="47" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f55.image"/>lequel le sieur de saincte Marie l’asseura y
+avoir veu plusieurs faulses allégations : ce
+fut la cause pour laquelle ledict sieur du
+Plessis se résolut de deffier en général tous
+ceux qui l’accusoient de faux ; et bailla audict
+sieur de saincte Marie une semonce générale
+, tant au sieur évesque d’Evreux, qu’à
+ceux qui le blasmoient d’avoir allégué faux
+en son livre, afin de se joindre avec luy, et
+soubsigner en une requeste, pour supplier
+le roy de donner commissaires pour yériffier
+les passages de son livre de ligne en ligne.
+</p>
+        <p>
+Ceste semonce fut incontinent imprimée et
+publiée à Paris.
+</p>
+        <p>
+Le sieur évesque d’Evreux estant en son
+évesché reçoit, le 24 du dict mois, ceste semonce
+à laquelle il fait responce le 25, qu’il
+fit aussi publier , se soubmettant qu’en
+la présence du roy ou de telle compagnie
+de personne capables qu’il plairoit à sa majesté
+ordonner, de monstrer audict sieur
+du Plessis cinq cens énormes faulsetez de
+compte faict et sans hiperbole, dans son livre
+contre la messe, lesquels il choisiroit d’un
+beaucoup plus grand nombre ; déclarant que
+pour la requeste que ledict sieur du Plessis
+desire présenter à sa majesté, qu’il luy en
+donne consentement et adjonction ; qu’il s’y
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000056" n="48" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f56.image"/>tenoit desjà pour signé, voire de son propre
+sang : mesmes ledict sieur évesque envoya sa
+responce imprimée au roy, avec une lettre,
+par laquelle il le supplie de permettre ceste
+conférence.
+</p>
+        <p>
+Le sieur du Plessis en escrit aussi une au
+roy à mesme fin, et dressa une réplique sur
+là responce de l’évesque d’Evreux qu’it fitimprimer,
+où il se promet bonne issue ; et que
+si le sieur d’Evreux s’approche, nous verrons
+, dit-il, ce qu’il sçaura faire. Sa requeste
+fut présentée par monsieur le mareschal de
+Bouillon , par laquelle il supplie sa majesté
+d’ordonner des commissaires, pour examiner
+son livre depuis un bout jusques à l’autre.
+</p>
+        <p>
+Le 2 d’avril, le roy ayant reçeu les escrits
+de part et d’autre , se résolut de leur accorder
+la conférence qu’ils demandoient, et de
+vouloir que la vérité fust éclaircie, et commit-
+à M. le chancelier le soin d’acheminer
+l’affaire , et d’ouyr à ceste fin le sieur du
+Plessis, et au mesme temps, fit commander
+par lettres l’évesque d’Evreux , de se rendre
+promptement à Paris,, ce qu’il fit, et y arriva
+Je 7 d’avril. :
+</p>
+        <p>
+Sur ces entrefaictes, monsieur l’évesque
+dé Modene, nonce du pape, à qui on avoit
+donne quelque appréhension de l’instance
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000057" n="49" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f57.image"/>
+      </div>
+      <div>
+        <head>D</head>
+        <p>
+que le sieur du Plessis faisoit d’avoir des
+commissaires, alla trouver le roy, et luy re,
+monstra » que ceste action de députer des
+commissaires en matiere de religion estoit
+chose dépendante de Fauthorité ecclésiastique
+: et partant, supplioit-il sa majesté de ne
+se laisser point surprendre à la requeste qui
+luy en avoit esté présentée. »
+</p>
+        <p>
+Sur quoy le roy luy respondit ; « que les
+commissaires qu’il nommeroit pour cest effect,
+ne seroient point juges d’aucun différent
+de religion, mais seroient seulement
+hommes doctes, qu’il choisiroit pour estre
+spectateurs ,~tesmoins et garands de la vérité
+de ceste conférence ; lesquels, s’il se présentait
+quelque difficulté lorsqu’il faudroit traduire
+les passages en francois, pour les faire
+entendre aux assistants, pourroient bien dire
+leur advis sur la version des mots, mais non
+sur aucun point de théologie au fonds ; comme
+aussi il ne traicteroit rien de tel en toute
+ceste action, mais seulement s’examineroit le
+faict particulier du sieur du Plessis, pour
+sçavoir s’il auroit commis quelques faulsetezf
+littérales en ses allégations. » Et de ceste responce,
+ledict sieur nonce se retira très-content
+et satisfaict.
+</p>
+        <p>
+Les jours suivants, le roy remit sus par plu.
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000058" n="50" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f58.image"/>sieurs fois le mesme propos avec diverses personnes
+de l’une et de l’autre religion ; et après
+avoir ouy toutes sortes d’advis, se confirma
+dé plus en plus en la délibération de faire
+ceste conférence ; et voyant que beaucoup
+de ceux de la religion prétendue réformée ne
+la désiroient pas moins que plusieurs catholiques
+, se proposa d’essayer par toutes
+voyes douces et charitables de la faire servir
+d’acheminement à quelque bonne et heurense
+réunion et reconciliation des uns afec
+les autres.
+</p>
+        <p>
+Et pourtant, afin qu’il ne restât aucun
+subject, ny à eux, ny au sieur du Plessis
+- mesme, de penser qu’on eust procédé en ceste
+action, sinon avec toute amitié de leurs personnes
+et soin de leur salut, voulut faire eslection
+des députez pour y assister , qui fussent
+gens de doctrine singulière et profité
+irrépréhensible ; et outre cela, que l’on ne
+peust estimer avoir esté occupez d’aucune
+passion et animosité, mais au contraire, remplis
+de toute faveur et bienveillance envers
+la personne particulière du sieur du Plessis.
+</p>
+        <p>
+A ceste occasion donc , sa majesté choisit,
+pour les catholiques, premièrement, M. le
+président de Thou (12) , personnage très-excellemment
+versé en toutes sortes de bonnes
+lettres, et spécialement en la cognoissaace
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000059" n="6" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f59.image"/>
+        <p>
+Da
+</p>
+        <p>
+exquise des langues et de l’antiquité, et duquel
+l’intégrité aux choses qu’il estime estre
+de la justice, et la fermeté en celtes qu’il croit
+estre de la vérité, est inflexible ; et au reste
+allié d’alliance fort proche , et conjoitict de
+longue et estroitte amitié avec le sieur du.
+</p>
+        <p>
+Plessis ; et bref, homme en la personne duquel
+il ne pouvoit trouver rien de défavorable
+pour luy , sinon le seul amour tle ] a vérité
+ ; et secondement le sieur Pitliou, advocat
+en la cour de parlement de Paris (13) , dont la
+preud’hommie et littérature sont universellement
+célébrées des uns et des autres, et
+-avec lequel, outre cela, le sieur du Plessis
+faisoit profession de grande amitié et familiarité
+ ; et en troisiesmelieu, le sieur le F ebvre( i 4) ,
+précepteur de M. le prince de Condé, homme
+auquel l’excellencede la doctrine, et la pureté
+et candeur des mœurs, reluisent esgalement ;
+et pour ceux de la religion prétenduë réformée,
+monsieur le président Calignon, chancelier
+de Navarre, personnage- très-docte et
+très-judicieux ; et le sieur de Cazaubon, lec-,
+teur de sa majesté, l’un des ornements de
+lettres humaines de ce siecle ; et commit,
+sadicte majesté, M. le chancelier (*) , pour recueillir
+leurs advis quand l’occasion s’en
+(*) Pomponne de Bellièvre,
+</p>
+        <p>
+i6ooe
+
+<pb xml:id="PAG_00000060" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f60.image"/>f
+i) 2 CHRONOLOGIE
+</p>
+        <p>
+présenteroit, et estr.e le directeur et mode.rateur
+de toute l’action, à laquelle, pour apporter
+encore plus de respect et d’authorité,
+elle voulut estre présente elle-mesme ; et afin
+que ce fust sans, divertissement, esleut pour
+le temps celuy de sa diete et pour le lieu,
+celuy de Fontainebleau.
+</p>
+        <p>
+Depuis, en la place de M. le président
+Galignon, qui demeura malade à Paris, entra
+monsieur de Fresne Canaye, président-de
+la chambre establie pour ceux de la religion
+prétendue en Languedoc ; qui arriva à Fontainebleau
+la veille de la conférence, homme
+outre la suffisance de sa profession, doué de
+plusieurs éminentes parties, et entr'autres &gt;
+de la philosophie, et de la cognoissance des
+langues et de l’antiquité ; et au lieu jiu sieur
+Je Fehyre, qui ne put arriver assez tost, à
+cause du retardement de la venuë de inondit
+seigneur le prince, succéda le sieur Martin,
+lecteur, et médecin du roy , homme très-sin.guJier
+en toutes sortes de sciences, et patticulièrement
+ez-langues latine, grecque, hébraïque
+et arabique.
+</p>
+        <p>
+Lesamed y donc 21 d’avril sa majesté s’achemina
+à Fontainebleau et manda en partant
+à l’évesque d’Evreux, qu’il s’y rendist
+la sépmaine suivante, en la compagnie de
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000061" n="53" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f61.image"/>
+        <p>
+D 3
+</p>
+        <p>
+monsieur le chancelier, ce qu’il fit, et y arriva,
+le vendredi 2 y d’avril a midy.
+</p>
+        <p>
+Le samedy d’après, qui estoit le 28 du
+mesme mois , arriva le sieur du Plessis , ^uï
+s’excusa au roy de ce qu’il n’avoit point apporté
+de livres, pour ce qu’on ne l’avoit
+point adverty de venir, n’ayant pas’, M. lechancelier,
+compris des paroles de sa majesté
+, qu’elle luy eust fait ce commandement ;
+en partant ; et le lendemain, 29 .du mesme
+mois, présenta à sadicte majesté une requeste
+contenant,
+« Que s’estant offert à voir examiner sonlivre
+de bout à autre, pour le purger des
+blasmes de faux qu’on luy imputoit, le sieur
+évesque d’Evreux aiiroit publié un escritpar
+lequel il se sousmettoit de luy monstrer., en
+présence de sa majesté cinq cents faulsetez
+éhormes de compte fait, et sans hyperbole :
+et icelles si évidentes, que la seule ouver-.
+</p>
+        <p>
+tune des livres suffiroit pour les convaincre ;
+offroit en outre luy maintenir qu’il n’y a un.
+</p>
+        <p>
+seul passage audiot livre, qui ne soit faulsement,
+impertinemment ou inutilement allégué.
+En quoy il auroit accusé généralement
+tous les passages dudict li vre-.
+</p>
+        <p>
+« Partant, qu’en persistant à sa premiere
+proposition , il supplie sa, majesté de donner
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000062" n="54" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f62.image"/>charge aux commissaires d’examiner par
+ordre tous les passages de son lite , afin que
+ceux qui ne seront point impugnez de faux
+soient tenus pour vérifiez : et d’ordonner
+que ledict sieur d’Evreux luy hailleroit par
+escrit signé de sa main les- cinq cents passages
+prétendus faux. »
+</p>
+        <p>
+Ceste requeste ayant esté rapportée auroy
+par monsieur le chancelier, l’advis de sa
+majesté et le sien, furent, qu’elle fust communiquée
+à l’évesque d’Evreux , lequel
+pour cest effect le roy.envoya querir tout à
+l’heure mesme ; et sitost qu’il fut arrivé , la
+luy mit entre les mains, et luy commanda
+de la voir sur le champ, et d’y respondre.
+</p>
+        <p>
+La resppnse donc de l’évesque d’Evreux
+fut ; « quant à la demande que le sieur du
+Plessis faisoit, que tous les passages de son
+livre fussent examinez : il l’avoit desjà refusée
+par la response à son premier appel, et
+rendu les raisons de son refus : et le siewr
+du Plessis,-sur ceste response, l’avoit sommé
+de venir. Au moyen dequoy il n’estait plus
+lors recevable à la mettre en avant.
+</p>
+        <p>
+« Et quant à l’occasion qu’il prenoit de la
+réitérer sur les offres qui luy avoient esté
+faictes , de luy monstrer qu’il n’y avoit rien
+dans son livre qui ne fust, ou faulsetnent,
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000063" n="55" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f63.image"/>
+        <p>
+D 4
+</p>
+        <p>
+ou inutilement, ou impertinemment cité, il
+</p>
+        <p>
+soustenoit qu’elle estoit nulle :
+« Car les deux offres qu’il luy avoit faictes,
+l’une de luy monstrer cinq cents faulsetez
+dans son livre, et l’autre de luy maintenir
+qu’il n’y avoit aucun passage qui ne fust de
+ce genre là, ou impertincmment, ou inutilement
+allégué, avoient esté deux offres distinctes,
+et qu’il avoit promis d’effectuer
+séparément, l’une en qualité d’accusateur,
+et l’autre en qualité de deffendeur ; l’une ,
+en se mettant premièrement sur l’offensive
+pour impugner ses fausses allégations ; l’autre
+, en se réduisant puis après sur la défensive
+pour souldre ses faulses conséquences ; et
+partant, puisque ses offres aboient esté séparées,
+le sieur du Plessis ne les pouvoit confondre
+, pour empescher le cours de l’une
+par le meslange de l’autre ; mais devoit purger
+le crime de faux intenté contre les plus
+éminents passages de son livre, devant que
+d’estre receu à agir en l’ordinaire par les
+autres. »
+</p>
+        <p>
+Adjoustoit outre cela ledict évesque d’Evreux,
+« qu’il ne s’estoit pas soubmis d’examiner
+tous les lieux impertinents, ou inutiles
+dudict livre ; mais seulement un certain nombre
+de ceux que le sieur du Plessis choisirait
+</p>
+        <p>
+i6eç..
+
+<pb xml:id="PAG_00000064" n="56" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f64.image"/>luy mesme pour les plus forts, ann de faire
+voir par l’exemple de l’eschantillon de ceux
+là, que tous les autres estoient tels qu’il: les
+qualifioit : à raison dequoy il ne se pouvoit
+prévaloir de ceste offre - pour l’obliger à
+examiner tout son oeuvre de bout en bout.
+</p>
+        <p>
+Chose qu’il ne refusoit pas nçantmoins pour
+la difficulté, mais pour la longueur de l’action
+, et pour l’empeschement qu’elle apporteroit
+à sa majesté , de voir les lieux faux,, en
+s’arrestant sur la dispute des inutiles : car
+après cette conférence, toutesfois et quanteg
+qu’il plairoit au sieur du Plessis demeurer
+pour cest effect six mois de pied ferme en
+quelque lieu , il s’obligeoit de réfuter lors a
+sa veuë tout son livre, page^près page , et
+ligne après ligne, en présence des tesmoins
+et escrivains dignes de foy, »
+« Et pour le regard de l’instance qu’il luy
+faisoit d’approuver l’allégation littérale de
+tous les 'testes qu’il n’impugneroit point de
+faux, qu’elle estoitentièrement injuste ; car
+il en pourroit obmettre plusieurs , ou pour
+n’estre pas si éminents , ou afin de n’ennuyer
+pas les assistants d’un nombre trop
+excessif ; que pour cela, il ne seroit pas
+obligé de les recognoistre pour véritables.
+</p>
+        <p>
+ii Et quant à ce que ledict sieur du Plessis ;
+</p>
+        <p>
+r6oq.
+
+<pb xml:id="PAG_00000065" n="57" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f65.image"/>demandait par escrit signé de sa main les cinq
+cents passages prétendus alléguez à faux, le
+sieur évesque d’Evreux luy offroit d’en consigner
+la liste entre les mains de sa majesté ,
+cottez seulement pour éviter une plus grande
+longueur, dés noms, livres et chapitres des
+autheurs dont ils seroient pris , et des pages
+et lignes du livre du sieur du Plessis, où ils
+seroient employé ?. De laquelle liste ledict
+évesque d’Evreux en tireroit tous les jours
+cinquante, selon l’ordre qu’il adviseroit bon
+estre, pour les proposer au sieur du Plessis. »
+</p>
+        <p>
+Le roy trouva ces offres raisonnables, et
+pour çe , donna charge à monsieur le chancelier
+qui y assistait, de les faire entendre
+au sieur du Plessis ; et luy dit, « qu’il luy ostast
+tout prétexte de craindre que la conférence
+se rompist, et qu’il luy engageast sa
+parole , que tant qu’il voudroit tenir pied
+ferme, il ne partiroit point de Fontainebleau
+que ceste action ne fust achevée , et les cinq
+cents passages examinez , et qu’il y demeurerait
+plustost deux mois entiers , -n’y ayant
+affaire au monde, qu’il ne postposast à cellelà
+, où il alloit de l’honneur de Dieu , et du
+moyen d’ouvrir quelque chemin de paix et
+de repos aux troubles de l’église ; et à ceste
+fin , luy commanda de les faire venir tons
+</p>
+      </div>
+      <div>
+        <head>1600</head>
+        <pb xml:id="PAG_00000066" n="58" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f66.image"/>
+        <p>
+deux en son logis, et parler premièrement à
+eux séparément, pour tascher de les accorder
+des conditions ; et au cas qu’il ne peust
+gaigner ce point sur eux, - d’essayer de les
+mettre ensemble, pour voir s’ils s’en pourroient
+accorder. »
+</p>
+        <p>
+Ce que monsieur le chancelier accomplit
+de point en point ; et ayant fait venir l’évesque
+d’Evreux en sa chambre , et le sieur du
+Plessis en sa galerie, alla luy-mesnfe rapporter
+audict sieur du Plessis les responses et
+offres de l’évesque d’Evreux ; et de là print
+la peine de revenir dire à l’évesque d’Evreux.
+</p>
+        <p>
+le refus qu’il faisoit d’y entendre, puis luy
+demanda s’il auroit agréable de parl er avec
+ledict sieur du Plessis : ce que l’évesque
+d’Evreux luy ayant respondu qu’il auroit
+très-agréable , et qu’ils s’accorderoient bien
+plus aisément en parlant de vive voix l’un à
+l’autre que par interprete ; il fit la mesme
+demande au sieur du Plessis, qui n’y voulut
+point prester l’oreille.
+</p>
+        <p>
+- Le lendemain, que messieurs les commissaires
+députez furent arrivez à Fontainebleau
+, le sieur du Plessis présenta encores
+à sa majesté une autre requeste peu différente
+de la premiere, sur laquelle le roy
+manda le sieur évesque d’Evreux, lequel
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000067" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f67.image"/>
+        <p>
+SEPTENNAIRE 5^
+</p>
+        <p>
+en présence de monsieur le chancelier , de
+monsieur de Rosny , et de messieurs les commissaires
+- dit, qu’il supplioit très-humblementsa
+majesté d’avoir agréable qu’il demeurast
+dans les termes des responses et offres
+qu’il avoit desjà faictes, lesquelles il répéta
+lors de rechef en présence desdicts sieurs
+assistants.
+</p>
+        <p>
+Ceste response ouye , le roy luy commanda
+de se retirer, et dit à monsieur le
+chancelier, qu’il prit là dessus les opinions
+de messieurs de Rosny et président deThou,
+et des sieurs Pitou, Martin et Cazaubon,
+lesquels , tous d’une voix , furent d’ad vis ,
+que l’évesque d’ Evreux s’es toit mis à la raison
+, et que le sieur du Plessis ne le pouvoib
+refuser ; et .que puisqu’il offroit d3entrer chaque
+jour de conférence par cinquante articles
+à la fois y qu’il proposeroit tous escrits devant
+que de commencer, on ne pouvoit dire
+que ce fust seulement pour effleurer quelques
+passages de son livre. Ce que monsieur le
+chancelier ayant rapporté au roy, sa majesté
+luy commanda d’envoyer querir le
+sieur du Plessis , et de luy prononcer cesarrest
+ ; et au cas qu’il ne s’y voulust soubsmeltre,
+luy déclarer qu’elle ne laisseroit
+</p>
+        <p>
+iGoa.
+
+<pb xml:id="PAG_00000068" n="60" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f68.image"/>pas de passer outre, et de faire procéder à
+l’examen de son livre en son absence.
+</p>
+        <p>
+- Au mesme instant donc monsieur le chancelier
+envoya querir le sieur du Plessis, et
+luy dit au mesme lieu, et en présence des
+mesmes assistans, qu’il avoit recueilly par le
+commandement du roy, les voix de messieurs
+de Rosny et président de Thou, et des
+sieurs Pithou, Martin et Cazaubon, là présents
+, sur le contenu de sa requeste ;lesquels-
+eslolent tous d’un ad vis, comme aussi estoit
+le sien, que l’évesque d’Evreux s’estoit mis
+à la raison, et qu’il ne pouvoit refuser les
+offres qu’il luy avoit faictes ; ce que le roy
+luy avoit commandé de luy signifier, afin
+qu’il ad visast de s’y accommoder. A quoi le
+sieur du Plessis ayant respondu qu’il ne le
+pouvoit faire, monsieur le chancelier reprit
+la parole', et lui dit qu’il y pensast, et que
+</p>
+        <p>
+le roy estoit délibéré, s’il n’acceptoit ces conditions,
+de faire examiner son livre en son
+absence, et que s’il se trou voit qu’il eust escrit
+faux en matiere si sacrée, ce luy seroit un
+très-grand blasme, et partant qu’il luy importait
+fort de se justifier. A cela le sieur du
+Plessis respondit pour sa derniere résolution,
+qu’il ne le pouvoit accepter, et qu’il aymoit
+</p>
+        <p>
+iSoo.
+</p>
+        <pb xml:id="PAG_00000069" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f69.image"/>
+        <p>
+S EPT ENN AIRE. 6t
+</p>
+        <p>
+1nieux que son livre fust condamné indeuëment
+en son absence, qu’en sa présence.
+</p>
+        <p>
+Ce rapport faict au roy, par monsieur le
+chancelier, sa majesté ordonna, qu’on passeroit
+outre, et qu’on commenceroit le mesme
+-jour à trois heures après midy. Puis changeant
+d’advis, elle remit la partié au lendemain
+sept heures du matin ; et envoya-au
+sortir de son disner, querir l’évesque d’Evreux,
+pour l’en adverlir * et sur diverses
+allées et venuës qui se firent vers elle par
+plusieurs personnes de la religion prétendue,
+les unes pour destourner cest examen, les
+autres pour proposer de nouvelles ouvertures
+de conférence, le retint avec elle toute
+l’après-disnée, et jusques après son souper,
+afin d’ouïr ses responses sur leurs propositions.
+Pendant lequel temps, toute la cour
+n’estoit pleine d’autre bruit, que le sieur du
+Plessis partoit le lendemain matin pour s’en
+retourner à Paris.
+</p>
+        <p>
+- Le mesme jour donc, à huict heures du
+soir, l’évesque d’Evreux se retirant de la
+chambre du roy, rencontra, comme il estoit
+prest d’en sortir, les sieurs de Castelnau et
+de Ghambret, et estant tombé avec eux sur
+le mesme propos, le sieur de Castelnau luy
+dit, que c’estoit dommage que ceste confé-
+</p>
+      </div>
+      <div>
+        <head>1600</head>
+        <pb xml:id="PAG_00000070" n="62" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f70.image"/>
+        <p>
+rence n’avoit peu réussir, et que ce qui se
+feroit en l’absence du sieur du Plessis, n’apporteroit
+aucun fruict, d’autant que pas un
+des leurs n’y assisteroit ; et que si à tout le
+moins il luy eust baillé demy-douzaine de
+passages pour s’y préparer, il eust fermé la
+bouche à beaucoup de gens. A ce mot, l’évewue
+d’Evreux prit la parole, et leur demanda
+s’ils avoient asseurance du sieur du
+Plessis, qu’au cas qu’il luy en envoyast cinquante,
+il fust résolu de s’y trouver ; mais
+luy ayant respondu.que non, il répliqua, N
+qu’il n’avoit donc que leur dire.
+</p>
+        <p>
+Monsieur le Grand qui avbit ouy les propos
+qui s’estoient tenus entre-eux, en alla
+faire le récit au roy, qui, au mesme temps,
+renvoya quérir ledict évesque, et lui dit,
+qu’on luy avoit rapporté, qu’il avoit offert
+de bailler par escrit au sieur du Plessis, cinquante
+passages pour se préparer à respondre
+dessus le lendemain. A quoi il respondit,
+qu’il avoit bien demandé au sieur de Castelnau,
+s’il avoit parole du sieur Duplessis,
+qu’au cas qu’il les luy envoyast, il conrparoistroit,
+mais qu’il n’en avoit point faict
+d’offre formée ; néantmoins, que s’il plaisoit
+à sa majesté luy commander de le faire, il
+luy obéiçoit, pourveu qu’elle eust aussi agrea-
+</p>
+        <p>
+jlÊoo.
+</p>
+        <pb xml:id="PAG_00000071" n="63" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f71.image"/>
+        <p>
+Me que ce fust avec trois conditions, que la
+promptitude de ceste résolution luy faisoit
+requerir : la premiere, que le sieur du
+Plessis se prépareroit sur tout ce nombre de
+passages, et n’en choisiroit point clutivrit-esuns,
+pour rompre puis après sur les autres ;
+la seconde, qu’il ne seroit point obligé de
+les proposer selon l’ordre, selon lequel il les
+bailleroit, d’autant qu’il les luy faudroit
+prendre par cy par là, avec une excessive
+haste, pour les envoyer tout sur l’heure
+mesme au sieur du Plessis ; et la troisième,
+qu’au lieu de cinquante, il en mettroit
+soixante, afin que, si d’avantùre pour l’impatience
+du choix, il s’en trouvait huict ou
+dix qui se pussent tirer en quelque longueur
+de dispute, il passast aux autres, sans que
+pour cela le nombre des cinquante qu’il devoit
+proposer par chaque jour, laissast de
+demeurer complet.
+</p>
+        <p>
+Là dessus, le roy commanda ausdits sieurs
+de Castelnau et de Chambret, d’aller trouver
+le sieur du Plessis, et sçavoir, si au cas
+que l’évesque d’Evreux lui envoyast dez lors
+soixante passages, il s’obligeroit de compaJoistre
+le lendemain , et de souffrir l’examen
+sur tous ; ce qu’ils exécutèrent : et ayant demeuré
+près d’une heure et demie avec ledict
+</p>
+        <p>
+1600.
+
+<pb xml:id="PAG_00000072" n="64" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f72.image"/>sieur du Plessis, gagnèrent, tant par les rde
+monstrances qu’ils luy firent du préjudice
+que son refus apporteroitt et à sa causer et
+à sa personne, qu’il se résolut d’accepter
+cest c~ffre ; et se chargea le sieur de Chambret
+d’en retourner porter la response au
+wyiSur
+les dix heures et demie donc du soir,
+le sieur de Chambret vint trouver le roy, et
+luy dit que le sieur du Plessis acceptoit
+l’offre des soixante passages, et qu’il seroit
+prest sur tous, pourveu que l’évesque d’ETreux
+luy envoyast les livres dont ils estoient
+alleguez , et qu’il les eust seulement deux
+heures. Ce que sa majesté ayant entendu,
+elle commanda à l’évesque d’Evreux, qui
+.avoit jusques à lors attendu avec elle ceste
+response, d’en faire la liste, et de luy envoyer
+ses livres.
+</p>
+        <p>
+Une heure après, sur le point justement
+que onze heures sonnoient, le sieur du Pef,ron,(
+1 5 ) frere de l’ évesque d’E vreux, porta l’ès
+soixante passages au roy, et un par dessus,
+qui les envoya tout à l’heure mesme au sieur
+du Plessis, et tost après, le sieur de Sallettes
+lui fit porter les livres dont ils avoient esté.
+</p>
+        <p>
+alléguez.
+</p>
+        <p>
+Le lendemain , qui fut le jeudi 4 de may,
+l’évesque
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000073" n="65" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f73.image"/>
+      </div>
+      <div>
+        <head>E</head>
+        <p>
+Fevesque d’Evreux , entre les six et sept
+heures du. matin , ijenvoya quérir ses livres,
+afin qu’ils fussent au logis du roy, à l’heure
+destinée pour la conférence ; et peu après,
+c’est à dire, environ les huit heures du matin,
+le sieur du Pléssis alla trouver sa majesté, et
+luy rendit la liste de l’évesque d’Evreux,
+avec ces propres mots : SIRE, des soixante
+passages que le sieur d’Evreux mJa envoyez,
+je nay eu le loisir d’en vérifier que dixneuf
+ ; de ceux là, je veux perdre l’honneur
+.et la vie, s’il s’en trouve un seul faux , ;.jf ;
+feray aujourd’huyparoistre à votre majesté,
+que je suis autre quelle ne m’estime.
+</p>
+        <p>
+Sur ces paroles, le roy envoya commander *
+à l’évesque d’Evreux de le venir trouver en
+sa galerie où il estoit, assisté de monsieur
+le chancelier, de monsieur de Rosny, et de
+messieurs les députez : et comme il fut arrivé
+, luy dit que le sieur du Plessis n’avoit eu
+le loisir de vérifier que dix-neuf passages des
+soixante qu’il luy avoit délivrez, et que là
+dessus il advisast à prendre party : et pour
+ce luy bailla le roolle que le sieur du Plessis
+luy avoit rendu, où estoient marquez les
+dix-neuf qu’il avoit choisis.
+</p>
+        <p>
+A quoi il respondit, qu’il supplioit trèshumblement
+sa majesté de se souvenir que
+</p>
+        <p>
+iGool
+
+<pb xml:id="PAG_00000074" n="66" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f74.image"/>le sieur du Plessis luy avoit donné sa parole
+de se tenir prest sur tous les soixante articles
+: et que ce qu’il luy en avoit envoyé
+soixante au lieu de cinquante, ç'avoit esté
+à cause du peu de temps qui restoit pour
+en faire l’esleçtion ; et afin quesi d’aventure
+il s’en trouVoit huict ou dix qui peussent
+oestre tirez par opiniastreté en quel que dispute,
+le nombre de cinquante qu’il s"estoit
+obligéde fournir, par chaque jour, nelaissast
+-pas de demeurer : que ce n’avoit point esté
+par faute de temps, mais par choix et dessein,
+que le sieur du Plessis s’estoit réduit
+à ces dix-neuf : car il ne les avoit point pris
+selon l’ordre de la liste qui luy avoit esté
+baillée, mais les avoit choisis çà. et là , à son
+advantage ; comme il se voyoit en ce qu’il
+avoit pris le 27, 3g, 44, » 53, 56, et en
+avoit laissé entre deux de trop plus faciles
+à trouver, et pour la distinction des cottes :
+que néantmoins, afin de luy oster tout prétexte
+de rompre, ou de reculer, déclaroit
+ledict évesque d’E vreux qu’il acceptoit la
+conférence sur les mesmes passages qu’il
+àvoit-choisis, et selon le mesme ordre qu’il
+les avoit choisis*, pourveu qu’il s’obligeast de
+se tenir prest au prochain jour pour les
+autres s’asseurant, avec l’ayde de Dieu, qu il
+</p>
+      </div>
+      <div>
+        <head>1600</head>
+        <pb xml:id="PAG_00000075" n="67" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f75.image"/>
+        <p>
+E a
+</p>
+        <p>
+feroit paroistre que de ceux là mesme qu’il
+avoit esleus, il ny en avoit un seul qui ne
+fust faux.
+</p>
+        <p>
+A ce mot le roy reprit la parole, et luy
+dit (16)  : Quil s’abstint le plus quil poùrroit
+d’user des termes de faux et de fausseté.,
+pour ce que ç estoientparoles qui offensoient ;
+et qu’en ceste action falloit, essayer, non à
+aigrir, mais à adoucir et gaigner les esprits.
+</p>
+        <p>
+A l’heure donc assignée pour cest effect,
+à sçavoir à une heure après midy, les assistants
+se rendirent en la salle de la conférence
+, qui estoit la salle du conseil, où
+ils entrerent sans aucune confusion ; car sa
+majesté avoit faict mettre des gardes à toutes
+les advenues, pour empescher le désordre.
+</p>
+        <p>
+Et fut la disposition de l’assemblée telle.
+</p>
+        <p>
+Au milieu de la salle estoit une table de:
+médiocre longueur, à l’un des bouts de laquelle
+le roy estoit assis, et à main droite de
+sa majesté, l’évesque d’Evreux , et à main
+gauche et vis-à-vis de luy le sieur du Plessis,
+et au bas bout de la mesme table, les sieurs
+Pasquier et Vassant, commis de messieurs
+de Villeroy et de Fresne , secrétaires de la
+Conférence ; et au lieu de Lomenie et Vissouse,
+nommez aussi par Je roy à mesme fin
+pour le sieur du Plessis, le sieur de Bordea-
+</p>
+        <p>
+1600.
+</p>
+        <pb xml:id="PAG_00000076" n="68" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f76.image"/>
+        <p>
+Mercier, fils de Mercerus, jadis professeur
+aux lettres hébraïques.
+</p>
+        <p>
+Plus haut, à main droite du roy, estoient
+assis monsieur le chancelier et messieurs les
+députez, à sçavoir, messieurs les présidents de
+Thou et de Fresnes, et les sieurs Pithou, Martin
+et Cazaubon ; et derriere le roy estoient
+assis monsieur l’archevesque de Lyon (16 bis) 
+et messieurs les évesques de Nevers, de Beauvaiset
+de Castres ; et à main gauche messieurs
+les quatre secrétaires d’estat ; et derrierè les
+conférants estoient assis de part et d’autre ,
+les princes, à sçavoir, messieurs de Vaudemont,
+de Nemours, de Mercœur, de Mayenne,
+de Nevers, d’Elbeuf, d’Esguillon, de
+Joinville , les officiers de la couronne, conseillers
+d’estat et autres seigneurs de qualité,
+catholiques et protestans ; et derriere eux
+estoit le reste des autres auditeurs et spectateurs
+, qui se pouvoient monter jusqués à
+deux cents, parmy lesquels il y en avoit
+grand nombre de la religion prétenduë réformée,
+et entre-autres plusieurs ministres.
+</p>
+        <p>
+Les livres de toutes sortes, tant imprimez
+que manuscrits, estoient en la chambre des
+estuves, proche de la salle du conseil, d’où
+on les faispit vçnir à mesure qu’on en avoit
+- affaire.
+</p>
+        <p>
+ïfÎQO.
+</p>
+        <pb xml:id="PAG_00000077" n="69" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k6228000q/f77.image"/>
+        <p>
+E 3
+</p>
+        <p>
+Chacun donc ayant pris sa place, et le
+silence estant faict, le roy commanda à
+monsieur le chancelier de déclarer l’intention
+de sa majesté touchant ceste conférence ; ce
+qu’il fit avec l’éloquence et la gravité dignes
+de sa personne , en ces mots :
+~&lt; Messieurs , toutes choses coopèrent en
+biens à ceux qui sont bons. Si en l’affaire
+qui se présente nous apportons un esprit de
+paix et de charité » le Dieu de paix et de
+charité assistera de ses graces nos bonnes
+intentions. Il s’offre maintenant, (sur ce que
+monsieur du Plessis a faict entendre à monsieur
+l’évesque d’Evreux qu’il vérifiera devant
+le roy et les commissaires qu’il lui
+plaira députer, tous les passages alléguez en
+ses livres ; à quoi ledit sieur évesque auroit
+respondu, qu’il se soubmettoit de lui monstrer
+cinq cents faulsetez en son livre contre
+la messe ; (que sa majesté a permis ceste conférence
+, qui se faict entre deux hommes
+doctes , non pour entrer en dispute des
+poincts qui concernent la doctrine et le faict
+de la religion, ce que sa majesté ne souffriroit
+en aucune sorte, sans avoir sur ce la
+permission de notre sainct pere le pape, mais
+seulement à ce que l’on se puisse esclaircir
+4e la vérité littérale, ou faulseté desdites
+</p>
+        <p>
+i6o« ;
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

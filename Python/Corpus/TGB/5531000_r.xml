@@ -1,0 +1,4772 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="5531000" xml:id="cb302773689">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le livre du XXe siècle</title>
+        <author role="Auteur du texte" key="12211853">Cottin, Paul (1836-1925)</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>TGB (BnF – OBVIL)</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno>http://gallica.bnf.fr/ark:/12148/bpt6k5531000b</idno>
+          <publisher>Guillaumin</publisher>
+          <date when="1898">1898</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData>
+      <date>1898</date>
+      <title>Le livre du XXe siècle</title>
+      <dewey>300 - Sciences sociales</dewey>
+      <meta-data_comprehensiveness_score>0.67</meta-data_comprehensiveness_score>
+      <authors>
+        <author_1>
+          <alpha_key>cottinp</alpha_key>
+          <age_at_publication>62</age_at_publication>
+          <death>1925</death>
+          <birth>1836</birth>
+          <author>Cottin, Paul (1836-1925)</author>
+          <first_name_or_initials>Paul</first_name_or_initials>
+          <is_reconciliated>True</is_reconciliated>
+          <last_name>Cottin</last_name>
+          <role>Auteur du texte</role>
+          <key>12211853</key>
+        </author_1>
+      </authors>
+    </xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <pb xml:id="PAG_00000001" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f1.image"/>
+      <pb xml:id="PAG_00000002" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f2.image"/>
+      <div>
+        <head>Le livre du <num>XX<hi rend="sup">e</hi></num> siècle</head>
+        <p rend="left small">•.", uf <hi rend="i">y</hi> . »…</p>
+        <p rend="left">
+V CATÉCHISME
+</p>
+      </div>
+      <div>
+        <head>Social et politique</head>
+        <p rend="left small">— PREMIERS CHAPITRES —</p>
+        <p rend="left small">PAR</p>
+        <p rend="left">
+U <hi rend="sup">Cr</hi> ; PAUL COT1IN
+</p>
+        <p rend="left small">ANCIEN DÉPUTÉ</p>
+        <p rend="left">
+PARIS
+GUILLAUM1N ET C », ÉDITEURS
+</p>
+        <p rend="left small">14, rue Richelieu, 14</p>
+        <p rend="left small">LYON
+AUGUSTE COTE, LIBRAIRE, place Bellecour, 8.</p>
+        <pb xml:id="PAG_00000003" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f3.image"/>
+        <pb xml:id="PAG_00000004" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f4.image"/>
+        <pb xml:id="PAG_00000005" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f5.image"/>
+        <pb xml:id="PAG_00000006" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f6.image"/>
+        <p rend="left">
+          <big>Le Livre</big>
+          <big>du <num>XX<hi rend="sup">e</hi></num> Siècle</big>
+        </p>
+        <p rend="left">
+CATÉCHISME
+SOCIAL ET POLITIQUE
+</p>
+        <p rend="left small">— PREMIERS CHAPITRES —</p>
+        <pb xml:id="PAG_00000007" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f7.image"/>
+        <p rend="left">
+OUVRAGES DU MÊME AUTEUR
+</p>
+        <p rend="left">
+L’Enseignement Primaire dans les campagnes.
+</p>
+        <p rend="left">
+Trois Députés,
+</p>
+        <p rend="left">
+Lettre d’un Franc-Tireur.
+</p>
+        <p rend="left">
+Un Député en Algérie.
+</p>
+        <p rend="left">
+Nos Finances,
+</p>
+        <p rend="left">
+L’Impôt militaire.
+</p>
+        <p>
+Discours parlementaires (1871-1875)  : Décentralisation,
+Instruction publique, Lois constitutionnelles.
+Finances.
+</p>
+        <p rend="left">
+Rendement de compte.
+</p>
+        <p rend="left">
+Le pays de Gex.
+</p>
+        <p rend="left">
+Les prochains Traités de commerce.
+</p>
+        <p rend="left small">Ljoo. — Imp. A. RIT, 4, rue Gentil. — I7O45</p>
+        <pb xml:id="PAG_00000008" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f8.image"/>
+      </div>
+      <div>
+        <head>Le livre <hi rend="sup">du ;XXc</hi> siècle</head>
+        <p rend="left small">CATECHISME</p>
+      </div>
+      <div>
+        <head>Social et politique</head>
+        <p rend="left small">— PREMIERS CHAP1TRFS —
+PAR</p>
+        <p rend="left">
+LE <hi rend="sup">CTE</hi> PAUL COTTIN
+</p>
+        <p rend="left small">ANCIEN DEPUTE</p>
+        <p rend="left small">
+PARIS
+GUILLAUMIN ET C’S ÉDITEURS
+</p>
+        <p rend="left small">14, rue Richelieu, 14</p>
+        <p rend="left small">1898</p>
+        <pb xml:id="PAG_00000009" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f9.image"/>
+        <pb xml:id="PAG_00000010" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f10.image"/>
+      </div>
+      <div>
+        <head>Avant-propos</head>
+        <p><hi rend="i">En France, le xiX" siècle finit dans le
+désordre moral et l’inquiétude</hi>.
+</p>
+        <p><hi rend="i">D’aucuns attribuent ce fait à l’action du
+Gouvernement</hi>.
+</p>
+        <p rend="left"><hi rend="i">Ils s’en exagèrent la puissance</hi>.
+</p>
+        <p><hi rend="i">Une cause plus profonde du mal est le
+trouble qui règne dans les esprits en face des
+idées sociales les plus élémentaires</hi>.
+</p>
+        <p><hi rend="i">Droit, Liberté, Tolérance, Autorité, Vouloir,
+Gouvernement, État social, État politique,
+Rapports du spirituel et du temporel,
+Patrie, Patriot sine, Progrès, Civilisation,
+sont autant de choses sur lesquelles tous discutent
+et bien peu s’entendent</hi>.
+</p>
+        <p><hi rend="i">Chacune de ces choses, pourtant, est une
+idée, et l’ensemble de ces idées est un des fondements
+de Vordre social</hi>.
+</p>
+        <pb xml:id="PAG_00000011" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f11.image"/>
+        <p rend="left small">8 AVANT-PROPOS</p>
+        <p rend="left"><hi rend="i">La même incohérence règne dans le langage</hi>.
+</p>
+        <p><hi rend="i">Le vrai ne change pas, mais les mots qui
+rexpriment perdent de plus en plus leur sens
+exact, précis et primitif</hi>.
+</p>
+        <p><hi rend="i">La pauvreté de la langue, le chaos intellectuel,
+la multiplicité et l’ignorance des lettrés
+en sont la cause</hi>.
+</p>
+        <p><hi rend="i">Or l’esprit de l’homme ne conçoit clairement
+une idée qu’au moyen d’un terme qui la limite
+et l’incarne</hi>.
+</p>
+        <p><hi rend="i">Le vague des expressions aide donc puissamment
+au trouble des intelligences</hi>.
+</p>
+        <p><hi rend="i">Ce doit être l’oeuvre des écrivains dignes de
+ce nom, au seuil d’un nouveau siècle, de ramener
+un peu de clarté dans ces esprits et dans
+leur langue</hi>.
+</p>
+        <p rend="left"><hi rend="i">• Ce livre est une pierre apportée à cet édifice.
+nécessaire</hi>.
+</p>
+        <p rend="left small"><hi rend="i">Be.vuegani, Février</hi> 1898.</p>
+        <pb xml:id="PAG_00000012" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f12.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left">
+DU CHAPITRE PREMIER
+</p>
+        <p>
+Catéchisme et Philosophie. — Axiomes sociaux. —
+Sophocle, Bossuet, saint Augustin, Job, Darwin, le
+Play. —• Axiomes vus de ceux qui les nient. — Cause
+de l’erreur scientifique. — Panthéistes allemands. —
+Positivistes français. — Chapitres pour tous. — Bonne
+foi scientifique. Responsabilité. — Esprits divisés contre
+eux mêm »s. — Doute proche de la vérité.
+</p>
+        <pb xml:id="PAG_00000013" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f13.image"/>
+        <pb xml:id="PAG_00000014" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f14.image"/>
+        <p rend="left">
+          <big>Le Livre</big>
+          <big>du <num>XX<hi rend="sup">e</hi></num> Siècle</big>
+        </p>
+        <p rend="left small">CATÉCHISME
+SOCIAL ET POLITIQUE</p>
+        <p rend="left small">— PREMIERS CHAPITRES —</p>
+      </div>
+      <div>
+        <head>Chapitre 1</head>
+        <p rend="left">
+LES AXIOMES SOCIAUX
+</p>
+        <p rend="left">
+Ce <hi rend="i">Livre</hi> n’est pas une <hi rend="i">Philosophie</hi>.
+</p>
+        <p>
+A l’exemple des mathématiciens qui fondent
+tout leur édifice sur un certain nombre de propositions
+évidentes et que, pour ce motif, ils
+n’essayent pas de démontrer,onconsidèredonc
+pareillement ici comme admises certaines
+vérités tantôt visibles par elles-mêmes, tantôt
+faciles à établirai ! moyen de l’observation directe,
+soit des faits internes dont tout homme
+a conscience <hi rend="sup">1</hi>, soit des faits historiques.
+</p>
+        <p rend="left small"><hi rend="sup">1</hi> Sensations, actes intellectuels et volontaires, idées
+absolues.</p>
+        <pb xml:id="PAG_00000015" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f15.image"/>
+        <p rend="left small">12 CHAPITRE I</p>
+        <p rend="left">
+En voici quelques-unes :
+• I. <hi rend="i">Il y a un Dieu*</hi>.
+</p>
+        <p rend="left">
+II. <hi rend="i">Il ya une âme*</hi>.
+</p>
+        <p>
+III. <hi rend="i">Il existe hors de l’esprit humain, et directement
+aperçue de lui, une règle absolue,
+étemelle, immuable des volontés humaines,
+règle qui, comme l’indiquent ces caractères,
+est Dieu lui-même</hi> <hi rend="sup">2</hi>. <hi rend="i">On l’appelle</hi> Devoir.
+</p>
+        <p rend="small"><hi rend="sup">1</hi> Des trois causes distinctes dont les manifestations, les
+substances et les lois forment le cercle des connaissances
+humaines, Dieu est la plus visible, puisque l’homme ne
+pense, ne parle, ne se détermine que moyennant la vision
+d’axiomes, de lumières absolues qui sont Dieu même.</p>
+        <p rend="small">L’dme directement cmsciente de ses propres manifestations
+(<hi rend="i">sensations, pensées, sentiments, volontés) </hi> se connaît facilement
+aussi par là.</p>
+        <p rend="small">Le monde extérieur caché derrière le voile des sensations,
+intermédiaires obligées entre l’âme et lui, est, pour ce motif,
+plus malaisé à saisir ; si son existence est certaine, sa nature
+est pour la science un perpétuel sujet d’hypothèses.</p>
+        <p rend="left small">Xopo ;. Iv. jxst çtjvîiVj ^ECOVTt</p>
+        <p rend="left small">[xtfcx fâv eù'ijETiTOv âyvefov Xclycov</p>
+        <p rend="left small">81' ». ?0ép* T£XVWOÎVT£Ç, cov "OXU ;./.TOÎ
+nax/jp JXOVOÎ, <hi rend="i">VJZÎ</hi> viv
+Qvrra cpûii ; àvécwv</p>
+        <pb xml:id="PAG_00000016" n="13" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f16.image"/>
+        <p>
+IV. <hi rend="i">L’homme est responsable devant Dieu
+de l’accomplissement de son devoir</hi>.
+</p>
+        <p>
+V. <hi rend="i">L’homme a le devoir de se développer
+physiquement, intellectuellement et moralement</hi>.
+
+</p>
+        <p>
+VI. <hi rend="i">L’homme est un être social ; il a besoin,
+pour se développer, du secours de ses semblables</hi>.
+
+</p>
+        <p rend="left small">£T(XT£V 0'j5£ [./.YjTOTê AiOx <hi rend="i">x.%-■J.x.'■A'J.i'j■^^•</hi></p>
+        <p rend="left small">i:0&lt;I&gt;OKL. OIAIII. TÏP.
+<hi rend="i">Le cbixur</hi>. Que le sort me donne de conserver
+la sainte pureté de toutes les paroles
+et de toutes les actions, dont les lois
+ont leurs racines en haut, lois émanées
+du ciel, dont l’Olympe
+seul est le père, que n’a point
+créé la nature mortelle des hommes
+et que l’oubli ne détruira jamais !
+En elles vit le Dieu tout-puissant et il ne
+vieillit pas.</p>
+        <p rend="left small">(SOPH., <hi rend="i">OEdipe-roi)</hi>.</p>
+        <p rend="left small">— « L’entendement a pour objet des vérités éternelles</p>
+        <p rend="small">L’homme qui voit ces vérités par ces vérités se juge lui-même
+et se condamne quand il s’en écarte. Ou plutôt ce sont ces
+vérltéf. qui le jugent puisque ce ne sont pas elles qui s’ac2</p>
+        <p rend="left small"/>
+        <pb xml:id="PAG_00000017" n="14" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f17.image"/>
+        <p>
+VII. <hi rend="i">L’homme ne naît pas bon* et, dès lors,
+n’atteint pas naturellement sa fin primitive et
+normale</hi>.
+</p>
+        <p rend="left">
+VIII. <hi rend="i">Ce désordre i cette anomalie, cette</hi>
+</p>
+        <p rend="small">commodent aux jugements humains, mais les jugements
+humains qui s’accommodent à elles.</p>
+        <p rend="small">« Ces vérités éternelles que tout entendement aperçoit
+toujours les mêmes, par lesquelles tout entendement est
+réglé, sont quelque chose de Dieu ou plutôt sont Dieu même.</p>
+        <p rend="small">« Cartoutes ces vérités éternelles ne sont,au fohd, qu’une
+seule vérité. En effet, je m’aperçois, en raisonnant, que ces
+vérités sont suivies. La même vérité qui me fait voir que les
+mouvements ont certaines règles, me fait voir aussi que les
+actions de ma volonté doivent aussi ivoir les leurs. Et je
+vois ces deux vérités dans cette vérité commune qui me dit
+que tout a sa loi, que tout a son ordre: ainsi la vérité est
+une de soi. Qui la connaît en partie en voit plusieurs, qui
+les verrait parfaitement n’en verrait qu’une. » (BOSSUET,
+<hi rend="i">Connais, de Dieu et de soi-même</hi>, chap. IV, V.) </p>
+        <p rend="small"><hi rend="sup">1</hi> « L’animal social possède dès sa naissance tous les éléments
+de son propre bonheur et il est apte à servir sa communauté.
+Pour remplir son office il reçoit peu de chose ou
+même n’attend rien de l’éducation. A peine sortie de son
+enveloppe natale, l’abeille part sans hésiter, pour la récolte
+de la cire ou du miel. Dès lors, elle obéit docilement à l’impulsion
+que les chefs impriment, soit pour créer, soit pour
+défendre contre l’ennemi le patrimoine de l’association.
+Etudié au point de vue du concours donné à la paix sociale,
+l’individu sort « complet » des mains du Créateur.</p>
+        <p rend="left small">« Considéré au même point de vue dans les sociétés hu-</p>
+        <pb xml:id="PAG_00000018" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f18.image"/>
+        <p rend="left small">LES AXIOMES SOCIAUX 15</p>
+        <p>
+          <hi rend="i">contradiction, ce fait étrange que l’homme
+ait été créé pour une fin et que naturellement
+il n’y parvienne pas, ne peut s’expliquer que</hi>
+        </p>
+        <p rend="small">maines, l’individu présente les caractères opposés. Au début
+de sa vie, il reste longtemps incapable de pourvoir au
+bonheur de ses associés et même au besoin de sa propre
+existence.</p>
+        <p rend="small">« L’enfant n’est point spontanément porté au bien, loin de
+là, il montre une tendance innée vers le mal. Abandonné à
+cette tendance, il manifeste une volonté inintelligente presque
+toujours contraire aux intérêts de tous. 11 ne cède que
+sous la pression de la force à l’autorité de ceux qui le protègent
+contre sa propre faiblesse ou qui ont le devoir de
+veiller à la prospérité commune. S’il garde le pouvoir d’agir
+selon ses propres inclinations, le jeune homme ne reste pas
+seulement imparfait ; il devient de plus en plus insociable.</p>
+        <p rend="small">« Les pères en fondant leurs familles acquièrent naturellement
+la connaissance de ces vérités fondamentales. Ceux qui
+accordent quelque attention aux faits de leur vie journalière
+en concluent que l’individu, laissé à ses seules inspirations,
+reste incapable d’apporter au bien-être de la société dont il
+est membre le concours que chaque animal social donne
+spontanément à son espèce. Ils comprennent, en outre, que
+les degrés de souffrance et de prospérité observés dans une
+société d’hommes sont dans un rapport immédiat avec les
+idée ; dominantes, les moeurs et les institutions qui encouragent
+ou avec celles qui répriment les tendances innées des
+individus. Depuis un demi-siècle, je poursuis à ce sujet une
+enquête sur toutes les races humaines. De loin en loin j’ai
+rencontré des opinions discordantes chez quelques lettrés,</p>
+        <pb xml:id="PAG_00000019" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f19.image"/>
+        <p rend="left small">|6 CHAPITRE I</p>
+        <p rend="left"><hi rend="i">par une faute par lui commise à l’origine et
+dont sa situation actuelle soit la conséquence</hi>.
+</p>
+        <p rend="left">
+Ces vérités de bon sens et d’autres sem -
+</p>
+        <p rend="small">mais j’ai toujours constaté l’unanimité et l’énergie des convictions
+chez les hommes qui, même dans les situations les
+plus modestes, ont acquis quelque renom en exerçant un art
+utile. » (LE PLAY, <hi rend="i">les Ouvriers européens</hi>, I, m.) </p>
+        <p rend="small">— « La faiblesse des organes est innocente chez les enfants,
+mais non pas leur âme. J’ai vu, j’ai vu moi-même un petit
+enfant dévoré parla jalousie ; il ne parlait pas encore ; mais,
+tout pâle, il regardait d’un oeil haineux son frère de lait…
+Est-ce innocence, chez un enfant, que de ne vouloir pas partager
+une source de lait si abondante, et même trop abondinte,
+avec un enfant aussi faible que lui ?… Est-ce là donc,
+mon Dieu, cette innocence des enfants ! Non, cette innocence
+n’existe pas. Ce qu’ils sont alors avec leurs maîtres et leurs
+pédagogues pour les noix, les balles, les oiseaux, ils le sont
+plus tard ave: les rois et les magistrats, pour de l’or, des
+terres, des esclaves ; les objets de la passion changent avec
+les années, comme de plus grands supplices succèdent aux
+châtiments de l’enfance ; mais, au fond, c’est toujours la même
+chose. Vous n’avezeu d’autre pensée que de nous donner une
+leçon d’humilité dans la petite stature des enfants, lorsque
+vous avez dit (S. MATTH., XIX, H)  : « Le royaume des cieux
+esta ceux qui leur ressemblent. » (S. AUGUSTIN, <hi rend="i">Confessions</hi>,
+I, vu, 19.) </p>
+        <p rend="left small">— « Personne n’est absent de souillure, pas même l’enfant
+qui n’est que depuis un jour sur la terre. » (JOB, XIV, 4.) </p>
+        <p rend="left small">— « Les lettrés et les gouvernants à théories qui marchent</p>
+        <pb xml:id="PAG_00000020" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f20.image"/>
+        <p rend="left small">LES AXIOMES SOCIAUX 17</p>
+        <p>
+blables, admises sans conteste par les masses
+humaines spontanées, ne le sont pas toujours
+•par les intelligences dites cultivées.
+</p>
+        <p>
+Tous les aperçoivent, mais tous ne consentent
+pas à les affirmer.
+</p>
+        <p>
+Cette situation d’esprit, pour contradictoire
+qu’elle soit, n’est pas nouvelle.
+</p>
+        <p>
+Périodiquement, au cours de l’humanité,
+.un certain nombre d’hommes nient systématiquement,
+en tout ou en partie, l’existence
+de ce qu’ils voient.
+</p>
+        <p rend="left">
+Conduisant leurs pensées par de fausses
+</p>
+        <p rend="small">encore à la suite de J.-J. Rousseau continuent à ne pas tenir
+compte de l’ignorance, de la faiblesse, de la perversité innée
+de l’enfant. Ne se rendront-ils pas aux preuve* nouvelles,
+qi'en a données un homme peu suspect aux amis des nouveautés
+et qui est en même temps un savant observateur ?
+M Darwin a étudié jour par jour l’un de ses enfants ; or,
+av.int l’âge de deux ans, il avait pu reconnaître en lui et
+consigner dans son journal, au milieu d’instincts de bonté,
+J’intellige.ice et d’affection, cette suite de sentiments mauvais
+: la colère, la crainte, la jalousie, le respect humain, la
+dissimulation et le mensonge. » (DARWIN, <hi rend="i">Esquisse d’un
+enfant</hi> ; Revue anglaise <hi rend="i">The Mind</hi>, 1877). —(LE PLAY, <hi rend="i">1*%
+Ouvriers européens</hi>, I, }.) 
+<pb xml:id="PAG_00000021" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f21.image"/>l8 ' CHAPITRE I</p>
+        <p>
+directions qu’ils appellent quand même du
+nom de <hi rend="i">science</hi>, ils refusent d’admettre <hi rend="i">scientifiquement</hi>
+ce qu’ils aperçoivent <hi rend="i">naturellement</hi>.
+
+</p>
+        <p>
+Il n’y a rien là de surprenant pour qui étudie
+sans passion les voies diverses que suit
+dans son travail la pensée humaine.
+</p>
+        <p>
+Ici la source de tout le mal est dans une
+observation incomplète des faits constatables.
+</p>
+        <p>
+Quand les panthéistes allemands, par exemple,
+uniquement préoccupés des faits absolus,
+affirment que tout est Dieu, c’est qu’ils
+négligent de constater l’existence, évidente
+aussi, des faits contingents.
+</p>
+        <p>
+Quand, à l’autre bout de l’échelle, les positivistes
+français, exclusivement adonnés à
+l’observation des phénomènes dits extérieurs,
+refusent à l’esprit humain le droit d’affirmer
+l’existence de la Divinité, celle de l’âme,
+voire même celle de toute cause substantielle
+quelle qu’elle soit, c’est qu’une observation
+incomplète laisse en dehors de leur champ
+</p>
+        <pb xml:id="PAG_00000022" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f22.image"/>
+        <p rend="left small">LES AXIOMES SOCIAUX 19</p>
+        <p>
+d’étude et d’expérience les faits absolus et les
+faits libres.
+</p>
+        <p>
+Quand le matérialiste Broussais, pour n’en
+citer qu’un, se refusait à admettre l’existence
+de l’âme humaine, alléguant pour motif qu’il
+ne l’avait jamais rencontrée sous son scalpel,
+il témoignait simplement, par là, d’une
+observation exclusive des faits physiologiques
+et d’un manque regrettable d’observation
+des faits psychologiques. Une observation
+plus complète l’eût conduit scientifiquement
+à un autre résultat.
+</p>
+        <p>
+C’est ainsi que des esprits exclusifs et qu’on
+dit éminents, ne sont éminents que sur un
+point et très bornés sur d’autres, cela au
+grand détriment de l’expansion de la vérité
+dans le monde.
+</p>
+        <p>
+L’observation complète conduit à la vérité.
+L’observation incomplète est la source de
+toute erreur.
+</p>
+        <p>
+Mais s’il est possible à un esprit de fausser
+sa direction réfléchie, scientifique,, en con-
+</p>
+        <pb xml:id="PAG_00000023" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f23.image"/>
+        <p rend="left small">20 CHAPITRE 1</p>
+        <p>
+centrant exclusivement son attention et ses
+affirmations sur un ou deux ordres de faits,
+il ne lui est pas possible de fausser sa
+nature même, au point d’échapper à la perception
+involontaire et spontanée des autres
+faits évidents que scientifiquement il néglige
+<hi rend="sup">1</hi>.
+</p>
+        <p>
+C’est ainsi que, bon gré mal gré, l’esprit
+humain aperçoit <hi rend="i">naturellement</hi> ce qu’il nie
+par fo i s <hi rend="i">scien tifiquemen t</hi>.
+</p>
+        <p>
+On se tromperait donc en pensant que les
+hommes qui, sous le coup d’une méthode
+d’observation incomplète, arrivent de bonne
+foi <hi rend="sup">2</hi> à la négation dite scientifique de tout ou
+</p>
+        <p rend="small"><hi rend="sup">1</hi> Tout homme, par exemple, aperçoit naturellement,
+spontanément en lui-même, certains faits distincts et irréductibles
+: <hi rend="i">faits sensibles, faits volontaires, faits absolus</hi>, et
+en conclut spontanément aussi à l’existence de causes correspondantes,
+également distinctes, et auxquelles on donneles
+noms de <hi rend="i">monde extérieur, âme, Dieu</hi>. C’est par là que l’esprit
+commence. La négation scientifique, quand elle se produit,
+ne vient qu’après.</p>
+        <p rend="small"><hi rend="sup">8</hi> Ces négations dites scientifiques peuvent se produire de
+bonne foi, surtout à notre époque où l’extension toujours plus
+vaste que prend le champ des connaissances humaines porte</p>
+        <pb xml:id="PAG_00000024" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f24.image"/>
+        <p rend="left small">LES AXI0MBS SOCIAUX 21</p>
+        <p>
+partie des vérités préliminaires énoncées plus
+haut (I, 12) , n’aient que faire de lire les chapitres
+qui vont suivre.
+</p>
+        <p>
+Dans ces esprits divisés contre eux-mêmes,
+la vérité naturelle qu’ils voient lutte contre
+l’erreur qu’ils affirment.
+</p>
+        <p rend="left">
+Ils sont aptes, dès lors, malgré eux, à saisir
+</p>
+        <p rend="small">les hommes d’étude à localiser de plus en plus leurs efforts,
+à limiter de plus en plus leur horizon.</p>
+        <p rend="small">On comprend facilement qu’un esprit honnête, mais
+adonné toute sa vie à l’étude exclusive d’un certain ordre
+de faits et n’exerçant chez lui, dès lors, qu’un seul ordre
+<hi rend="i">di</hi> facultés d’observation, puisse subir, comme conséquence,
+l’atrophie progressive d’autres facuUés naturellement destinées
+à lui faire constater scientifiquement d’autres
+faits et affirmer d’autres existences. Or un esprit ainsi
+déséquilibré dans le jeu naturel de ses facultés de réflexion,
+d’observation et d’expérimentation, peut arriver aisément à
+affirmer de très bonne foi qu’il n’y a vraiment d’existences
+que celles que sa voie scientifique, ainsi tronquée, lui permet
+d’atteindre.</p>
+        <p rend="small">Ceite bonne foi n’ôte rien, d’ailleurs, à sa responsabilité,
+laquelle remonte à l’époque plus ou moins reculée où cet
+esprit, libre par essence et tenu de développer parallèlement
+ses différents ordres de facultés naturelles, s’est laissé entraîner
+à n’en exercer qu’une partie, mutilant ainsi peu à
+peu, et irrémédiablement peut-être, son pouvoir de connaître.</p>
+        <pb xml:id="PAG_00000025" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f25.image"/>
+        <p rend="left small">22 CHAPITRE I</p>
+        <p>
+et à admettre les conséquences vraies qu’on
+va développer.
+</p>
+        <p>
+Ce livre s’adresse donc à tous. Certaines
+évidences faites pour confirmer dans leurs
+principes les esprits raisonnables peuvent
+ébranler les autres dans leurs négations.
+</p>
+        <p>
+Or le doute, en pareil cas, est proche de la
+vérité.
+</p>
+        <pb xml:id="PAG_00000026" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f26.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left">
+DU.CHAPITRE DEUXIÈME
+</p>
+        <p>
+Droit. — Inviolabilité. — Condition de l’inviolabilité
+individuelle. — Origine du Droit. — Antériorité du
+Devoir. — Le Devoir dans l’Humanité. — Historique
+du Droit. — Droits de l’homme et christianisme. —
+Christianisme éducateur. — Psychologie. — Christianisme
+libérateur. — Perpétuité nécessaire de l’éducateur.
+— Vrai. Science. Inventions. Vapeur. Electricité.
+Barbarie. — L’homme maître de ses destinées sociales.
+— Nouveaux axiomes.
+</p>
+        <pb xml:id="PAG_00000027" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f27.image"/>
+        <pb xml:id="PAG_00000028" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f28.image"/>
+      </div>
+      <div>
+        <head>Chapitre ii</head>
+        <p rend="left">
+LE DROIT <hi rend="sup">1</hi>
+</p>
+        <p rend="left">
+— Qu’est ce que le Droit ?
+</p>
+        <p>
+L’Inviolabilité de l’individu. — <hi rend="i">fai le droit
+d’exister</hi> signifie <hi rend="i">:Je suis inviolable dans mon
+existence</hi>. — <hi rend="i">J’ai le droit d’enseigner</hi> veut
+dire : <hi rend="i">Je suis inviolable lorsque j’enseigne</hi>.
+</p>
+        <p>
+— Que veulent dire ces mots : <hi rend="i">Je suis inviolable</hi> ?
+
+</p>
+        <p rend="small"><hi rend="sup">1</hi> Peu de mots dans notre langue ont revêtu des sens plus
+divers, en apparence, que celui-là. <hi rend="i">Droit, Droit naturel,
+.Droit écrit, Droit individuel, Droit de Vhomme, Droit prive,
+Droit public^ Droit civil, Droit politique, Droit social, Droit
+des getiSyDïoit international</hi>, sont autant d’expressions dont
+chacune exigerait une définition spéciale. Le droit dont on
+parle ici est celui dont tous les autres ne sont que des dérivés :
+<hi rend="i">le Droit naturel</hi> de l’homme, de l’individu,</p>
+        <p rend="left small">3</p>
+        <pb xml:id="PAG_00000029" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f29.image"/>
+        <p rend="left small">26 CHAPITRE II</p>
+        <p>
+Us veulent dire que nul ne peut <hi rend="i">légitimement</hi>
+se placer entre moi et mon action.
+</p>
+        <p>
+— Que faut-il pour que nul ne puisse légitimement
+se placer entre moi et mon action ?
+</p>
+        <p>
+11 faut que cette action soit commandée
+par une loi supérieure et absolue, de l’accomplissement
+de laquelle je sois responsable <hi rend="sup">1</hi>.
+</p>
+        <p>
+— Y a-t-il une loi supérieure et absolue
+des actions humaines, loi de l’accomplissement
+de laquelle l’individu soit responsable ?
+</p>
+        <p>
+Oui, on l’appelle: <hi rend="i">Loi morale</hi> ou <hi rend="i">Devoir</hi>
+<small>(I, 12).</small>
+</p>
+        <p rend="left">
+— Qu’est-ce donc que le Droit ?
+</p>
+        <p>
+Le Droit est l’inviolabilité de celui qui
+accomplit son Devoir'^.
+</p>
+        <p rend="small"><hi rend="sup">1</hi> II n’y a pas de loi contre une loi supérieure et absolue.
+Toute opposition à celle-ci est donc nécessairement <hi rend="i">illégitime</hi>.</p>
+        <p rend="small"><hi rend="sup">3</hi> L’inviolabilité est une manière d’être de la réalité
+substantielle qui est l’homme. Une définition rigoureuse
+■ du Droit serait donc celle-ci : <hi rend="i">Le Droit c’est l’homme lorsqu’il
+agit en conformité avec son Devoir</hi>.</p>
+        <pb xml:id="PAG_00000030" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f30.image"/>
+        <p rend="left small">LE DROIT 27</p>
+        <p>
+— Le Devoir est donc la raison d’être du
+Droit, la condition première et essentielle de
+son existence ?
+</p>
+        <p>
+La définition même de ce Droit l’indique
+clairement <hi rend="sup">1</hi>.
+</p>
+        <p>
+— Dirons-nous donc que là où il n’y a pas
+de Devoir il n’y a pas de Droit ?
+</p>
+        <p>
+Sans doute. Une action qui n’a pas sa raison
+d’être dans une loi supérieure et absolue n’a
+d’autre raison d’être que la volonté de celui
+qui la fait. Pourquoi, dès lors, une volonté
+voisine ne se mettrait-elle pas en travers de
+celle-là ? Une volonté, dans ces conditions,
+en vaut une autre.
+</p>
+        <p><hi rend="i">Inviolabilité, Droit</hi>, deviennent ici des mots
+vides de sens.
+</p>
+        <p rend="left">
+L’individu n’est plus <hi rend="i">inviolable</hi>. 11 ne peut
+</p>
+        <p rend="small"><hi rend="sup">1</hi> L’ignorance et la légèreté ont donné lieu à une locution
+aussi fausse que banale. On dit et on écrit couramment :
+« J’ai <hi rend="i">le droit et le devoir. »</hi> On voit qu’il faut dire : « J’ai
+<hi rend="i">le devoir et le droit</hi>. »</p>
+        <pb xml:id="PAG_00000031" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f31.image"/>
+        <p rend="left small">28 CHAPITRE II</p>
+        <p rend="left">
+être <hi rend="i">qu’inviolé</hi>, à la condition d’être le plus
+fort <hi rend="sup">1</hi>.
+</p>
+        <p>
+— L’existence et le développement du Droit
+dans une Société supposent donc, avant tout,
+chez les individus qui la composent, l’existence
+et le développement de la inion du
+Devoir et de la Responsabilité qui en découle ?
+</p>
+        <p>
+C’est la conséquence naturelle des faits qui
+précèdent.
+</p>
+        <p>
+— Cette notion du Devoir existe-t-elle chez
+tous les hommes ?
+</p>
+        <p>
+L’histoire des hommes présents et passés
+nous fait constater chez tous l’existence de
+cette idée générale qu’/7 <hi rend="i">faut vouloir certains
+actes à l’exclusion de leurs contraires</hi>.
+</p>
+        <p rend="left">
+Si l’on appelle <hi rend="i">Bien</hi> ce qu’il faut vouloir,
+</p>
+        <p rend="small"><hi rend="sup">1</hi> L’homme d’Etat qui a dit : <hi rend="i">La force prime le droit</hi>, niait
+implicitement par là-même le fait d’un devoir absolu,
+source de ce droit que foulait aux pieds sa maxime.</p>
+        <p rend="small">Cette méconnaissance, chez le prince de Bismark, des
+principes nécessaires, suffirait à expliquer les défaillances de
+caractère qui ont marqué la dernière partie de sa carrière
+d’homme d’État.</p>
+        <pb xml:id="PAG_00000032" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f32.image"/>
+        <p rend="left small">LE DROIT 29</p>
+        <p>
+l’idée générale et universelle dont on parle
+peut se formuler ainsi : <hi rend="i">H faut vouloir le Bien</hi>.
+Mais l’histoire constate en même temps
+que, si tous les hommes s’accordent à reconnaître
+qu’il faut vouloir le Bien, ils diffèrent
+singulièrement sur la question de savoir en
+quoi consiste ce Bien qu’il faut vouloir. A ce
+point de vue, les opinions les plus contradictoires
+se partagent l’humanité.
+</p>
+        <p>
+— La connaissance intégrale, claire et
+distincte du Devoir,en tant que loi supérieure
+et absolue, règle unique, certaine et obligatoire
+des divers ordres d’actions humaines, ne
+se trouve donc pas chez tous les hommes ?
+</p>
+        <p>
+Si l’on considère l’humanité dans son
+ensemble, on peut dire que cette connaissance
+n’a jamais été jusqu’ici que le partage
+du petit nombre.
+</p>
+        <p>
+— Qu’en est-il résulté au point de vue du
+Droit ?
+</p>
+        <p rend="left">
+Il en est résulté, pour la majeure partie de
+</p>
+        <pb xml:id="PAG_00000033" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f33.image"/>
+        <p rend="left small"><hi rend="i">}0</hi> CHAPITRE II</p>
+        <p rend="left">
+l’humanité, l’absence du Droit et le règne de
+la force.
+</p>
+        <p>
+— Trouve-t-on quelque part, universellement
+admise et susceptible, par conséquent,
+de provoquer l’apparition du Droit dans la
+Société, la notion complète, claire et distincte
+d’une loi supérieure et absolue, règle unique,
+certaine et obligatoire des divers ordres d’actions
+humaines ?
+</p>
+        <p>
+Oui, on la trouve dans les Sociétés où est
+enseignée et généralement acceptée la religion
+extérieurement révélée qu’on appelle Christianisme.
+Là seulement cette notion se rencontre
+à l’état d’idéesuniversellementadmises,
+capables par conséquent de susciter une organisation
+sociale sur la base de l’apparition successive,
+de la reconnaissance et du respect des
+Droits de l’homme. En dehors du Christianisme,
+cette notion n’existe qu’à l’état d’exceptions
+individuelles et sans influence suffisante
+sur l’organisation et la marche des Sociétés.
+</p>
+        <pb xml:id="PAG_00000034" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f34.image"/>
+        <p rend="left small">LE DROIT 31</p>
+        <p>
+Dans l’antiquité, de grands poètes ont
+chanté les vérités morales, quelques philosophes
+les ont proclamées au péril de leur vie,
+ces visions isolées d’esprits supérieurs ont été
+impuissantes à faire pénétrer dans les Sociétés
+où ils vivaient la vraie notion du Devoir et
+celle de l’inviolabilité humaine.
+</p>
+        <p>
+Quand on y a prononcé le mot de <hi rend="sup">Dro:t</hi>, ce
+n’a été qu’en le dénaturant.
+</p>
+        <p rend="left">
+Le nom y était, non pas la chose.
+</p>
+        <p>
+On y a proclamé le Droit du citoyen, on
+n’y a pas connu le Droit de l’homme.
+</p>
+        <p>
+Le citoyen romain avait des Droits à Rome
+et partout où la puissance romaine pouvait le
+protéger ; le citoyen d’Athènes était respecté
+à Athènes et là où la main d’Athènes pouvait
+le suivre : en dehors et au delà ils redevenaient
+une chose dont chacun pouvait user
+et abuser suivant sa volonté.
+</p>
+        <p>
+Ni les chants des poètes, ni les discours
+des philosophes n’ont modifié les croyances
+et les moeurs du paganisme.
+</p>
+        <pb xml:id="PAG_00000035" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f35.image"/>
+        <p rend="left small"><hi rend="i">}2</hi> CHAPITRE 11</p>
+        <p>
+La Société grecque, de toutes la plus éclairée,
+a tué Socrate, exilé Platon, divinisé les
+passions les plus grossières et vécu de cette
+chose hideuse qui, dans la plus policée de ses
+républiques, nous met en face de vingt mille
+maîtres et de trois cent mille esclaves.
+</p>
+        <p>
+Seul l’ensemble de dogmes et de préceptes
+qu’on appelle Christianisme a eu la puissance
+de dégager l’esprit humain de ses obscurités,
+de l’amènera l’idée vraie du Devoir, à celle de
+la responsabilité, et de faire apparaître dans le
+monde la notion de l’inviolabilité individuelle.
+</p>
+        <p rend="left">
+C’est un fait historique.
+</p>
+        <p>
+— Faut-il conclure de là que l’esprit humain,
+livré à lui-même, abandonné à ses propres
+forces, ne s’élève pas à la notion claire,
+complète et distincte du Devoir et à la création
+du Droit ?
+</p>
+        <p>
+C’est ce que semble démontrer une expérience
+de six mille ans.
+</p>
+        <pb xml:id="PAG_00000036" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f36.image"/>
+        <p rend="left small">LE DROIT <hi rend="i">}}</hi></p>
+        <p>
+— Hst-ce à dire que l’esprit humain soit
+incapable de s’élever à la conception de son
+Devoir et à la notion de son inviolabilité ?
+</p>
+        <p>
+Loin de là. L’homme possède en lui-même
+les forces nécessaires pour concevoir les vérités
+morales, vouloir y conformer ses actions
+et faire apparaître ainsi la série de ses inviolabilités.
+Ce que l’expérience démontre, c’est
+que ces forces n’acquièrent leur développe -
+ment normal qu’autant qu’elles y sont aidées
+par une autre force, force <hi rend="i">éducatrice</hi>.
+</p>
+        <p>
+Quand, au moyen de ce secours extérieur,
+l’homme s’est développé en entendement et
+en volonté, de lui-même alors il voit clairement
+toutes les vérités morales, prend
+conscience de sa responsabilité et crée son
+Droit.
+</p>
+        <p rend="left">
+C’est l’aurore d’une civilisation.
+</p>
+        <p>
+•— Quel moyen emploie le Christianisme
+pour développer l’entendement humain ?
+</p>
+        <p rend="left">
+La vérité, éternelle et immuable, brille sans
+</p>
+        <pb xml:id="PAG_00000037" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f37.image"/>
+        <p rend="left small">34 CHAPITRE 11</p>
+        <p>
+cesse devant l’esprit de l’homme, mais,
+comme on vientdelevoir, cet esprit, livré à luimême,
+ne l’aperçoit qu’enveloppée de nuages.
+</p>
+        <p>
+Il est doué pourtant, cet esprit humain,
+d’une force intellectuelle susceptible de lui
+faire percevoir clairement cette vérité qui est
+sa loi, mais cette force à elle seule ne se développe
+pas.
+</p>
+        <p>
+Elle ne se développe pas parce qu’elle n’agit
+pas.
+</p>
+        <p>
+Elle n’agit pas parce que l’homme, abandonné
+à lui-même, tend invinciblement à se
+laisser dominer par cet autre élément de sa
+nature qu’on appelle les sens et l’imagination,
+élément fatal et passif <hi rend="sup">1</hi>, destructeur par làmême
+de toute activité intellectuelle.
+</p>
+        <p>
+C’est là qu’est la racine du mal et c’est là
+que le Christianisme déploie sa puissance.
+</p>
+        <p rend="small"><hi rend="sup">1</hi><hi rend="i">Fatal</hi> dans son action, mais non dans ses résultats qui
+peuvent être efficacement combattus par la libeité morale.</p>
+        <p rend="small"><hi rend="i">Passif</hi> dans son résultat qui est de diminuer l’activité
+naturelle de l’âme humaine,</p>
+        <pb xml:id="PAG_00000038" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f38.image"/>
+        <p rend="left small">LE DROIT 3$</p>
+        <p>
+Rappelant sans relâche à l’esprit de
+l’homme les vérités supérieures naturelles,
+lui en proposant même de plus élevées, il
+excite en lui, d’une part, le désir de connaître.
+</p>
+        <p>
+Attaquant de front, d’autre part, dans ce
+même homme, par ses préceptes moraux, sa
+discipline et son action intérieure, l’empire
+des sens et de l’imagination, il arrache son
+esprit à l’état passif où le réduit la prédominance
+de ces mêmes sens sur l’entendement,
+restitue de la sorte à cet entendement son
+activité naturelle et rend possible, dès lors,
+cet effort intellectuel d’où dépend la vision
+de la vérité <hi rend="sup">1</hi>.
+</p>
+        <p>
+— Quel est donc, en résumé, le levier éducateur
+que le Christianisme met en oeuvre
+pour arracher l’humanité .à l’ignorance et à la
+barbarie ?
+</p>
+        <p rend="small"><hi rend="sup">1</hi> « Heureux ceux qui ont le <hi rend="sup">cocu-</hi> pur, car ils verront
+Dieu. »</p>
+        <p rend="left small">Les contemplatifs sont des ascètes.</p>
+        <p rend="small">Le Nirwana des Hindous est une exagération de la même
+idée.</p>
+        <pb xml:id="PAG_00000039" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f39.image"/>
+        <p rend="left small"><hi rend="i">,) 6</hi> CHAPITRE 11</p>
+        <p rend="left">
+L’affranchissement de la pensée humaine.
+</p>
+        <p>
+La pensée humaine affranchie s’élève naturellement
+àla vérité ; la volonté sollicitée par
+la vérité morale enfin connue tend à la réaliser
+en actes extérieurs ; l’inviolabilité individuelle
+apparaît.
+</p>
+        <p>
+— Si le Christianisme joue ainsi dans les
+Sociétés le rôle d’éducateur nécessaire, une
+Société ne pourrait-elle, une fois cette éducation
+achevée, mettre de côté ce même
+Christianisme et marcher de ses propres
+toi ces ?
+</p>
+        <p>
+Elle le pourrait si l’éducation ainsi donnée
+avait pour résultat de changer, une fois pour
+toutes, la nature humaine.
+</p>
+        <p rend="left">
+Mais il n’en est rien.
+</p>
+        <p>
+L’homme naît toujours dans le même état
+(1, 14) , soumis à l’influence prépondérante
+des sens et de l’imagination, entraîné par des
+passions diverses, rebelle aux ordres d’une loi
+morale vaguement entrevue, sans droit déter-
+</p>
+        <pb xml:id="PAG_00000040" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f40.image"/>
+        <p rend="left small">LE DROIT 37</p>
+        <p>
+miné par conséquent, etjouet de la force brutale.
+
+</p>
+        <p>
+Que peuvent pour lui, dans ces conditions,
+ses semblables, quelqu^clairés et moraux
+qu’on les suppose ?
+</p>
+        <p rend="left">
+Lui donner la vérité ?
+</p>
+        <p>
+Mais l’esprit humain baigne dans la vérité
+comme le monde dans la lumière.
+</p>
+        <p>
+S’il ne la voit pas, ce n’est point qu’elle lui
+manque.
+</p>
+        <p>
+Ce n’est pas l’absence de vérité qui fait que
+la vérité n’est pas perçue, c’est l’absence d’activité
+intellectuelle, de vie rationnelle et l’aveuglement
+qui en résulte.
+</p>
+        <p>
+La vérité ne se donne pas, elle s’acquiert.
+
+</p>
+        <p>
+Quand une génération affranchie dans sa
+vie intellectuelle par le Christianisme serait en
+possession de toutes les vérités sans exception,
+elle n’aurait point, par cela seul, la puissance
+de les communiquera d’autres. Il faut
+nécessairement que ceux-là fassent à leur tour
+</p>
+        <p rend="left small">4</p>
+        <pb xml:id="PAG_00000041" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f41.image"/>
+        <p rend="left small">38 CHAPITRE 11</p>
+        <p rend="left">
+et pour eux-mêmes ce travail intérieur qu’ont
+fait leurs devanciers.
+</p>
+        <p>
+Qui donc affranchira leur pensée ? Qui provoquera
+en eux cette opération nécessaire,
+mais contraire à toutes les tendances inférieures
+de leur nature, et qui consiste à
+dompter les sens pour laisser à l’esprit son
+libre jeu ?
+</p>
+        <p>
+On a vu, tout à l’heure (I, <hi rend="i">}}) </hi> que seule la
+force éducatrice qu’on appelle Christianisme
+obtenait un pareil résultat.
+</p>
+        <p>
+Elle est donc aussi- indispensable aujourd’hui
+qu’hier, aussi nécessaire aux générations
+nouvelles qu’aux générations passées,
+et, si l’éducateur venait à disparaître, disparaîtraient
+aussi avec lui les résultats que seul
+il obtient <hi rend="sup">1</hi>.
+</p>
+        <p rend="small"><hi rend="sup">1</hi> Ce que l’on dit ici des vérités morales et de celles de
+leurs conséquences qu’on appelle le Droit, est tout aussi
+exact des vérité » intellectuelles, des vérités esthétiques et de
+leurs conséquences propres.</p>
+        <p rend="small">Un esprit superficiel se révolte à la pensée que les sciences
+mathématiques, physiques et chimiques, avec le nombreux</p>
+        <pb xml:id="PAG_00000042" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f42.image"/>
+        <p rend="left small">LE DROIT 39</p>
+        <p>
+L’observation des faits confirme cette vérité
+d’une manière frappante. Les Sociétés
+dites civilisées constituent à cet égard un
+champ d’expérience permanent.
+</p>
+        <p>
+Chaque fois, en effet, que dans une portion
+de ces Sociétés on voit s’affaiblir ou s’éteindre
+l’idée et l’action chrétiennes, on y voit appacortège
+</p>
+        <p rend="small">de leurs applications contemporaines,ne seraient pas,
+une fois acquises, un patrimoine nécessairement et indéfiniment
+communicable.</p>
+        <p rend="small">11 lui semble, par exemple,, que la vapeur, l’électricité et
+leurs effets pratiques sont, de toute évidence, un domaine
+définitivement approprié etfixé pour toujours par l’humanité.</p>
+        <p rend="left small">Il se trompe pourtant.</p>
+        <p rend="small">Les inventions modernes ne sont que des applications de
+la science des choses extérieures. Or cette science elle-même,
+quelque besoin qu’elle ait pour mître et se développer de
+l’obseivation consciencieu-e des phénomènes phys’ques et
+chimique », n’en repose pas moins,dans son principe et dans
+sa marche, sur un certain nombre d’axiomes, ventés éternelles
+qui sont la base de tout.</p>
+        <p rend="small">Si l’entendement agit, ces axiomes sont vus clairement,
+creusés, pénétrés ; le ? faits coordonnés et généralisés ; les
+inductions légitimement p:ursuivies ; les conséquences
+scientifiques logiquement déduites ; les applications cherchées
+et trouvées.</p>
+        <p rend="small">Si l’entendement n’agit pas, rien ne se voit, partant rien
+ne se fait. L’homme redescend au niveau de la bête qui per-</p>
+        <pb xml:id="PAG_00000043" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f43.image"/>
+        <p rend="left small">40 CHAPITRE II</p>
+        <p rend="left">
+raître aussitôt la négation du Devoir, le mépris
+du Droit, la force brutale en un mot.
+</p>
+        <p>
+— Si tout cela est vrai, s’il est vrai que
+l’existence du Droit dans la Société ait pour
+fondement essentiel la notion intégrale,
+claire et distincte de Devoirs supérieurs et absolus,
+règles certaines et obligatoires des
+divers ordres d’actions humaines ; s’il est vrai,
+</p>
+        <p rend="small">çoit comme lui, et souvent mieux que lui, les phénomènes
+dits du monde extérieur, sans en connaître, pour cela, ni les
+causes ni hs lois.</p>
+        <p rend="small">Les sciences, inventions et applications merveilleuses du
+xix' siècle, ont leur sources dans les intuitions profondes des
+Pascal, des Leibniz, des Newton.</p>
+        <p rend="small">Les seuls essais de science ébauchés dans l’antiquité furent
+l’oeuvre des philosophes, c’est-à-dire des pensants. Ils disparurent
+avec eux.</p>
+        <p rend="left small">Qu’on ôte cela, on ôte tout.</p>
+        <p rend="small">Deux ou trois siècles d’aveuglement et de barbarie suffiraient
+à effacer les traces de ce dont notre époque s’enorgueillit
+si fort.</p>
+        <p rend="small">CoTim ; l’Arabe nomade d’aujourd’hui plante inconsciemment
+sa tente sur les colossales assises des ruines de Baalbek,
+oeuvre puissante d’un art oublié, ainsi le <hi rend="sup">l ;ranc</hi> sauvage
+d’alors parcourant à l’aventure les forêts revécues de l’anc:enne
+Gaule, foulerait distraitement aux pieds les rails et
+les pot: aux enfouis sous les mousses séculaires.</p>
+        <pb xml:id="PAG_00000044" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f44.image"/>
+        <p rend="left small">LE DROIT 41</p>
+        <p>
+d’autre part, que cette notion n’apparaisse
+telle, &lt;ne se maintienne et n’agisse efficacement
+dans le monde qu’à la suite et à l’aide
+du Christianisme, que faut-il en conclure
+dans le sujet qui nous occupe ?
+</p>
+        <p>
+Il faut en conclure que le moyen de faire
+apparaître et de développer le Droit dans une
+Société, c’est d’y faire apparaître et d’y développer
+ce même Christianisme, éducateur nécessaire.
+
+</p>
+        <p>
+— L’homme est-il donc le maître de ses
+destinées sociales ?
+</p>
+        <p>
+Oui. De même que, dans les hautes vallées,
+l’homme respectant ou détruisant les végétations
+naturelles éteint ou crée à son gré les
+torrents dévastateurs, de même, dans la Société,
+développant ou combattant l’idée chrétienne
+il marche à la civilisation ou s’enfonce
+dans la barbarie.
+</p>
+        <p rend="left">
+La cause et l’effet sont entre ses mains.
+</p>
+        <pb xml:id="PAG_00000045" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f45.image"/>
+        <p rend="left small">42 CHAPITRE II</p>
+      </div>
+      <div>
+        <head>Corollaire</head>
+        <p>
+— Quelle est, au point de vue des principes
+sociaux, la conséquence naturelle des faits historiques
+constatés au cours de ce chapitre ?
+</p>
+        <p>
+Ces faits ont pour conséquence naturelle
+d’ajouter à la série des axiomes sociaux précédemment
+formulés (I, 12) , les deux propositions
+suivantes :
+</p>
+        <p>
+IX. <hi rend="i">L’homme est un être religieux ; il a
+besoin, pour se développer, d’une révélation
+divine extérieure*</hi>.
+</p>
+        <p rend="small"><hi rend="sup">I</hi> On appelle <hi rend="i">Religion</hi>, dans le sens le plus étendu du mot,
+l’ensemble des rapports existant entre Dieu et l’âme humaine.</p>
+        <p rend="left small">Ces rapports sont de deux sortes.</p>
+        <p rend="small">II existe en dehors de l’esprit humain des vérités éternelles
+et absolues. C’est h Raison, objet de l’entendement.</p>
+        <p rend="small">Sous le nom de Raison théorique, Raison pratique, Raison
+esthétique, ces vérités se proposent à l’homme comme
+règle de ses pensées, de ses volontés et de ses créations.</p>
+        <p rend="small">L’esprit de l’hommi se trouve ainsi en rapport naturel et
+direct avec la divinité,</p>
+        <p rend="small">On appelle ordinairement <hi rend="i">Religion</hi> naturelle l’ensemble
+de ces rapports.</p>
+        <p rend="left small">On entend aussi par <hi rend="i">Religion</hi> des rapports surnaturels</p>
+        <pb xml:id="PAG_00000046" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f46.image"/>
+        <p rend="left small">LE DROIT 43</p>
+        <p rend="left">
+X. <hi rend="i">Le Christianisme est la religion vraie*</hi>.
+</p>
+        <p rend="small">entre l’âme humaine et cette même Divinité, rapports résultant
+d’un ensemble de vérités extérieurement révélées.</p>
+        <p rend="small">C’est dans ce dernier sens que les deux propositions additionnelles
+ici formulées emploient cette expression.</p>
+        <p rend="small"><hi rend="sup">1</hi> II ne peut y avoir qu’une seule religion vraie, c’està-dire
+un seul ensemble de vérités extérieurement révélées et
+en rapport parfait,©n*/', avec les besoins de la nature humaine.</p>
+        <p rend="left small">C’est là une proposition évidente par elle-même.</p>
+        <p rend="small">La proposition contraire, assez souvent formulée, est le
+résultat d’une erreur de bon sens.</p>
+        <p rend="small">« Toutes les religions sont bonnes » est un de ces dictons
+vulgaires par où se montrela possibilité, pour l’esprit humain,
+de produire des affirmations en contradiction avec le sens
+commun.</p>
+        <p rend="small">L’entendement, en effet, se refuse à concevoir entre deux
+êtres et sur le même point deux rapports également vrais et
+pourtant distincts l’un de l’autre.</p>
+        <p rend="small">La vérité est une. Deux vérités semblables ne sauraient
+exister concurremment. <hi rend="i">Un n’est pas deux</hi>, et toute proposition
+contraire est une proposition absurde.</p>
+        <p rend="small">Sans doute l’imagination peut créer ce fantôme de deux vérités
+tout à lafoissemblableset distinctes, La raison s’y refuse.</p>
+        <p rend="small">Deux ensembles dj vérités extérieurement révélées et en
+rapport parfait l’un et l’autre avec les besoins de la nature
+humaine ne se peuvent donc concevoir comme existant à
+l’état de faits distincts. Les deux n’en fcaient qu’un.</p>
+        <p rend="small">Qu’on veuille ben y réfléchir, il n’y a pas là deux choses,
+mais une seule et même chose, deux vérités, mais une seule
+et même vérité. C’est dire, en d’autres termes, que, rationnellement,
+il ne peut y avoir qu’une seule religion vraie.</p>
+        <pb xml:id="PAG_00000047" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f47.image"/>
+        <pb xml:id="PAG_00000048" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f48.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left">
+DU CHAPITRE TROISIÈME
+</p>
+        <p>
+Droit écrit formule du droit. — Loi. — Droit écrit
+négation du droit. — Lois injustes. — Antigone. —
+Résultat social et politique. — Désobéissance aux lois.
+— Désobéissance légitime. — Exemples de désobéissance
+légitime. — Principe de la désobéissance
+légitime aux lois écrites.
+</p>
+        <pb xml:id="PAG_00000049" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f49.image"/>
+        <pb xml:id="PAG_00000050" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f50.image"/>
+        <p rend="left">
+CHAPITRE III
+</p>
+        <p rend="left">
+LE DROIT ÉCRIT
+</p>
+        <p rend="left">
+— Qu’est-ce que le Droit écrit ?
+</p>
+        <p rend="left">
+C’est la formule du Droit naturel.
+</p>
+        <p>
+Chaque fois que, dans une Société, les individus
+qui la composent aperçoivent clairement
+un Devoir et tendent à y conformer leurs actes
+extérieurs, chaque fois aussi apparaît la notion
+d’une inviolabilité, d’un Droit correspondant.
+</p>
+        <p>
+Si ces mêmes individus essaient d’exprimer
+ce Droit en une formule écrite qui le détermine
+et en règle au besoin la protection, ils font
+ce qu’on appelle une <hi rend="i">Loi</hi>.
+</p>
+        <p>
+L’ensemble de ces formules constitue, à
+proprement parler, le <hi rend="i">Droit écrit</hi>.
+</p>
+        <pb xml:id="PAG_00000051" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f51.image"/>
+        <p rend="left small">48 CHAPITRE III</p>
+        <p>
+— Ce qu’on appelle communément Droit
+écrit est-il toujours la formule du Droit naturel ?
+</p>
+        <p>
+Non. Il arrive souvent que le Législateur,
+soit ignorance, soit impuissance, soit perversité,
+attribue à ses erreurs ou à ses volontés
+le caractère de Loi supérieure, crée dès lors des
+inviolabilités et formule des Droits qui n’en
+sont pas <hi rend="sup">1</hi>.
+</p>
+        <p rend="small">' C’est une prétention de ce genre que flétrit magnifiquement
+l’Antigone de Sophocle.</p>
+        <p rend="left small">La fille d’CBdipe, malgré la défense de Créon et au péril
+de sa vie, a donné la sépulture aux restes mortels de son
+frère Polynice. Elle est amenée devant le roi.
+CRÉON.
+Toi, oui, toi qui baisses la tête vers la terre, avoues-tu ou
+nies-tu avoir fait ce dont il t’accuse ?
+ANTIGONE.
+Oui, j’avoue l’avoir fait, et ne prétends pas le nier. .</p>
+        <p rend="left small">CRÉON.
+Connaissais-tu la défense que j’ai fait proclamer ?</p>
+        <p rend="left small">ANTIGONE.
+Je la connaissais, pouvais-je ne pas la connaître ? Elle était
+assez publique.</p>
+        <p rend="left small">CRÉON.
+Et pourtant tu as osé enfreindre ces lois ?</p>
+        <p rend="left small">ANTIGONE.
+Ce n’est, en effet, ni Jupiter qui me les a révélées, ni la&lt;</p>
+        <pb xml:id="PAG_00000052" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f52.image"/>
+        <p rend="left small">LU DROIT ÉCRIT 49</p>
+        <p>
+— Quel est l’inconvénient de ces formules
+arbitraires ?
+</p>
+        <p>
+Elles faussent la conscience des peuples en
+leur faisant croire que la volonté du Législateur,
+a, au point de vue de la création du
+Droit, la même puissance que la Loi non écrite
+« oeuvre immuable de la Divinité ».
+</p>
+        <p>
+Elles désorganisent la Société en rendant
+inviolables de fait ceux qui ne le sont pas
+en réalité et en protégeant ainsi des séries
+d’actions qui devraient être empêchées.
+</p>
+        <p>
+Elles sont une source permanente de troubles
+politiques en confiant aux Pouvoirs
+publics la protection de Droits fictifs qui
+peuvent être légitimement violés.
+</p>
+        <p rend="small">justice qui habite avec les divinités infernales, et je ne pensais
+pas que les décrets d’un mortel tel que toi eussent assez
+de force pour prévaloir contre les lois non écrites, oeuvre
+immuable des dieux. Celles-ci ne sont ni d’aujourd’hui ni
+d’hier ; toujours vivantes, nul ne sait leur origine. Devais-je,
+en les oubliant, par crainte des menaces d’un homme, encourir
+la vengeance des Dieux ? Je savais qu’il me faudrait mourir….
+(SOPHOCLE, <hi rend="i">Antigone.) </hi></p>
+        <pb xml:id="PAG_00000053" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f53.image"/>
+        <p rend="left small">50 CHAPITRE III</p>
+        <p>
+— La désobéissance aux lois peut donc
+être, dans certains cas, légitime ?
+</p>
+        <p>
+La désobéissance aux lois écrites est légitime
+quand ces lois sont injustes, c’est-à-dire
+quand, au lieu de protéger ceux qui veulent
+taire le bien, elles protègent ceux qui font le
+mal.
+</p>
+        <p>
+— Peut-on imaginer des exemples de lois
+susceptibles d’être légitimement violées ?
+</p>
+        <p>
+Il pourrait se faire que le Législateur attribuât
+par une loi au Pouvoir exécutif un prétendu
+Droit de confier l’instruction de la
+jeunesse à des maîtres athées. Les pères dans
+ce cas auraient le Devoir, <hi rend="i">et par conséquent
+le Droit</hi>, de désobéir à la loi et de refuser à
+ces maîtres leurs enfants.
+</p>
+        <p>
+Il pourrait se faire que le Législateur attribuât
+par une loi au Pouvoir exécutif un prétendu
+Droit d’empêcher l’exercice de la vraie
+religion. Les citoyens dans ce cas auraient le
+</p>
+        <pb xml:id="PAG_00000054" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f54.image"/>
+        <p rend="left small">LE DROIT ECRIT &lt;&gt; I</p>
+        <p rend="left">
+Devoir, <hi rend="i">et par conséquent le Droit</hi>, de désobéir
+à la loi et d’exercer leur culte.
+</p>
+        <p>
+Il pourrait se faire que le Législateur attribuât
+par une loi au Pouvoir exécutif un prétendu
+Droit d’arracher les prêtres à l’autel et
+à leurs ouailles pour les soumettre à une vie
+militaire incompatible avec l’exercice de leurs
+fonctions sacerdotales. Les. prêtres, dans ce
+cas, auraient le Devoir, <hi rend="i">et par conséquent le
+Droit</hi>, de désobéir à la loi et de refuser le
+service commandé.
+</p>
+        <p>
+— Depuis quand les citoyens croient-ils
+pouvoir dans certains cas désobéir légitimement
+aux lois ?
+</p>
+        <p>
+Depuis qu’ils ont entendu et compris cette
+parole :
+</p>
+        <p>
+« // <hi rend="i">vaut mieux obéir à Dieu qu’aux
+hommes</hi>. »
+</p>
+        <pb xml:id="PAG_00000055" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f55.image"/>
+        <pb xml:id="PAG_00000056" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f56.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left">
+DU CHAPITRE QUATRIÈME
+</p>
+        <p>
+Liberté morale. — Liberté civile. — Liberté politique.
+— Libertés civile et politique, réalisations extérieures
+de la Liberté morale. — Liberté morale, fait
+d’observation. — Vraie nature delà liberté morale. —
+— Philosophes anciens, saint Thomas d’Aquin,
+Léon XIII.— Responsabilité. — Culpabilité. — Nécessité
+de la Liberté morale. — Conséquences. — Liberté
+loi de l’histoire. — Ses effets. — Sa magie.
+</p>
+        <pb xml:id="PAG_00000057" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f57.image"/>
+        <pb xml:id="PAG_00000058" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f58.image"/>
+      </div>
+      <div>
+        <head>Chapitre iv</head>
+        <p rend="left">
+LA LIBERTÉ
+</p>
+        <p rend="left">
+— Qu’est-ce que la Liberté ?
+</p>
+        <p rend="left">
+Il y a trois sortes de Libertés: la <hi rend="i">Liberté
+morale</hi>, la <hi rend="i">Liberté civile</hi>, la <hi rend="i">Liberté politique</hi>.
+</p>
+        <p rend="left">
+— Qu’est-ce que la Liberté morale ?
+</p>
+        <p rend="left">
+C’est le pouvoir, pour l’homme, de <hi rend="i">vouloir</hi>
+le bien.
+</p>
+        <p rend="left">
+— Qu’est-ce que la Liberté civile ?
+</p>
+        <p rend="left">
+C’est le pouvoir, pour l’homme, de <hi rend="i">faire</hi>
+le bien qu’il veut.
+</p>
+        <p rend="left">
+— Qu’est-ce que la Liberté politique ?
+C’est le pouvoir, pour l’homme, d’assurer
+</p>
+        <pb xml:id="PAG_00000059" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f59.image"/>
+        <p rend="left small">56 CHAPITRE IV</p>
+        <p rend="left">
+par des lois et des institutions sa Liberté civile.
+</p>
+        <p>
+— Les Libertés civile et politique sont donc
+étroitement liées à la Liberté morale ?
+</p>
+        <p>
+On voit par leur définition même qu’elles
+ne sont autre chose que son extension, sa
+réalisation dans le monde social.
+</p>
+        <p>
+— Ces trois sortes de Liberté rentrent-elles
+également dans l’ordre des faits sociaux qui
+font l’objet de notre étude ?
+</p>
+        <p>
+Les Libertés civile et politique rentrent
+seules, d’une manière spéciale, dans le cadre
+des faits sociaux qui nous occupent ici.
+Comme elles ne sont l’une et l’autre, toutefois,
+que des développements extérieurs et successifs
+de la Liberté morale, il est nécessaire
+de nous arrêter quelques instants à déterminer
+exactement la nature de leur principe.
+</p>
+        <p rend="left">
+Ce court chapitre y pourvoira.
+</p>
+        <p>
+— Tous les hommes jouissent-ils de la
+Liberté morale ?
+</p>
+        <pb xml:id="PAG_00000060" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f60.image"/>
+        <p rend="left small">LA LIBERTÉ 57</p>
+        <p>
+Tous les hommes ont en germe uiu force
+pour vouloir le bien <hi rend="sup">1</hi>. Les uns développent
+cette force et en usent: ils sont libres <hi rend="i">en fait</hi>
+comme <hi rend="i">en puissance</hi> ; les autres n’en usent
+pas : libres <hi rend="i">en puissance</hi>, ils sont esclaves <hi rend="i">de
+fait</hi>.
+</p>
+        <p>
+— Dirons-nous donc que l’homme qui
+veut le mal n’est pas libre ?
+</p>
+        <p>
+L’homme qui veut le mal est libre en
+puissance, il n’est pas libre de fait.
+</p>
+        <p rend="left">
+— Comment cela ?
+</p>
+        <p>
+Deux ordres de motifs agissent sur la
+volonté humaine: les motifs supérieurs, intellectuels,
+et les motifs inférieurs, sensibles.
+</p>
+        <p>
+Les motifs supérieurs, lumières éternelles
+et immuables, faits impersonnels, extérieurs,
+objectifs, se proposent comme lois néces1
+</p>
+        <p rend="small">La liberté morale est un fait d’observation. Tout
+homme placé entre le bien et le mal sent en lui-même, si
+sa nature n’a pas été corrompue, <hi rend="i">un pouvoir de vouloir le
+bien</hi>.</p>
+        <pb xml:id="PAG_00000061" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f61.image"/>
+        <p rend="left small">58 CHAPITRE IV</p>
+        <p>
+saires, mais ne s’imposent pas à la volonté
+qu’ils respectent.
+</p>
+        <p>
+Les motifs sensibles, au contraire, faits
+essentiellement contingents, personnels, subjectifs,
+aveugles et passifs, tendent à s’imposer
+à cette même volonté qu’ils entraînent.
+</p>
+        <p>
+L’homme qui veut en vertu des premiers,
+veut donc par lui-même, <hi rend="i">se détermine</hi>, est
+libre, en un mot,dans toute la force du terme.
+</p>
+        <p>
+L’homme qui veut en vertu des seconds
+veut passivement sous une influence étrangère,
+est entraîné, <hi rend="i">est déterminé</hi> pour ainsi
+dire, n’est pas libre de fait.
+</p>
+        <p>
+Ce dernier cas est celui de l’homme qui
+veut le mal.
+</p>
+        <p>
+Est-ce à dire, pour cela, que l’homme ne
+soit pas libre ? nullement. L’homme est libre,
+c’est-à-dire que tous les hommes, placés
+qu’ils sont entre le bien et le mal, ont en euxmêmes
+une force pour vouloir le bien ; mais
+tous ne mettent pas en oeuvre cette force qui
+est la Liberté, beaucoup cèdent passivement
+</p>
+        <pb xml:id="PAG_00000062" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f62.image"/>
+        <p rend="left small">LA LIBERTE 59</p>
+        <p rend="left">
+à l’influence des sens et de l’imagination '.
+</p>
+        <p>
+— Si l’homme qui veut le mal n’est pas
+libre, est-il donc coupable ?
+</p>
+        <p rend="left">
+L’homme qui veut le mal est coupable.
+</p>
+        <p rend="small"><hi rend="sup">1</hi> Ces quelques réflexions sur la vraie nature de la Liberté
+humaine suffiront à ceux de nos lecteurs qui pensent.</p>
+        <p rend="small">S’il en est d’autres que des habitudes intellectuelles plus
+lentes portent invinciblement à subordonner leur adhésion
+à une autorité extérieure, ceux-là liront avec fruit les passages
+qui suivent :</p>
+        <p rend="small">— « Celui qui commet le péché est l’esclave du péché. »
+(<hi rend="i">Parole du</hi> CHRIST.) </p>
+        <p rend="small">— « Tout être est ce qui lui convient d’être selon sa nature.
+Donc quand il se meut par un agent extérieur, il n’agit point
+par lui-même, mais par l’impulsion d’autrui, ce qui est d’un
+esclave. Or, selon la nature, l’homme est raisonnable. Donc
+quand il se meut selon la raison, c’est par le mouvement
+qui lui est propre qu’il se meut et il agit par lui-même, ce
+qui est le fait de la liberté. Mais quand il pèche, il agit
+contre la raison et alors c’est comme s’il était mis en mouvement
+par un autre et qu’il fût retenu sous une domination
+étrangère ; c’est pour cela que <hi rend="i">celui qui commet le péché est
+l’esclave du péché</hi>. » (SAINT THOMAS D’AQUIN.) </p>
+        <p rend="small">— « C’est ce qu’avait vu assez nettement L philosophie
+antique, celle notamment dont la doctrine était que nul r'est
+libre que le sage, et qui réservait, comme on le sait, le nom
+de sage à celui qui s’était formé à vivre constamment selon
+lanature,c’est-à-dire dans l’honnêteté et la vertu. »(LÊONXHI,
+<hi rend="i">Encyclique</hi> Libertas.) </p>
+        <pb xml:id="PAG_00000063" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f63.image"/>
+        <p rend="left small">60 CHAPITRE IV</p>
+        <p>
+Il est coupable de n’avoir pas voulu le
+bien.
+</p>
+        <p>
+Il est coupable de n’avoir pas usé de sa
+Liberté naturelle.
+</p>
+        <p>
+C’est ce non usage de sa Liberté, c’est
+cette abdication de lui-même qui fait sa culpabilité.
+
+</p>
+        <p>
+Libre par essence, cet homme avait pour
+devoir de se créer et de se garder tel :
+ce Devoir était la source de sa Responsabilité.
+
+</p>
+        <p>
+Placé entre le bien et le mal, il avait dans
+sa nature intime une force pour vouloir le
+bien: cette force est la Liberté.
+</p>
+        <p>
+Il n’a pas mis en oeuvre cet élément essentiel
+de son être.
+</p>
+        <p>
+C’est là ce qui le fait punissable, autrement
+dit <hi rend="i">coupable</hi>.
+</p>
+        <p>
+— Ce fait d’observation interne, <hi rend="i">et pouvoir
+de vouloir le bien</hi>, auquel on donne le nom
+de Liberté morale, pourrait-il ne pas exister ?
+</p>
+        <pb xml:id="PAG_00000064" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f64.image"/>
+        <p rend="left small">LA LIBERTÉ 6l</p>
+        <p>
+Etant donnés la nature de l’homme et ces
+deux autres faits, également constatâmes
+(1,12) , qu’on appelle <hi rend="i">Devoir et Responsabilité</hi>,
+la Liberté morale n’est pas seulement un fait
+d’observation, elle est encore un fait nécessaire.
+
+</p>
+        <p rend="left">
+— D’où lui vient cette nécessité ?
+</p>
+        <p>
+De ce qu’elle est la condition indispensable
+de la Responsabilité individuelle.
+</p>
+        <p>
+L’homme, s’il n’était pas libre, ne serait
+pas responsable de ses actes.
+</p>
+        <p>
+— Quelle est la conséquence immédiate
+de cette nécessité de la Liberté morale ?
+</p>
+        <p>
+C’est que tout, dans Thomme et hors de
+l’homme, doit être combiné en vue de cette
+Liberté indispensable.
+</p>
+        <p rend="left">
+Et c’est, en effet, ce qui a lieu.
+</p>
+        <p>
+Ceux qui observeront les voies du Créateur
+et le jeu simultané des influences diverses
+qui agissent sur l’individu seront
+</p>
+        <p rend="left small">6</p>
+        <pb xml:id="PAG_00000065" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f65.image"/>
+        <p rend="left small">62 CHAPITRE IV</p>
+        <p>
+frappés du soin jaloux, du respect profond
+de la Liberté humaine qui préside à l’arrangement
+de toutes.choses dans le monde*
+</p>
+        <p>
+Dieu <hi rend="i">ne force, pas</hi> l’homme à vouloir le
+bien.
+</p>
+        <p>
+Les choses sensibles <hi rend="i">ne forcent pas</hi>
+l’homme à vouloir le mal.
+</p>
+        <p>
+Ces deux causes agissent puissamment,
+chacune à sa manière, sur l’âme humaine,
+mais l’une et l’autre, si rien de la part de
+l’homme ne vient exagérer l’influence des
+sens et de l’imagination, arrêtent leur action
+au point voulu où cette action, poussée plus
+loin, empêcherait ce mouvement propre de
+l’âme qui est la Liberté.
+</p>
+        <p>
+C’est ainsi qu’est conservé, à celui qui veut
+en user, le pouvoir de <hi rend="i">se décider lui-même</hi>, ni
+attiré irrésistiblement par la lumière, ni
+entraîné fatalement par la passion.
+</p>
+        <p>
+Ceux qui verront cet ordre en seront émerveillés,
+mais ils n’en seront pas surpris s’ils
+considèrent que la création tout entière n’a
+</p>
+        <pb xml:id="PAG_00000066" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f66.image"/>
+        <p rend="left small">LA LIBERTÉ <hi rend="i">6) </hi></p>
+        <p>
+qu’un but : <hi rend="i">l’homme</hi>, et que le caractère distinctif
+de l’homme est la <hi rend="i">liberté</hi>.
+</p>
+        <p>
+Le monde est fait pour l’homme et l’homme
+est fait pour Dieu. •
+</p>
+        <p>
+Mais ce Dieu créateur veut être librement
+connu, aimé et honoré.
+</p>
+        <p rend="left">
+Tout autre hommage est indigne de lui.
+</p>
+        <p>
+C’est pourquoi <hi rend="i">il faut</hi> que l’homme soit
+libre et c’est pourquoi tout est ordonné en
+vue de ce résultat.
+</p>
+        <p>
+— Quelles sont les conséquences sociales
+de cette nécessité ?
+</p>
+        <p><hi rend="i">L’homme n’est homme qu’autant qu’il est
+libre</hi>.
+</p>
+        <p>
+C’est la s ision tantôt spontanée et obscure,
+tantôt claire et réfléchie, de ce fait capital qui,
+à toutes les époques, agite si profondément
+les Sociétés humaines.
+</p>
+        <p>
+Il est la loi de l’individu et, partant, la loi
+de l’histoire.
+</p>
+        <pb xml:id="PAG_00000067" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f67.image"/>
+        <p rend="left small">64 CHAPITRE IV</p>
+        <p>
+Dieu appelle les hommes, mais il appelle
+des hommes libres. La Liberté est la robe
+nuptiale.
+</p>
+        <p>
+L’homme le voit. L’homme le sent. Il tressaille.
+Il s’émeut. Il ne consent pas à s’arrêter
+dans le développement de l’idée qui
+le possède. Il passe de la volonté à l’action,
+du monde intérieur au monde social, de la
+Liberté morale à la Liberté civile et à la Liberté
+politique. Il fait effort, en un mot, pour
+conquérir, sous toutes ses formes et jusqu’à
+ses dernières limites, cette Liberté qui
+est la condition de son être.
+</p>
+        <p>
+L’effort, comme tout effort humain, est
+souvent désordonné. Tantôt il s’écarte du but,
+tantôt il le dépasse. On peut, suivant les
+cas, en admirer, en redouter, en déplorer les
+effets. Ils n’ont pas pour cela le droit de
+surprendre : quand le roi du monde s’agite
+dans ses chaînes, comment le monde n’en
+serait-il pas ébranlé ?
+</p>
+        <p rend="left">
+Celui qui voit ces choses comprend la
+</p>
+        <pb xml:id="PAG_00000068" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f68.image"/>
+        <p rend="left small">LA LIBERTÉ 65</p>
+        <p>
+grandeur et la magie que revêt, aux yeux
+des générations humaines, le mot de Liberté.
+Mais il comprend aussi l’incroyable facilité
+qu’il y a d’en abuser. « Quand une fois, dit
+Bossuet, on a pris la multitude par l’appât de
+la liberté, elle suit en aveugle pourvu qu’elle
+en entende seulement le nom <hi rend="sup">1</hi>. »
+</p>
+        <p rend="left small"><hi rend="sup">1</hi><hi rend="i">Or.fun., Portrait de Croimvell</hi>.</p>
+        <pb xml:id="PAG_00000069" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f69.image"/>
+        <pb xml:id="PAG_00000070" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f70.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left">
+DU CHAPITRE CINQUIÈME
+</p>
+        <p>
+Liberté civile. — Existence exceptionnelle de la
+Liberté civile. — Conditions de cette existence. —
+Affranchissement de la pensée. — Connaître et Vouloir.
+— Affranchissement de la volonté. — Caractère.
+— Héroïsme. — Ambroise Paré. — Catholiques français.
+— Christianisme. — Esclavage.
+</p>
+        <pb xml:id="PAG_00000071" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f71.image"/>
+        <pb xml:id="PAG_00000072" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f72.image"/>
+      </div>
+      <div>
+        <head>Chapitre v</head>
+        <p rend="left small">LA LIBERTÉ CIVILE</p>
+        <p rend="left">
+— Qu’est-ce que la Liberté civile ?
+</p>
+        <p>
+C’est le pouvoir, pour l’homme, de faire
+le bien qu’il veut.
+</p>
+        <p>
+— Tous les hommes jouissent-ils de la
+Liberté civile ?
+</p>
+        <p>
+Non. L’histoire du passé comme celle du
+présent établit surabondamment que les
+hommes ne se voient que trop souvent refuser
+le pouvoir de faire le bien qu’ils veulent.
+</p>
+        <p rend="left">
+— D’où vient cela ?
+</p>
+        <p>
+La Liberté civile, pouvoir, pour l’homme,
+de faire le bien qu’il veut, n’est autre chose
+</p>
+        <pb xml:id="PAG_00000073" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f73.image"/>
+        <p rend="left small">70 CHAPITREV</p>
+        <p>
+que la réalisation extérieure de l’inviolabilité
+humaine, du Droit.
+</p>
+        <p>
+Or, on a vu (II, 29) qu’à prendre l’humanité
+dans son ensemble la notion de ce Droit.,
+de cette inviolabilité, ne s’y manifestait qu’à
+l’état d’exception.
+</p>
+        <p>
+C’est là une première explication de l’existence
+exceptionnelle aussi de la Liberté civile,
+nécessairement fondée sur la reconnaissance
+et le respect du Droit dans le monde.
+</p>
+        <p>
+— La Liberté civile, extension du Droit
+dans la Société, est donc soumise pour son
+existence à toutes les conditions auxquelles
+est soumise l’existence du Droit lui-même ?
+</p>
+        <p rend="left">
+Naturellement.
+</p>
+        <p rend="left">
+— Quelles sont ces conditions ?
+</p>
+        <p>
+On les connaît déjà. On a déjà vu, en effet
+(II, 29, <hi rend="i">) }) </hi>, que la notion de l’inviolabilité
+individuelle, du Droit en d’autres termes, ne
+saurait exister que là où se trouvent réunis
+la notion claire et précise d’un Devoir supé-
+</p>
+        <pb xml:id="PAG_00000074" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f74.image"/>
+        <p rend="left small">LA LIBERTE CIVILE</p>
+        <p>
+rieur et immuable, celle d’une Responsabilité
+absolue et, enfin, ce qui permet à l’un et à
+l’autre de briller aux yeux dessillés de l’humanité,
+à savoir l’affranchissement de la pensée
+humaine par une force éducatrice spéciale.
+</p>
+        <p>
+— La Liberté civile se rencontre-t-elle
+partout où peut se constater cet affranchissement
+de la pensée humaine et les notions
+de Devoir et de Responsabilité qui s’ensuivent ?
+</p>
+        <p>
+Non. L’observation des faits sociaux montre
+que, si ces conditions sont indispensables à
+l’existence de cette Liberté, elles n’y suffisent
+pourtant pas.
+</p>
+        <p>
+Elle établit, cette observation, que l’apparition
+de l’idée du Droit, résultat naturel de
+la présence de ces conditions dans une Société,
+n’entraîne pas par cela seul, pour cette Société,
+le fait de la Liberté civile.
+</p>
+        <p>
+Connaître un Droit et respecter ce même
+Droit dans son exercice sont loin d’être une
+seule et même chose.
+</p>
+        <pb xml:id="PAG_00000075" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f75.image"/>
+        <p rend="left">
+/-
+</p>
+        <p rend="left small">CHAPITRE V</p>
+        <p>
+Il a fallu dans le passé de longues périodes
+de luttes pour faire triompher telle Liberté
+dont le principe n’était plus contesté.
+</p>
+        <p rend="left">
+Le même fait se produit de nos jours.
+</p>
+        <p>
+Que de Droits incontestables, reconnus,
+affirmés, dont la passion, l’intérêt, la tyrannie
+ont empêché et empêchent encore le libre
+exercice <hi rend="sup">1</hi> !
+</p>
+        <p>
+L’histoire est pleine de faits qui démontrent
+clairement l’insuffisance des conditions précitées
+lorsqu’il s’agit de faire apparaître dans
+les Sociétés humaines, cet élément nouveau
+qu’on appelle la Liberté civile.
+</p>
+        <p>
+— D’où vient que l’idée de l’inviolabilité
+individuelle n’entraîne pas d’elle-même, après
+elle, la pratique et le respect de cette invio1
+</p>
+        <p rend="small">En France, à l’heure où l’on écrit ces lignes, beaucoup
+de Droits sont violés, beaucoup de Libertés sont supprimées
+dont le principe n’est plus à établir. Sur beaucoup de points,
+en effet, les hommes qui détiennent le pouvoir, au lieu d’employer
+les lois et la force publique à protéger ceux qui veulent
+accomplir un bien incontestable, usent de ces mêmes
+moyens pour les en empêcher. ,</p>
+        <pb xml:id="PAG_00000076" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f76.image"/>
+        <p rend="left small">LA LIBERTÉ CIVILE 73</p>
+        <p rend="left">
+labilité,le règne du Droit, la Liberté civile en
+un mot ?
+</p>
+        <p>
+Cela vient de la distance qu’il y a chez
+l’homme entre <hi rend="i">connaître</hi> et <hi rend="i">vouloir</hi>.
+</p>
+        <p>
+Connaître son Devoir, prendre conscience
+de sa Responsabilité, de son Inviolabilité, de
+son Droit, exige de l’homme un premier effort
+considérable, effort surtout intellectuel et dont
+la condition est cet affranchissement de la
+pensée humaine, dont on a recherché ailleurs
+et indiqué les causes (II, <hi rend="i">}f)</hi>.
+</p>
+        <p>
+Mais aller plus loin, passer de l’idée à
+l’action, transporter dans la vie extérieure et
+sociale ce Devoir, cette Responsabilité, cette
+Inviolabilité, et produire ainsi dans la Société
+cette conséquence qu’on appelle la Liberté
+civile, exige un nouvel effort non moins difficile
+que le premier *.
+</p>
+        <p rend="small"><hi rend="sup">1</hi> L’effort intellectuel, acte intérieur ayant pour objet
+une lumière intérieure aussi, est indépendant par là-même
+des choses du dehors. Il peut s’en abstraire dans une large
+mesure et plus il s’en abstrait plus il est énergique. La'</p>
+        <p rend="left small">7</p>
+        <pb xml:id="PAG_00000077" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f77.image"/>
+        <p rend="left small">74 CHAPITRE V</p>
+        <p>
+Celui qui veut obtenir ce résultat se heurte,
+en effet, à des résistances extérieures dont il
+ne peut triompher souvent qu’au péril de son
+repos, de ses biens, et même de sa vie.
+</p>
+        <p>
+Ce n’est pas assez, pour ia Liberté ciyile,
+que les hommes soient intelligents, conscients
+de leur Devoir et de leur Droit ; il faut encore
+qu’ils soient capables de supprimer les obstacles
+qui, de la part de leurs semblables,
+s’opposent violemment à l’exercice de ce
+Droit.
+</p>
+        <p>
+Or ce n’est plus ici affaire d’intelligence,
+c’est affaire <hi rend="i">de volonté</hi>.
+</p>
+        <p>
+Le Droit apparaît dans le monde partout où
+l’homme conscient de son Devoir et responvolonté,
+</p>
+        <p rend="small">au contraire, acte intérieur mais ayant pour objet
+une action extérieure, rencontre à chaque instant sur la voie
+de sa réalisation définitive des obstacles venant du dehors,
+obstacles souvent insurmontables et qui la gênent fort dans
+son développement.</p>
+        <p rend="small">Connaître suppose un effort. Vouloir en suppose un autre.
+Beaucoup s’arrêtent au premier.</p>
+        <p rend="small">De nos jours les hommes d’intelligence sont plus communs
+que les hommes de volonté.</p>
+        <pb xml:id="PAG_00000078" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f78.image"/>
+        <p rend="left small">LA LIBERTÉ CIVILE 75</p>
+        <p>
+sable, dès lors, de son accomplissement,
+devient par là même inviolable dans son action ;
+mais on peut être inviolable sans pour cela
+être inviolé, et. la Liberté civile n’existe que
+là où la volonté humaine, affranchie de toute
+crainte <hi rend="sup">1</hi>, renverse les barrières élevées entre
+elles et son action légitime.
+</p>
+        <p rend="left">
+— Quelle est donc, en résumé, la deuxième
+</p>
+        <p rend="left small"><hi rend="sup">1</hi> 11 faut, pour être libre, vouloir jusqu’à la mort.</p>
+        <p rend="small">Au roi qui lui envoyait dire qu’« il saurait bien le contraindre
+ », Ambroise Paré faisait, de sa prison, cette courte
+et belle réponse : « <hi rend="i">Celui qui ne craint pas la mort ne saurait
+être contraint</hi>. »</p>
+        <p rend="small">L’exemple de ce protestant peut être proposé à beaucoup
+de catholiques de nos jours.</p>
+        <p rend="small">Si aujourd’hui, en effet, les droits des catholiques français
+sont impunément foulés aux pieds, c’est que ces mêmes catholiques
+n’ont pas l’énergie nécessaire pour assurer aux dépens
+de leur tranquillité et de leurs biens, voire même au péril de
+leur vie, leur liberté civile.</p>
+        <p rend="small">Leur religion est publiquement et impunément bafouée,
+leur culte refoulé par la force jusqu’aux parvis de leurs temples,
+leur enseignement proscrit des écoles nationales, hurs
+couvents violés, leurs prêtres et leurs religieux dépouillés,
+le recrutement de leur clergé systématiquement enlravc, le
+gouvernement de la nation entre les mains de leurs pires
+ennemis, et ils n’ont ni l’intelligence, ni l’énergie nécessaire</p>
+        <pb xml:id="PAG_00000079" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f79.image"/>
+        <p rend="left small">76 CHAPITRE V</p>
+        <p>
+condition indispensable à l’existence de la
+Liberté civile ?
+</p>
+        <p>
+L’affranchissement de la volonté humaine
+et ce qui en est la conséquence immédiate, à
+savoir : la Liberté morale.
+</p>
+        <p>
+La Liberté morale portée au plus haut degré
+prend le nom <hi rend="i">d’Héroïsme</hi>.
+</p>
+        <p rend="left">
+Tous les libérateurs ont été des héros <hi rend="sup">1</hi>.
+</p>
+        <p>
+— Peut-on constater quelque part ce fait
+exceptionnel de la Liberté civile ?
+</p>
+        <p rend="small">pour s’unir dans un effort commun et secouer le joug sous
+lequel on courbe, chaque jour davantage, leur tête.</p>
+        <p rend="small">O.i voit clairemmt, par cet exemple, comment la liberté
+civile dépend, dans son existence, de la liberté morale.</p>
+        <p rend="small">En effet, si les catholiques dont on vient de parler n’étaient
+pas moralement esclaves de leur inintelligence du devoir, de
+leurs passions et divisions politiques, de leur amour du repos
+et du bien-être, de leur crainte du danger et delà mort, ils
+se lèveraient aussitôt et briseraient devant eux les obstacles
+apportés à leur liberté civile.</p>
+        <p rend="small">Mais, chrétiens de nom plus que de fait, ils ne sont pas
+libres moralement, et, parce qu’ils ne sont pas libres <hi rend="i">moralement</hi>,
+ils nî sont pas libres <hi rend="i">civilement</hi>.</p>
+        <p rend="small"><hi rend="sup">1</hi> A un degré moindre, cette liberté morale prend le nom
+de <hi rend="i">caractère</hi>. L°s hommes de caractère sont des semences de
+héros. Le » peuples qui les possèdent sont des peuples libres.</p>
+        <pb xml:id="PAG_00000080" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f80.image"/>
+        <p rend="left small">LA LIBERTÉ CIVILE 77</p>
+        <p>
+On le constate plus ou moins dans les
+Sociétés où tend à dominer l’ensemble de
+croyances et de préceptes qu’on appelle Christianisme
+<hi rend="sup">1</hi>.
+</p>
+        <p>
+— Le Christianisme, dont on a constaté
+l’influence toute-puissante pour l’affranchissement
+de la pensée humaine, exerce-t-il donc
+sur la volonté de l’individu une action du
+même genre ?
+</p>
+        <p rend="left">
+Il semble qu’il en soit ainsi.
+</p>
+        <p>
+— Comment le Christianisme agit-il sur
+la volonté humaine en vue de son affranchissement ?
+
+</p>
+        <p>
+Il agit sur la volonté de l’homme comme
+il agit sur son intelligence, par la lumière et
+par la liberté.
+</p>
+        <p rend="left">
+Proposant à l’homme, d’une part, claire1
+</p>
+        <p rend="small">L’esclavage dans le passé comme r"ans le préent et sa
+disparition progressive sous l’effort énergique et inces’ant de
+l’idée chrétienne est un des faits historiques qui éclairent le
+plus vivement cette question.</p>
+        <p rend="left small">7.</p>
+        <pb xml:id="PAG_00000081" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f81.image"/>
+        <p rend="left small">CHAPITRE V</p>
+        <p>
+ment et distinctement, des vérités morales
+trop vaguement entrevues, il provoque en lui,
+par cette claire vision, avec le sentiment de
+sa responsabilité, l’amour et le désir du bien.
+Combattant sans relâche} d’autre part,
+chez ce même homme, au moyen de ses
+préceptes, de sa discipline et de son action
+intérieure, la domination des sens, fatale et
+passive, il dégage son activité morale et lui
+rend ainsi la liberté de vouloir par lui-même
+le bien qui lui est proposé <hi rend="sup">1</hi>.
+</p>
+        <p>
+— Qu’est-ce donc que ce Christianisme
+capable ainsi de rendre libres tes individus
+d’abord, les peuples ensuite ?
+</p>
+        <p rend="small">* Il est à peiné nécessaire d’observer qu’ici comme ailleurs
+(II, 36) la perpétuité de l’éducateur s’impose.</p>
+        <p rend="small">Lorsque par de longs efforts d’intelligence et d’héroïsme la
+Liberté a été enfin conquise, si les croyances qui l’ont provoquée
+viennent à s’affaiblir,les esprits se troublent, les caractères
+s’affaissent, le Droit redevient de plus en plus un mot
+vide de sens et l’on voit reparaître la licence et la tyrannie
+sous ce môme nom de Liberté.</p>
+        <p rend="small">C’est le retour de la force brutale avec l’hypocrisie en
+plus.</p>
+        <pb xml:id="PAG_00000082" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f82.image"/>
+        <p rend="left small">LA LIBERTE CIVILE 79</p>
+        <p rend="left small">
+          <hi rend="i">t</hi>
+        </p>
+        <p>
+Un éducateur et un transformateur, une
+force supérieure et morale qui, par une action
+lente et continue, arrache peu à peu l’individu
+à l’empire des sens et de l’imagination
+pour le tourner vers la lumière et le conduire
+à la Liberté.
+</p>
+        <p>
+Le Christ, son chef, est mort en croix pour
+la Liberté de l’enseignement, principe de toutes
+les autres.
+</p>
+        <pb xml:id="PAG_00000083" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f83.image"/>
+        <pb xml:id="PAG_00000084" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f84.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left">
+DU CHAPITRE SIXIÈME
+</p>
+        <p>
+Liberté politique. — Pouvoirs absolus et Liberté
+civile. — Qualités nécessaires au Pouvoir absolu. —
+Dangers du Pouvoir absolu. — Gouvernement du
+peuple par le peuple. — Qualités nécessaires au
+Pouvoir populaire. — La Vertu principal ressort des
+Etats populaires. — Montesquieu. — Le Gouvernement
+populaire ne constitue pas nécessairement la
+Liberté politique. — Tyrannie du nombre. — La France
+d’aujourd’hui. — Une source de Vertu et de Liberté
+politique.
+</p>
+        <pb xml:id="PAG_00000085" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f85.image"/>
+        <pb xml:id="PAG_00000086" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f86.image"/>
+      </div>
+      <div>
+        <head>Chapitre vi</head>
+        <p rend="left">
+LA LIBERTÉ POLITIQUE
+</p>
+        <p rend="left">
+— Qu’est-ce que la Liberté politique ?
+</p>
+        <p>
+C’est le pouvoir, pour l’homme, d’assurer
+par des lois et des institutions sa Liberté civile.
+
+</p>
+        <p>
+— La Liberté politique est-elle indispensable
+à l’existence de la Liberté civile ?
+</p>
+        <p>
+On ne saurait dire qu’elle lui soit absolument
+indispensable.
+</p>
+        <p>
+Là, en effet, où celui qui dispose de la force
+publique connaît les droits individuels et les
+protège, la Liberté civile existe.
+</p>
+        <p rend="left">
+Or cela peut avoir lieu en l’absence de ce
+
+<pb xml:id="PAG_00000087" n="84" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f87.image"/>pouvoir d’intervention directe des intéressés
+qu’on appelle Liberté politique.
+</p>
+        <p>
+On a vu des Sociétés jouir de la Liberté civile
+sous des gouvernements absolus.
+</p>
+        <p>
+— Que suppose, chez celui qui exerce le
+pouvoir, la connaissance des droits individuels
+ ?
+</p>
+        <p>
+Un Droit est l’inviolabilité de celui qui accomplit
+un Devoir. La connaissance des droits
+individuels suppose donc nécessairement la
+connaissance claire, nette et distincte des
+devoirs où ces mêmes droits puisent leur origine.
+
+</p>
+        <p>
+— Que suppose, chez celui qui exerce le
+pouvoir absolu, la protection des droits individuels
+ ?
+</p>
+        <p>
+Elle suppose, chez lui, outre la connaissance
+des devoirs et des droits des gouvernés,
+celle de ses propres devoirs de Gouvernant
+et la conscience de sa responsabilité.
+</p>
+        <p rend="left">
+Elle suppose encore, chez ce Gouvernant,
+</p>
+        <pb xml:id="PAG_00000088" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f88.image"/>
+        <p rend="left small">LA LIBERTÉ POLITIQUE 85</p>
+        <p rend="left">
+un empire sur lui-même qui n’est autre chose
+que la Liberté morale.
+</p>
+        <p rend="left">
+On ne protège le Droit, en effet, qu’en réprimant
+le mal, et on ne réprime le mal, dans
+bien des cas, qu’au péril de son existence
+xd’hommeetde gouvernement.
+</p>
+        <p>
+— Que suppose donc, en un mot, chez
+celui qui exerce le pouvoir absolu, la connaissance
+et la protection des droits individuels ?
+</p>
+        <p>
+Un haut degré d’intelligence, de moralité et
+d’énergie.
+</p>
+        <p>
+— Cet ensemble de qualités se rencontret-il
+communément parmi les hommes ?
+</p>
+        <p rend="left">
+Non.
+</p>
+        <p>
+— Que se produit-il quand il ne se rencontre
+pas chez celui qui exerce le pouvoir
+absolu ?
+</p>
+        <p>
+L’ignorance des devoirs, la méconnaissance
+des droits, l’absence de protection pour ces
+droits méconnus, l’absence de Liberté civile,
+</p>
+        <p rend="left small">8</p>
+        <pb xml:id="PAG_00000089" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f89.image"/>
+        <p rend="left small">86 CHAPITRE Vi</p>
+        <p rend="left">
+en d’autres termes, le règne du bon plaisir, la
+tyrannie et l’oppression.
+</p>
+        <p rend="left">
+— Comment échappe-t-on à ce danger ?
+</p>
+        <p>
+On essaie d’y échapper en laissant aux individus
+une part plus ou moins grande dans le
+gouvernement de la Société.
+</p>
+        <p rend="left">
+— Comment cela ?
+</p>
+        <p>
+Tantôt le choix seul des Législateurs leur est
+confié ; tantôt le Pouvoir exécutif lui-même
+est à leur nomination ; parfois les constitutions
+leur abandonnent jusqu’à la désignation
+des Juges.
+</p>
+        <p>
+— Ce gouvernement plus ou moins illimité
+du peuple par le peuple est-il un état meilleur ?
+
+</p>
+        <p>
+11 est un état meilleur quand il assure aux
+individus la Liberté civile, c’est-à-dire le pouvoir
+de faire le bien qu’ils veulent.
+</p>
+        <p>
+— Quand assure-t-il aux individus la Liberté
+civile ?
+</p>
+        <pb xml:id="PAG_00000090" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f90.image"/>
+        <p rend="left small">LA LIBERTÉ POLITIQUE 87</p>
+        <p rend="left">
+Quand le peuple, les citoyens, les majorités
+ainsi appelés à gouverner possèdent :
+</p>
+        <p rend="left">
+i° La connaissance des devoirs individuels
+et, par suite, celle des droits à protéger ;
+</p>
+        <p><hi rend="sup">20</hi> La connaissance de leurs propres devoirs
+de gouvernants, la conscience de leur responsabilité
+comme tels, et enfin cette liberté morale
+qui seule peut leur donner la volonté
+énergique d’assurer efficacement ce libre
+exercice des droits qui constituent la Liberté
+civile <hi rend="sup">1</hi>.
+</p>
+        <p rend="small"><hi rend="sup">1</hi> Dans un passage resté célèbre, Montesquieu, s’appuyant
+à la fois sur la raison et sur l’histoire, regarde que le principal
+ressort des Etats populaires est la <hi rend="i">vertu :</hi></p>
+        <p rend="small">« Ce que je dis est confirmé par le corps entier de l’histoire
+et est très conforme à la nature des choses. Car il est clair que,
+dans une monarchie où celui qui fait exécuter les lois se juge
+au-dessus des lois, on a besoin de moins de vertu que dans
+un gouvernement populaire où celui qui fait exécuter les lois
+sent qu’ily est soumis lui-même et qu’il en portera le poids.</p>
+        <p rend="small">« II est clair encore que le monarque qui,par mauvais conseil
+ou par négligence, cesse de faire exécuter les lois, peut
+aisément réparer le mal : il n’a qu’à changer de conseil ou
+se corriger de cette négligence même. Mais lorsque dans un
+gouvernement populaire, les lois ont cessé d’être exécutées,</p>
+        <pb xml:id="PAG_00000091" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f91.image"/>
+        <p rend="left small">88 CHAPITRE VI</p>
+        <p>
+— Les conditions d’un bon gouvernement
+ne changent donc pas, que ce soit un seul ou
+plusieurs qui gouvernent ?
+</p>
+        <p>
+Les conditions essentielles d’un bon gouvernement
+soi nécessairement les mêmes
+</p>
+        <p rend="small">comme cela ne peut vi ' que de la corruption de la République,
+l’Etat est déjà pe. u.</p>
+        <p rend="small">« Ce fut un assez beau pectacle, dans le siècle passé, de
+voir les efforts impuissants ies Anglais pour établir parmi
+eux la démocratie, Comme cei x qui avaient part aux araires
+n’avaient point de vertu, que 1 "ur ambition était irritée par
+le succès de celui qui avait le <hi rend="i">\</hi> 'us osé, que l’esprit d’une
+faction n’était réprimé que par 1\ prit d’une autre, le gouvernement
+changeait sans cesse : le peuple étonné cherchait
+la démocratie et ne la trouvait nulle /art. Enfin, après bien
+des mouvements, des chocs et des se ousses, il fallut se
+reposer dans le gouvernement même qu "&gt;n avait proscrit.</p>
+        <p rend="small">« Quand Sylla voulut rendre à Rome la libcité, elle ne put
+plus la recevoir : elle n’avait plus qu’un faible reste de vertu ;
+et comme elle en eut toujours moins, au lie ».' de se réveiller
+après César, Tibère, Caïus, Claude Néron, Comitien, elle
+fut toujours plus esclave ; tous les coups portèrent sur les
+tyrans, aucun sur la tyrannie.</p>
+        <p rend="small">« Les politiques grecs qui vivaient dans le gouvernement
+populaire ne reconnaissaient d’autre force qui put le soutenir
+que celle de la vertu.</p>
+        <p rend="small">« Ceuxd’aujourd’hui ne nous parlentque.de manufactures,
+de commerce, de finances, de richesses et de luxe même.</p>
+        <p rend="small">« Lorsque cette vertu cesse, l’ambition entre dans les coeurs
+qui peuvent la recevoir, et l’avarice entre dans tous.</p>
+        <pb xml:id="PAG_00000092" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f92.image"/>
+        <p rend="left small">LA LIBERTÉ POLITIQUE 89</p>
+        <p rend="left">
+quels que soient la personnalité et le nombre
+de ceux qui l’exercent.
+</p>
+        <p>
+Pour assurer l’existence de la Liberté civile,
+il faut au peuple, aux citoyens, aux majorités,
+tout aussi bien qu’aux princes absolus, une
+dose considérable d’intelligence, de moralité
+et d’énergie.
+</p>
+        <p>
+— Quand ces qualités ne se rencontrent pas
+chez les citoyens gouvernant eux-mêmes,
+qu’en résulte-t-il ?
+</p>
+        <p>
+Il en résulte ce que nous avons vu résulter
+nécessairement de l’ignorance des devoirs, de
+</p>
+        <p rend="small">« Les désirs changent d’objets : ce qu’on aimait,on ne l’aime
+plus ; on était libre avec les lois, on veut être libre contre
+elles ; chaque citoyen est comme un esclave échappé de la
+maison de son maître : ce qui était maxime, on l’appelle
+rigueur ; ce qui était règle, on l’appelle gêne ; ce qui était
+attention, on l’appelle crainte. C’est la frugalité qui y est
+l’avarice, et non pas le désir d’avoir. Autrefois le bien des
+particuliers faisait le trésor public, mais pour lors le trésor
+public devient le patrimoine des particuliers. La république
+est une dépouille, et sa force n’est plus que le pouvoir de
+quelques citoyens et la licence de tous. « (MONTESQUIEU, <hi rend="i">Esprit
+des Lois</hi>, III, lu.) </p>
+        <pb xml:id="PAG_00000093" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f93.image"/>
+        <p rend="left small">90 CHAPITRE VI</p>
+        <p>
+la méconnaissance des droits, de la faiblesse
+et delà corruption, à savoir : L’absence de
+protection pour ces droits méconnus, l’absence
+de Liberté civile, en d’autres termes, le
+règne du bon plaisir, la tyrannie et l’oppression.
+
+</p>
+        <p>
+Les mêmes causes produisent les mêmes
+effets. Celles qui conduisaient tout à l’heure
+à la tyrannie d’un seul sous le nom d’absolutisme,
+aboutissent ici à la tyrannie du nombre
+sous le nom de Liberté.
+</p>
+        <p>
+— L’intervention directe des.citoyens dans
+le gouvernement de la nation ne suffit donc
+pas à elle seule pour assurer la Liberté
+civile ?
+</p>
+        <p>
+Cette intervention, comme on s’en aperçoit,
+peut avoir un résultat tout opposé.
+</p>
+        <p>
+— Elle ne constitue donc pas par elle-même
+la Liberté politique ?
+</p>
+        <p rend="left">
+Non, évidemment.
+</p>
+        <p rend="left">
+La Liberté politique est <hi rend="i">le pouvoir pour</hi>
+</p>
+        <pb xml:id="PAG_00000094" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f94.image"/>
+        <p rend="left small">LA LIBERTÉ POLITIQUE 91</p>
+        <p><hi rend="i">l’homme d’assurer par des lois et des institutions
+sa liberté civile</hi>. La Liberté politique
+n’existe don pas, bien que le peuple se gouverne
+lui-même, lorsque, faute des qualités
+nécessaires dans l’ensemble des citoyens,
+ceux d’entre eux qui veulent faire le bien
+sont impuissants à assurer par des voies régulières
+la liberté de leur action *.
+</p>
+        <p>
+— Un peuple peut-il acquérir ces qualités
+nécessaires, faute desquelles son intervention
+dans le gouvernement n’est pas un gage de
+liberté, mais une source d’oppression ?
+</p>
+        <p rend="left">
+Un haut degré d’intelligence, de moralité
+</p>
+        <p rend="small"><hi rend="sup">1</hi> La France, à la fin du xix <hi rend="sup">9</hi> siècle, offre au monde un
+spectacle de ce genre.</p>
+        <p rend="small">L’intervention des citoyens dans le gouvernement de la
+nation y est la règle et pourtant la liberté palif'que n’y
+existe pas.</p>
+        <p rend="small">Les hommes qui veulent y faire le bien n’ont pas, en
+effet, le pouvoir d’assurer par des lois et des institutions leur
+liberté d’action.</p>
+        <p rend="small">Et ceux qui gouvernent n’ont ni la connaissance du Devoir,
+ni le respect du Droit.</p>
+        <p rend="left small">C’est la tyrannie du nombre.</p>
+        <pb xml:id="PAG_00000095" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f95.image"/>
+        <p rend="left small">92 CHAPITRE VI</p>
+        <p>
+et d’énergie, la connaissance des devoirs, de
+la responsabilité et de l’inviolabilité individuelle,
+le respect de cette même inviolabilité
+chez les autres et la volonté ferme d’assurer
+à tous les droits leur libre exercice, constituent
+pour les hommes et pour les Sociétés
+un état, une vie, une force supérieure
+dont les germes sont en eux et peuvent
+être l’objet d’un développement général et
+efficace.
+</p>
+        <p>
+Quelles sont les conditions de ce développement ?
+
+</p>
+        <p>
+Nous les connaissons (II, 30—V, 77). C’est
+l’effort individuel nécessairement aidé — nous
+l’avons constaté et l’histoire en est l’irrécusable
+témoin — par une autre force, extérieure
+à l’esprit humain, force éducatrice qu’on appelle
+Christianisme
+</p>
+        <p>
+Il serait superflu de renouveler ici l’analyse
+des moyens d’action que met en jeu cette
+force nécessaire.
+</p>
+        <pb xml:id="PAG_00000096" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f96.image"/>
+        <p rend="left small">LA LIBERTÉ POLITIQUE 93</p>
+        <p rend="left">
+L’étude en a été faite en son temps ( !I,33 —
+</p>
+        <p rend="left">
+V, 77).
+</p>
+        <p>
+Il suffit de s’y reporter pour comprendre
+que l’affranchissement de la pensée et de la
+volonté humaines est le levier puissant que
+le Christianisme met en oeuvre pour arracher
+l’Humanité à l’esclavage sous toutes ses
+formes et l’élever, par degrés, jusqu’à la
+Liberté politique, couronnement de toutes les
+autres.
+</p>
+        <pb xml:id="PAG_00000097" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f97.image"/>
+        <pb xml:id="PAG_00000098" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f98.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left">
+DU CHAPITRE SEPTIÈME
+</p>
+        <p rend="left">
+Gouvernement. — Origine du Gouvernement. —
+Pas de Société sans unité. — Droit du Gouvernement.
+</p>
+        <p>
+— Etendue de ce droit. — Sa limite.— Socialisme
+d’Etat. — Gouvernement Gendarme. — Gouvernement
+Grand-Voyer. — Doctrine gouvernementale.
+</p>
+        <p>
+— Pouvoir exécutif. — Pouvoir législatif. — Rapports
+de l’Exécutif et du Législatif.
+</p>
+        <pb xml:id="PAG_00000099" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f99.image"/>
+        <pb xml:id="PAG_00000100" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f100.image"/>
+        <p rend="left">
+CHAPITRE VII
+</p>
+        <p rend="left">
+LE GOUVERNEMENT
+</p>
+        <p rend="left">
+— Qu’est-ce que le Gouvernement ?
+</p>
+        <p>
+C’est l’homme ou l’ensemble des hommes
+qui, dans une Société, disposent de la force
+pour la protection des droits.
+</p>
+        <p rend="left">
+— Quelle est l’origine du Gouvernement ?
+Il a son origine dans un principe social
+</p>
+        <p rend="left">
+nécessaire et qu’on peut formuler ainsi : // <hi rend="i">n’y
+a pas de Société sans Unité</hi>.
+</p>
+        <p>
+Une Société est un ensemble d’individus
+groupés dans un même but qu’ils ont le
+devoir d’atteindre et qu’ils ne peuvent atteindre
+isolément, à savoir : leur développement
+physique, intellectuel et moral.
+</p>
+        <pb xml:id="PAG_00000101" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f101.image"/>
+        <p rend="left small">98 CHAPITRE V II</p>
+        <p>
+Or l’unité du but implique nécessairement
+l’unité de l’action.
+</p>
+        <p>
+Dire qu’il n’y a pas de Société sans unité
+c’est donc énoncer une loi nécessaire, un
+principe absolu, un axiome social, en un mot.
+</p>
+        <p>
+Mais les individus qui poursuivent la réalisation
+de ce principe, les hommes qui font
+effort pour développer par une action commune
+leurs facultés naturelles, voient presque
+toujours se dresser devant eux d’autres
+hommes qui, de propos délibéré, leur font
+obstacle: des meurtriers qui menacent leur
+vie ; — des violents qui cherchent à s’approprier
+leur personne et leur travail ; — des
+voleurs qui enlèvent leurs biens ; — des suppôts
+d’erreur qui les empêchent d’enseigner
+la vérité ; — des débauchés qui attaquent leurs
+bonnes moeurs ; — des impies qui s’opposent
+à l’exercice de leur religion ; — parfois même
+des Sociétés voisines — tribus, peuples, nations
+— qui menacent l’existence' de la leur
+ou entravent son juste développement.
+</p>
+        <pb xml:id="PAG_00000102" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f102.image"/>
+        <p rend="left small">LE GOUVERNEMENT 99</p>
+        <p>
+Il est visible que l’action commune dont
+on vient de parler, élément nécessaire du fait
+social, ne peut s’exercer utilement, voire
+même subsister un seul instant, exposée sais
+défense à de pareilles attaques.
+</p>
+        <p>
+Si, dans le nombre des hommes désireux
+de poursuivre ensemble le but légitime de
+leur développement sous toutes ses formes,
+il en est d’assez énergiques et forts pour
+réprimer ces éléments de désorganisation et
+protéger contre eux la réalisation du principe
+d’unité nécessaire à l’existence sociale, la
+société vit sous leur égide et cette société a
+ce qu’on appelle un <hi rend="i">Gouvernement</hi>.
+</p>
+        <p>
+Le Gouvernement, défenseur, instrument,
+représentant, personnification extérieure de
+l’unité sociale a donc son origin dans un
+principe, dans un axiome, dans une ioi supérieure,
+nécessaire, absolue et que tout à
+l’heure on formulait ainsi: // <hi rend="i">n’y a p-n de
+Société sans Unité</hi>.
+</p>
+        <p rend="left">
+— Les hommes qui jouent ainsi le rôle de
+</p>
+        <pb xml:id="PAG_00000103" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f103.image"/>
+        <p rend="left small">100 CHAPITRE VII</p>
+        <p rend="left">
+protecteur du fait social remplissent-ils un
+Devoir ?
+</p>
+        <p>
+Oui. C’est un Devoir pour les forts de protéger
+les faibles. C’est un Devoir pour ceux
+qui avec l’intuition du principe d’unité sociale
+ont l’énergie et la force, de mettre cette force
+au service de cette unité.
+</p>
+        <p rend="left">
+— Ces hommes-là exercent-ils un Droit ?
+</p>
+        <p>
+Le Droit est l’inviolabilité de celui qui accomplit
+un Devoir. Les hommes dont on
+parle remplissent un Devoir ; ils exercent
+donc un Droit.
+</p>
+        <p rend="left">
+— Jusqu’où va ce Droit des Gouvernants ?
+</p>
+        <p>
+Un Droit, conséquence d’un Devoir,
+s’étend naturellement aussi loin que ce même
+Devoir qui est sa raison d’être.
+</p>
+        <p>
+Là où commence le Devoir commence le
+Droit.
+</p>
+        <p>
+Là ou s’arrête le Devoir s’arrête aussi le
+Droit.
+</p>
+        <p rend="left">
+Le Devoir des Gouvernants est un devoir
+</p>
+        <pb xml:id="PAG_00000104" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f104.image"/>
+        <p rend="left small">LE GOUVERNEMENT 101</p>
+        <p>
+de protection. Leur Droit, par conséquent,
+est un droit de même nature.
+</p>
+        <p>
+Le Droit des Gouvernants a donc, tout à la
+fois, pour point de départ et pour limite, la
+protection de l’individu contre ceux qui s’opposent
+à son libre développement.
+</p>
+        <p rend="left">
+Hors de là il n’existe plus <hi rend="sup">1</hi>.
+</p>
+        <p>
+— N’est-ce pas enfermer dans de bien
+étroites limites l’action légitime des Gouvernements ?
+
+</p>
+        <p rend="left">
+C’est leur assigner leurs limites naturelles,
+et ces limites ne sont pas étroites.
+C’est un vaste et noble champ que celui de
+</p>
+        <p rend="small"><hi rend="sup">1</hi> Les hommes de bon s:ns qu’épouvante le développement
+toujours croissant des dépenses publiques et qui cherchent,
+un peu au hasard souvent, les moyens de ramener les
+budgets à de justes limites, trouveront ici un point de départ
+nettement défini.</p>
+        <p rend="small">Toutes les dépenses que ne nécessite pas la protection de
+la liberté civile et politique des citoyens ne sont pas des
+dépenses naturelles de l’Etat.</p>
+        <p rend="small">Ce principe, laisonnablement et résolument appliqué,
+aurait pour résultat des économies budgétaires et des diminutions
+d’impôt qui se chiffreraient parcentaines-de millions.</p>
+        <p rend="left small">9.</p>
+        <pb xml:id="PAG_00000105" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f105.image"/>
+        <p rend="left small">102 CHAPITRE VII</p>
+        <p>
+la protection de la Liberté humaine. L’apport
+d’intelligence, de dévouement, d’énergie et
+d’activité qu’il exige de la part des pouvoirs
+publics, n’est pas un apport ordinaire, et le
+but poursuivi est fait pour contenter les plus
+hautes ambitions.
+</p>
+        <p>
+— Les Gouvernants se maintiennent-ils
+d’habitude dans ces limites naturelles ?
+</p>
+        <p rend="left">
+Ils en sortent souvent.
+</p>
+        <p rend="left">
+— Comment cela ?
+</p>
+        <p>
+Uniquement faits pour protéger la Liberté
+individuelle dans ses diverses manifestations,
+ils essayent souvent de la diriger à leur guise
+ou, pour mieux dire, de s’y substituer. Ils se
+font tour à tour producteurs et distributeurs
+de richesse, entrepreneurs publics, constructeurs
+de routes et de voies ferrées, régulateurs
+du travail et des salaires, banquiers, assureurs,
+secoureurs, dispensateurs de vérité,
+donneurs d’instruction et de morale, chefs de
+religion, etc.
+</p>
+        <pb xml:id="PAG_00000106" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f106.image"/>
+        <p rend="left small">LE GOUVERNEMENT IO3</p>
+        <p>
+— Quel est le résultat général de cette
+extension du Gouvernement hors de ses
+limites naturelles ?
+</p>
+        <p>
+Une suppression correspondante de la
+Liberté individuelle, par ceux-là mêmes qui
+sont faits pour la protéger <hi rend="sup">1</hi>.
+</p>
+        <p rend="small"><hi rend="sup">1</hi> L’auteur estimé d’un ouvrage récent sur la république
+des Etats-Unis arrive, par l’étude des faits directement
+observés au cours d’un long voyage, aux mêmes conclusions.</p>
+        <p rend="small">Après avoir parlé de l’Amérique du Nord, de son organisation
+spontanément établie sur la base de l’énergie individuelle,
+de sa persévérante fidélité à cette direction initiale »
+Paul Bourget poursuit en ces termes :</p>
+        <p rend="small">« C’est une leçon que nous pouvons recevoir de la démocratie
+américaine ; mais, pour la pratiquer il nous faudrait
+travailler dans un sens opposé à celui où marche depuis cent
+ans chez nous le parti démocratique. Nous devrions chercher
+ce qui reste de la vieille France et nous y rattacher par
+toutes nos fibres, retrouver la province d’unité naturelle et
+héréditaire sous le département artificiel et morcelé, l’autonomie
+municipale sous la centralisation administrative, les
+Universités locales et fécondes sous notre Université officielle
+et morte, reconstituer la famille terrienne par la liberté de
+tester, protéger le travail par îe rétablissement des corporations,
+rendre à la vie religieuse sa vigueur et sa dignité
+par la suppression du budget des cultes et par le droit de
+posséder librement assuré aux associations religieuses, en un</p>
+        <pb xml:id="PAG_00000107" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f107.image"/>
+        <p rend="left small">104 CHAPITRE VII</p>
+        <p>
+— Quel est dans notre langue le nom de
+ce désordre ?
+</p>
+        <p rend="left">
+Le Socialisme d’État.
+</p>
+        <p>
+— Renfermé dans ses justes limites, à quoi
+donc le Gouvernement peut-il être comparé ?
+</p>
+        <p>
+Le Gouvernement est un Gendarme chargé
+d’assurer la liberté d’action des bons citoyens
+contre les entreprises des mauvais.
+</p>
+        <p rend="small">mot, sur ce point comme sur l’autre, défaire systématiquement
+l’oeuvre meurtrière de la Révolution Française. C’est
+le conseil qui, pour l’observateur impartial, se dégage de
+toutes les remarques faites sur les Etats-Unis. Si leur démocratie
+est si vivante et si forte, c’est pareeque l’individu y est
+libre et puissant en face d’un Etat réduit à son minimum
+d’action. Si elle réunit toutes les volontés en une immense
+harmonie, c’est qu’elle est vraiment nationale. C’est pour
+avoir établi un régime où l’Etat centralise en lui toutes les
+forces du pays et pour avoir violemment coupé toute attache
+historique entre notre passé et notre présent, que notre
+Révolution a si profondément tari les sources de la vitalité
+française. La critique n’est pas neuve. Les trois plus lucides
+analystes de la France contemporaine : Balzac, Le Play et
+Tainc, partis de doctrines si différentes et avec des méthodes
+si différentes encore, sont arrivés à cette même conclusion. 11
+n’est pas sans intérêt de constater que c’est la même conclusion
+<hi rend="sup">auss:</hi> d’un voyage accompli par un indépendant au pays
+le plus souvent cité par les partisans de celte Révolution. »
+(PAUL BOURGET, <hi rend="i">Outre-mer</hi>, ch.xu.) </p>
+        <pb xml:id="PAG_00000108" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f108.image"/>
+        <p rend="left small">LE GOUVERNEMENT IO5</p>
+        <p>
+— Qu’est-ce encore que le Gouvernement ?
+
+</p>
+        <p>
+Le Gouvernement est un Grand-Voyer
+chargé de maintenir, contre les efforts destructeurs
+des mauvais citoyens, la voie où
+marchent les bons <hi rend="sup">1</hi>.
+</p>
+        <p>
+—Comment le Gouvernement distinguerat-il
+les bons qu’il doit protéger d’avec les
+méchants qu’il doit contenir ?
+</p>
+        <p>
+Cela suppose chez lui une distinction exacte
+du bien et du mal.
+</p>
+        <p rend="small"><hi rend="sup">1</hi> « Maissurtoutil fautremarquer l’obligation siglorieuseque
+ce grand pape impose aux princes, d’élargir les voies duciel.
+Jésus-Christ a dit dans son évangile : « Combien est étroit le
+chemin qui mène à la vie ! » Et voici ce quile rend si étroit:
+c’est que le juste, sîvère à lui-même,et persécuteur irréconciliable
+de ses propres passions, se trouve encore persécuté par
+les injustes passions des autres et ne peut pas même obtenir
+que lemondele laisse en repos danscesentier solitaire et rude,
+où il grimpe plutôt qu’il ne marche. Accourez, dit saint
+Grégoire, puissances du siècle ; voyez dans quel sentier la
+vertu chemine ; doublement à l’étroit, cl par elle-même, et
+par l’effort de ceux qui li persécutent ; secourez-la, tendezlui
+la main : puisque vous la voyez déjà fatiguée du combat
+qu’elle soutient au dedans contre tant de tentations</p>
+        <pb xml:id="PAG_00000109" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f109.image"/>
+        <p rend="left small">100 CHAPITRE VII</p>
+        <p>
+— Dirons-nous donc que le Gouvernement
+doit avoir une doctrine ?
+</p>
+        <p>
+Le Gouvernement ne saurait être une force
+aveugle. Destiné qu’il est à pre'éger le bien
+contre le mal, il ne peut le faire, évidemment,
+qu’à la condition de savoir ce qui est bien et
+ce qui est mal.
+</p>
+        <p>
+Si c’est là ce qu’on entend par « avoir
+une doctrine », on est obligé de reconnaître
+qu’une doctrine est nécessaire au Gouvernement.
+
+</p>
+        <p>
+— Cette nécessité d’une doctrine pour le
+Gouvernement peut sembler évidente, en
+effet, là où ce Gouvernement remplit la double
+fonction de formuler les Droits et d’en protéger
+l’exercice.
+</p>
+        <p rend="left">
+Mais il n’en est pas toujours ainsi.
+</p>
+        <p rend="small">qui accablent la nature humaine, mettez-la du moins à
+couvert des insultes du dehors. Ainsi • élargirez un
+peu les voies du ciel, tt rétablirez ce chemin, que si hauteur
+et son aprdé rendront toujorus sssez difficile. »
+(B( SSUET, <hi rend="i">Or. fini ) </hi></p>
+        <pb xml:id="PAG_00000110" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f110.image"/>
+        <p rend="left small">LE GOUVERNEMENT 107</p>
+        <p>
+Il arrive assez souvent, au contraire, que
+le pouvoir de déterminer le Droit n’appartient
+pas au Gouvernement mais à l’ensemble
+des citoyens agissant directement ou par
+délégués.
+</p>
+        <p>
+Dans ce cas, de plus en plus fréquent de
+nos jours, le Gouvernement, appelé aussi
+<hi rend="i">Pouvoir exécutif</hi>, est simplement considéé
+comme ayant mission de protéger les droits
+tels qu’ils sont formulés sous le nom de
+<hi rend="i">Lois</hi> par les citoyens, <hi rend="i">Pouvoir législatif</hi>.
+</p>
+        <p>
+La loi écrite, volonté du législateur, devient
+ici la règle du Gouvernement.
+</p>
+        <p>
+Pour lui, dès lors, qu’est-il besoin d’une
+doctrine ?
+</p>
+        <p>
+(1 faut reconnaître qu’une doctrine lui serait
+inutile, en pareil cas, si sa mission naturelle
+se bornait à celle qu’on vient de dire, à savoir:
+la protection des droits <hi rend="i">tels qu’ils sont formulés
+par le Législateur</hi>.
+</p>
+        <p rend="left">
+Mais l’origine.et la raison d’être du Gou-
+</p>
+        <pb xml:id="PAG_00000111" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f111.image"/>
+        <p rend="left small">108 CHAPITRE VII</p>
+        <p>
+vernement comme elle nous est apparue à la
+lueur des principes sociaux (VII, 99) , lui assignent
+une fonction plus étendue.
+</p>
+        <p>
+Sa raison d’être, ?n effet, est la nécessité
+de l’unité sociale, et sa fonction qui s’en
+déduit est la protection de ceux qui travaillent
+à cette unité par l’accomplissement
+d’un devoir commun.
+</p>
+        <p>
+Or la volonté du Législateur et les lois qui
+l’expriment peuvent être dans certains cas en
+opposition formelle avec les droits réels de
+l’individu et l’unité sociale dont ce Gouvernement
+est le protecteur nécessaire et responsable.
+
+</p>
+        <p>
+C’est dire qu’il peut se présenter des cas
+où ce devoir de protection, unique raison
+d’être du Gouvernement mais sa loi supérieure
+et absolue, ait à s’exercer en faveur de
+l’individu et de la Société contre la loi écrite,
+volonté du Législateur.
+</p>
+        <p>
+Qui ne voit, dès lors, qu’en présence de ces
+erreurs possibles du Législateur, le Gouver-
+</p>
+        <pb xml:id="PAG_00000112" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f112.image"/>
+        <p rend="left small">LE GOUVERNEMENT IO9</p>
+        <p>
+nement, protecteur responsable de ceux qui
+font le bien, doit avoir, de toute nécessité,
+la connaissance de ce qui est bien et de ce qui
+est mal, une doctrine, en d’autres termes, qui
+l’éclairé, soit qu’il s’agisse pour lui d’interpréter
+la loi écrite dont l’exécution lui est
+confiée, soit que la sauvegarde du droit et de
+la liberté des citoyens lui commande de suspendre
+l’application de cette même loi et d’en
+provoquer le retrait.
+</p>
+        <p>
+— Dirons-nous donc, d’une manière générale
+et contrairement à l’opinion reçue, que
+dans une Société où les deux pouvoirs législatif
+et exécutif sont séparés, le Gouvernement
+n’est pas le « serviteur de la Loi », et
+que ses fonctions le placent au-dessus du
+Législateur ?
+</p>
+        <p>
+Non certes. Quand, dans une Société ainsi
+ordonnée, chacun de ces deux pouvoirs exerce
+naturellement ses fonctions, on ne saurait
+dire que l’un soit au-dessus de l’autre.
+</p>
+        <pb xml:id="PAG_00000113" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f113.image"/>
+        <p rend="left small">I !0 CHAPITRE VU</p>
+        <p>
+Dans ce cas, le Législateur représentant de
+l’individu et de ses droits, et le Gouvernement
+protecteur de ces mêmes droits et instrument
+nécessaire de l’unité sociale, sont deux puissances
+parallèles, distinctes d’origine mais
+concourant au même but : la Liberté du
+citoyen. L’un proclame et formule les droits ;
+l’autre en assure le libre exercice.
+</p>
+        <p>
+Quand tout se passe ainsi normalement,
+quand la volonté du Législateur est conforme
+à la loi naturelle, quand ses décrets, par conséquent,
+sont l’expression écrite, la formule
+du Droit, le Gouvernement, protecteur de ce
+même Droit, est donc bien nommé « le serviteur
+de la Loi ».
+</p>
+        <pb xml:id="PAG_00000114" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f114.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left">
+DU CHAPITRE HUITIÈME
+</p>
+        <p>
+Erreurs du pouvoir législatif. — Atteintes au Droit
+et à la Liberté. — Devoir du Gouvernement. — Droits
+correspondants. — Droit de résistance. — Droit de
+dissolution. — Révolte. — Droit de répression. —
+Répression à outrance. — Démission. Abdication.
+Lâcheté. Ignorance.
+</p>
+        <pb xml:id="PAG_00000115" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f115.image"/>
+        <pb xml:id="PAG_00000116" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f116.image"/>
+        <p rend="left">
+CHAPITRE VIII
+</p>
+        <p rend="left">
+LE DROIT DE RÉSISTANCE
+</p>
+        <p>
+— Bien que dans l’ordre naturel des choses
+(VII, 109) , le Pouvoir législatif ait pour
+fonction de formuler des droits que l’Exécutif
+n’a plus qu’à protéger, peut-il arriver que cet
+accord soit rompu et que les décrets rendus par
+le premier cessent d’être la règle du second ?
+</p>
+        <p>
+On a vu (VII, 106) , qu’il pouvait en être
+ainsi.
+</p>
+        <p>
+Il arrive parfois, en effet, que le Législateur,
+méconnaissant les lois naturelles et mettant à
+leur place ses propres erreurs, formule de
+prétendus droits en opposition avec les droits
+réels et la liberté des citoyens.
+</p>
+        <pb xml:id="PAG_00000117" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f117.image"/>
+        <p rend="left small">I 14 CHAPITRE VIII</p>
+        <p>
+— Quand pareils faits se produisent, qu’en
+doit-il résulter dans les rapports du Gouvernement
+avec le Législateur ?
+</p>
+        <p>
+Les erreurs du Législateur ne sauraient
+devenir la règle d’un Gouvernement qui se
+connaît, c’est-à-dire qui comprend l’étendue
+de son Devoir, de sa Responsabilité et de son
+Droit.
+</p>
+        <p>
+Ces erreurs, en effet, ne lui ôtent rien de ce
+devoir absolu qui est un devoir de protection
+des droits naturels et de la liberté des citoyens
+contre les forces anti-sociales qui les menacent.
+
+</p>
+        <p>
+Or le Législateur qui, sous le nom de Lois,
+rend des décrets contraires à ce Droit naturel
+et à cette Liberté, devient, par là même, une
+de ces forces anti-sociales dont la répression
+est la raison d’être du Gouvernement.
+</p>
+        <p>
+Il appartient dès lors à ce dernier d’agir
+envers lui en conséquence.
+</p>
+        <p rend="left">
+— Que fera-t-il ?
+</p>
+        <pb xml:id="PAG_00000118" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f118.image"/>
+        <p rend="left small">LE DROIT DE RÉSISTANCE I I 3.</p>
+        <p>
+Il ne poursuivra pas l’exécution de la loi <hi rend="sup">1</hi>
+et, faisant appel au bon sens du Législateur,
+en demandera le retrait.
+</p>
+        <p>
+— Que fera-t-il si le Législateur persiste
+dans ses volontés anti-sociales ?
+</p>
+        <p>
+Si le Législateur, maintenant sa volonté,
+s’affirme opiniâtrement comme élément de
+désorganisation sociale, comme adversaire
+</p>
+        <p rend="small"><hi rend="sup">1</hi> 11 se rencontre, çà et là, des hommes libres, capables de
+voir ces vérités et d’y conformer leur conduite. L’Amérique
+du Sud en fournit, à l’heure qu’il est, un exemple. A Lima,
+le Président du Conseil des Ministres a reçu du chef de l’État
+l’invitation d’apposer sa signature au bas de la loi votée qui
+établit les mariages civils.</p>
+        <p rend="small">« Cette loi est votée, répond le ministre, mais elle est
+en opposition avec un droit supérieur à celui du Législateur ;
+elle est en opposition avec ma croyance religieuse et celle de
+l’immense majorité de mes concitoyens ; je ne puis lui donner
+mon concours. »</p>
+        <p rend="small">On insiste: « La loi est la loi. Le Législateur en est seul
+responsable. »</p>
+        <p rend="small">Rien ne peut ébranler le courageux Président. Démissionnaire,
+il regagne sa ville natale qui le reçoit en triomphe.</p>
+        <p rend="small">Si le chef de l’Etat eut eu la clairvoyance et la fermeté de
+son premier ministre, le Gouvernement tout entier eut fait
+son devoir en refusant de sanctionner une loi arbitraire.</p>
+        <pb xml:id="PAG_00000119" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f119.image"/>
+        <p rend="left small">I 16 CHAPITRE VIII</p>
+        <p>
+du droit naturel et de la liberté des citoyens,
+le Gouvernement, protecteur né de ce droit
+et de cette liberté, fera son devoir et, supprimant
+ce Législateur en révolte contre la
+Société, demandera à la nation d’en déléguer
+un autre.
+</p>
+        <p>
+— Que fera-t-il si la majorité de la nation,
+prenant fait et cause pour ses représentants,
+les soutient dans leur révolte contre le droit
+et la liberté ?
+</p>
+        <p>
+Il exercera, malgré cette majorité, ce Législateur
+et la loi, ses fonctions de protecteur du
+droit et de la liberté des citoyens.
+</p>
+        <p rend="left">
+— Qui lui donnera cette audace ?
+</p>
+        <p>
+La conscience de son origine, de son devoir
+social, de sa responsabilité et de son droit.
+</p>
+        <p>
+— Que fera-t-il si ces éléments en révolte
+font appel à la violence contre ce protecteur
+inébranlable du droit et de la liberté ?
+</p>
+        <p rend="left">
+11 les réduira par la force.
+</p>
+        <pb xml:id="PAG_00000120" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f120.image"/>
+        <p rend="left small">LE DROIT DE RÉSISTANCE I I 7</p>
+        <p rend="left">
+— Que fera-t-il si la force lui manque ?
+</p>
+        <p>
+Il mourra, les armes à la main, pour le
+Droit et pour la Liberté. Il mourra pour son
+Pays et par son Pays <hi rend="sup">1</hi>.
+</p>
+        <p rend="small"><hi rend="sup">1</hi> Les Gouvernements qui abdiquent ou démissionnent
+devant de* résistances coupables font acte d’ignorance ou de
+lâcheté.</p>
+        <pb xml:id="PAG_00000121" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f121.image"/>
+        <pb xml:id="PAG_00000122" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f122.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left">
+DU CHAPITRE NEUVIÈME
+</p>
+        <p>
+Méconnaissance du principe absolu de l’unité
+sociale. — Volonté nationale substituée au principe
+social. — Confusion des droits individuel et gouvernemental.—
+Conséquences sociales et politiques. — Lutte
+des deux puissances.— Despotisme. — Anarchie.—
+Publicistes et Gouvernants aveugles. — Trois causes
+de l’erreur. — Deux écoles. — Comédie gouvernementale.
+— Bon sens du peuple.
+</p>
+        <pb xml:id="PAG_00000123" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f123.image"/>
+        <pb xml:id="PAG_00000124" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f124.image"/>
+      </div>
+      <div>
+        <head>Chapitre ix</head>
+        <p rend="left">
+LA SOUVERAINETÉ NATIONALE
+</p>
+        <p>
+— Les vérités précédemment établies
+(VIII, 116) touchant les rapports du Gouvernement
+et du Législateur, celle, notamment, qui
+reconnaît au premier le droit de résister,
+même par la force, aux volontés arbitraires
+du second, sont-elles généralement admises
+autour de nous ?
+</p>
+        <p>
+Les écrivains et les hommes politiques professent,
+pour la plupart, des opinions contraires.
+
+</p>
+        <p rend="left">
+—- Pourquoi cela ?
+</p>
+        <p>
+Une observation incomplète des faits sociaux
+leur voile, sur ce point, la vérité.
+</p>
+        <pb xml:id="PAG_00000125" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f125.image"/>
+        <p rend="left small">122 CHAPITRE IX</p>
+        <p rend="left">
+— Quel fait social négligent-ils ?
+</p>
+        <p>
+Le fait nécessaire, le principe absolu de
+l’Unité sociale dont le Gouvernement est
+la personnification et d’où il tire son origine,
+ses devoirs et ses droits (VII, 99).
+</p>
+        <p rend="left">
+— Que résulte-t-il delà ?
+Méconnaissant ce principe absolu et, par
+</p>
+        <p>
+suite, la véritable origine du Gouvernement,
+ils font procéder ce même Gouvernement,
+ses devoirs et ses droits, de la Volonté nationale
+diversement exprimée.
+</p>
+        <p>
+11 leur semble que reconnaître au Gouvernement
+une origine, des devoirs et des droits
+indépendants de cette volonté, c’est dépouiller
+la Nation d’une prérogative.
+</p>
+        <p>
+— Comment dépouiller la Nation de ce qui
+ne lui appartient pas ?
+</p>
+        <p>
+Ils oublient, en effet, ces hommes, qu’on
+ne dépouille pas la Nation en lui déniant un
+droit que la raison et les principes sociaux lui
+refusent ;
+</p>
+        <pb xml:id="PAG_00000126" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f126.image"/>
+        <p rend="left small">I.A SOUVERAINKTE NATIONALE 123</p>
+        <p>
+Que la Liberté individuelle représentée par
+le Peuple et l’Unité sociale personnifiée par le
+Gouvernement sont deux éléments distincts
+d’origine et de caractère ;
+</p>
+        <p>
+Que si l’individu a ses devoirs et ses droits,
+le Gouvernement aies siens, en rapport avec
+ses fonctions nécessaires et spéciales ;
+</p>
+        <p>
+Que ces deux puissances parallèles, Peuple
+et Gouvernement, s’embarrassent mutuellement,
+au grand détriment de la paix sociale,
+quand on les confond ensemble ;
+</p>
+        <p>
+Que les droits de la Nation risquent de ne
+plus être respectés quand elle s’élève injustement
+contre les droits et l’autorité du Gouvernement ;
+
+</p>
+        <p>
+Que si, dans cette lutte contre nature, la
+Nation est victorieuse, cette victoire est
+presque toujours douloureusement payée
+par l’anarchie et les maux qui en résultent ;
+
+</p>
+        <p>
+Que si, au contraire, c’est le Gouvernement
+qui l’emporte, la Liberté sombre, le plus sou-
+</p>
+        <pb xml:id="PAG_00000127" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f127.image"/>
+        <p rend="left small">124 CHAPITRE IX</p>
+        <p rend="left">
+vent, dans un despotisme non moins redoutable.
+
+</p>
+        <p>
+— Par qui ces vérités se trouvent-elles plus
+spécialement combattues ?
+</p>
+        <p>
+Ces vérités si évidentes et si pleinement
+justifiées par l’expérience sont battues en
+brèche, dans leur principe, par la plupart des
+publicistes de nos jours.
+</p>
+        <p rend="left">
+—Quelle est la cause de leur aveuglement ?
+</p>
+        <p rend="left">
+Il y en a plusieurs.
+</p>
+        <p>
+L’importance capitale de la Liberté en est
+une. Ce fait s’impose à certains esprits avec
+iine force telle que, pour eux, toute autre
+notion politique disparaît.
+</p>
+        <p>
+Une autre cause d’erreurs est le défaut
+d’éducation philosophique, défaut trop général
+et qui rend difficile, pour ne pas dire impossible,
+à beaucoup d’intelligences, la considération
+des principes supérieurs dont on
+a vu que le Pouvoir énvre.
+</p>
+        <p rend="left">
+Un dernier écueil enfin, est la faiblesse
+</p>
+        <pb xml:id="PAG_00000128" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f128.image"/>
+        <p rend="left small">LA SOUVERAINETE NATIONALE 125</p>
+        <p>
+naturelle de l’esprit humain qui parvient rarement
+à considérer à la fois et à combiner
+ensemble deux idées distinctes.
+</p>
+        <p>
+Or nous nous trouvons ici en présence de
+deux grands faits sociaux : le Droit de
+l’homme et le Droit du Pouvoir.
+</p>
+        <p>
+Devant ces deux notions parallèles, les uns
+— c’est le plus grand nombre — se préoccupent
+uniquement de la première ; les autres
+ne voient que la seconde.
+</p>
+        <p>
+De là deux écoles et deux courants opposés.
+
+</p>
+        <p>
+La vérité est dans leur accord, mais cet
+accord est malaisé.
+</p>
+        <p>
+La politique est une science, science à la
+fois théorique et pratique, basée sur la
+raison et sur les usages traditionnels,
+fruits de la sagesse et de l’expérience des
+siècles.
+</p>
+        <p>
+Il ne faut rien moins que tout cela, en
+effet, pour arriver à concilier, dans une juste
+mesure, les Droits, de l’homme et ceux du
+</p>
+        <pb xml:id="PAG_00000129" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f129.image"/>
+        <p rend="left small">126 CHAPITRE IX</p>
+        <p>
+Pouvoir, la Liberté individuelle et l’Unité
+sociale nécessaire.
+</p>
+        <p>
+Les peuples dont la vie politique est encore
+fondée sur le respect de ces bases fondamentales
+jouissent de la paix publique.
+</p>
+        <p>
+Ceux chez qui elle est livrée à l’ignorance
+des uns et aux discussions journalières des
+autres, se débattent dans un réseau d’inextricables
+difficultés.
+</p>
+        <p>
+— Quelle est, dans cette matière, l’attitude
+des Gouvernements ?
+</p>
+        <p>
+LesGouvernements,faitétrange, s’affirment
+hautement, parfois, comme dépendant, dans
+leur existence, de la Volonté nationale.
+</p>
+        <p rend="left">
+— D’où vient cela ?
+</p>
+        <p>
+Quelquefois de leur ignorance. Quelquefois
+aussi de leur perversité.
+</p>
+        <p>
+Certains Gouvernements, en effet, une fois
+établis, sûrs de leur puissance et de l’opinion
+publique, croient ajouter à leur force et à leur
+durée en demandant au peuple de consacrer
+</p>
+        <pb xml:id="PAG_00000130" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f130.image"/>
+        <p rend="left small">LA SOUVERAINETÉ NATIONALE 1 27</p>
+        <p>
+leur existence par un vote que, en fait, on ne
+peut leur refuser.
+</p>
+        <p rend="left">
+C’est une coupable comédie.
+</p>
+        <p>
+Ces Gouvernements trompent le peuple et
+lui manquent de respect en lui faisant montre
+d’un droit qu’il n’a pas—
+</p>
+        <p>
+Quelle est l’attitude de ce Peuple en
+présence de l’erreur que nous combattons ?
+</p>
+        <p>
+Le Peuple seul, soutenu par son bon sens
+naturel, échappe encore à l’illusion dangereuse
+dite de la Souveraineté nationale, et ses
+masses profondes témoignent d’instinct, par
+leur respect de l’autorité et une soumission,
+parfois exagérée, qu’elles reconnaissent dans
+leurs Gouvernements un pouvoir qui ne
+vient pas d’elles.
+</p>
+        <pb xml:id="PAG_00000131" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f131.image"/>
+        <pb xml:id="PAG_00000132" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f132.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left">
+DU CHAPITRE DIXIÈME
+</p>
+        <p>
+Insurrection. — Devoir d’insurrection — Droit
+d’insurrection. — Dépositaires du Droit. — Autorités
+sociales. —Responsabilité. — Rôle de la Papauté.
+</p>
+        <pb xml:id="PAG_00000133" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f133.image"/>
+        <pb xml:id="PAG_00000134" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f134.image"/>
+      </div>
+      <div>
+        <head>Chapitre x</head>
+        <p rend="left">
+LE DROIT D’INSURRECTION
+</p>
+        <p>
+— Quel que soit le respect, inné pour ainsi
+dire, du peuple pour l’autorité, ce peuple
+néanmoins est sujet à se révolter contre elle
+(VIII, M6). Comment s’appelle le fait, pour
+des citoyens, d’user de violence envers le
+Gouvernement ?
+</p>
+        <p rend="left">
+L’Insurrection.
+</p>
+        <p>
+— Si l’insurrection est un fait coupable
+dans les circonstances que nous avons
+envisagées, l’est-elle toujours ? Peut-on
+concevoir, en d’autres termes, que des
+citoyens aient, dans certains cas, le Droit
+</p>
+        <pb xml:id="PAG_00000135" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f135.image"/>
+        <p rend="left small">132 CHAPITRE X</p>
+        <p rend="left">
+de s’insurger contre leur Gouvernement ?
+</p>
+        <p>
+Le Droit est l’inviolabilité de celui qui
+accomplit un Devoir. Pour que des citoyens
+aient le Droit de s’insurger, il faut donc qu’il .
+en aient le Devoir.
+</p>
+        <p>
+— Peut-on concevoir que des citoyens
+aient le Devoir de s’insurger contre le Gouvernement ?
+
+</p>
+        <p>
+Tant que les hommes qui disposent de la
+force publique remplissent leur devoir spécial
+de protecteurs du droit, ils sont, par
+là-même, inviolables.
+</p>
+        <p>
+Mais s’ils venaient à cesser de remplir ce
+devoir, leur inviolabilité s’éteindrait aussitôt.
+</p>
+        <p>
+Ils seraient encore une force, mais une
+force sans droit.
+</p>
+        <p>
+Du même coup, la Société se trouverait
+sans Gouvernement véritable, les droits des
+citoyens sans protection, l’unité sociale
+menacée.
+</p>
+        <p rend="left">
+S’il se rencontrait, en pareil cas, des citoyens
+</p>
+        <pb xml:id="PAG_00000136" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f136.image"/>
+        <p rend="left small">LE DROIT D INSURRECTION 133</p>
+        <p>
+assez intelligents, énergiques et forts pour
+comprendre la situation nouvelle et assumer
+le rôle ainsi délaissé de protecteurs du droit,
+leur devoir serait de le faire et de se substituer,
+de gré ou de force, à ces prétendus
+gouvernants qui, en cessant de remplir leurs
+fonctions, ont perdu leur raison d’être.
+</p>
+        <p>
+On peut donc concevoir, pour des citoyens,
+un Devoir, et par conséquent un Droit d’insurrection.
+
+</p>
+        <p>
+— Est-il aisé pour un citoyen de déterminer
+le moment où son devoir est de s’insurger
+contre le Gouvernement de fait ?
+</p>
+        <p>
+C’est demander s’il est aisé, pour un citoyen,
+de déterminer le moment où la Société, bien
+qu’ayant un Gouvernement en apparence,
+n’en a plus en réalité, et où lui, citoyen, a, par
+lui-même et par d’autres, la force suffisante
+pour assumer contre le Gouvernement de
+fait le rôle de protecteur des droits.
+</p>
+        <p rend="left">
+11 faut reconnaître que cette détermination
+</p>
+        <pb xml:id="PAG_00000137" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f137.image"/>
+        <p rend="left small">134 CHAPITRE X</p>
+        <p rend="left">
+est délicate, malaisée et, la plupart du temps,
+au-dessus des forces des citoyens.
+</p>
+        <p>
+Elle suppose chez eux une connaissance
+des faits, une force de raison, et en même
+temps un ensemble de moyens matériels, qui
+se trouvent rarement réunis dans la pratique.
+</p>
+        <p>
+— Qu’en résulte-t-il en ce qui touche le
+Devoii et le Droit d’insurrection ?
+</p>
+        <p>
+11 en résulte que ce Devoir et ce Droit n’existent
+pas directement pour la masse des citoyens
+et qu’il ne peut exister ainsi que pour
+un petit nombre d’hommes que leur connaissance
+des faits, leur étude des principes et de
+l’histoire, leur raison, leur indépendance de
+caractère, leur situation sociale, mettent à
+même déjuger le Gouvernement, de constater
+qu’il ne remplit plus ses fonctions et de
+constituer la force qui le supprimera.
+</p>
+        <p>
+C’est a ces hommes, éléments indispensables
+de toute société prospère, et qu’on a appelés
+à juste titre des « autorités sociales »,
+</p>
+        <pb xml:id="PAG_00000138" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f138.image"/>
+        <p rend="left small">LE DROIT <hi rend="i">D</hi> INSURRECTION I35</p>
+        <p>
+c’est à ces hommes qu’incombe directement,
+quand il y a lieu, le devoir et le droit
+d’insurrection. C’est à eux qu’il appartient
+de se tourner, au besoin, vers le peuple, de
+lui faire connaître les faits, de lui exposer la
+situation, de l’enseigner, pour ainsi dire, et
+de faire apparaître ainsi chez lui ce Devoir et,
+partant, ce Droit d’insurrection que les événements
+ont fait naître.
+</p>
+        <p>
+— Ces hommes n’assument-ils pas une
+écrasante responsabilité ?
+</p>
+        <p>
+Ils assument une responsabilité redoutable
+en se faisant les adversaires de la force qui a
+personnifié longtemps peut-être, et qui personnifie
+encore aux yeux du peuple le principe
+divin de l’unité sociale.
+</p>
+        <p>
+La mission qui leur incombe est une
+grande, difficile et périlleuse mission.
+</p>
+        <p rend="left">
+Leur devoir n’en existe pas moins.
+</p>
+        <p rend="left">
+— Quelle puissance morale d’un ordre par-
+</p>
+        <pb xml:id="PAG_00000139" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f139.image"/>
+        <p rend="left small">I36 CHAPITRE X</p>
+        <p rend="left">
+ticulier peut leur venir en aide à cette heure
+difficile ?
+</p>
+        <p>
+Ces hommes, dans la terrible nécessité où
+ils se trouvent, ne peuvent entourer leurs décisions
+de trop de lumières, leur action de trop
+d’autorité.
+</p>
+        <p>
+S’ils agissent dans une société chrétienne,
+une grande puissance morale peut leur venir
+en aide.
+</p>
+        <p>
+On a vu, en pareil cas, cette puissance morale,
+la Papauté, jeter son autorité dans la
+balance et, protectrice impartiale de la liberté
+des peuples, montrer elle-même a ces peuples
+leur devoir et leur droit de résistance, les
+déliant de ce qu’ils pouvaient encore considérer
+comme une obligation d’obéissance envers
+des gouvernants indignes de ce nom.
+</p>
+        <pb xml:id="PAG_00000140" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f140.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left small">DU CHAPITRE ONZIÈME</p>
+        <p rend="small">Durée limitée du Droit gouvernemental. — Loi de
+cette durée. — Extinction du Droit gouvernemental.
+— Extinction de ce droit chez les Gouvernements coupables.
+— Son extinction chez les Gouvernements
+légitimes. — Leur puissance de protection sociale,
+raison d’être de leur droit. — Leur impuissance, cause
+de sa disparition. — Fidélité. — Conscience.</p>
+        <pb xml:id="PAG_00000141" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f141.image"/>
+        <pb xml:id="PAG_00000142" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f142.image"/>
+      </div>
+      <div>
+        <head>Chapitre xi</head>
+        <p rend="left">
+LA DURÉE DU DROIT DES GOUVERNANTS
+</p>
+        <p>
+— Le Droit des Gouvernants, que nous
+avions vu déjà limité dans son étendue (VII,
+i oo) , vient de nous apparaître limité aussi dans
+sa durée (X, 132). Quel est le fait qui règle
+cette durée ?
+</p>
+        <p>
+L’accomplissement, par ces Gouvernants,
+de leur Devoir de protection sociale.
+</p>
+        <p rend="left">
+— Comment cela ?
+</p>
+        <p>
+Le Droit est l’inviolabilité de celui qui accomplit
+son Devoir.
+</p>
+        <p>
+Or le devoir des GouvernailIs est la protection
+de la liberté individuelle.
+</p>
+        <pb xml:id="PAG_00000143" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f143.image"/>
+        <p rend="left small">140 CHAPITRE XI</p>
+        <p>
+Leur droit existe donc aussi longtemps
+qu’ils accomplissent ce devoir.
+</p>
+        <p rend="left">
+Il s’éteint quand ils cessent de le faire.
+</p>
+        <p>
+C’est ainsi que tout se simplifie à la lueur
+des principes. Le .même devoir de protection
+sociale qui nous aidait naguère à fixer l’étendue
+du droit des Gouvernants nous permet
+ici d’en déterminer la durée.
+</p>
+        <p>
+— Dirons-nous donc, d’une manière absolue,
+que le Droit des Gouvernants s’éteint par
+le seul fait que ces mêmes Gouvernants cessent
+de remplir leur Devoir de protection
+sociale ?
+</p>
+        <p>
+C’est la conséquence nécessaire des principes
+sociaux, peu nombreux mais solides,
+dont nous avons successivement constaté
+l’existence.
+</p>
+        <p>
+— C’est une conséquence qu’il est aisé
+d’admettre s’il s’agit d’un Gouvernement qui,
+par ignorance, erreur ou corruption, cesse de
+remplir son devoir de protecteur.
+</p>
+        <pb xml:id="PAG_00000144" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f144.image"/>
+        <p rend="left small">LA DURÉE DU DROIT DES GOUVERNANTS 141</p>
+        <p rend="left">
+Mais il n’en est pas toujours ainsi.
+</p>
+        <p>
+Il arrive malheureusement que de bons
+Gouvernements cessent de remplir ce même
+devoir parce qu’injustement attaqués et
+violemment renversés, ils se trouvent réduits
+à l’impuissance, dépouillés de tous moyens
+d’action, anéantis.
+</p>
+        <p>
+Ne répugne-t-il pas qu’on puisse dire de ces
+Gouvernements simplement malheureux, tout
+comme des Gouvernements coupables, que
+leur Droit est éteint ?
+</p>
+        <p>
+Remarquons tout d’abord que le fait qu’on
+suppose est rare. Il est rare de voir tomber un
+bon Gouvernement, c’est-à-dire un Gouvernement
+doué des qualités nécessaires à l’exercice
+de sa fonction.
+</p>
+        <p>
+Quand on considère de près la docilité naturelle
+des peuples, leur respect inné de l’autorité,
+leur éloignement pour l’opposition,
+leur répugnance pour le changement, on
+est obligé de reconnaître que les catastro-
+</p>
+        <pb xml:id="PAG_00000145" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f145.image"/>
+        <p rend="left small">142 CHAPITRE XI</p>
+        <p>
+plies politiques sont bien plus souvent la
+faute des Gouvernants que celle des gouvernés
+<hi rend="sup">1</hi>.
+</p>
+        <p>
+— Si rare qu’il puisse être, le fait peut se
+présenter. S il se présente, que dirons-nous ?
+Dirons-nous d’un bon Gouvernement, tombé
+sans qu’il y ait de sa faute, que son Droit est
+éteint ?
+</p>
+        <p rend="left">
+La raison nous oblige à le dire et tout esprit
+non prévenu le comprendra.
+Le Droit— ne nous lassons pas de le répé1
+</p>
+        <p rend="small">« Quelque haut qu’on puisse remonter pour <hi rend="sub">recherchery</hi>
+dan ; lei histoires, les exemples de&gt; grandes mutations, on
+trouvera que jusques ici elles sont causées ou par la mollesse
+ou par la violent dis princes. En effet, quand les princes
+négligeant de connaître leurs affaires et leurs armées, ne
+travaillent qu’à la chasse, comme disait cet historien, n’ont
+de gloire que pour le luxe ni d’esprit que pour inventer des
+plaisirs ; ou quand, emportés par leur humeur violente, ils
+ne gardent plus ni lois ni mesures, et qu’ils ôtent les égards
+et la crainte aux hommes en faisant que les maux qu’ils
+souffrent leur paraissent plus insupportables que ceux qu’ils
+prévoient, alors ou la lhence excessive ou la patience poussée
+àl’extréuit* menacent terriblement les maison ; régnantes. »
+(BOSSUET, <hi rend="i">Or./un.) </hi></p>
+        <pb xml:id="PAG_00000146" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f146.image"/>
+        <p rend="left small">LA DURÉE DU DROIT DES GOUVERNANTS I 43</p>
+        <p>
+ter — est l’inviolabilité de celui qui accomplit
+son Devoir.
+</p>
+        <p>
+Le devoir du Gouvernement simplement
+malheureux dont on parle ici était un devoir
+de protection des droits et de la liberté des
+citoyens.
+</p>
+        <p>
+Ce devoir ne fût pas né pour lui si, à
+un moment donné, il n’eût pas disposé
+d’une force supérieure qu’il avait l’obligation
+morale, de mettre au service de la
+Société.
+</p>
+        <p>
+Ce devoir né, pour lui, de la force dont il
+disposait ainsi, ne saurait donc subsister
+quand cette force vient à disparaître.
+</p>
+        <p rend="left">
+A l’impossible, nul n’est tenu.
+</p>
+        <p>
+A ce Gouvernement d’hier, impuissant,
+anéanti, sansforceaujourd’hui, Userait absurde
+et injuste d’imposer un devoir de gouverner
+qu’il ne peut plus remplir.
+</p>
+        <p>
+La force lui avait donné ce devoir, sa faiblesse
+l’en décharge. L’effet disparaît avec la
+cause.
+</p>
+        <pb xml:id="PAG_00000147" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f147.image"/>
+        <p rend="left small">144 CHAPITRE XI</p>
+        <p>
+Or s’il n’a plus le Devoir de gouverner, il
+n’en a plus le Droit.
+</p>
+        <p>
+— N’est-ce pas justifier toutes les violences
+et toutes les usurpations ?
+</p>
+        <p rend="left">
+Nullement.
+</p>
+        <p>
+Les violents qui se sont insurgés contre ce
+Gouvernement et l’ont renversé sont éminemment
+coupables. Ils répondront de leur
+crime devant Dieu, souvent même devant
+cette Société qu’ils n’ont pas craint d’attaquer
+dans un de ses éléments les plus essentiels.
+</p>
+        <p>
+Ils <hi rend="i">ntn</hi> ont pas moins créé une situation
+nouvelle dont il serait puéril de ne pas vouloir
+constater le fait et déduire '.es conséquences.
+
+</p>
+        <p>
+Or le fait est que le Gouvernement renversé
+n’est plus une force capable de protéger les
+droits et la liberté des citoyens.
+</p>
+        <p>
+S’il ne peut plus le faire il n’a plus le Devoir
+de le faire, et si son Devoir cesse son Droit
+s’éteint.
+</p>
+        <pb xml:id="PAG_00000148" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f148.image"/>
+        <p rend="left small">LA DURÉE DU DROIT DES GOUVERNANTS I45</p>
+        <p>
+Pour bien comprendre cela, il faut se rappeler
+quelle est la raison d’être des Gouvernements
+:
+</p>
+        <p>
+Que cette raison d’être est la défense sociale
+ ;
+</p>
+        <p>
+Que la Société n’est pas faite pour eux,
+mais eux pour la Société ' ;
+</p>
+        <p>
+Que si, par conséquent, à un moment
+donné et pour quelque cause que ce soit,
+fût-elle injuste et regrettable, un Gouvernement
+se trouve, en fait, dans l’impuissance
+absolue de remplir sa mission de protecteur
+social, il n’a plus de raison d’être, plus
+de Devoir par conséquent, et, partant, plus
+de Droit.
+</p>
+        <p>
+Ces vérités peuvent sembler dures aux
+hommes qui ont pris l’habitude de mettre en
+première ligne des sentiments d’affection, de
+respect et de fidélité pour les Gouvernements
+tombés et qu’ils ont servis ; elles <hi rend="i">nen</hi> sont
+</p>
+        <p rend="small"><hi rend="sup">1</hi> « Les grand ? ne doivent leur élévation qu’aux besoins
+publics… et ils sont faits pour le peuple. » (MASSILLON.) </p>
+        <p rend="left small">'3</p>
+        <pb xml:id="PAG_00000149" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f149.image"/>
+        <p rend="left small">I46 CHAPITRE XI</p>
+        <p>
+pas moins des vérités, et qui s’imposent
+comme telles à l’adhésion et à la conscience
+de tous les citoyens quels qu’ils soient '.
+</p>
+        <p rend="small"><hi rend="sup">1</hi> Une des grandes intelligences du xix* siècle, le pape
+Léon XIII, envisageant, à la lueur de la raison, la situation
+des partis en France, a essayé d’y ramener les esprits à la juste
+conception de la légitimité gouvernementale.</p>
+        <p rend="small">S’il n’y a qu’imparfaitement réussi tout d’abord, c’est que
+la génération contemporaine, de plus en plus dénuée d’éducation
+philosophique, ne s’élève qu’à grand’peine à la vision
+des principes absolus qui ont une part nécessaire dans la
+direction des choses humaines de quelque nature qu’elles
+soient. Or si la parole de ce pape, dans la forme où elle était
+donnée, n’obligeait pas directement ceux à qui elle s’adressait,
+elle y tendait néanmoins, en leur montrant la raison
+qui, une fois aperçue, devait engager naturellement leur
+conscience.</p>
+        <pb xml:id="PAG_00000150" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f150.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left">
+DU CHAPITRE DOUZIÈME
+</p>
+        <p>
+Table rase. — Alternative. — Nécessité sociale. —
+Force nouvelle. — Devoir de gouverner. — Droit. —
+Usurpateur. —■ Déshérence du Droit. — Protection
+sociale. — Droit nouveau.
+</p>
+        <pb xml:id="PAG_00000151" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f151.image"/>
+        <pb xml:id="PAG_00000152" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f152.image"/>
+        <p rend="left">
+CHAPITRE XII
+</p>
+        <p rend="left">
+LES GOUVERNEMENTS NOUVEAUX
+</p>
+        <p>
+— Qu’arrive-t-il quand, bon ou mauvais,
+un Gouvernement se trouve anéanti ?
+</p>
+        <p>
+De deux choses Tune : ou une force nouvelle
+remplace immédiatement la force détruite et
+remplit la fonction de protecteur du droit ; ou
+aucune force protectrice ne surgit et la Société
+reste sans défenseur.
+</p>
+        <p>
+— Que devient, dans le premier cas, le Droit
+de gouverner ?
+</p>
+        <p>
+La nécessité sociale et la force qu’il mettait
+à son service étaient la raison d’être du Gouvernement
+détruit (VII, 99. — XI, 145).
+</p>
+        <p rend="left">
+Lui disparu, cette même nécessité sociale
+</p>
+        <pb xml:id="PAG_00000153" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f153.image"/>
+        <p rend="left small">I^O CHAPITRE XII</p>
+        <p>
+subsistait inéluctable, réclamait un autre instrument
+capable de remplir la fonction restée
+en souffrance, exigeait sans délai un nouveau
+protecteur qui trouverait en elle, comme le
+précédent, sa raison d’être, son devoir et
+son droit.
+</p>
+        <p>
+En protégeant la liberté sociale, la force
+nouvelle accomplit donc un Devoir, est inviolable
+dans cet accomplissement, exerce un
+Droit.
+</p>
+        <p>
+— Mais il peut se faire que cette force nouvelle
+soit celle-là même qui a détruit l’ancienne.
+Lui reconnaîtrons-nous, dans ce cas,
+le Droit de gouverner ?
+</p>
+        <p>
+Personne assurément ne le lui contestera
+si la force renversée par elle était une de ces
+forces oppressives contre lesquelles il y a lieu
+(X, 132) d’accompHr un devoir et par suite
+d’exercer un droit, d’insurrection.
+</p>
+        <p>
+— Mais si la force détruite était une force
+vraiment gouvernementale, remplissant ses
+</p>
+        <pb xml:id="PAG_00000154" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f154.image"/>
+        <p rend="left small">LES GOUVERNEMENTS NOUVEAUX I^î</p>
+        <p>
+devoirs, inviolable par conséquent, dironsnous
+encore de la force nouvelle qui l’a renversée
+et a pris sa place qu’elle a le Droit de
+gouverner ?
+</p>
+        <p>
+La question, à première vue, semble délicate.
+
+</p>
+        <p>
+Pour la résoudre, il faut se rappeler tout
+d’abord ce que nous avons établi précédemment
+(XI, 143) , à savoir que la force détruite
+se trouve, par le fait même de son impuissance
+absolue, déchargée du devoir de gouverner,
+et que, le droit n’étant autre chose
+que l’inviolabilité de celui qui accomplit un
+devoir, cette force détruite, ainsi déchargée
+de son Devoir, n’a plus, dès lors, le Droit correspondant.
+
+</p>
+        <p>
+Ce fait que le Gouvernement détruit ne
+conserve ni le Devoir ni, par.conséquent, le
+Droit de gouverner est on ne peut plus important
+pour la solution de la question posée.
+</p>
+        <p rend="left">
+— Pourquoi cela ?
+</p>
+        <pb xml:id="PAG_00000155" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f155.image"/>
+        <p rend="left small">IS2 CHAP.TRE XII</p>
+        <p>
+Parce que ceux qui examinent cette question
+sont ordinairement et surtout préoccupés
+de la pensée que, dans le cas dont il
+s’agit, le Gouvernement nouveau est une
+force perpétuellement injuste, injuste non
+seulement à l’origine — ce qui est vrai — mais
+encore et toujours dans l’avenir, en ce qu’elle
+exerce à son profit un droit de gouverner qui
+ne cesse pas d’appartenir à son prédécesseur.
+
+</p>
+        <p>
+Or cette dernière opinion est erronée, puisque
+ce prédécesseur, comme on l’a vu, a
+perdu, avec sa puissance, son devoir, et par
+conséquent son droit, de Gouvernant.
+</p>
+        <p>
+Cette difficulté une fois écartée, on voit
+immédiatement combien la question se simplifie.
+
+</p>
+        <p>
+Il ne s’agit plus, en effet, que de savoir si
+un Gouvernement, usurpateur à l’origine,
+peut, à un moment donné, se trouver investi
+d’un droit qui, en fait, n’appartient plus à
+personne autre,
+</p>
+        <pb xml:id="PAG_00000156" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f156.image"/>
+        <p rend="left small"> ! US GOUVERNEMENTS NOUVEAUX 153</p>
+        <p rend="left">
+— Comment résoudre cette question ?
+</p>
+        <p>
+Comme les précédentes, en jugeant les
+faits a la lumière des principes.
+</p>
+        <p>
+Le Droit est l’inviolabilité de celui qui
+accomplit un Devoir. Si, toute coupable
+qu’elle soit d’avoir attaqué et renversé ce qui
+était légitime, la force nouvelle ainsi substituée
+à l’ancienne se trouve, à un moment
+donné, définitivement établie, seule protectrice
+réelle et efficace des droits et de la
+liberté des citoyens, véritable instrument, en
+un mot, de l’unité sociale, on ne saurait
+nier qu’elle remplit un devoir, le devoir
+de gouverner.
+</p>
+        <p>
+Or si elle remplit ce Devoir, elle est inviolable
+dans cet accomplissement, elle exerce un
+Droit.
+</p>
+        <p rend="left">
+11 semble que la question soit ainsi résolue.
+</p>
+        <pb xml:id="PAG_00000157" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f157.image"/>
+        <pb xml:id="PAG_00000158" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f158.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left small">DU CHAPITRL RE1ZIÈME</p>
+        <p rend="small">Gouvernements successifs et inviolables. — Tout
+Droit est divin. — Monarchies et Républiques de Droit
+divin. — Extinction du Droit divin. — Gouvernements
+déchus. — « Rentrés dans le rang ». — Rôle
+social des gouvernants déchus. — Erreur commune
+des Monarchistes et des Républ’^ins. — Léon Xlli. —
+D’Orléans.</p>
+        <pb xml:id="PAG_00000159" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f159.image"/>
+        <pb xml:id="PAG_00000160" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f160.image"/>
+        <p rend="left">
+CHAPITRE XIII
+</p>
+        <p rend="left">
+LE DROIT DIVIN DES GOUVERNEMENTS
+</p>
+        <p>
+— Si le principe nécessaire de l’unité sociale
+explique et légitime (XII, 150, 15^) l’existence
+de Gouvernements successifs et également
+inviolables, quelle valeur attribuerons-nous
+désormais à cette expression si souvent
+employée : « Le Droit divin des Gouver -
+nements »?
+</p>
+        <p>
+Tout Droit est divin. Tout Droit a sa source
+dans un Devoir supérieur, nécessaire, absolu,
+divin en un mot.
+</p>
+        <p>
+Le Droit des Gouvernements établis estdonc
+bien qualifié quand on je qualifie de <hi rend="i">divin</hi>, et
+</p>
+        <p rend="left small"> »4</p>
+        <pb xml:id="PAG_00000161" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f161.image"/>
+        <p rend="left small">1^8 CHAPITRE XIII</p>
+        <p>
+l’expression dont il s’agit, ainsi entendue, est
+profondément juste.
+</p>
+        <p>
+Qu’il s’appelle Monarchie, Empire ou République,
+un Gouvernement existe <hi rend="i">de droit
+divin</hi> tant qu’il remplit son devoir de protecteur
+social.
+</p>
+        <p>
+Cela n’empêche pas son droit de s’éteindre
+si, pour une cause quelconque, il cesse de remplir
+ce devoir.
+</p>
+        <p>
+Il était inviolable de par Dieu parce qu’il
+remplissait un devoir. Il perd cette inviolabilité
+dès qu’il ne le remplit plus.
+</p>
+        <p rend="left">
+Tout cela vient d’être clairement établi.
+</p>
+        <p>
+— Que deviennent les Gouvernants tombés ?
+
+</p>
+        <p>
+Ils redeviennent ce qu’eux-mêmes ou leurs
+prédécesseurs étaient d’abord, « des gouvernés
+ ».
+</p>
+        <p>
+Ils « rentrent dans le rang » d’où leur puissance
+les avait tirés pour le service social et
+où leur impuissance les replace. .
+</p>
+        <pb xml:id="PAG_00000162" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f162.image"/>
+        <p rend="left small">LE DROIT DIVIN DES GOUVERNEMENTS I 59</p>
+        <p rend="left">
+. — Ne reste-t-il rien du passé à ces puissances
+déchues ?
+</p>
+        <p>
+Le bien qu’elles ont accompli, les services
+qu’elles ont rendus à la société, les dévouements
+qu’elles ont suscités, leur gloire passée,
+la reconnaissance de la nation et de l’histoire,
+font de ces puissances déchues et de leurs
+représentants, des forces sociales de premier
+ordre, éminemment utilisables par cette nation
+qui les possède.
+</p>
+        <p>
+Ce rôle patriotique est assez beau pour
+satisfaire les puissances anciennes quand,
+obéissant à de nobles sentiments, elles conservent
+dans une situation nouvelle le désir
+légitime de servir leur pays.
+</p>
+        <p>
+Cette ligne de conduite ne s’impose pas seulement
+aux représentants des monarchies déchues.
+Il y a, en France, de véritables dynasties
+républicaines. Certains noms font de ceux qui
+les portent la personnification, héréditaire
+pour ainsi dire, de l’Etat populaire, leur assurant,
+sous cette forme de gouvernement,
+
+<pb xml:id="PAG_00000163" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f163.image"/>l6o CHAPITRE XIII</p>
+        <p>
+une influence, des honneurs et des places.
+La raison exige d’eux, sous d’autres régimes,
+cette soumission patriotique dont il vient
+d’être parlé.
+</p>
+        <p>
+C’est une erreur anti-sociale qui, sous un
+gouvernement monarchique, maintient en
+adversaires déclarés du Pouvoir établi, les citoyens
+attachés par goût ou par tradition à
+la forme républicaine.
+</p>
+        <p>
+C’est une erreur du même genre qui pousse
+trop souvent les représentants des monarchies
+tombées à jouer indéfiniment, à l’aide d’amis
+aveugles ou coupables, le rôle de Prétendants *.
+</p>
+        <p rend="left small">* V. Ch. XI, p. 146, note, LÉON XIII.</p>
+        <p rend="small">—En France, à l’heure où l’on écrit ces lignes, c’est l’honneur
+d’un certain nombre de membres de la famille d’Orléans
+d’avoir compris ces vérités et de savoir vivre en
+citoyens utiles de la Républic je dans ce' pays que leurs
+pires ont servi en Rois.</p>
+        <pb xml:id="PAG_00000164" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f164.image"/>
+      </div>
+      <div>
+        <head>Sommaire</head>
+        <p rend="left">
+DU CHAPITRE QUATORZIÈME
+</p>
+        <p>
+Forces anti-sociales déchaînées. — Société sans
+défenseur. — Lice ouverte. — Sens populaire. —
+Retour périodique de la force. — Loi de la force. —
+Remède. — Raison. — Christianisme. — Avenir.
+</p>
+        <p rend="left small">14.</p>
+        <pb xml:id="PAG_00000165" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f165.image"/>
+        <pb xml:id="PAG_00000166" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f166.image"/>
+        <p rend="left">
+CHAPITRE XIV
+</p>
+      </div>
+      <div>
+        <head>L’anarchie</head>
+        <p>
+— Quel est le second cas qui peut se présenter
+dans l’hypothèse que nous avons examinée,
+de la chute d’un Gouvernement établi ?
+</p>
+        <p>
+Le cas où aucune force protectrice non
+velle ne remplace immédiatement l’ancienne
+et où la Société reste sans défenseur.
+</p>
+        <p>
+— Comment s’appelle le fait, pour une
+Société, d’être ainsi laissée sans défenseur
+contre les adversaires du Droit et de la Liberté ?
+</p>
+        <p rend="left">
+L’Anarchie.
+</p>
+        <p>
+— Que devient, en cas d’anarchie, le Droit
+de gouverner ?
+</p>
+        <pb xml:id="PAG_00000167" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f167.image"/>
+        <p rend="left small">164 CHAPITRE XIV</p>
+        <p>
+La Société ne peut se passer longtemps de
+Gouvernement.
+</p>
+        <p>
+Menacée dans son existence, il lui en faut
+un et à bref délai.
+</p>
+        <p>
+Dans le désordre où la jettent les éléments
+anti-sociaux déchaînés, elle n’a ni le temps
+d’attendre, ni, le plus souvent, la possibilité
+de choisir.
+</p>
+        <p rend="left">
+La lice est ouverte.
+</p>
+        <p>
+Toute force ancienne ou nouvelle <hi rend="sup">1</hi>, capable
+de faire échec aux forces anti-sociales, toute
+force capable de gouverner, en un mot, a, par
+là-même, le devoir de le faire.
+</p>
+        <p rend="left">
+Ce Devoir fait son Droit.
+</p>
+        <p>
+Les peuples, dans leur bon sens, ne s’y
+trompent pas, et mettant l’intérêt social audessus
+des calculs des uns et des préférences
+des autres ils acclament, sans hésiter, comme
+chefs légitimes et d’où qu’ils viennent, les
+</p>
+        <p rend="small"><hi rend="sup">1</hi> 11 est préférable, quand il se peut, que ce soit une
+force ancienne qui mette fin à l’anarchie. La tradition, chez
+elle, des dévouements passés, le souvenir, chez le peuple, des
+<pb xml:id="PAG_00000168" n="165" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f168.image"/>hommes d’énergie qui, refoulant par la force
+les éléments anarchiques, assument le rôle
+de protecteurs dès droits et donnent à la
+Société un Gouvernement. '
+</p>
+        <p>
+— Cette loi de la force qu’on a vu régner
+en maîtresse au début des Sociétés ne cesserat-elle
+donc dé réapparaître avec la même intensité
+à certaines périodes de leur existence ?
+</p>
+        <p>
+Les lois sociales sont immuables. Il n’y a
+pas de société sans unité, et, dans le maintien
+de cette unité nécessaire, la Force s’affirmera
+toujours d’autant plus que la Raison se
+voilera davantage.
+</p>
+        <p>
+La réciproque, he.ureusement, est vraie ; le
+remède est à côté du mal ; et l’on a vu
+(II, 33 — V, 77) de quels moyens puissants
+l’Humanité dispose pour augmenter en
+elle l’empire de la Raison.
+</p>
+        <p rend="left">
+— Les sociétés à venir, s’imprègnerontservices
+</p>
+        <p rend="small">rendus, contribuent puissamment à lui donner l’autorité
+et la stabilité qui lui sont nécessaire ».
+<pb xml:id="PAG_00000169" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f169.image"/>l66 CHAPITRE XIV</p>
+        <p>
+elles jamais assez de Christianisme pour
+éteindre chez elles le feu des luttes intestines
+et faire définitivement de cette Raison, qui est
+Dieu, l’élément principal, sinon suffisant,
+de l’Unité sociale ?
+</p>
+        <p>
+« La chose vaut la peine qu’on hasarde d’y
+croire ; c’est un hasard qu’il est beau de
+courir, c’est Une espérance dont il faut
+comme s’enchanter soi-même. &gt;&gt; <hi rend="sub">:</hi>
+</p>
+        <pb xml:id="PAG_00000170" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f170.image"/>
+      </div>
+      <div>
+        <head>Table analytique</head>
+        <p rend="left small">DES
+MATIÈRES CONTENUES DANS LE VOLUME</p>
+        <pb xml:id="PAG_00000171" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f171.image"/>
+        <pb xml:id="PAG_00000172" n="7" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f172.image"/>
+        <p rend="left">
+CHAPITRE I". — LES AXIOMES SOCIAUX
+</p>
+        <p rend="left">
+Catéchisme et Philosophie ……. it
+</p>
+        <p rend="left">
+Axiômessociaux . 12
+</p>
+        <p rend="left">
+Sophocle, Bossuet, saint Augustin, Job, Darwin,
+</p>
+        <p rend="left small">le Play 12</p>
+        <p rend="left">
+Axiomes vus de ceux qui les nient. …. 17
+</p>
+        <p rend="left">
+Cause de l’erreur scientifique iS
+</p>
+        <p rend="left">
+Panthéistes allemands 18
+</p>
+        <p rend="left">
+Positivistes français ………. 18
+</p>
+      </div>
+      <div>
+        <head>'5</head>
+        <pb xml:id="PAG_00000173" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f173.image"/>
+        <p rend="left small">I70 TABLE ANALYTIQUE</p>
+        <p rend="left small">Chapitres pour tous 20</p>
+        <p rend="left small">Bonne foi scientifique. Responsabilité …. 20</p>
+        <p rend="left small">Esprits divisés contre eux-mêmes 21</p>
+        <p rend="left small">Doute proche de la vérité ., . ……… . 22</p>
+        <p rend="left small">CHAPITRE II. — LE DROIT</p>
+        <p rend="left small">Droit . . . • » .' .• • ■ 25</p>
+        <p rend="left small">Inviolabilité 25</p>
+        <p rend="left small">Condition de l’inviolabilité individuelle … 26</p>
+        <p rend="left small">Origine du Droit 27</p>
+        <p rend="left small">Antériorité du Devoir 28</p>
+        <p rend="left small">Le Devoir dans l’Humanité . . 28</p>
+        <p rend="left small">Historique du Droit 30</p>
+        <p rend="left small">Droits de l’homme et Christianisme …. 32</p>
+        <p rend="left small">Christianisme éducateur 53</p>
+        <p rend="left small">Psychologie 34</p>
+        <p rend="left small">Christianisme libérateur 35</p>
+        <p rend="left small">Perpétuité nécessaire de l’éducateur …. <hi rend="i">) 6</hi>
+Vrai. Science. Inventions. Vapeur. Electricité</p>
+        <p rend="left small">Barbarie . 38</p>
+        <p rend="left small">L’homme maître de ses destinées sociales. . . 41</p>
+        <p rend="left small">Corollaire. — Nouveaux axiomes 42</p>
+        <p rend="left small">CHAPITRE III. — LE DROIT ÉCRIT</p>
+        <p rend="left small">Droit écrit formule du Droit 47</p>
+        <p rend="left small">Loi 47</p>
+        <pb xml:id="PAG_00000174" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f174.image"/>
+        <p rend="left">
+TABLE ANALYTIQUE I7I
+</p>
+        <p rend="left">
+Droit écrit négation du Droit 48
+</p>
+        <p rend="left">
+Lois injustes 48
+</p>
+        <p rend="left">
+Antigone. . 48
+</p>
+        <p rend="left">
+Résultat social et politique . ■ 49
+</p>
+        <p rend="left">
+Désobéissance aux lois 49
+</p>
+        <p rend="left">
+Désobéissance légitime 49
+</p>
+        <p rend="left">
+Exemples de désobéissance légitime …. so
+Principe de la désobéissance légitime aux lois
+</p>
+        <p rend="left">
+écrites . . 51
+</p>
+        <p rend="left">
+CHAPITRE IV. — LA LIBERTÉ
+</p>
+        <p>
+Liberté morale …… 55
+</p>
+        <p>
+Libertécivile. ……….. 55
+</p>
+        <p>
+Liberté politique 55
+</p>
+        <p>
+Libertés civile et politique réalisations extérieures
+</p>
+        <p>
+de la Liberté morale 56
+</p>
+        <p>
+Liberté morale, fait d’observation 57
+</p>
+        <p>
+Vraie nature de la Liberté morale 57
+</p>
+        <p>
+Philosophes anciens, saint Thomas d’Aquin,
+</p>
+        <p>
+Léon XIII 59
+</p>
+        <p>
+Responsabilité 60
+</p>
+        <p>
+Culpabilité 60
+</p>
+        <p>
+Nécessité de la Liberté morale 61
+</p>
+        <p>
+Conséquences 61
+</p>
+        <p>
+Liberté, loi de l’histoire 63
+</p>
+        <p>
+Ses effets 64
+</p>
+        <p>
+Sa magie 65
+</p>
+        <pb xml:id="PAG_00000175" n="172" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f175.image"/>
+        <p rend="left">
+CHAPITRE V. — LA LIBERTE CIVILE
+</p>
+        <p rend="left">
+Liberté civile 69
+</p>
+        <p rend="left">
+Existence exceptionnelle de la Liberté civile . . 69
+</p>
+        <p rend="left">
+Conditions de cette existence.. . <hi rend="sub">4</hi> . . . . 70.
+</p>
+        <p rend="left">
+Affranchissement de la pensée. …… 71
+</p>
+        <p rend="left">
+Connaître et vouloir . .73
+</p>
+        <p rend="left">
+Affranchissement de la volonté.— Caractère.—
+</p>
+        <p rend="left">
+Héroïsme . . . 75
+</p>
+        <p rend="left">
+Ambroise Paré 75,
+</p>
+        <p rend="left">
+Catholiques français ……… 75
+</p>
+        <p rend="left">
+Christianisme 77.
+</p>
+        <p rend="left">
+Esclavage 77,
+</p>
+        <p rend="left">
+CHAPITRE VI. — LA LIBERTE POLITIQUE
+</p>
+        <p rend="left">
+Liberté politique <hi rend="sub">A</hi> 83
+</p>
+        <p rend="left">
+Pouvoirs absolus et liberté civile 84
+</p>
+        <p rend="left">
+Qualités nécessaires au Pouvoir absolu … 84
+</p>
+        <p rend="left">
+Dangers du Pouvoir absolu ……. 86
+</p>
+        <p rend="left">
+Gouvernement du peuple par le peuple. . .' . 86
+</p>
+        <p rend="left">
+Ojulitéî nécessaires au Pouvoir populaire … 87
+</p>
+        <p rend="left">
+La Vertu principal ressort des Etats populaires . 87
+</p>
+        <p rend="left">
+Montesquieu. . . . ,87
+</p>
+        <p rend="left">
+Le Gouvernement populaire ne constitue pas
+</p>
+        <p rend="left">
+nécessairement la Liberté politique . . . 90
+</p>
+        <pb xml:id="PAG_00000176" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f176.image"/>
+        <p rend="left small">TABLE ANALYTIQUE I73</p>
+        <p rend="left small">Tyrannie du nombre . . ., 90</p>
+        <p rend="left small">La France d’aujourd’hui . 90</p>
+        <p rend="left small">Une source de Vertu et de. Liberté politique . . 92 ;</p>
+        <p rend="left small">CHAPITRE Vil. — LE GOUVERNEMENT</p>
+        <p rend="left small">Gouvernement 97</p>
+        <p rend="left small">Origine du Gouvernement 97</p>
+        <p rend="left small">Pas de Société sans Unité 97</p>
+        <p rend="left small">Droit du Gouvernement 100</p>
+        <p rend="left small">Etendue de ce Droit 100</p>
+        <p rend="left small">Sa limite, . . . » 101</p>
+        <p rend="left small">Socialisme d’Etat 104</p>
+        <p rend="left small">Gouvernement Gendarme 104</p>
+        <p rend="left small">Gouvernement Grand-Voyer 105</p>
+        <p rend="left small">Doctrine gouvernementale. 106</p>
+        <p rend="left small">Pouvoir exécutif 106</p>
+        <p rend="left small">Pouvoir législatif 106</p>
+        <p rend="left small">Rapports de l’Exécutif et du Législatif. . . . 109</p>
+        <p rend="left small">CHAPITRE VIII. — LE DROIT DE RESISTANCE</p>
+        <p rend="left small">Erreurs du Pouvoir législatif. . . . . . . 113</p>
+        <p rend="left small">Atteintes au Droit et à la Liberté- . .• . . . 113</p>
+        <p rend="left small">Devoir du Gouvernement 114</p>
+        <p rend="left small">'5-</p>
+        <pb xml:id="PAG_00000177" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f177.image"/>
+        <p rend="left small">174 TABLE ANALYTIQUE</p>
+        <p rend="left small">Droits correspondants 114</p>
+        <p rend="left small">Droit de résistance ……. . , . . . . 115</p>
+        <p rend="left small">Droit de dissolution . . . . . . … . . 116</p>
+        <p rend="left small">Révolte 116</p>
+        <p rend="left small">Droit de répression 116</p>
+        <p rend="left small">Répression à outrance 116</p>
+        <p rend="left small">Démission. Abdication. Lâcheté. Ignorance . . 116</p>
+        <p rend="left small">CHAPITRE IX. - LA SOUVERAINETÉ NATIONALE</p>
+        <p rend="left small">Méconnaissance du principe absolu de l’unité</p>
+        <p rend="left small">sociale 122</p>
+        <p rend="left small">Volonté nationale substituée au principe social . 122
+Confusion des droits individuel et gouvernemental
+• 123</p>
+        <p rend="left small">Conséquences sociales et politiques.- …. 123</p>
+        <p rend="left small">Lutte des deux puissances . . …. 123</p>
+        <p rend="left small">Despotisme 123</p>
+        <p rend="left small">Anarchie 123</p>
+        <p rend="left small">Publicistes et Gouvernants aveugles …. 124</p>
+        <p rend="left small">Trois causes de l’erreur 124</p>
+        <p rend="left small">Deux écoles ………… 124</p>
+        <p rend="left small">Comédie gouvernementale 124</p>
+        <p rend="left small">Bon sens du peuple 127</p>
+        <pb xml:id="PAG_00000178" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f178.image"/>
+        <p rend="left small">TABLE ANALYTIQUE I75</p>
+        <p rend="left small">CHAPITRE X. — LE DROIT D’INSURRECTION</p>
+        <p rend="left small">Insurrection …. 132</p>
+        <p rend="left small">Devoir d’insurrection 133</p>
+        <p rend="left small">Droit d’insurrection 133</p>
+        <p rend="left small">Dépositaires du Droit 134</p>
+        <p rend="left small">Autorités sociales 134</p>
+        <p rend="left small">Responsabilité 135</p>
+        <p rend="left small">Rôle de la Papauté 136</p>
+        <p rend="left small">CHAPITRE XI. — LA DURÉE DU DROIT
+DES GOUVERNANTS</p>
+        <p rend="small">Durée limitée du Droit gouvernemental . . . 139</p>
+        <p rend="small">Loi de cette durée 139</p>
+        <p rend="small">Extinction du Droit gouvernemental …. 140
+Extinction de ce droit chez les Gouvernements</p>
+        <p rend="small">coupables 140</p>
+        <p rend="small">Sonextïnctionchez les Gouvernements légitimes. 141
+Leur puissance de protection sociale raison d’être</p>
+        <p rend="small">de leur droit . ." . 143</p>
+        <p rend="small">Leur impuissance cause de sa disparition . . . 143</p>
+        <p rend="small">Fidélité 145</p>
+        <p rend="small">Conscience 146</p>
+        <pb xml:id="PAG_00000179" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f179.image"/>
+        <p rend="left small">176 TÀBLB ANALYTIQUE</p>
+        <p rend="left small">CHAPITRE XII. - LES GOUVERNEMENTS NOUVEAUX</p>
+        <p rend="left small">Table rase . . . . .* .• . . .' . . . 149</p>
+        <p rend="left small">Alternative . . . . .* . .• 149</p>
+        <p rend="left small">Nécessité sociale . , .' 149</p>
+        <p rend="left small">Force nouvelle ..•.-. 150</p>
+        <p rend="left small">Devoir" de gouverner ……… 150</p>
+        <p rend="left small">Droit [50</p>
+        <p rend="left small">Usurpateur …………. 151</p>
+        <p rend="left small">Déshérence du Droit 152</p>
+        <p rend="left small">Protection sociale 153</p>
+        <p rend="left small">Droit nouveau 153</p>
+        <p rend="left small">CHAPITRE XIII. — LE DROIT DIVIN
+DES GOUVERNEMENTS</p>
+        <p rend="left small">Gouvernements successifs et inviolables . . . 157</p>
+        <p rend="left small">Tout Droit est divin . . . . . … . 157</p>
+        <p rend="left small">Monarchies et Républiques de Droit divin. . . 158</p>
+        <p rend="left small">Extinction du Droit divin 158</p>
+        <p rend="left small">Gouvernements déchus’ 158</p>
+        <p rend="left small">« Rentrés dans le rang » 158</p>
+        <p rend="left small">Rôle social des gouvernants déchus . . . . 159
+Erreur commune des Monarchistes et des Républicains.
+160</p>
+        <pb xml:id="PAG_00000180" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f180.image"/>
+        <p rend="left small">TABLE ANALYTIQUE I77</p>
+        <p rend="left small">Léon XIII . . . 160</p>
+        <p rend="left small">D’Orléans . , . 190</p>
+        <p rend="left small">CHAPITRE XIV. — L’ANARCHIE</p>
+        <p rend="left small">Forces anti-sociales déchaînées 163</p>
+        <p rend="left small">Société sans défenseur 163</p>
+        <p rend="left small">Lice ouverte 164</p>
+        <p rend="left small">Sens populaire 164</p>
+        <p rend="left small">Retour périodique de la Force 165</p>
+        <p rend="left small">Loi de la Force.' . . . . , 165</p>
+        <p rend="left small">Remède 165</p>
+        <p rend="left small">Raison 166</p>
+        <p rend="left small">Christianisme 166</p>
+        <p rend="left small">Avenir ' 166</p>
+        <p rend="left small">Lyon — Imp. Pn**i Ai.« , A. Hoy Succcs« eur, 4, rue 0« {itii. <hi rend="i">~\</hi> l’Ojô</p>
+        <pb xml:id="PAG_00000181" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f181.image"/>
+        <pb xml:id="PAG_00000182" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f182.image"/>
+        <pb xml:id="PAG_00000183" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f183.image"/>
+        <p rend="left">
+OUVRAGES DU MEME AUTEUR
+</p>
+        <p rend="left">
+L’Enseignement Primaire dans les campagnes.
+</p>
+        <p rend="left">
+Trois Députés.
+</p>
+        <p rend="left">
+Lettre d’un Franc-Tireur.
+</p>
+        <p rend="left">
+Un Député en Algérie.
+</p>
+        <p rend="left">
+Nos Finances.
+</p>
+        <p rend="left">
+L’Impôt militaire.
+</p>
+        <p>
+Discouis parlementaires (1871-1875)  : Décentralisation,
+Instruction publique, Lois constitutionnelles,
+Finances.
+</p>
+        <p rend="left">
+Rendement de compte.
+</p>
+        <p rend="left">
+Le pays de Gex.
+</p>
+        <p rend="left">
+Les prochains Traités de commerce.
+</p>
+        <p rend="left small">I.jnn. _ Imp. A. P..t. », M. Umlil. - 1704^</p>
+        <pb xml:id="PAG_00000184" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5531000b/f184.image"/>
+      </div>
+    </body>
+  </text>
+</TEI>

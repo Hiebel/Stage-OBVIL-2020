@@ -1,0 +1,4794 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="5551000" xml:id="cb301539165">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Colonna, ou le Beau seigneur, histoire corse du 10e siècle, par Madame la comtesse de Bradi...</title>
+        <author role="Auteur du texte" key="10736252">Bradi, Agathe-Pauline Caylac de Ceylan, Ctesse de</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>TGB (BnF – OBVIL)</publisher>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">Colonna, ou le Beau seigneur, histoire corse du 10e siècle, par Madame la comtesse de Bradi...</title>
+        <title level="a">Tome 2</title>
+        <biblScope unit="volumes" n="2"/>
+        <idno>cb301539165</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno>http://gallica.bnf.fr/ark:/12148/bpt6k5551000w</idno>
+          <publisher>Rousselon</publisher>
+          <date when="1825">1825</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData>
+      <date>1825</date>
+      <title>Colonna, ou le Beau seigneur, histoire corse du 10e siècle, par Madame la comtesse de Bradi... — Tome 2</title>
+      <dewey>800 - Littérature (Belles-lettres)</dewey>
+      <meta-data_comprehensiveness_score>0.66</meta-data_comprehensiveness_score>
+      <authors>
+        <author_1>
+          <alpha_key>bradiapcc</alpha_key>
+          <last_name>Bradi</last_name>
+          <author>Bradi, Agathe-Pauline Caylac de Ceylan, Ctesse de</author>
+          <first_name_or_initials>Agathe-Pauline Caylac de Ceylan</first_name_or_initials>
+          <is_reconciliated>True</is_reconciliated>
+          <role>Auteur du texte</role>
+          <key>10736252</key>
+        </author_1>
+      </authors>
+    </xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <pb xml:id="PAG_00000001" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f1.image"/>
+      <pb xml:id="PAG_00000002" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f2.image"/>
+      <pb xml:id="PAG_00000003" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f3.image"/>
+      <pb xml:id="PAG_00000004" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f4.image"/>
+      <pb xml:id="PAG_00000005" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f5.image"/>
+      <pb xml:id="PAG_00000006" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f6.image"/>
+      <pb xml:id="PAG_00000007" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f7.image"/>
+      <pb xml:id="PAG_00000008" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f8.image"/>
+      <div>
+        <head>Colonna,</head>
+        <p rend="left small">ou</p>
+      </div>
+      <div>
+        <head>Le beau seigneur.</head>
+        <pb xml:id="PAG_00000009" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f9.image"/>
+        <p rend="left small">IMPRIMERIE MOREAU,</p>
+        <p rend="left small">rue Montmartre, n°. 39.</p>
+        <pb xml:id="PAG_00000010" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f10.image"/>
+        <pb xml:id="PAG_00000011" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f11.image"/>
+        <pb xml:id="PAG_00000012" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f12.image"/>
+      </div>
+      <div>
+        <head>Colonna,</head>
+        <p rend="left small">ou</p>
+      </div>
+      <div>
+        <head><hi rend="i">le Beau Seigneur</hi>,</head>
+        <p rend="left small">HISTOIRE CORSE</p>
+        <p rend="left small">DU <num>10<hi rend="sup">e</hi></num> SIÈCLE.</p>
+        <p rend="left small">PAR MADAME LA COMTESSE DE BRADI.</p>
+        <p rend="left small">TOME SECOND.</p>
+      </div>
+      <div>
+        <head>Paris,</head>
+        <p rend="left small">CHEZ L’ÉDITEUR, PLACE DE L’ODÉON, N°. 3,</p>
+        <p rend="left small">EN ENTRANT PAR LA RUE RACINE, N°. 6 ;</p>
+        <p rend="left small">Et chez ROUSSELON, libraire, rue d’Anjou-Dauphine, n. 9.</p>
+      </div>
+      <div>
+        <head>1825.</head>
+        <pb xml:id="PAG_00000013" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f13.image"/>
+        <pb xml:id="PAG_00000014" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f14.image"/>
+      </div>
+      <div>
+        <head>Colonna,</head>
+        <p rend="left">
+ou
+</p>
+      </div>
+      <div>
+        <head>Le <hi rend="i">Beau Seigneur</hi>.</head>
+        <p rend="left"><hi rend="i">Chapitre sixième</hi>.
+</p>
+        <p rend="left">
+Heureux celui dont le génie
+</p>
+        <p rend="left">
+peut créer un sujet ! Sa raison en
+</p>
+        <p rend="left">
+dispose le plan, qui est toujours
+</p>
+        <p rend="left">
+moral ; son imagination en multiII.
+I
+</p>
+        <pb xml:id="PAG_00000015" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f15.image"/>
+        <p rend="left small">' COLONNA.</p>
+        <p>
+plie les scènes , qui sont toujours
+riantes ; son style qui ne peindra
+que les vertus, les douces affections
+, les charmes de la beauté,
+les plaisirs de l’innocence , sera
+naturel, élégant, gracieux <hi rend="i"/> ; il entraînera
+le lecteur déjà séduit par
+le portrait qu’il a tracé, dès les
+premières pages, de l’aimable caractère
+de ses héros. Tantôt il
+décrit une fête brillante à travers
+cent colonnes formant une galerie
+que l’or, le lapis et les plus
+riches étoffes décorent ; on aperçoit
+une jeune ; reine, qui se livre
+à la gaîté au milieu de sa cour.
+</p>
+        <pb xml:id="PAG_00000016" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f16.image"/>
+        <p rend="left small">COLONNA. 3</p>
+        <p>
+Des vêtemens bizarres, étincelans
+de pierreries, rappellent des peuples
+éloignés ; les courtisans, qui
+en sont revêtus, changent de manières,
+et de langage ; ils veulent
+être francs, simples, naïfs comme
+le Péruvien dont ils ont emprunté
+le diadème de plumes, ou austères
+et sentencieux comme le Bramine
+dont ils portent la longue
+tunique et les amples schals ; leurs
+efforts excitent le rire , mille propos
+piquans se succèdent, et ne
+sont interrompus que par une
+musique vive et légère, qui inspire
+le besoin du mouvement. Des dan-
+</p>
+        <pb xml:id="PAG_00000017" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f17.image"/>
+        <p rend="left small">4 COLONNA.</p>
+        <p>
+ses se forment ; les femmes semblent
+animées d’une nouvelle existence.
+Leurs pas, leurs attitudes
+deviennent une pantomime expressive
+ ; muettes, elles parlent
+un langage qui n’est que trop
+entendu par un amant timide ou
+une rivale inquiète…. Les passions
+vont s’éveiller. Des craintes,
+des regrets succèderont <hi rend="sub">peut-être</hi>
+</p>
+        <p rend="left">
+à cette joyeuse ivresse Si ce
+</p>
+        <p>
+n’était point une fiction , on ignore
+quel spectacle éclaireraient les
+premiers rayons du jour, quand
+ils viendraient faire pâlir cette lumière
+artificielle qui jaillit à tra-
+</p>
+        <pb xml:id="PAG_00000018" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f18.image"/>
+        <p rend="left small">COLONNA. 5</p>
+        <p>
+vers des gazes colorées, et que
+mille cristaux réflètent ? N’avonsnous
+pas vu en quelques heures
+transformer en prisons les demeures
+royales ? Jardins de Trianon,
+de Sans-Souci, <hi rend="i">d’Aranjuez</hi>, que
+de soupirs se sont exhalés sous vos
+frais et délicieux ombrages , et
+ont surpris vos échos, qui répétaient
+naguères des chants d’amour
+ou de malicieux refrains !…
+Heureux, je le répète, celui dont
+le génie a inventé les événemens
+qu’il raconte , les personnages
+qu’il fait agir ! Il laisse ce palais
+somptueux, où le luxe de l’Asie
+</p>
+        <pb xml:id="PAG_00000019" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f19.image"/>
+        <p rend="left small">6 COLONNA.</p>
+        <p>
+était employé par le goût européen
+, où retentissaient les sons
+d’instrumens sonores, de voix mélodieuses
+, où se pressait une foule
+bruyante et folâtre ; il s’arrête
+devant un vieux château dont il
+compte les <hi rend="u">tourelles ; il observe</hi>
+avec complaisance sa grille massive,
+son parc solitaire , sa longue
+avenue qui conduit jusqu’à
+</p>
+        <p rend="left">
+la forêt prochaine La
+</p>
+        <p>
+lune perce les nuages, elle argente
+les vitres d’une file de fenêtres
+gothiques , et jusqu’aux
+sombres ardoises qui recouvrent
+les mansardes. Un vent léger agite
+</p>
+        <pb xml:id="PAG_00000020" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f20.image"/>
+        <p rend="left small">COL0NNA. 7</p>
+        <p>
+les girouettes qui tournent eh gémissant
+sur un fer rouillé, et le
+coq d’airain, qui surmonte le clocher
+Voisin , tourne à son tour en
+répétant l’aigre bruit du métal
+qui s-altère. Un oiseau <hi rend="i">de</hi> nuit
+quitte le beffroi ; il plane un instant
+sur l’enceinte sacrée où verdit
+un épais gazon parsemé de
+croix funèbres, et s’enfonce sous
+les allées touffues de marroniers
+et de tilleuls , asile chéri des habitans
+de l’air qui vont périr sous
+la serre de ce ténébreux ennemi.
+Quelques lumières éparses éclairent
+faiblement les vastes salles
+</p>
+        <pb xml:id="PAG_00000021" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f21.image"/>
+        <p rend="left small">8 COLONNA.</p>
+        <p>
+de l’antique et naguère féodale
+demeure. A cette heure, le châtelain
+se livre à l’étude ; il veut
+puiser, dans de savantes théories,
+les lumières qui doivent le diriger
+dans les travaux champêtres qu’il
+a entrepris : c’est pour lui un devoir ;
+les villageois l’imitent, le
+consultent. Aux succès de ses
+soins est attachée la prospérité
+commune, et il ne serait pas seul
+puni des erreurs où pourraient
+l’entraîner l’ignorance et la présomption.
+Tandis qu’il médite sur
+les résultats d’une influence qu’il
+n’a point désirée, et sur les obli-
+</p>
+        <pb xml:id="PAG_00000022" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f22.image"/>
+        <p rend="left small">COLONNA. 9</p>
+        <p>
+gations qu’elle lui impose, il entend,
+peu loin de lui, la voix de
+ses enfans , que le rire ou les
+pleurs entrecoupent alternativement.
+Réunis dans une salle voisine
+autour de leur mère, ils
+écoutent de longs récits qu’une
+tendresse attentive lui apprend à
+varier ; elle excite à son gré leur
+effroi ou leur confiance, les consterne
+ou les ranime d’un mot. Ce
+soir elle parle d’un frère qui combat
+au loin ; les dangers qu’il brava
+, les inquiétudes dont il fut
+l’objet, sont oubliés ; il revient.
+Que d’embrassemens lui seront
+</p>
+        <pb xml:id="PAG_00000023" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f23.image"/>
+        <p rend="left small">10 COLONNA.</p>
+        <p>
+prodigués ? Comme on jouira de
+sa surprise ?….. Les enfans se
+rapprochent , comparent leur
+taille, et croient déjà le voir
+hésiter en les nommant. On forme
+mille projets , on en veut commencer
+l’exécution. Toutes les impressions
+sont vives et manifestées
+bruyamment. La mère regrette
+cet âge que l’expérience ne prémunit
+point contre l’enthousiasme
+d’un bonheur à venir ! et avec la
+superstition des âmes sensibles,
+elle s’effraie de ces transports ;
+elle serait plus rassurée , si la
+raison en tempérait l’excès par
+</p>
+        <pb xml:id="PAG_00000024" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f24.image"/>
+        <p rend="left small">C0L0NNA. II</p>
+        <p>
+le calcul de quelques obstacles’
+légers qu’elle pourrait contester….
+Mais on ne l’écoute point, et pour
+échapper au bruit qui va croissant
+, elle se lève d’un air sévère,
+et compte à haute voix les
+heures qui sonnent lentement
+C’est le moment où finissent ces
+veillées dont le souvenir charmera
+toujours ses enfans pieux
+et reconnaissans. Le temps s’est
+écoulé trop vite ; on n’ose s’en
+plaindre ; une dernière étreinte
+maternelle a étouffé les murmures
+Cependant tout dort dans
+</p>
+        <p rend="left">
+les chaumières rustiques disposées
+</p>
+        <pb xml:id="PAG_00000025" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f25.image"/>
+        <p rend="left small">12 COLONNA.</p>
+        <p rend="left">
+irrégulièrement autour du presbytère
+ ; le cri rare de la chouette,
+le marteau de l’horloge ne troubleront
+pas le sommeil du villageois
+accablé par la chaleur du
+jour ; sa compagne, qui pourtant
+ne s’est point séparée de lui, qui
+l’a suivi aux champs , dans les
+prairies et jusqu’au pied des hautes
+meules, orgueil du laboureur,
+semble n’abaisser qu’à regret sa
+paupière appesantie. Elle veut
+encore jeter un regard sur son
+plus jeune fils ; sa main agite encore
+le berceau mobile d’osier ;
+sa bouche murmure encore l’air
+</p>
+        <pb xml:id="PAG_00000026" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f26.image"/>
+        <p rend="left small">COLONNA. 13</p>
+        <p>
+d’un saint cantique….. Le mouvement
+et les sons diminuent,
+ils cessent. Le silence règne avec
+l’obscurité. Oh ! joies de l’innocence,
+du travail et de la médiocrité,
+ravissantes joies que j’éprouvai,
+heureux qui vous retrace ! Mais
+lorsque votre peinture n’est pas
+une fiction, quelles scènes peuvent
+succéder à vos tableaux enchanteurs
+ ! Château paisible,
+</p>
+        <p>
+humbles chaumières où fuient vos
+habitans éperdus ? L’invasion barbare
+s’étend jusqu’à vous Il
+</p>
+        <p>
+n’est plus d’asile respecté dans la
+patrie envahie. Un drapeau étran-
+</p>
+        <pb xml:id="PAG_00000027" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f27.image"/>
+        <p rend="left small">14 COLONNA.</p>
+        <p>
+ger flotte sur l’église du hameau.
+On aperçoit ses couleurs abhorrées
+à la lueur des feux qu’entoure
+une foule armée, qui fait
+retentir l’air de ses cris. Qu’exigent
+, dans un langage inconnu ,
+ces hommes inconnus ? Quelle vague
+terreur provoquent ces inflexions
+nouvelles ? Un vieillard,
+un enfant, accusant également le
+temps de leur faiblesse, sont demeurés
+seuls au milieu de cette
+horde qui les interrogé avec colère.
+Ils ne répondront point, et
+la. plus extravagante fureur s’en
+irritera. Une ridicule vengeance
+</p>
+        <pb xml:id="PAG_00000028" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f28.image"/>
+        <p rend="left small">COLONNA. 15</p>
+        <p>
+lui sera accordée. Le fer détruira
+les animaux domestiques, les flammes
+dévoreront les instrumens
+aratoires ; et les solides murailles
+du château, et les parois crevassées
+des chaumières tomberont à
+la fois , tandis que, blottis dans
+les halliers , étendant sur une
+terre humide des membres adoloris,
+le villageois infirme gémit
+auprès de sa mère , de sa compagne
+éplorée, qui compte en frémissant
+ses fils, dont le dernier
+rapproche son visage glacé de la
+mamelle où, jusqu’alors , il puisa
+une liqueur si douce, que la ter-
+</p>
+        <pb xml:id="PAG_00000029" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f29.image"/>
+        <p rend="left small">16 COLONNA.</p>
+        <p>
+reur vient d’aigrir, et que l’infortunée
+mère se félicite encore de
+</p>
+        <p rend="left">
+ne point voir tarir L’immense
+</p>
+        <p>
+forêt est remplie de semblables
+groupes. Le bonheur de revoir
+des cendres est-il réservé à ces
+familles désolées ? Une loi de proscription
+consacrera-t-elle les violences
+de la guerre ? Ces familles
+errantes pourront-elles au moins,
+en se reposant sur un sol dévasté,
+dire : Ici s’élevait ma maison ; là
+je cultivais mon verger ; plus loin
+fleurissait le sureau contourné,
+sous lequel mon vieux père réunissait
+mes enfans chaque soir
+</p>
+        <pb xml:id="PAG_00000030" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f30.image"/>
+        <p rend="left small">C0L0NNA. 17</p>
+        <p rend="left">
+d’été Laissera-t-on le malheur
+</p>
+        <p rend="left">
+se repaître des souvenirs d’un bien
+</p>
+        <p rend="left">
+qui n’est plus ?. Je le redis
+</p>
+        <p>
+encore : Heureux celui qui ne raconte
+que la fable qu’il inventa.
+Hélas ! mon récit est une histoire.
+</p>
+        <p rend="small">
+Enrigo s’est séparé de l’empereur,
+il est revenu auprès de Ginevra
+, et déjà il se prépare à la
+quitter. Ses fils l’entourent et se
+plaignent des événemens qui, depuis
+quelques jours, les privent
+de la présence de leur père ; mais
+le comte veut enfin punir l’audace
+de Marcello. Cest ce jour
+II. 2
+</p>
+        <pb xml:id="PAG_00000031" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f31.image"/>
+        <p rend="left small">18 COLONNA</p>
+        <p>
+même que les bornes du domaine
+de ce seigneur seront fixées ; c’est
+ce jour même que doit commencer
+la destruction du château de
+Tralaveti. Antonio s’indigne de
+ne point employer la force pour
+rentrer dans ses droits ; il s’agite
+sur le lit où le retient le docte
+Guido, et désole Bianca qui, redoutant
+toujours le combat de
+Dieu , rappelle encore tout bas à
+son père, que d’après ses ordres
+Marcello doit l’attendre sur le
+pont de Tralaveti
+</p>
+        <p rend="left">
+« Et je vais l’y trouver, » lui
+</p>
+        <pb xml:id="PAG_00000032" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f32.image"/>
+        <p rend="left small">C0L0NNA. 19</p>
+        <p rend="left">
+répond Enrige , qui devine les inquiétudes
+d’un coeur si tendre.
+</p>
+        <p>
+En sortant de la chambré de
+Bianca, le comte de Corse est suivi
+de ses fils et de leur <hi rend="i">mère</hi>. Ils
+traversent avec lui les galeries,
+les voûtes , et l’accompagnent jusque
+sur le préau, où deux écuyers
+ont été appelés. Ces deux serviteurs
+formeront seuls l’escorte du
+comte. Au milieu de ses sujets des
+gardes importuneraient Enrigo.
+Un page amène son cheval. Ginevra
+embrasse son époux, et rappelle
+ses enfans qui regardent avec
+</p>
+        <pb xml:id="PAG_00000033" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f33.image"/>
+        <p rend="left small">20 COLONNA.</p>
+        <p>
+admiration le harnois brillant du
+coursier. Malgré le page, ils entourent
+le noble animal, s’en approchent
+, soulèvent le caparaçon
+brodé qui le couvre , et frappent
+de leurs petites mains son large
+poitrail.
+</p>
+        <p>
+« Adieu, » dit Enrigo , qui sourit
+de leur désobéissance.
+</p>
+        <p>
+— Non , s’écria Giulio , l’aîné
+de tous, en saisissant la main de
+son père ; non, vous ne partirez pas
+sans moi. Savez-vous comme, ce
+matin , j’ai fait sauter la barrière
+à Negrino ?
+</p>
+        <pb xml:id="PAG_00000034" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f34.image"/>
+        <p rend="left small">COLONNA. 21</p>
+        <p>
+— Comment, demande le comte,
+vous êtes déjà monté sur l’arabe ?
+</p>
+        <p>
+— Réponds , Pipello , dit l’enfant
+au page ; ai-je eu peur quand
+Négrino s’est élancé ? et quand il
+s’est dressé comme un chevreau,
+ne l’ai-je pas forcé à écouter immobile
+les trois appels du clairon
+qui l’excitait ? Permettez que je
+vous suive , mon père ? »
+</p>
+        <p>
+Et les yeux de Giulio brillaient,
+son teint s’animait, il attendait la
+réponse d’Enrigo, et cherchait à
+lire dans ses regards si elle serait
+favorable.
+</p>
+        <pb xml:id="PAG_00000035" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f35.image"/>
+        <p rend="left">
+« Hé bien, dit le comte, venez
+à Tralaveti… »
+</p>
+        <p>
+Une bruyante acclamation lui
+laisse à peine achever ces mots.
+Tous les enfans se sont écriés à
+la fois. Luiggi et Rolando, les premiers
+après Giulio, ont aussi donné
+des preuves de courage et de
+dextérité. Les écuyers, le page,
+interpellés par eux, l’attestent ; ils
+sollicitent avec instance une grâce
+semblable à celle que vient d’obtenir
+leur frère ; mais à peine lé
+comte peut-il les entendre. Alberto
+et Michele , qui reçurent le
+</p>
+        <pb xml:id="PAG_00000036" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f36.image"/>
+        <p rend="left small">COLONNA. 23</p>
+        <p>
+jour en même temps, Gioanni et
+Severino , qu’un même instant
+aussi vit naître, réclament à leur
+tour. Leurs supplications enfantines
+seraient bientôt appuyées par
+des larmes, car les derniers jumeaux
+n’ont pas encore atteint
+leur septième année , et Giulio ,
+l’aîné des fils d’Enrigo , n’a pas
+vu douze fois fleurir le bosquet
+d’amandiers sous lequel il partage
+les jeux de ses frères….. Giulio
+se tait maintenant. Il blâme des
+prétentions manifestées avec tant
+d’impétuosité , et qui peut-être ,
+lassant la patience du comte, fe-
+</p>
+        <pb xml:id="PAG_00000037" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f37.image"/>
+        <p rend="left small">24 COLONNA.</p>
+        <p>
+ront révoquer la faveur qui lui
+fut accordée. Giulio ne connaît
+pas encore les trésors de douces
+complaisances , de naïves bontés,
+qui sont enfermés dans le sein
+paternel. Il voit Enrigo hésiter en
+</p>
+        <p rend="left">
+regardant Ginevra Tous les
+</p>
+        <p>
+enfans alors , excepté Giulio,
+adressent leurs prières à la comtesse,
+qui leur impose silence et
+intercède pour tous. Elle fait valoir
+les heureuses dispositions de
+l’un, la docilité de l’autre ; il n’est
+pas jusqu’à la délicate santé de
+Severino et de Gioanni qu’elle
+n’allègue comme un motif qui jus-
+</p>
+        <pb xml:id="PAG_00000038" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f38.image"/>
+        <p rend="left small">COLONNA. 25</p>
+        <p rend="left">
+tifie leurs désirs Enfin une si
+</p>
+        <p>
+courte distance sépare Venaco du
+château de Tralaveti, qu’elle ne
+voit nul moyen de refuser.
+</p>
+        <p>
+« Suivez-moi, mes enfans, dit
+Enrigo attendri par l’amour de
+ses fils et l’ingénieuse affection de
+leur mère ; suivez-moi tous ; venez
+apprendre quels devoirs nous
+seront imposés par la suite. Ce
+serait peu de marcher avec moi
+pour combattre. Il est une plus
+grande gloire que celle qui s’acquiert
+par les armes ; c’est celle
+</p>
+        <p rend="left">
+qui est réservée au souverain qui
+
+</p>
+        <pb xml:id="PAG_00000039" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f39.image"/>
+        <p rend="left small">26 COLONNA.</p>
+        <p>
+rend la justice et fait triompher
+le bon droit. Puissiez - vous , en
+voyant Marcello humilié, concevoir
+à jamais l’horreur de l’usurpation !
+et puisse votre présence
+me rappeler que je vous dois un
+grand exemple de modération. »
+</p>
+        <p>
+Les enfans témoignent leur joie
+et leur reconnaissance en embrassant
+Ginevra, qui place elle-même
+les plus jeunes clans les bras du
+page et des écuyers. Enrigo s’éloigne.
+Il n’a d’un souverain que
+l’air imposant et le regard majestueux.
+Le cortége qui l’environne
+</p>
+        <pb xml:id="PAG_00000040" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f40.image"/>
+        <p rend="left small">COLONNA. 27</p>
+        <p>
+ne rappelle point l’éclat du trône,
+mais la touchante dignité des patriarches.
+Il Se retourne pour regarder
+Ginevra, à qui ses enfans
+tendent encore les mains en signe
+d’adieux. Il retient lui-même la
+bride de son cheval, et voit cette
+tendre mère gravir une petite éminence
+d’où elle pourra suivre des
+yeux tant d’objets si chers. Les
+regards des deux époux se rencontrent.
+Enrigo agite les plumes
+de son casque ; Ginevra fait flotter
+dans les airs un des bouts de
+son écharpe, et ses fils crient encore
+une dernière fois :
+</p>
+        <pb xml:id="PAG_00000041" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f41.image"/>
+        <p rend="left small">28 - COLONNA.</p>
+        <p rend="left">
+« Adieu, ma mère…..
+</p>
+        <p>
+— Oh ! mon Dieu ! que ce mot
+fait mal, dit Ginevra en portant
+sa main sur sa poitrine oppressée.
+« Adieu, mes enfans, » veut-elle dire
+aussi.
+</p>
+        <p>
+Mais déjà ils ne peuvent plus
+l’entendre ; bientôt un bois épais
+les dérobe à sa vue ; et, effrayée
+de l’isolement où elle se trouve,
+la comtesse regagna avec précipitation
+l’appartement de sa fille,
+où les sages discours de Guido,
+les caresses de Bianca et l’im-
+</p>
+        <pb xml:id="PAG_00000042" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f42.image"/>
+        <p rend="left small">COLONNA. 29</p>
+        <p rend="left">
+patience du seigneur de Cinarca
+contribuent à la distraire.
+</p>
+        <p>
+L’expression d’une innocente
+gaîté faisait retentir les vallées
+que traversait le comte <hi rend="i">de</hi> Corse.
+A chaque détour, à chaque pas
+un objet nouveau frappait les
+yeux des enfans et excitait leur
+curiosité. La roche élevée qui
+l’entoure de vapeurs , le pin gigantesque
+des montagnes, si célèbre
+dans l’antiquité , le ramier
+sauvage aux couleurs chaTheophrast,
+</p>
+        <p rend="left">
+hist., lib. v, cap. 9.
+
+<pb xml:id="PAG_00000043" n="30" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f43.image"/>loyautés , et la marcassite qui
+brille en roulant sous les pieds
+des coursiers, deviennent également
+l’objet de questions multipliées.
+Mais le comte , qui jusqu’alors
+s’est complu à répondre, exige
+tout-à-coup le silence, et l’impose
+à ses fils d’un air grave. Les enfans
+obéissent et cherchent à pénétrer
+la cause de cet ordre inattendu
+ ; ils arrivent à l’angle d’un
+bois , déjà dépassé par Enrigo, et
+se trouvent en face du château de
+Tralaveti, qui n’est séparé d’eux
+que par un torrent dont les eaux
+turbulentes courent avec fracas
+</p>
+        <pb xml:id="PAG_00000044" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f44.image"/>
+        <p rend="left small">COLONNA. 31</p>
+        <p>
+sur des débris de rochers noirs
+et lustrés, qui contrastent fortement
+avec la blancheur de l’écume
+qui bouillonne autour d’eux. Un
+pont d’une seule arche traverse
+le torrent. Les enfans admirent
+sa prodigieuse élévation, ainsi
+que l’élégance du château de Tralaveti
+, dont les pierres et les marbres
+ont encore le poli et l’éclat
+d’un travail récent. Ce n’est point
+la monumentale et solide architecture
+du palais de Venaco ; c’est
+le gracieux dans les proportions,
+la légèreté dans les ornemens, le
+fini clans les détails, d’un temple
+
+<pb xml:id="PAG_00000045" n="32" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f45.image"/>consacré au plaisir. Pour la première
+fois, sur cette terre belliqueuse
+, on a construit un édifice
+où la sûreté du maître est sacrifiée
+aux règles de l’art, peut-être au
+caprice de l’ouvrier. Difficilement
+les murs du château de Tralaveti
+deviendraient un refuge pour son
+seigneur attaqué par quelqu’ennemi
+actif et entreprenant ; et ce
+mépris d’un danger possible, loin
+de mériter à Marcello les éloges
+des barons corses , a été blâmé
+par eux comme une innovation
+que leur austérité réprouve , ou
+comme l’exemple inquiétant de
+</p>
+        <pb xml:id="PAG_00000046" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f46.image"/>
+        <p rend="left small">COLONNA. 33</p>
+        <p>
+l’aliénation du droit de donner à
+leurs demeures l’aspect redoutable
+d’une forteresse.
+</p>
+        <p>
+Vers le milieu du pont, le comte
+de Corse distingue le seigneur de
+Tralaveti qui s’avance vers lui,
+suivi de quatre écuyers. Une foule
+nombreuse vient ensuite sans armes
+, vêtus d’habits longs et ceints
+d’écharpes aux couleurs de Marcello.
+Enrigo reconnaît ceux qui
+la composent pour les domestiques
+de Marcello , qui, suivant la
+coutume, accompagnent leur maître
+lorsqu’il vient recevoir son
+
+<pb xml:id="PAG_00000047" n="34" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f47.image"/>souverain à l’entrée de ses domaines.
+Enrigo remarque avec
+satisfaction le maintien modeste
+du seigneur de Tralaveti, qui, arrivé
+à l’extrémité du pont, fait
+éloigner ses écuyers, et tient luimême
+la bride du cheval que le
+comte de Corse veut quitter.
+</p>
+        <p>
+« C’est à regret, Marcello, dit
+Enrigo, que je vous oblige à détruire
+une aussi agréable demeure.
+Quelle folie vous a fait
+choisir, pour l’élever, un terrain
+contesté ?
+</p>
+        <p rend="left">
+— Seigneur, répond Marcello,
+</p>
+        <pb xml:id="PAG_00000048" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f48.image"/>
+        <p rend="left small">COLONNA. 35</p>
+        <p rend="left">
+vous ne déciderez pas sans examen ?
+
+</p>
+        <p>
+— A Dieu ne plaise ! Montrezmoi
+les trois roches de granit et
+le bois d’oliviers que votre père
+indiqua comme les impérissables
+limites qui vous séparaient des
+seigneurs de Cinarca.
+</p>
+        <p>
+— Daignez, seigneur, avancer
+jusqu’au-delà des jeunes liéges qui
+entourent le préau, et là jugezmoi. »
+
+</p>
+        <p>
+Les racines de l’olivier, qui ne meurent
+jamais, sont très-propres à indiquer
+les bornes des propriétés.
+</p>
+        <pb xml:id="PAG_00000049" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f49.image"/>
+        <p rend="left small">36 COLONNA.</p>
+        <p>
+Pendant que le comte de Corse
+et le seigneur de Tralaveti échangeaient
+ce peu de mots , les fils
+d’Enrigo s’étaient réunis autour
+de leur père, et la suite de Marcello
+s’était placée de manière à
+suivre le suzerain et son grand
+vassal. Un des serviteurs de Marcello
+, la tête baissée, le visage
+presque caché par les plumes retombantes
+de sa toque , se tenait
+près du seigneur de Tralaveti
+qu’Enrigo forçait à marcher sur la
+même ligue que lui.
+</p>
+        <p rend="left">
+Arrivé au milieu du pont, le
+</p>
+        <pb xml:id="PAG_00000050" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f50.image"/>
+        <p rend="left small">COLONNA. 37</p>
+        <p>
+comte de Corse s’arrête pour jouir
+de la vue pittoresque que lui offre
+le cours du torrent, le développement
+du château de Tralaveti
+, et la fraîcheur des jeunes
+plantations qui l’environnent. Il
+s’adresse à Giulio , à ses frères, et
+leur montre, à l’extrémité de la
+gorge qui s’ouvre devant eux, la
+haute tour du <hi rend="i">beffroi</hi> de Venaco,
+qui se dessine sur l’horizon. Les
+enfans poussent un cri de joie et
+nomment leur mère. Pour mieux
+distinguer cet édifice des différens
+pics qui s’élancent des montagnes
+de <hi rend="i">Bogognano</hi> et de <hi rend="i">Gualango</hi>,
+</p>
+        <pb xml:id="PAG_00000051" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f51.image"/>
+        <p rend="left small">38 COLONNA.</p>
+        <p>
+ils s’éloignent d’Enrigo, et se groupent
+à quelques pas de lui.
+Dans ce moment, Marcello saisit
+tout-à-côup le bras gauche du
+comte. Federici, qui a suivi pas à
+pas le seigneur de Tralaveti, reconnaît
+à-la-fois le signal dont ils
+convinrent et l’avantage de la position
+du comte, il s’élance et enfonce
+son long poignard dans le
+coeur d’Enrigo , qui tombe en appelant
+son fils Giulio. Les jeunes
+comtes se retournent au son de
+celte voix adorée ; ils voient leur
+père renversé et des poignards
+briller dans toutes les mains. Les
+</p>
+        <pb xml:id="PAG_00000052" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f52.image"/>
+        <p rend="left small">COLONNA. 39</p>
+        <p>
+deux écuyers, le page du comte
+de Corse sont frappés sous leurs
+</p>
+        <p rend="left">
+yeux Giulio, Luiggi, Rolando
+</p>
+        <p>
+tirent leurs épées et se précipitent
+au milieu des assassins. Leurs
+faibles bras sont désarmés ; ils
+sont percés de coups et vont
+expirer sur le corps de leur
+père.
+</p>
+        <p>
+« Que tous périssent ! » crie
+Marcello en s’approchant des quatre
+derniers fils d’Enrigo , qui,
+selon leur coutume , sont réunis
+par couple, ainsi que le voulut
+la nature lors de leur naissance.
+</p>
+        <pb xml:id="PAG_00000053" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f53.image"/>
+        <p rend="left small">40 COLONNA.</p>
+        <p rend="left">
+« Que cette race finisse , » répète
+le seigneur de Tralaveti.
+</p>
+        <p>
+Alberto et Michele étendent
+leurs débiles mains vers les meurtriers
+, ils s’agenouillent devant le
+vassal de leur père, et courbent
+leurs têtes innocentes à l’approche
+de Federici, qui les enlève dans
+ses bras sanglans , et les rejette
+bientôt étouffés sur la poussière.
+Le barbare se retourne alors, et
+cherche les restes de cette illustre
+famille ; il voit déjà loin de lui
+Gioanni et Severino , enfans charmans,
+que leur mère préfère en
+</p>
+        <pb xml:id="PAG_00000054" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f54.image"/>
+        <p rend="left">
+COLONNA. <hi rend="sup">41</hi>
+</p>
+        <p>
+secret. Malgré leur faiblesse, ils
+fuyent rapidement ; mais ils fuyent
+ensemble. Ils ont franchi l’extrémité
+du pont quand Federici court
+pour les atteindre. Ils entendent
+le bruit de ses pas.
+</p>
+        <p>
+« Viens , dit Severino à son
+frère, en s’approchant des bords
+du torrent ; viens. »
+</p>
+        <p>
+Et tous deux se placent sur la
+pointe aiguë d’un roc qui s’avance
+au-dessus des eaux. Là, entrelaçant
+leurs bras, confondant les
+larmes qui inondent leurs petits
+</p>
+      </div>
+      <div>
+        <head>4</head>
+        <pb xml:id="PAG_00000055" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f55.image"/>
+        <p rend="left small">42 COLONNA.</p>
+        <p>
+visages , réunissant leurs lèvres
+pâles et froids , ils attendent
+l’approche du traître.
+</p>
+        <p>
+« Arrêtez, » leur crie-t-il ; car il
+veut verser les dernières gouttes
+du sang d’Enrigo.
+</p>
+        <p>
+Mais les jumeaux cèdent à la
+terreur que leur cause sa vue ; et
+en se pressant plus fortement encore
+, ils se précipitent dans le
+torrent.
+</p>
+        <p rend="left">
+Prodige inouï ! la terre s’émeut,
+le ciel s’obscurcit, les eaux s’arrê-
+
+<pb xml:id="PAG_00000056" n="43" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f56.image"/>tent, les vents cessent de souffler,
+un silence de mort règne sur la
+nature. Pénétrés d’une horreur
+secrète, et dans l’attente des maux
+inconnus qui vont les frapper, les
+hommes demeurent immobiles….
+</p>
+        <p>
+Tout-à-coup une voix fait retentir
+les airs. Sort-elle du flanc des
+montagnes, de l’abîme des eaux,
+ou de ces épaisses nues abaissées
+sur la terre malheureuse que
+souille le sang le plus pur ? Au
+fond des forêts, au milieu des cités
+, sous le chaume du pauvre,
+sous les voûtes du palais de Ve-
+
+<pb xml:id="PAG_00000057" n="44" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f57.image"/>naco, la formidable voix résonne à
+l’oreille de tous. Malheur ! malheur
+ ! entendent à-la-fois les sujets
+d’Enrigo et sa famille consternés.
+Malheur à toi, Corse ! Enrigo ,
+ton seigneur est mort ! ! !
+</p>
+        <p>
+A ces accens funèbres et miraculeux,
+la troupe homicide fuit en
+désordre, et Marcello, qui a perdu
+le courage avec l’honneur, ne
+comprend point la pusillanimité
+qui le fait courir si rapidement
+vers son château, qu’il se hâte,
+avec les siens, de se mettre à l’abri
+d’une attaque qu’il redoute..
+</p>
+        <pb xml:id="PAG_00000058" n="45" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f58.image"/>
+        <p>
+Il regrette alors les épaisses murailles
+crénelées, et les massives
+portes de l’ancien château de ses
+pères ; il consulte Federici, et tous
+deux donnent des ordres, que le
+reste des gens de Marcello exécutent
+sans zèle et sans espoir
+</p>
+        <p>
+A quoi servent ces barres , ces
+meubles entassés ? disent-ils entre
+eux ; ils ne nous défendraient point
+contre les hommes , et c’est le ciel
+qui nous menace !
+</p>
+        <p>
+Alors cessa le charme affreux
+qui avait oppressé la terre et enchaîné
+les eaux. Tout reprit son
+
+<pb xml:id="PAG_00000059" n="46" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f59.image"/>cours accoutumé dans la nature ;
+mais le coeur de l’homme fut formé
+pour de plus durables angoisses
+ !
+</p>
+        <p>
+Ginevra , qui d’abord écouta,
+muette et glacée , l’horrible et
+surnaturelle annonce des maux
+qui vont accabler son pays, et des
+douleurs qui seront son partage,
+Ginevra recouvre le mouvement,
+et parcourt éperdue le palais de
+Venaco.Elle appelle de toutes parts
+les gardes d’Enrigo, ses serviteurs.
+Des vassaux , des barons accourent.
+Une foule immense est bien-
+
+<pb xml:id="PAG_00000060" n="47" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f60.image"/>tôt rassemblée autour du palais.
+Des gémissemens , des sanglots
+s’élèvent de toutes parts. Au milieu
+du préau, que les festons et
+les trophées de la fête ornent encore
+, la comtesse de Corse se fait
+entendre.
+</p>
+        <p>
+« Marchons, dit - elle , punissons
+le crime et vengeons notre
+prince ; courons sauver les fils
+d’Enrigo »
+</p>
+        <p>
+A ces mots Ginevra tressaille ;
+son coeur se serre ; sa vue se trouble.
+
+</p>
+        <pb xml:id="PAG_00000061" n="48" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f61.image"/>
+        <p><hi rend="i">« </hi> Les fils d’Enrigo vivent - ils
+encore ? se demande leur mère ;
+peut-être il en est temps !… Courons
+, courons, répète Ginevra. »
+</p>
+        <p>
+Et elle s’avance vers ce même
+chemin qu’elle vit le matin même
+parcourir à son époux et à ses enfans.
+En vain Bianca veut s’opposer
+à son dessein. Celle qui seule
+lui donnera maintenant le nom
+de mère est repoussée par l’infortunée
+Ginevra , qui, malgré les
+prières de Bianca et les conseils
+de Guido, souffre qu’Antonio l’accompagne.
+Ce dernier fait prépa-
+
+<pb xml:id="PAG_00000062" n="49" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f62.image"/>rer des chevaux, rétablit l’ordre
+parmi les vassaux réunis tumultueusement
+, et fait ouvrir la marche
+par les archers et hommes
+d’armes qu’il a formés en corps.
+Un même esprit semble animer
+tous les sujets du prince adoré
+qui n’est plus , et peu d’instans
+ont suffi pour l’exécution des ordres
+du seigneur de Cinarca. Antonio
+suit Ginevra ; il veut lui
+expliquer le plan qu’il a conçu ; il
+veut savoir ce qu’elle-même craint
+ou espère, et quelles sont ses résolutions
+
+</p>
+        <p rend="left">
+« As-tu entendu la voix, lui réII.
+5
+</p>
+        <pb xml:id="PAG_00000063" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f63.image"/>
+        <p rend="left small">50 COLONNA.</p>
+        <p rend="left">
+pond la comtesse ; Enrigo est
+mort
+</p>
+        <p rend="left">
+— Mais vos fils ?
+</p>
+        <p>
+— Avançons , avançons , c’est
+tout ce que peut dire Ginevra ;
+son front est couvert de sueur ;
+ses yeux sont égarés, les muscles
+de son visage , fortement contractés
+, en ont changé l’expression,
+et sa chevelure, ses habits en désordre
+achèvent dé la rendre méconnaissable
+ ; sa vue augmente
+l’effroi et la fureur de tous. C’est
+une veuve qui va venger son
+</p>
+        <pb xml:id="PAG_00000064" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f64.image"/>
+        <p rend="left small">COLONNA. 51</p>
+        <p>
+époux ; c’est une mère qui va sauver
+ses fils ; c’est une souveraine
+qui va punir le crime. Hé ! quel
+crime ! Le ciel même a voulu le
+publier. Le ciel, d’accord avec les
+sujets d’Enrigo , a gémi sur le
+sort de la Corse, quand le pieux
+et bon Colonna lui a été ravi. On
+se rappelle sa justice, sa clémence ;
+et son dernier combat contre les
+Sarrasins, et son dernier bienfait
+qui a délivré la Corse d’une servitude
+honteuse et cruelle, sont
+également célébrés. Chaque Corse
+donnerait sa vie pour racheter
+celle d’un des fils d’Enrigo , et
+</p>
+        <pb xml:id="PAG_00000065" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f65.image"/>
+        <p rend="left small">52 COLONNA.</p>
+        <p>
+pense, en frémissant, que la veuve
+du prince qui obtint l’abolition de
+l’exécrable droit qui décimait les
+familles, ne jouira peut-être plus
+du bonheur dont son époux a comblé
+toutes les mères
+</p>
+        <p>
+Il n’est point besoin d’exciter
+les vassaux du comte de Corse.
+Ils se hâtent, et leur empressement
+est tel, qu’il satisfait même
+la poignante impatience de Ginevra.
+On aperçoit le pont et le château
+de Tralaveti. Au moment où
+son sort va être fixé , la comtesse
+reste immobile. Antonio la devance.
+</p>
+        <pb xml:id="PAG_00000066" n="53" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f66.image"/>
+        <p>
+A peine a-t-il fait quelques pas ,
+qu’il voit étendu sur la poussière
+les trois serviteurs du comte Enrigo
+ ; plus loin il distingue un
+manteau de pourpre, une toque
+que surmonte un panache bleu. Il
+approche ; et bientôt, tournant
+bride épouvanté :
+</p>
+        <p>
+« N’approchez pas, crie-t-il à
+Ginevra ; malheureuse ! fuyez ! »
+</p>
+        <p>
+Ces paroles ont dévoilé la vérité
+à la comtesse, mais elles ne <hi rend="i">l’arrêtent</hi>
+point. Dans l’excès de son
+désespoir, elle puise un excès de
+</p>
+        <pb xml:id="PAG_00000067" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f67.image"/>
+        <p rend="left small">54 COLONNA.</p>
+        <p>
+force, pousse son cheval, et s’arrête
+devant les corps de son époux,
+de cinq de.ses fils
+</p>
+        <p rend="left">
+« Les voilà, » dit Ginevra.
+</p>
+        <p rend="left">
+Elle voudrait les reconnaître
+tous, s’assurer de l’étendue des
+</p>
+        <p rend="left">
+horreurs qui l’environnent ;
+</p>
+        <p>
+mais elle essaye en vain de distinguer
+ces traits déformés par de
+larges blessures ou les douleurs
+aiguës d’une mort violente. Elle
+redouble d’efforts pour compter
+combien de ses enfans sont couchés
+sur cette terre fatale. Un nuage
+</p>
+        <pb xml:id="PAG_00000068" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f68.image"/>
+        <p rend="left small">COLONNA. 55</p>
+        <p>
+semble s’étendre devant ses yeux ;
+elle ne discerne plus qu’une masse
+horrible de chairs meurtries et de
+restes sanglants ; elle sent que son
+coeur cesse de battre, que ses
+membres se rosissent, que sa vie
+va fuir…..
+</p>
+        <p rend="left">
+« Severino ! Gioanni ! crie toutà-coup
+Antonio. Où sont-ils ?
+</p>
+        <p rend="left">
+— Quoi, dit Ginevra, ils ne
+sont point là ? »
+</p>
+        <p rend="left">
+Un rayon d’espérance suspend
+son agonie ; elle regarde autour
+</p>
+        <pb xml:id="PAG_00000069" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f69.image"/>
+        <p rend="left small">56 COLONNA.</p>
+        <p>
+d’elle… Une nuance de plus d’horreur
+et de désespoir se peint sur
+son visage ; elle ne parle plus ;
+mais on cherche l’objet qu’indique
+son bras roidi et étendu vers le
+torrent. Ce sont ces derniers fils,
+ces faibles et tendres enfans que
+la violence des eaux a rejetés sur
+l’étroite lisière de sable qui borde
+le torrent, encaissé au-delà par
+<hi rend="i">des</hi> roches escarpées. Baissant la
+tête , fléchissant les genoux, et
+n’essayant plus de résister aux
+angoisses qui déchirent son âme,
+Ginevra tombe dans les bras d’Antonio
+et de sa fille, qui l’entraî-
+
+<pb xml:id="PAG_00000070" n="57" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f70.image"/>nent jusqu’au pied des murs du
+château de Tralaveti.
+</p>
+        <p>
+« Repaire du crime , dit le seigneur
+de Cinarca, tu vas être détruit
+ ; mais le monstre qui t’habite
+n’essayera-t-il point de te
+défendre ? L’échafaud l’attend !
+L’évitera-t-il sous tes ruines ?
+</p>
+        <p>
+En parlant ainsi, Antonio examinait
+le château de Tralaveti, qui,
+avec toutes ses issues fermées et le
+silence qu’observaient ceux qu’il
+renfermait, semblait un vaste tombeau.
+Quoiqu’il ne présentât ni
+</p>
+        <pb xml:id="PAG_00000071" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f71.image"/>
+        <p rend="left small">58 COLONNA.</p>
+        <p>
+fossés, ni fortifications extérieures
+, ces colonnes de jaspe , ces
+cariathides de porphyre, ces grilles
+de bronze étaient des obstacles
+pour les assaillans, qui n’avaient
+transporté aucunes machines. Mais
+tandis que le seigneur de Cinarca
+cherchait le point le plus accessible
+, les vassaux de la comtesse
+avaient déjà décidé le genre d’atta
+que qui devait les rendre maîtres
+de Marcello et de ses satellites.
+</p>
+        <p>
+Les oliviers, les jeunes arbres
+résineux qui forment des bosquets
+ou des avenues autour du
+
+<pb xml:id="PAG_00000072" n="59" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f72.image"/>château sont arrachés en un instant,
+mille mains empressées les
+traînent, les entassent contre les
+murs, contre les portes. Un immense
+bûcher s’élève. Le feu pétille
+de toutes parts, la flamme
+serpente à travers des flots de
+fumée qui dérobent la vue du
+château et obscurcissent le jour.
+Sans cesse alimenté, le feu acquiert
+une activité que chaque
+minute augmente , il embrase, il
+dévore tout. Les marbres éclatent,
+les pierres s’entr'ouvrent,
+les métaux changent de forme et
+coulent en ruisseaux ardens. Des
+</p>
+        <pb xml:id="PAG_00000073" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f73.image"/>
+        <p rend="left small">60 COLONNA.</p>
+        <p>
+cris affreux percent à travers le
+bruit des murs qui s’écroulent ;
+derrière une étroite brèche on
+voit s’avancer la troupe armée
+des serviteurs de Marcello ; elle
+est conduite par le sarde Federici
+qui cherche à lui frayer un
+passage. Mais les archers de Venaco
+se portent vers ce point, et
+le Sarde, et tous ceux qui le suivent,
+tombent successivement sous
+leurs coups. Les blessés, qui roulent
+expirer sur le sol rougi et crevassé
+, envient leurs compagnons
+atteints d’un trait mortel, et le
+bruit, l’horreur de l’incendie est
+</p>
+        <pb xml:id="PAG_00000074" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f74.image"/>
+        <p rend="left small">COLONNA. 61</p>
+        <p rend="left">
+encore augmenté par leurs gémissemens.
+
+</p>
+        <p>
+Assise sur un tertre et soutenue
+par Bianca , la comtesse de Corse
+regarde réduire en cendres le château
+de Marcello ; elle est immobile
+et silencieuse ; si elle respirait
+avec moins de peine l’air embrasé
+qui circule autour d’elle, on
+douterait de son existence.Enfin, la
+violence des flammes a tout ébranlé
+, et les terrasses, garnies de balustres
+qui recouvraient le château,
+s’enfoncent à -la- fois. Des
+tourbillons éclatans, des gerbes
+</p>
+        <pb xml:id="PAG_00000075" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f75.image"/>
+        <p rend="left small">62 COLONNA.</p>
+        <p>
+étincelantes, un nuage de cendres
+s’élèvent du centre de l’incendie,
+comme d’un large cratère, et se
+dissipent dans les airs. Tout est
+consumé. Quelques colonnes noircies
+, quelques débris d’ornemens
+vitrifiés, resteront sur ces lieux à
+jamais célèbres par un grand crime
+et une grande vengeance.
+</p>
+        <p>
+« Pourquoi, s’écrie alors Antonio
+, n’ai-je pu t’arracher des flammes
+, ô Marcello ! C’est maintenant
+que je t’immolerais, et ton
+Sang coulerait en bouillonnant sur
+ces cendres ardentes »
+</p>
+        <pb xml:id="PAG_00000076" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f76.image"/>
+        <p rend="left small">COLONNA. 63</p>
+        <p>
+De vives clameurs interrompent
+le seigneur de Cinarca.
+</p>
+        <p>
+« Voilà le traître, » dit-on de tous
+côtés.
+</p>
+        <p>
+Et ses gardes amènent devant
+la comtesse un homme hideux et
+défiguré , qu’aux lambeaux de son
+écharpe aurore, à son épée ciselée
+d’or et incrustée de turquoises,
+on a reconnu pour Marcello. Il a
+été saisi au moment où il fuyait,
+par un souterrain, son château
+embrasé.
+</p>
+        <p rend="left">
+« Tu es le seigneur de Trala-
+</p>
+        <pb xml:id="PAG_00000077" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f77.image"/>
+        <p rend="left small">64 COLONNA.</p>
+        <p>
+veti, lui dit Ginevra qui recouvre
+enfin la faculté de s’exprimer ; réponds ?
+ »
+</p>
+        <p>
+Marcello , dont les habits , les
+mains, le visage portent les profondes
+et cuisantes traces des flammes
+qu’il vient de traverser, n’hésite
+point. Ses lèvres , gonflées ,
+s’ouvrent difficilement ; mais sa
+voix est forte et assurée.
+</p>
+        <p>
+« Oui, je suis le seigneur de
+Tralaveti ; j’ai exterminé ton Enrigo
+et sa race. Où étais-tu , Antonio
+ ? où étaient tous les descen-
+
+<pb xml:id="PAG_00000078" n="65" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f78.image"/>dans du grand Ugo ? Pourquoi me
+sont-ils échappés ? Ordonne mon
+supplice , Ginevra. J’aimerai à
+mourir ; car ma main, presque
+consumée, ne pourra plus plonger
+un fer dans le sein d’un Colonna,
+et mes yeux desséchés ne
+pourront plus les voir expirer.
+</p>
+        <p rend="left">
+— Qu’il meure, dit Antonio.
+</p>
+        <p rend="left">
+— Qu’il meure , répètent tous
+les Corses.
+</p>
+        <p rend="left">
+— Approche , Marcello , dit
+</p>
+        <p rend="left">
+Ginevra. Seigneurs, vassaux, écouII.
+6
+</p>
+        <pb xml:id="PAG_00000079" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f79.image"/>
+        <p rend="left small">66 COLONNA.</p>
+        <p>
+tez-moi. Privés de biens, déchus
+de noblesse, tous ceux qui portent
+le nom de Tralaveti sont déclarés
+infâmes, et ce nom odieux
+ne sera plus prononcé ….. Mais
+toi, Marcello, tu survivras à ton
+nom , à ton rang ; tu vivras pour
+voir la honte de tous les tiens,
+partager leur misère, entendre les
+malédictions des Corses , et épouvanter
+les traîtres par tes longues
+douleurs. Déjà tu souffres celles
+qui sont réservées aux réprouvés
+. Va montrer ce visage, affreux
+comme le crime. La veuve
+d’Enrigo, de ton suzerain que tu
+
+<pb xml:id="PAG_00000080" n="67" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f80.image"/>assassinas, la mère des Colonna
+</p>
+        <p>
+Tiens , les vois-tu Oui , Marcello
+, c’est moi qui te condamne
+</p>
+        <p rend="left">
+à vivre Mais qu’il s’éloigne
+</p>
+        <p rend="left">
+Bianca, ma fille Oh ! je suis
+</p>
+        <p>
+encore mère ! Que mes yeux te
+voient. … Je suis heureuse ! je
+meurs »
+</p>
+        <pb xml:id="PAG_00000081" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f81.image"/>
+        <pb xml:id="PAG_00000082" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f82.image"/>
+      </div>
+      <div>
+        <head>Notice historique.</head>
+        <pb xml:id="PAG_00000083" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f83.image"/>
+        <pb xml:id="PAG_00000084" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f84.image"/>
+      </div>
+      <div>
+        <head>Notice historique.</head>
+        <p>
+La Corse, qui fut d’abord peuplée
+par les Phocéens, après avoir
+appartenu aux Carthaginois , aux
+Romains , aux empereurs du BasEmpire
+et aux rois lombards,
+fut envahie par les Sarrasins.
+Charles-Martel, qui les combattait
+partout, les en chassa un moment
+ ; mais ils revinrent s’y éta-
+
+<pb xml:id="PAG_00000085" n="72" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f85.image"/>blir après lui plus solidement que
+jamais. Ils avaient en Corse des
+rois et des mosquées , et persécutaient
+les indigènes qui étaient
+chrétiens.
+</p>
+        <p>
+En 788 , un seigneur romain ,
+issu d’une des plus grandes maisons
+d’Italie, Ugo Colonna, se révolta
+contre le pape Etienne IV,
+qui s’en plaignit à Charlemagne.
+Cet empereur, dont la puissance
+était universelle, ordonna à Colonna
+de se réconcilier avec le
+souverain pontife , qui exigea,
+comme condition du raccommo-
+</p>
+        <pb xml:id="PAG_00000086" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f86.image"/>
+        <p rend="left small">HISTORIQUE. 76</p>
+        <p>
+dement, la délivrance de la Corse.
+Ugo Colonna équipe des vaisseaux,
+débarque à Aléria (en 788) ,
+bat et chasse les Sarrasins , se fait
+proclamer comte de Corse , et règne
+en faisant hommage de sa couronne
+au saint-siége : ridicule politesse
+dont les suites furent monstrueuses
+, et que devait s’épargner
+celui qui ne devait ses États qu’à
+Dieu et à son épée.
+</p>
+        <p>
+Bianco , son fils aîné, lui succéda
+, et continua à résider dans le
+palais de Venaco , qu’avait fait
+</p>
+        <p rend="left">
+élever son père , tandis que CiII.
+7
+
+<pb xml:id="PAG_00000087" n="74" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f87.image"/>narco , le second fils d’Ugo, vivait
+dans le territoire qui s’étend de
+Calco à Bonifaccio, qu’il avait reçu
+en apanage.
+</p>
+        <p>
+Rolando, Rodolfo, Guido, descendant
+en ligne directe de Bianco,
+régnèrent après lui.
+</p>
+        <p>
+Arrigo Colonna , fils de Guido,
+lui succéda. La perfection de ses
+traits et de sa taille le fit surnommer
+le Beau Seigneur, <hi rend="i">il Bel Messere</hi>.
+Son âme était aussi belle que
+son corps ; il se fit adorer des Cor-
+</p>
+        <pb xml:id="PAG_00000088" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f88.image"/>
+        <p rend="left small">HISTORIQUE. 75</p>
+        <p>
+ses, qui n’ont jamais perdu le souvenir
+de sa domination. Il avait
+épousé Ginevra de Torquati, dame
+romaine d’une naissance illustre ,
+dont il eut une fille et sept fils.
+La première , Bianca , épousa le
+comte Antonio Forte, seigneur de
+Cinarca, descendant, ainsi qu’elle,
+du grand Ugo Colonna.
+</p>
+        <p>
+Une discussion s’étant élevée
+entre le seigneur de Cinarca et
+celui de Tralaveto , à propos d’un
+château que ce dernier avait fait
+élever sur un terrain appartenant
+au comte Forte, Arrigo , leur su-
+</p>
+        <pb xml:id="PAG_00000089" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f89.image"/>
+        <p rend="left small">76 NOTICE</p>
+        <p>
+zerain, suivi de ses sept fils , se
+rendit sur le pont de Tralaveto
+pour examiner les lieux et entendre
+les arbitres. Au moment où il
+allait faire reconnaître les droits
+de son gendre , un Sarde nommé
+Federici, apposté par le seigneur
+de Tralaveto , le poignarda ; ses
+enfans furent massacrés à l’instant
+même par les gens de Tralaveto ,
+et l’on dit qu’une voix cria dans
+les airs : <hi rend="i">E morto il conte Arrigo,
+Bel Messere ! e Corsica sarà di
+male in peggio</hi>.
+</p>
+        <p rend="left">
+Cet attentat exécrable, arrivé
+</p>
+        <pb xml:id="PAG_00000090" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f90.image"/>
+        <p rend="left small">HISTORIQUE. 77</p>
+        <p rend="left">
+en l’an 1000, ne demeura pas
+long-temps impuni.
+</p>
+        <p>
+A la tête de ses comtes, barons
+et vassaux, la veuve d’Arrigo vint
+mettre le siége devant le château
+de Tralaveto , qui fut pris et
+brûlé , ainsi que tous ceux qui
+appartenaient aux Tralavetani.
+Cette famille fut dégradée de noblesse
+, son nom interdit, et le
+chef, Piso, condamné à vivre dans
+l’infamie. La mort d’Arrigo fut le
+signal de la guerre civile. Tous les
+membres de la famille Colonna
+prétendirent à la souveraineté
+</p>
+        <pb xml:id="PAG_00000091" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f91.image"/>
+        <p rend="left small">78 NOTICE HISTORIQUE.</p>
+        <p>
+et déchirèrent la Corse jusqu’à
+ce que les Pysans et les Génois
+s’en disputassent la possession.
+</p>
+        <pb xml:id="PAG_00000092" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f92.image"/>
+      </div>
+      <div>
+        <head>Notes</head>
+        <p rend="left small">DU PREMIER VOLUME.</p>
+        <p>
+(<hi rend="i">a) </hi> Le pape, en reconnaissant Ugo
+Colonna pour souverain de la Corse,
+se réserva sur cette île plusieurs droits
+de <hi rend="i">suzeraineté</hi>, entre autres celui de
+dîmer les enfans. On a besoin de se
+rappeler les plus odieuses coutumes
+de l’antiquité et du moyen âge, pour
+s’interdire les réflexions qui naissent
+</p>
+        <pb xml:id="PAG_00000093" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f93.image"/>
+        <p rend="left small">80 NOTES.</p>
+        <p>
+naturellement d’un pareil sujet. La
+dîme des enfans ! Un prêtre de JésusCbrist,
+prêchant l’Evangile et imposant
+l’esclavage aux enfans du pauvre !
+Cet exécrable usage, nommé <hi rend="i">droit spirituel</hi>,
+fut aboli à la prière d’Enrigo,
+qui envoya, à cet effet, l’ evêque d’Aléria
+vers le souverain pontife. Les
+jeunes enfans des Corses, que jusqu’alors
+on avait enlevés à leur famille et
+conduits à Rome, y étaient traités avec
+douceur et employés à des fonctions
+qui n’avaient rien de servile ; car,
+comme l’a fort judicieusement remarqué
+M. le vicomte de Châteaubriand,
+il n’y a jamais eu moyen de traiter
+<hi rend="i">les</hi> Corses en esclaves Mais la seule
+</p>
+        <pb xml:id="PAG_00000094" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f94.image"/>
+        <p rend="left small">NOTES. 81</p>
+        <p>
+pensée de n’être point maître de choisir
+le lieu ; de sa résidence ou l’état
+qu’il doit professer, suffira toujours
+pour rendre l’homme malheureux. Il
+n’existe rien sur la terre qui puisse
+dédommager de la liberté.
+</p>
+        <p>
+(<hi rend="i">b) </hi> Othon II, surnommé <hi rend="i">le Sanguinaire</hi>,
+eut pour successeur Othon III,
+son fils, que l’on appela <hi rend="i">l’Enfant</hi>,
+parce qu’il monta sur le trône à l’âge
+de douze ou de treize ans. Il eut urne
+femme libertine, qui, piquée d’avoir
+été refusée par un seigneur quelle
+sollicitait, l’accusa au contraire d’avoir
+attenté à son honneur. Le mari,
+</p>
+        <pb xml:id="PAG_00000095" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f95.image"/>
+        <p rend="left small">82 NOTES.</p>
+        <p>
+faute d’examen ou par précipitation,
+condamna ce malheureux à la mort,
+et le fit exécuter ; mais ayant reconnu
+son erreur, il fit brûler vive la calomniatrice.
+Devenu veuf, il manqua
+de parole à une veuve qu’il avait séduite
+sous promesse de mariage. Elle
+l’empoisonna. Il mourut jeune sans
+postérité. »
+</p>
+        <p>
+Tel est le court paragraphe consacré
+à la mémoire d’Othon III, dans le
+<hi rend="i">Précis de l’Histoire universelle</hi> d’Anquetil.
+Il s’en faut de beaucoup que
+l’histoire de cet empereur soit contée
+en de semblables termes dans les autres
+historiens que j’ai consultés ; mais
+
+<pb xml:id="PAG_00000096" n="83" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f96.image"/>j’ai choisi la version qui me convenait
+le mieux. Il me fallait un empereur
+pèlerin, et je ne crois pas que l’on
+m’accuse d’avoir imposé légèrement à
+l’Othon d’Anquetil une pénitence assez
+en usage de son temps.
+</p>
+        <p>
+(<hi rend="i">c) </hi> Philippini rapporte qu’un empereur
+vint en Corse faire chevaliers
+le comte Arrigo et beaucoup de ses
+barons ; qu’il fit <hi rend="i">nobles</hi> plusieurs insulaires ;
+enfin qu’il confirma Arrigo
+dans la possession de la Corse, institua
+des juges, etc. Cet empereur n’est
+jamais nommé ; la recherche de son
+nom. serait d’un grand intérêt sans
+</p>
+        <pb xml:id="PAG_00000097" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f97.image"/>
+        <p>
+84 NOTES.
+doute,, et l’on pourrait en tirer bonparti
+en citant d’abord les auteurs que
+l’on aurait consultés, puis en formant
+des conjectures qui s’étendraient jusqu’à
+l’infini
+</p>
+        <p>
+On essaierait aussi d’expliquer
+comment cet empereur vient confirmer
+un prince dans la possession d’un
+Etat soumis à sa famille depuis deux
+cents ans, comment il vient y nommer
+des magistrats, comment enfin il
+exerce des actes de. souveraineté dans
+un pays sur lequel on ne lui connaît
+aucun droit. Tous ces points seraient
+curieux à discuter, et il ne faudrait
+que beaucoup de connaissances, et de
+</p>
+        <pb xml:id="PAG_00000098" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f98.image"/>
+        <p rend="left">
+NOTES. 85 .
+</p>
+        <p rend="left">
+sagacité pour les éclaircir. Quant à
+moi, j’ai trouvé le fait constaté : peu
+m’importe la légitimité d’Othon III. Je
+me suis crue seulement obligée d’attribuer
+au hasard son passage en Corse ;
+car supposer qu’il arrive uniquement
+pour créer des chevaliers, c’est ce que
+je n’ai pu me résoudre à faire, quelle
+que soit ma vénération pour le comte
+Arrigo et ses barons On ne se douterait
+point, en lisant un petit conte,
+de la peine qu’il donne à son auteur,
+du moment qu’un fait historique doit
+y être placé. Dates, lieux, actions,
+toutes choses qui ne peuvent avoir été
+que positives, sont si diversement rapportées
+, que l’on arrive au vague par
+
+<pb xml:id="PAG_00000099" n="86" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f99.image"/>l’étude de l’histoire, comme par la lecture
+de l’ouvrage le plus romantique.
+J’ai cherché pendant deux ans le nom
+du château où fut enfermé RichardCoeur-de-Lion.
+Plusieurs savans ont
+daigné m’aider, et je peux maintenant
+choisir entre Losenster, la tour de
+Worms et le château de Kimbach. Je
+ne sais si je dois me réjouir de cette
+abondance ; car il est possible qu’aucun
+de ces noms ne soit le véritable ;
+Dieu me garde pourtant de condamner
+les historiens qui ne s’accordent
+point. J’ai vu la révolution française ;
+j’ai lu tous les mémoires que l’on a
+publiés à propos d’elle, et je me suis
+convaincue qu’il y a autant de façons
+</p>
+        <pb xml:id="PAG_00000100" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f100.image"/>
+        <p rend="left small">NOTES. 87</p>
+        <p>
+de voir et d’entendre, qu’il y a d’yeux
+et d’oreilles. Si donc on a écrit d’une
+manière aussi peu satisfaisante pour
+nous, <hi rend="i">l’histoire que nous avons faite</hi>,
+que devons - nous attendre de chroniqueurs
+qui nous apparaissent à travers
+des siècles, qui, barbares ou civilisés,
+sont toujours du temps ? Je sais que
+l’on peut profiter de ces contradictions.
+Il n’est pas indifférent, pour le grand
+Constantin, d’avoir été jugé par des
+chrétiens et par des païens ; enfin on
+gagne, à cette incertitude, le droit de
+n’adopter l’opinion de personne, de
+disputer contre tous, et de dire, avec
+le chevalier de Grignan : <hi rend="i">Dieu est Dieu,
+je ne sais que cela de vrai</hi>. Cependant il
+</p>
+        <pb xml:id="PAG_00000101" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f101.image"/>
+        <p rend="left small">88 NOTES.</p>
+        <p>
+est toujours quelques circonstances d’un
+intérêt particulier, qui ne permettent
+point de considérer aussi philosophiquement
+la variété d’avis des auteurs.
+Plusieurs maisons corses ont des écussons
+en forme de cartouches, et on n’a
+pas manqué d’en arguer que c’étaient
+celles qui avaient fourni des chevaliers à
+l’empereur, ou qui en avaient reçu la
+noblesse, par la considération que l’écusson
+en cartouche est souvent employé
+en Allemagne, et j’ai de bonnes
+raisons pour désirer que cette
+opinion prévaille. Mais je prévois une
+difficulté ; on assigne l’origine des armoiries
+à l’époque des premières croisades,
+qui eurent lieu sous l’empereur
+</p>
+        <pb xml:id="PAG_00000102" n="89" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f102.image"/>
+        <p>
+Henri IV, lequel, selon Pfeffel, régna
+quatre-vingt-dix-neuf ans après l’Othon
+qui fut contemporain du comte
+Arrigo.
+</p>
+        <p>
+Comment cela s’arrange-t-il ? Je l’ignore,
+j’en conviens. Mais j’espère
+qu’il est encore des gens habiles qui
+expliquent tout et font concorder tout.
+J’ai vu décrire un monument dont on
+avait trouvé quatre pierres , d’après
+l’inspection d’une médaille si fruste,
+que <hi rend="sup">l’antiquaire</hi> seul y apercevait un
+théâtre, des hommes et des bêtes. On
+l’entourait, on l’écoutait ; je crois que
+l’on finit par voir avec lui les objets
+</p>
+        <p rend="left">
+qu’il indiquait avec la pointe d’un
+
+</p>
+        <pb xml:id="PAG_00000103" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f103.image"/>
+        <p rend="left small">90 NOTES.</p>
+        <p>
+cure-dent. Enfin, il fit imprimer une
+petite dissertation qui lui valut de
+grands éloges de la part de ses confrères
+, et combla de satisfaction le
+possesseur du champ où l’on avait découvert
+les quatre pierres et la médaille.
+
+</p>
+        <p>
+(<hi rend="i">d) </hi> Un savant moine nommé Glaber
+fut en effet le contemporain d’Othon
+III. On trouvera aujourd’hui que
+la pénitence qu’il imposa à Othon n’était
+point proportionnée à ses crimes,
+parce que nous avons sur les souverains
+des idées nouvelles, et l’on ne
+manquera pas de dire que le temps
+</p>
+        <pb xml:id="PAG_00000104" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f104.image"/>
+        <p rend="left small">NOTES. 91</p>
+        <p>
+où une croisade ou la fondation d’un
+monastère rachetait tous les péchés,
+était un fort triste temps. Préféreraiton
+celui où l’impunité était toujours
+le partage des princes ? Le bien, résulté
+des croisades, est connu. Le commerce,
+les sciences, la liberté individuelle
+y ont également gagné, et c’est
+être injuste de condamner une guerre,
+parce que ceux qui l’entreprennent
+suivent une croix et non un aigle.
+Ceux qui justifient les conquêtes faites
+en Europe ne peuvent blâmer celles
+que l’on tentait en Asie. Quant aux
+fondations de monastères, qui alors
+servaient d’hôtelleries et où l’on admettait
+comme religieux les hommes
+</p>
+        <pb xml:id="PAG_00000105" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f105.image"/>
+        <p rend="left small">92 NOTES.</p>
+        <p>
+sans distinction de naissance, mieux
+valait les obtenir que rien, d’un pécheur
+repentant. Il n’était pas tres-encourageant
+pour un seigneur doué de
+passions vives, de se rappeler que son
+père n’avait reçu l’absolution d’un
+rapt ou d’un meurtre qu’en diminuant
+son héritage de deux ou trois cent
+nulle francs. Si les confesseurs n’eussent
+point exigé des grands cette espèce
+de réparation, ils auraient impunément
+commis les crimes les plus
+atroces ; car la justice civile ne pouvait
+les atteindre. Très-certainement
+qu’il est mieux de conserver son innocence
+ ; mais quand l’homme s’est
+rendu coupable, faut-il le condamner
+
+<pb xml:id="PAG_00000106" n="93" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f106.image"/>à jamais, ou l’absoudre sans condition
+ ? Dans le premier cas, on serait
+cruel ; dans le second, imprudent. Mais
+on ne se bornait point, dira-t-on, aux
+ravisseurs et aux meurtriers. On troublait
+la conscience des mourans, et on
+leur faisait racheter , par de fortes
+sommes, des péchés imaginaires. Je
+n’admets pas qu’il soit très-facile d’inquiéter
+une conscience pure ; mais la
+chose est possible. Alors c’est l’abus
+d’une coutume sage ; et certes je ne le
+justifierai point ; mais je demanderai,
+en soupirant, quel siècle fut exempt
+d’abus , et l’on regrettera peut-être,
+avec moi, que les confesseurs n’imposent
+plus de pénitences pécuniaires.
+</p>
+        <pb xml:id="PAG_00000107" n="94" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f107.image"/>
+        <p>
+On affecterait ces fonds aux établissemens
+de bienfaisance, et toutes les lois
+contre la mendicité pourraient être
+mises en vigueur.
+</p>
+        <pb xml:id="PAG_00000108" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f108.image"/>
+        <p rend="left">
+NOTE DE L’ÉDITEUR.
+</p>
+        <p>
+Ce mémoire, que l’on a bien voulu
+nous laisser joindre à la nouvelle historique
+de <hi rend="i">Colonna</hi>, contient sur la
+Corse des détails assez intéressans pour
+avoir motivé l’honneur que lui fit le
+feu Roi ; et nous croyons qu’il sera
+agréable au public de recueillir de
+nouveaux renseignemens sur cette
+province encore peu connue.
+</p>
+        <pb xml:id="PAG_00000109" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f109.image"/>
+        <pb xml:id="PAG_00000110" n="9" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f110.image"/>
+        <pb xml:id="PAG_00000111" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f111.image"/>
+        <pb xml:id="PAG_00000112" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f112.image"/>
+      </div>
+      <div>
+        <head>Mémoire sur la corse,</head>
+        <p rend="small">PRÉSENTÉ AU ROI , ET RENVOYÉ LE 23 MAI 181g ,
+PAR ORDRE DE SA MAJESTÉ , AU MINISTRE DE
+L’INTÉRIEUR ;</p>
+        <p rend="left small">PAR LE Cte. JOSEPH DE BRADI,</p>
+        <p rend="left small">Membre correspondant de la Société royale des Sciences,
+Agriculture , Belles-Lettres et Arts d’Orléans,</p>
+        <p rend="left">
+AU ROI.
+</p>
+        <p rend="left">
+SIRE ,
+</p>
+        <p>
+Lorsque la bonté de Votre Majesté
+s’occupe avec un égal intérêt
+du bien de tous ses sujets , et
+
+<pb xml:id="PAG_00000113" n="100" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f113.image"/>qu’elle médite sans cesse le bonheur
+dont elle veut les faire jouir,
+il n’est point de Français qui n’éprouve
+le besoin de témoigner sa
+reconnaissance à son souverain ,
+et c’est peut-être en donner une
+preuve digne du coeur de Votre
+Majesté, que d’oser mettre sous
+ses yeux un mémoire relatif à la
+Corse, au moment où elle a ordonné
+qu’une commission lui présentât
+un plan d’amélioration pour
+ce département.
+</p>
+        <p rend="left">
+La Corse, environnée de ports
+naturels, abondante en bois de
+</p>
+        <pb xml:id="PAG_00000114" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f114.image"/>
+        <p rend="left small">SUR LA CORSE. 101</p>
+        <p>
+construction , voisine de Toulon,
+serait un des points les plus importans
+pour la marine, si ses
+montagnes rendues praticables,
+et ses torrens encaissés, permettaient
+l’exploitation de ses forêts.
+Riche en mines de fer, de cuivre,
+de plomb, d’alun, de salpêtre, de
+porphyre, de jaspe et de pierres
+rares , les mêmes moyens qui serviraient
+aux transports des bois ,
+rendraient les mines l’objet de
+travaux aussi utiles qu’ntéressans.
+Les plaines de la Corse sont aussi
+fertiles que celles de la Sicile ; l’olivier
+, le mûrier, le cotonnier, la
+</p>
+        <pb xml:id="PAG_00000115" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f115.image"/>
+        <p rend="left small">102 MÉMOIRE</p>
+        <p>
+vigne, le blé y croissent avec vigueur
+, partout où le roc n’est
+point découvert <hi rend="i"/> ; les montagnes
+sont couronnées de châtaigniers,
+de chênes , de pins dont la hauteur
+et la dureté ne le cèdent en
+rien aux arbres des antiques forêts
+de l’Amérique. Le peuple qui
+habite cette île a dans tous les temps
+fourni à l’Europe des hommes d’état
+et des guerriers. Pourquoi donc
+la Corse réclame-t-elle des soins
+particuliers ? Elle est pauvre d’argent
+ ; mais ses productions, mises
+en oeuvre par l’industrie, ne seraient-elles
+point une source de
+</p>
+        <pb xml:id="PAG_00000116" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f116.image"/>
+        <p rend="left small">SUR LA CORSE. 103</p>
+        <p>
+richesses bien supérieures à celles
+que l’Espagne échangea dans le
+Nouveau-Monde contre sa population
+, l’habitude du travail et un
+caractère désintéressé ? Favorisée
+de la nature, que faut-il à la Corse
+pour ne point envier les provinces
+qui composent avec elle le
+royaume de France ?
+</p>
+        <p>
+La Corse, Sire , a en soi le principe
+de tous les biens , mais il appartient
+à Votre Majesté de le développer.
+Des dépenses immenses,
+soit pour ouvrir des communications
+, soit pour former des établissemens,
+seraient insuffisantes.
+</p>
+        <pb xml:id="PAG_00000117" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f117.image"/>
+        <p rend="left small">104 MÉMOIRE</p>
+        <p>
+Les lois françaises et leur exécution
+, mais leur exécution pleine ,
+entière , sans exception de lieu ni
+de personne , sont le bienfait d’où
+découlera l’amélioration dont la
+Corse est susceptible. Toute distinction
+l’effraiera ou la découragera
+, et quand elle verra la prospérité
+et l’abondance régner dans
+vos États du continent, qu’elle y
+verra les individus et les propriétés
+respectés, la police active, la
+justice impartiale , elle regrettera
+toujours qu’une <hi rend="i">loi spéciale </hi>, fûtelle
+en sa faveur, la divise du reste
+de vos sujets.
+</p>
+        <pb xml:id="PAG_00000118" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f118.image"/>
+        <p rend="left small">SUR LA CORSE. 105</p>
+        <p>
+Un seul moment, en 1790, la
+Corse fut régie en province française
+: son enthousiasme fut au
+comble. Quoique peu de départemens
+témoignassent plus d’aversion
+pour la révolution que la
+Corse , et y prissent une part
+moins active , elle en souffrit. Elle
+tomba au pouvoir de l’Angleterre,
+et fut ensuite tellement oubliée,
+que ce n’est que depuis 1814
+qu’elle est représentée à la Chambre
+des députés. Ainsi toujours
+</p>
+        <p rend="left">
+Ce fut à la suite d’un placet présenté
+au roi, et d’une pétition adressée à la
+</p>
+        <pb xml:id="PAG_00000119" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f119.image"/>
+        <p rend="left small">106 MÉMOIRE</p>
+        <p>
+victime de quelques exceptions, la
+Corse ne peut ni se réjouir de la
+Charte royale, ni se féliciter des
+lois sages qui gouvernent la France.
+Ou elle est exclue de leur juridiction
+, ou elle n’y est soumise
+que pour en désirer plus vivement
+l’exécution qu’elle n’obtient
+jamais qu’imparfaitement .
+</p>
+        <p rend="left">
+chambre des députés par l’auteur, que
+l’on nomma des députés en Corse.
+</p>
+        <p>
+On peut s’étonner de l’irrégularité
+des élections en Corse. Son respectable
+député, M. <hi rend="i">de Castelli, ne</hi> devrait point
+</p>
+        <pb xml:id="PAG_00000120" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f120.image"/>
+        <p rend="left small">SUR LA CORSE. 107</p>
+        <p>
+La longue oppression des Génois,
+le déni de justice , donnèrent
+à quelques - unes des vertus
+des Corses une extension qui
+n’est plus désirable. C’était l’horreur
+du meurtre qui les armait
+du stylet . C’était l’honneur,
+</p>
+        <p>
+siéger seul à la Chambre. Le second député
+n’a point l’âge requis par la Charte,
+et la Corse ne fait valoir que' la moitié
+d’un des plus beaux droits accordés par
+le roi à ses sujets.
+</p>
+        <p>
+La république de Gênes distribuait
+des lettres de grâce aux assassins avant
+qu’ils eussent commis le crime.
+
+<pb xml:id="PAG_00000121" n="108" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f121.image"/>dans l’acception chevaleresque de
+ce mot , qui en faisait des rebelles
+. C’étaient les penchans
+belliqueux de ce peuple qui donnaient
+à ses tyrans un moyen de
+plus de l’asservir en fomentant les
+haines, en encourageant les guerres
+privées. Mais tandis que les
+Corses défendaient leur vie et
+leurs antiques souvenirs contre
+</p>
+        <p>
+La république faisait brûler les titres
+de noblesse , effacer les armoiries, et défendait
+que dans aucun acte les gentilshommes
+fussent qualifiés par leurs titres
+héréditaires.
+</p>
+        <pb xml:id="PAG_00000122" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f122.image"/>
+        <p rend="left small">SUR LA CORSE. 109</p>
+        <p>
+un indigne pouvoir, il leur fallait
+repousser les Turcs qui pénétraient
+jusque dans l’intérieur de
+l’île. Ils ne subsistaient qu’en combattant.
+Il résulta nécessairement,
+de cette agitation perpétuelle, une
+grande exaltation dans les passions
+, une ignorance profonde
+parmi le plus grand nombre , et
+une pauvreté qui, vers les derniers
+temps, accélérait de la manière
+la plus effrayante l’anéantissement
+des meilleures familles .
+</p>
+        <p rend="left">
+Messire <hi rend="i">Domenico Bradi</hi>, ancien seigneur
+de Bisogene, d’Aravo et de Brezza,
+</p>
+        <pb xml:id="PAG_00000123" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f123.image"/>
+        <p rend="left small">110 MÉMOIRE</p>
+        <p>
+Ce fut après avoir réduit les
+Corses à cet état déplorable que
+Gênes se plaignit de les trouver
+difficiles à gouverner. Elle fit redisposait
+par testament, en 1650, de
+terres dont le circuit était de dix lieues.
+Le comte <hi rend="i">Raffaello Bradi</hi>, un de ses
+aïeux, en avait possédé de bien plus considérables
+, et leurs descendans pourraient
+, comme les gentilshommes bretons
+, mettre leur épée au bout du petit
+champ qu’ils labourent de leurs mains ,
+sous les murailles de Sartène , que leurs
+ancêtres contribuèrent à élever <hi rend="i"/> ; circonstance
+qui leur valut l’honneur d’être mis
+au nombre des fondateurs de cette ville.
+</p>
+        <pb xml:id="PAG_00000124" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f124.image"/>
+        <p rend="left small">SUR LA CORSE. III</p>
+        <p>
+tentir l’Europe du bruit de ses
+querelles avec un peuple qui venait
+de la forcer à le nommer ellemême
+<hi rend="i">l’épée et le bouclier</hi> de la
+république ; et les calomnies
+qu’elle répandit contre lui, firent
+naître des préjugés qui ne sont
+peut-être pas encore détruits.
+Mais la France n’eut jamais à punir
+de révolte en Corse. Une seule
+fois les habitans de cette province
+méconnurent les Français depuis
+la réunion, et ce fut le jour où un
+</p>
+        <p rend="left">
+En 1672, lorsque le duc de Savoie
+attaqua l’État de Gênes.
+</p>
+        <pb xml:id="PAG_00000125" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f125.image"/>
+        <p rend="left small">112 MÉMOIRE</p>
+        <p>
+bataillon , se disant Marseillais,
+débarqué à Ajaccio, et traînant
+après lui l’instrument d’un nouveau
+supplice , vint leur apprendre
+, par des cris affreux et un
+massacre, que la liberté aussi pouvait
+enfanter la terreur. Les Corses
+repoussèrent cette horde qui
+leur donna le nom de rebelles ,
+dont ils s’enorgueillirent. Excepté
+cette occasion glorieuse, ce peuple,
+accusé jusqu’alors de turbulence
+, s’est montré soumis et fidèle
+, et il n’aspire qu’à partager
+le sort de ses compatriotes du
+continent. Régi par les lois fran-
+</p>
+        <pb xml:id="PAG_00000126" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f126.image"/>
+        <p rend="left small">SUR LA CORSE. 113</p>
+        <p>
+çaises , le Corse remettra aux magistrats
+le soin de venger ses injures
+personnelles, et la punition
+du crime ne sera plus appelée
+vengeance, mais justice. Pourquoi
+donnerait-on des lois spéciales à
+une des provinces du royaume,
+lorsque la prospérité de ce royaume
+atteste que l’exécution de ses
+lois a maintenu l’ordre dans les
+circonstances les plus difficiles , et
+que son mode d’administration a
+suffi pour réparer les maux d’une
+guerre désastreuse ? Que Votre
+Majesté ne sépare point des sujets
+</p>
+        <p rend="left">
+qui lui sont également dévoués ;
+
+</p>
+        <pb xml:id="PAG_00000127" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f127.image"/>
+        <p rend="left small">114 MÉMOIRE</p>
+        <p>
+c’est le voeu des Corses ; c’était la
+volonté de l’auguste aïeul de Votre
+Majesté, qui sut démêler la vérité
+à travers tant de calomnies,
+et jugea les Corses dignes d’être
+assimilés aux Français.
+</p>
+        <p>
+Le règne de Votre Majesté deviendra
+l’époque d’où les Corses
+dateront leur bonheur, si en les
+faisant gouverner par les lois de
+France, Votre Majesté joint à ce
+bienfait celui de l’instruction publique.
+
+</p>
+        <p rend="left">
+L’enseignement mutuel, cette
+</p>
+        <pb xml:id="PAG_00000128" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f128.image"/>
+        <p rend="left small">SUR LA CORSE. 115</p>
+        <p>
+découverte admirable qui devait
+n’être introduite en France que
+sous un monarque religieux, philosophe
+et propagateur des lumières
+, est peut - être le seul
+moyen de redonner à la Corse
+l’aspect. que plusieurs siècles de
+guerre lui ont fait perdre. Toujours
+au-dessus ou au-dessous
+du' commun des peuples , le Corse
+est l’ouvrage d’une imagination
+que nul soin n’a réglée. Abandonné
+dès son enfance aux mouvemens
+d’une âme énergique , il s’agite
+sans but, s’épuise sans succès, et
+s’assoupit sous le poids de vains
+</p>
+        <pb xml:id="PAG_00000129" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f129.image"/>
+        <p rend="left small">116 MÉMOIRE.</p>
+        <p>
+efforts qui n’ont produit que des
+méditations stériles ou des projets
+gigantesques.
+</p>
+        <p>
+Aussi la politique et la guerre,
+sciences encore plus naturelles
+qu’acquises, sont-elles avidement
+embrassées par les Corses dès
+qu’ils peuvent les cultiver. Si dans
+la jeunesse on leur avait ouvert la
+carrière des lettres et celle des
+arts, si leur esprit ardent était
+dirigé vers des études paisibles et
+des travaux utiles , ils n’ambitionneraient
+qu’une gloire à laquelle
+ils pussent atteindre, et sauraient
+</p>
+        <pb xml:id="PAG_00000130" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f130.image"/>
+        <p rend="left small">SUR LA CORSE. 117</p>
+        <p rend="left">
+mesurer l’espace qui les en séparerait.
+
+</p>
+        <p>
+L’enseignement mutuel, essentiellement
+méthodique, modérerait
+une exaltation souvent nuisible
+dans le cours ordinaire de la
+vie ; il forcerait à raisonner avant
+que d’agir. Sa marche progressive
+ferait naître des idées d’ordre, et
+la nécessité de s’instruire réciproquement
+corrigerait de la présomption
+si naturelle à la jeunesse.
+Cette méthode d’instruction, où
+le corps même exécute des mouvemens
+prescrits, détruirait peut-
+</p>
+        <pb xml:id="PAG_00000131" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f131.image"/>
+        <p rend="left small">118 MÉMOIRE</p>
+        <p>
+être l’aversion que les Corses en
+général semblent avoir pour tous
+les métiers, et les conduirait à
+penser que la raison choisit les
+travaux les moins brillans <hi rend="sup">s’ils</hi>
+sont nécessaires , tandis que l’ambition
+ne trouve à s’occuper que
+dans les cours ou dans les camps .
+</p>
+        <p>
+Tel est le caractère des Corses. Dans
+les villes on trouve de vrais philosophes
+aussi sensés qu’instruits, mais auxquels
+l’éducation a fait perdre, si l’on peut
+s’exprimer ainsi, <hi rend="i">l’air de famille.</hi>. Il y a
+une classe de la société qui se ressemble
+partout. Mais l’auteur a dû peindre la
+masse. Le berger corse, qui n’a jamais vu
+</p>
+        <pb xml:id="PAG_00000132" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f132.image"/>
+        <p rend="left small">SUR LA CORSE. 119</p>
+        <p>
+L’enseignement mutuel n’aura
+point de contradicteurs en Corse.
+Les ecclésiastiques , pendant si
+</p>
+        <p>
+de livres que dans les mains de son curé ,
+sait le Tasse par coeur, et improvise sur
+les sujets qui l’ affectent. Il préférerait le
+fusil à la houlette <hi rend="i"/> ; et lorsqu’on le voit
+assis sur la pointe d’un rocher , parcourant
+des yeux l’espace immense qui l’environne
+, il est facile de deviner que son
+troupeau n’est pas toujours le seul objet
+de sa pensée.. Une nature imposante , le
+voisinage de la mer, des guerres continuelles
+, une communication difficile
+avec d’autres Etats, telles sont sans doute
+les causes qui donnent au peuple corse
+une physionomie particulière.
+</p>
+        <pb xml:id="PAG_00000133" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f133.image"/>
+        <p rend="left small">120 MÉMOIRE</p>
+        <p>
+long-temps chargés seuls de l’éducation,
+y sont éclairés et remplis
+de zèle. ; ils ne laisseront point
+passer en d’autres mains ce pouvoir
+irrésistible qui s’acquiert sur
+les esprits par la première instruction,
+et ce moyen si simple
+de développer les dogmes religieux
+en enseignant deux connaissances
+devenues indispensables.
+Les religieux Corses savent que
+l’ignorance, mère de la superstition
+et jouet de l’imposture, est
+ennemie de la, sublime doctrine
+qu’ils enseignent. Les schismes,
+les hérésies, l’incrédulité, auraient
+</p>
+        <pb xml:id="PAG_00000134" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f134.image"/>
+        <p rend="left small">SUR LA CORSE. 121</p>
+        <p rend="left">
+eu un bien petit nombre de sectateurs
+, si le peuple avait pu discuter
+avec ceux qui les professaient ;
+mais condamné à n’avoir
+de lumières que celles qui lui sont
+transmises , que devient l’homme
+privé d’instruction devant le fol
+enthousiaste ou le froid raisonneur
+ ? Il s’étonne , il admire et se
+soumet à la puissance qu’exerce
+sur lui un langage nouveau , un
+maintien assuré que la conviction
+de n’être point réfuté porte jusqu’à
+l’insolence. Nos prêtres , pénétrés
+des vérités du christianisme
+, persuadés qu’il est fait pour
+
+</p>
+        <pb xml:id="PAG_00000135" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f135.image"/>
+        <p rend="left small">122 MEMOIRE</p>
+        <p rend="left">
+éclairer l’esprit comme pour toucher
+le coeur, certains que la religion
+sortira toujours triomphante
+des discussions dont elle
+sera l’objet, nos prêtres, loin de
+s’opposer à l’établissement des
+écoles d’enseignement mutuel, saisiront
+ce nouveau moyen d’inculquer
+leurs principes à la jeunesse,
+et d’être utiles , sous un rapport
+de plus , à leurs concitoyens. Les
+Corses , ne professant que la religion
+catholique romaine , nulle
+réclamation ne s’élèvera pour que
+ses ministres, obligés partout à
+l’austérité envers eux-mêmes et à
+</p>
+        <pb xml:id="PAG_00000136" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f136.image"/>
+        <p rend="left small">SUR LA CORSE. 123</p>
+        <p>
+la douceur envers autrui, soient
+privés du droit d’instruire ceux
+qu’ils doivent dans la suite exhorter,
+punir et consoler.
+</p>
+        <p>
+Deux pensées seules, Sire, m’ont
+enhardi à présenter ce court mémoire
+à Votre Majesté : c’est la
+bonté particulière dont elle semble
+vouloir honorer la Corse, et
+l’amour que j’ai conservé pour
+mon pays , quoique vivant depuis
+vingt-cinq ans dans celui qui jouit
+du bonheur d’être gouverné immédiatement
+par Votre Majesté.
+J’ai pu connaître et comparer la
+</p>
+        <pb xml:id="PAG_00000137" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f137.image"/>
+        <p rend="left small">124 MÉMOIRE SUR LA CORSE.</p>
+        <p>
+France et la Corse, et j’ose répéter
+à Votre Majesté qu’il suffit à
+cette dernière d’obtenir les lois
+françaises , leur exécution, et un
+mode d’enseignement adapté, par
+son économie , à la médiocrité de
+la fortune du plus grand nombre.
+</p>
+        <pb xml:id="PAG_00000138" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f138.image"/>
+        <p rend="left">
+UNE VISITE
+</p>
+      </div>
+      <div>
+        <head>A l’hospice.</head>
+        <pb xml:id="PAG_00000139" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f139.image"/>
+        <pb xml:id="PAG_00000140" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f140.image"/>
+        <p rend="left">
+UNE VISITE
+</p>
+      </div>
+      <div>
+        <head>A l’hospice.</head>
+        <p rend="left small">ANECDOTE VERITABLE.</p>
+        <p rend="small"><hi rend="i">When you avoid a painful sight, you think
+you are a man of feeling ; you are but selfish.
+It is by contemplating the woes of
+mankind, that we learn how to relieve
+them</hi>. ADDISSON.</p>
+        <p rend="small">Quand vous fuyez la vue d’un spectacle
+affligeant, vous croyez être sensible,
+vous n’êtes qu’égoïste. C’est en voyant
+souffrir les hommes qu’on apprend à les
+soulager.</p>
+        <p>
+Sir Richard Hartopp, à Paris
+depuis un mois, venait de relire
+quelques pages de son journal de
+</p>
+        <pb xml:id="PAG_00000141" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f141.image"/>
+        <p rend="left small">128 UNE VISITE</p>
+        <p>
+voyage, et consultait son <hi rend="i">itinéraire
+</hi>, manuscrit précieux, pour
+lui ; car la main d’un père chéri
+l’avait tracé peu de temps avant
+qu’une mort prématurée l’eût ravi
+à la tendresse de son fils unique.
+Le jeune Richard se conformait
+scrupuleusement aux avis que renfermait
+cet <hi rend="i">itinéraire</hi>, qui, outre
+l’indication des lieux qu’il devait
+visiter, contenait aussi plusieurs
+réflexions sur le fruit que l’on
+peut retirer des voyages, et sur
+les différentes manières d’observer
+les hommes et les choses.
+Cette phrase arrêtait Richard de-
+</p>
+        <pb xml:id="PAG_00000142" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f142.image"/>
+        <p rend="left small">A L’ HOSPICE. I29</p>
+        <p rend="left">
+puis un moment : « Ne vous pressez
+jamais de visiter les monumens
+que l’on vous indiquera d’abord
+, et quand on voudra vous
+conduire au sud d’une ville, dirigez-vous
+vers le nord ; ce sera le
+moyen de voir du nouveau : faites
+en général le contraire de ce que
+vous conseilleront les indigènes et
+ceux de vos compatriotes que vous
+rencontrerez ; vous serez presque
+sûr de bien faire. » Richard ne
+pouvait s’empêcher de trouver
+qu’un peu d’originalité était mêlé
+à la sagesse de ce discours ; mais
+comme il n’était pas exempt lui-
+</p>
+        <pb xml:id="PAG_00000143" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f143.image"/>
+        <p rend="left small">130 UNE VISITE</p>
+        <p>
+même du désir de s’écarter de la
+route battue par tous ses prédécesseurs
+sur lé continent, il relisait
+avec intérêt cette opinion de
+son père , quand son ami, le chevalier
+de Mervel, entra chez lui
+en fredonnant un des airs les plus
+délicieux de la <hi rend="i">Gazza ladra</hi>.
+</p>
+        <p>
+« Ah ! Richard, quelle musique !
+Avez-vous déjeuné ?
+</p>
+        <p>
+— Je finis à présent ; mais si
+vous veniez déjeuner avec moi,
+je vais sonner Tom….
+</p>
+        <pb xml:id="PAG_00000144" n="131" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f144.image"/>
+        <p>
+— Non , mon cher , non. Ne
+perdez pas une minute. Vite ,
+vos chevaux, et partons pour le
+Champ- de -Mars. Mademoiselle
+Garnerin s’enlève dans une heure.
+Il sera midi….. Nous traverserons
+</p>
+        <p rend="left">
+le pont d’Iéna A propos de
+</p>
+        <p rend="left">
+pont, je ne me battrai pas contre
+</p>
+        <p rend="left">
+Blomer, il est mort ce matin
+</p>
+        <p>
+Je n’ai plus aucun plaisir à dire le
+pont d’Iéna, depuis que ce pauvre
+</p>
+        <p rend="left">
+Prussien ne m’entend plus
+</p>
+        <p>
+Pourtant cette affaire ne me regardait
+pas du tout….. Nous traverserons
+donc le pont, et nous irons
+au bois de Boulogne, qui sera su-
+</p>
+        <pb xml:id="PAG_00000145" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f145.image"/>
+        <p rend="left small">132 UNE VISITE</p>
+        <p rend="left">
+perbe aujourd’hui. Miss Elmouth
+</p>
+        <p rend="left">
+y sera, Richard Eh ! bien
+</p>
+        <p>
+écoutez donc, mon ami ; si vous
+n’en voulez pas , je me présenterai.
+Elle est très-belle miss Elmouth,
+et pour un fils d’émigré
+<hi rend="i">jusqu’à la restauration</hi>, sa dot
+n’est pas à dédaigner. Allons, partons-nous
+ ?
+</p>
+        <p>
+— Je ne crois pas aller de ce
+côté aujourd’hui.
+</p>
+        <p>
+— Sûrement que depuis l’autre
+jour vous n’avez été au bois de
+Boulogne ?
+</p>
+        <pb xml:id="PAG_00000146" n="133" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f146.image"/>
+        <p rend="left">
+— Eh ! mon Dieu non.
+</p>
+        <p>
+— Comment ? pas encore ? Mais
+que faites-vous donc, mon cher
+Richard ? Vous n’avez rien vu.
+Laissons miss Elmouth, que vous
+regardiez à Londres avec d’autres
+yeux ; c’est pour vous que je parle.
+Vous ne connaîtrez pas du tout
+Paris. Vos compatriotes vous blâment
+hautement ; ils ne vous rencontrent
+nulle part. Prenez garde
+à la mauvaise compagnie, je vous
+</p>
+        <p rend="left">
+en prie Tenez , madame de
+</p>
+        <p rend="left">
+Saint-Albin vous a distingué. Hier
+encore, elle me parlait de vous.
+</p>
+        <pb xml:id="PAG_00000147" n="1" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f147.image"/>
+        <p>
+Elle est à Passy ; je vous conduirai
+ ; elle nous retiendra à dîner.
+Elle est d’une gaîté folle. Une partie
+de barres dans son jardin anglais
+vous fera grand bien. Quelle
+matinée ! ce premier soleil ! ce vert
+d’avril ! j’aime la campagne comme
+un poète, quand il fait beau. »
+</p>
+        <p>
+Pendant que Mervel parlait
+ainsi, Richard avait mis ses bottes
+, son habit, et regardait attentivement
+un petit plan de Paris
+accroché à la tapisserie de sa
+chambre. Il sonna Tom, qui parut
+aussitôt.
+</p>
+        <pb xml:id="PAG_00000148" n="135" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f148.image"/>
+        <p rend="left">
+« Sellez <hi rend="i">swallow</hi>, dit Mervel au
+groom de son ami.
+</p>
+        <p>
+— Non, interrompit Richard,
+je vais prendre un fiacre.
+</p>
+        <p>
+— Comment, un fiacre, s’écria
+Mervel ; vous voulez aller au
+Champ-de-Mars en fiacre ? Arriver
+chez madame de Saint-Albin en
+fiacre ? En fiacre au bois de Boulogne
+ !
+</p>
+        <p rend="left">
+— Mais je n’y vais pas
+</p>
+        <p rend="left">
+— Où allez-vous donc ?
+</p>
+        <pb xml:id="PAG_00000149" n="136" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f149.image"/>
+        <p rend="left">
+— Au faubourg Saint-Jacques.
+</p>
+        <p>
+— Au faubourg Saint-Jacques !
+Hé ! pour Dieu, qu’allez-vous faire
+là ?
+</p>
+        <p>
+— Voir l’école de médecine,
+très-beau monument, que je me
+reproche de n’avoir point encore
+</p>
+        <p rend="left">
+visité.
+</p>
+        <p>
+— Et vous choisissez le premier
+beau jour de l’année pour aller
+dans le quartier le plus triste , le
+plus misérable.
+</p>
+        <pb xml:id="PAG_00000150" n="137" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f150.image"/>
+        <p rend="left">
+Ah ! <hi rend="i">l’Odéon, Saint-Sulpice, le
+Luxembourg</hi>
+</p>
+        <p>
+— Oui, même <hi rend="i">les Sourds-Muets,
+les Enfans-Bleus</hi> sont par là. Mon
+ami, je vous admire ; mais comme
+nous n’allons pas du même côté,
+je ne vous attends point. Vous ne
+rencontrerez pas de gens de connaissance
+par là , et vous avez
+bien raison de laisser reposer
+<hi rend="i">swallow</hi>. Adieu , mon cher Richard
+ ; vous me conterez cette
+promenade , n’est-ce pas ? Adieu.
+</p>
+        <p rend="left">
+— Adieu, étourdi, répéta aussi
+</p>
+        <p rend="left small">II. 12</p>
+        <pb xml:id="PAG_00000151" n="138" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f151.image"/>
+        <p>
+Richard,-, qui se crut un sage,
+parce qu’il montait dans un fiacre
+délabré et suivait les rues crottées
+et tortueuses qui le conduisaient
+vers le pays latin, tandis
+que son ami, sur un cheval fringant,
+galopait autour du landavv
+de lady Elmouth qui regardait dédaigneusement
+la colonne de la
+place Vendôme , les galeries de la
+rue de Rivoli, et demandait à sa
+fille si ce <hi rend="i">tedions</hi> soleil de France
+ne lui donnait pas la migraine.
+Cet astre était loin d’offenser, par
+son éclat, Jovanna Elmouth, dont
+la beauté ne craignait que les té-
+</p>
+        <pb xml:id="PAG_00000152" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f152.image"/>
+        <p rend="left small">A LHOSPICE. 139</p>
+        <p>
+nèbres ; et, loin de se dérober à
+l’action de la resplendissante planète,
+elle avait relevé son voile,
+et penché son ombrelle de manière
+à être vue non-seulement de Mervel,
+mais de tous les curieux que
+l’ascension de mademoiselle Garnerin
+attirait au Champ-de-Mars.
+On dit même que la très-honorable
+miss Elmouth , oubliant ce
+jour-là les principes que lui avait
+inculqués sa seigneurie lady Elmouth
+, et sa grâce le duc d’Aber
+</p>
+        <p rend="left">
+, père de cette dernière ,
+</p>
+        <p>
+regarda plusieurs fois avec bienveillance
+une trop grande quan-
+
+<pb xml:id="PAG_00000153" n="140" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f153.image"/>tité de Français, pour qu’il ne s’en
+trouvât pas dans le nombre quelques-uns
+qui n’eussent eu le <hi rend="i">tort</hi>
+de porter les armes contre la vieille
+Albion pendant les vingt-trois ou
+vingt-quatre années de guerre qui
+viennent de s’écouler : tort qui
+annonçait des opinions que l’on
+ne pardonnait pas plus dans la famille
+des Elmouth que dans celle
+des Mervel. Quoiqu’il en soit, Jovanna
+ne put entendre sans émotion
+les éloges qui retentissaient
+autour d’elle, ni voir sans plaisir
+l’effet qu’elle produisait, et lorsque
+les chevaux du landaw, arrê-
+</p>
+        <pb xml:id="PAG_00000154" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f154.image"/>
+        <p rend="left small">A L’HOSPICE. 141</p>
+        <p>
+tés dans leur course par une lourde
+charrette de roulier , blanchissaient
+leur frein d’écume , frappaient
+le payé et effrayaient le
+cocher, Jovanna, au Lieu d’écouter
+les plaintes de sa mère sur les
+rues de Paris, recueillait les témoignages
+d’admiration des passans,
+et ne trouvait rien de plus
+gai que la rue du Bac , où chaque
+piéton s’écriait en la regardant:
+« Oh ! la belle Anglaise ! » Est-ce
+une bouche ennemie qui peut articuler
+de semblables paroles ?
+Jovanna ne le pensait point. Aussi
+la bienveillance vint - elle orner
+</p>
+        <pb xml:id="PAG_00000155" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f155.image"/>
+        <p rend="left small">142 UNE VISITE</p>
+        <p>
+son visage d’un charme irrésistible
+, et si Richard Hartopp eût
+accompagné Mervel, cette nouvelle
+expression eût peut-être détruit
+le souvenir fâcheux qu’il avait
+gardé du dernier cercle de son
+ambassadeur, quand il avait vu
+miss Elmouth employer, pendant
+une soirée entière, toutes les ressources
+de la coquetterie pour
+fixer auprès d’elle la foule de jeunes
+gens qui se bornaient à un premier
+hommage. Mais ce n’était
+point le faubourg Saint-Germain,
+c’était le faubourg Saint-Jacques
+que sir Richard devait visiter ce
+</p>
+        <pb xml:id="PAG_00000156" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f156.image"/>
+        <p rend="left small">A L’HOSPICE. 143</p>
+        <p>
+jour-là. A la simplicité de son
+équipage, on aurait pu le prendre
+pour un auteur qui va s’informer
+auprès de son libraire du
+succès de l’ouvrage qu’il vient de
+mettre en vente. Cependant une
+certaine sérénité répandue sur
+tous ses traits nuisait à l’illusion.
+Ce n’est pas avec un teint aussi
+fleuri et des yeux aussi reposés
+que s’acheminent vers ce quartier
+les savans, les romanciers ou
+les poètes qui ont des comptes à
+régler. Arrivé devant l’école de
+médecine, Richard descendit de
+son fiacre , et après avoir examiné
+
+<pb xml:id="PAG_00000157" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f157.image"/>l44 <hi rend="sup">UNE</hi> VISITE
+</p>
+        <p>
+la façade de l’édifice, il s’adressa
+au concierge pour être introduit
+dans l’intérieur. Une conversation
+s’engagea entre l’Anglais et le
+concierge , et le premier apprit
+ainsi , qu’un professeur dont le
+nom et les écrits étaient également
+célèbres, venait de terminer
+son cours, et de se rendre
+dans un hospice voisin , pour y
+donner aux indigens des consultations
+gratuites. « Admirable philantropie
+, s’écria Hartopp , admirable
+désintéressement ! Un
+homme dont le temps est si précieux
+, le consacre à soulager cette
+</p>
+        <pb xml:id="PAG_00000158" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f158.image"/>
+        <p rend="left small">A L’HOSPICE. l45</p>
+        <p rend="left">
+classe respectable et dédaignée… »
+</p>
+        <p>
+Sir Richard était ce que l’on
+appelle <hi rend="i">libéral</hi>, c’est - à - dire que
+son père, membre du parlement
+britannique, ayant siégé du côté
+de l’opposition, Richard, qui ne
+doutait point d’être élu à son tour,
+professait les mêmes principes politiques.
+Une sensibilité extrême
+exaltait encore ses opinions, et il
+suffisait de souffrir pour intéresser
+toutes les affections de Richard
+, qui croyait agir en homme
+d’état , se prononçant pour son
+</p>
+        <p rend="left">
+parti, quand il suivait naturelleII.
+13
+
+<pb xml:id="PAG_00000159" n="146" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f159.image"/>ment l’impulsion de son bon coeur.
+Déjà rempli de vénération pour
+le docteur u, Richard voulut le
+connaître personnellement, et s’étant
+fait indiquer l’hospice par le
+concierge , il s’y rendit sur-lechamp
+. Sous une voûte sombre et
+basse, un portier, interrogé par
+Richard sur le lieu où se donnaient
+les consultations gratuites, répondit
+brusquement : « Allez au fond
+de la cour. » Cette cour, plantée
+d’arbres et assez spacieuse, était
+entourée de hauts bâtimens dont
+la régularité et les fenêtres nombreuses
+auraient rappelé les an-
+
+<pb xml:id="PAG_00000160" n="47" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f160.image"/>ciens cloîtres ,si l’on y eût trouvé
+cet ordre et cette propreté qui
+dans les maisons religieuses se faisaient
+remarquer depuis la mense
+abbatiale jusqu’au logis du jardinier.
+Tout était nouveau pour Richard
+dans un établissement de
+cette espèce ; il voulut le connaître
+en détail, et comme il faisait
+exactement le tour dé la cour, il
+passa devant une grande salle
+dont la porte ouverte laissait voir
+une partie de l’intérieur rempli
+de bancs. En avançant dans cette
+salle, Richard aperçut, dans un
+coin , une femme qui pleurait sans
+</p>
+        <pb xml:id="PAG_00000161" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f161.image"/>
+        <p rend="left"><hi rend="i">148</hi> UNE VISITE
+</p>
+        <p>
+doute, car elle tenait appuyé sur
+son visage un mouchoir qui semblait
+humide….. Richard considère
+cette infortunée ; ses vêtemens
+étaient d’une étoffe trop fine,
+d’une couleur trop éclatante pour
+sa situation : des gants couvraient
+ses mains d’une petitesse extrême ;
+la beauté, de ses ; cheveux, l’élégance
+de ses formes arrêtèrent les
+regards.d’Hartopp. Il voulut voir
+la figure d’une femme qui, absorbée
+dans une douleur profonde,
+avait encore une attitude si gracieuse
+Il feignit de se heurter
+</p>
+        <p rend="left">
+contre un banc L’affligée, lais-
+
+<pb xml:id="PAG_00000162" n="149" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f162.image"/>sant alors tomber son mouchoir,
+découvrit un petit visage enfantin:,
+dont l’affliction ; rendait le
+charme plus séduisant encore. Ses
+deux grands yeux, brillant de
+tout le feu de la jeunesse et de
+l’intelligence, se fixèrent sur Richard
+, et sa peau transparente se
+colora du plus vif incarnat, quand
+l’Anglais , qui avait ramassé précipitamment
+le mouchoir de l’inconnue
+, le lui présenta en s’excusant
+de l’avoir peut-être effrayée…
+La voix de Richard tremblait, car
+le mouchoir était trempé de larmes
+« Pardon, mademoiselle,
+</p>
+        <pb xml:id="PAG_00000163" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f163.image"/>
+        <p rend="left small">150 UNE VISITE</p>
+        <p>
+répétait-il, pardon ; » et il ne savait
+qu’ajouter pour obtenir un
+mot de cette jeune fille, qui l’avait
+simplement remercié avec un
+geste de tête ; mais un regard si
+pénétrant et si doux avait accompagné
+ce ; signe , que Richard,
+après un instant d’hésitation, reprit
+ainsi:
+</p>
+        <p>
+« Sans doute , mademoiselle ,
+que vous ne venez point consulter
+le docteur ii ?
+</p>
+        <p rend="left">
+— Oh ! non, monsieur, je ne
+</p>
+        <pb xml:id="PAG_00000164" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f164.image"/>
+        <p rend="left small">A L’HOSPICE. 151</p>
+        <p rend="left">
+me porte que trop bien, répondit
+la jeune personne.
+</p>
+        <p>
+— Trop bien ? dit sir Richard
+en souriant.
+</p>
+        <p>
+— Hélas ! oui, j’aimerais mieux
+être malade que de voir »
+</p>
+        <p>
+L’inconnue ne put achever, des
+sanglots l’interrompirent, et Richard
+, oubliant toute espèce de
+considération , saisit une de ses
+mains, et lui dit, avec l’énergie
+d’un Anglais vivement ému :
+</p>
+        <pb xml:id="PAG_00000165" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f165.image"/>
+        <p rend="left small">152 UNE VISITE</p>
+        <p>
+« Je vous en conjure , ditesmoi
+si je peux vous être utile.
+Est-ce votre père, votre mère qui
+souffrent ?
+</p>
+        <p>
+— Non, monsieur, c’est le fils
+de ma soeur, notre pauvre petit
+Léon. Ma soeur est là-bas qui attend
+au pied du grand escalier,
+avec les malades, que le médecin
+arrive. On nous avait dit de venir
+à huit heures et midi va
+</p>
+        <p rend="left">
+sonner
+</p>
+        <p rend="left">
+— Quatre heures d’attente !
+c’est bien long
+</p>
+        <pb xml:id="PAG_00000166" n="153" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f166.image"/>
+        <p rend="left">
+— Je le trouvais aussi <hi rend="sup">J’ai</hi>
+</p>
+        <p>
+cherché dans l’hospice s’il n’y avait
+pas une chapelle où je pusse aller
+prier Dieu pour la guérison de
+Léon, car il est bien mal, monsieur,
+bien mal Mais pas seulement
+une madone ! A qui donc
+s’adresser ?
+</p>
+        <p rend="left">
+— Le docteur <hi rend="i">ci</hi> est un homme
+très-habile
+</p>
+        <p rend="left">
+— Il ordonnera des bains, des
+potions, et
+</p>
+        <p rend="left">
+La jeune fille se tut en baissant
+les yeux, et cessa de parler ; mais
+
+<pb xml:id="PAG_00000167" n="154" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f167.image"/>la conversation était engagée, et
+Richard, profitant de la naïveté
+de son âge , obtint une confidence
+entière.
+</p>
+        <p>
+L’histoire de Gemma n’était
+point longue ; elle était née, ainsi
+que sa soeur, à Florence , de parens
+distingués. Orphelines dès
+l’enfance , un tuteur avait mal administré
+leurs biens , et c’était
+avec une faible dot que sa soeur
+Parsilia avait été mariée à un colonel
+français attaché au service de
+la grande-duchesse de Toscane,
+Élisa Bonaparte. Élisa ne régnait
+
+<pb xml:id="PAG_00000168" n="155" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f168.image"/>plus. Le colonel, rentré en France,
+avait été accusé de conspirer ; condamné
+par une commission militaire,
+il errait contumax en Amérique
+, et sa femme sans fortune,
+dans un pays étranger, avait en
+bien peu de temps épuisé les ressources
+que lui avait laissées le rang
+qu’elle occupait à la cour de la
+grande-duchesse. Ses bijoux, ses
+habits étaient vendus , et, à la
+suite d’une longue maladie, une
+plaie s’était ouverte au bras de
+son fils ; elle ne pouvait recourir
+qu’à des secours gratuits ; il ne lui
+restait plus <hi rend="i">rien</hi>. Gemma appuya
+</p>
+        <pb xml:id="PAG_00000169" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f169.image"/>
+        <p>
+156 UNE VISITE
+douloureusement sur ce mot ; enfin
+, ajouta-t-elle, nous pouvons
+même à peine travailler, quand
+nous sommes parvenues à nous
+procurer de l’ouvrage , car Léon,
+qui souffre toujours, ne cesse de
+crier que lorsqu’il est dans nos
+bras. On avait offert à ma soeur
+d’entrer comme cantatrice à l’Opéra-Buffa ;
+elle a refusé. Elle accepterait
+tout maintenant
+</p>
+        <p>
+Mais cette ressource nous manque.
+Parcilia a perdu sa belle
+voix.
+</p>
+        <p rend="left">
+« Et vous n’avez sollicité auprès
+
+<pb xml:id="PAG_00000170" n="167" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f170.image"/>de personne ? demanda sir Richard.
+</p>
+        <p>
+— Pardonnez - moi , répondit
+Gemma.
+</p>
+        <p rend="left">
+— Hé bien ?
+</p>
+        <p>
+— Hé bien , monsieur, Parsilia
+n’a jamais voulu retourner chez le
+seul homme qui pouvait nous être
+</p>
+        <p rend="left">
+utile Elle m’embrassait en
+</p>
+        <p>
+pleurant, lorsque nous sortîmes
+de chez lui, et me disait : Ma
+soeur, ma Gemma, nous mourrons,
+mon Léon aussi J’aime
+</p>
+        <p rend="left">
+mieux que tu meures ….. Je ne
+</p>
+        <pb xml:id="PAG_00000171" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f171.image"/>
+        <p rend="left small">1 58 UNE VISITÉ</p>
+        <p>
+sais pourquoi elle me parlait ainsi,
+car je n’ai pas entendu ce que lui
+disait cet homme, qu’elle m’a défendu
+de nommer.
+</p>
+        <p rend="left">
+— Ah ! je devine ce que votre
+soeur vous a caché…
+</p>
+        <p>
+— Je vais retourner auprès
+d’elle, dit alors Gemma ; si vous
+venez aussi à la consultation, ne
+dites pas à ma soeur que vous m’avez
+trouvée pleurant S’il y
+</p>
+        <p rend="left">
+avait eu seulement un saint à prier
+ici, il m’aurait encouragée.
+</p>
+        <pb xml:id="PAG_00000172" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f172.image"/>
+        <p rend="left small">A L’HOSPICE. 159</p>
+        <p>
+— Peut-être Dieu vous a-t-il
+entendue , répondit Richard en
+suivant la jeune Italienne, qui le
+conduisit à l’extrémité de la cour,
+dans un vesibule, où, assis sur les
+marches d’un large escalier de
+pierre , trente personnes environ
+attendaient la venue du docteur
+<hi rend="i">Ci</hi>.
+</p>
+        <p>
+Richard reconnut sur-le-champ
+la femme du colonel C****, à sa ressemblance
+avec sa coeur. C’était la
+même grâce dans la taille, la même
+régularité dans les traits, mais ce
+n’était point l’expression naïve de
+</p>
+        <pb xml:id="PAG_00000173" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f173.image"/>
+        <p rend="left small">160 UNE VISITE</p>
+        <p rend="left">
+Gemma, ni sa fraîcheur ; les beaux
+sourcils de Parsilia se contractaient
+souvent ; ses joues et ses
+lèvres étaient presque aussi pâles
+que son front, et ce qui surtout
+la distinguait de sa soeur, c’était le
+peu d’attention qu’elle donnait
+aux objets qui l’entouraient. Absorbée
+dans la triste contemplation
+d’un enfant de trois ans qui
+paraissait prêt à expirer, la malheureuse
+Parsilia semblait ne vouloir
+perdre ni un de ses regards,
+ni un de ses gémissemens, et sir
+Richard l’ayant saluée en vain , allait
+s’éloigner, si des portes, s’ou-
+</p>
+        <pb xml:id="PAG_00000174" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f174.image"/>
+        <p rend="left small">A L’HOSPICE. 161</p>
+        <p>
+vrant avec fracas à l’étage supérieur,
+plusieurs malades ne se fussent
+précipités dans l’escalier, en
+s’écriant que le docteur allait commencer.
+
+</p>
+        <p>
+Dans une vaste salle, éclairée
+par le plafond et dont Richard remarqua
+la belle proportion, commença
+une nouvelle attente. L’Anglais
+vit avec peine les malades se
+placer sur une banquette de cuir
+d’une malpropreté révoltante,, et
+qui, par de larges trous, laissait
+échapper de grosses touffes de
+crin et de bourre, à des distances
+
+</p>
+        <pb xml:id="PAG_00000175" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f175.image"/>
+        <p rend="left small">162 UNE VISITE</p>
+        <p>
+si rapprochées, qu’il n’existait plus
+une place <hi rend="i">entière</hi>. Était-ce parce
+que des misérables devaient seuls
+se reposer sur ce siège , qu’on le
+laissait couvert des lambeaux de
+la misère. Cette réflexion oppressa
+Richard. Il observa plus attentivement
+les tristes objets qui remplissaient
+cette salle. Des figures
+hâves, des yeux éteints, des membres
+contournés, partout des traits
+altérés par les souffrances aiguës ;
+l’expression du désespoir ou du
+découragement ; et sur plusieurs
+visages le vice encore subsistant à
+travers les maux qu’il avait cau-
+
+<pb xml:id="PAG_00000176" n="163" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f176.image"/>sés… Parsilia, penchée sur son fils
+comme pour lui dérober la vue de
+ces compagnons, d’infortune, et
+Gemma debout, que son immobilité
+eût fait prendre pour une belle
+cariatide , si sa physionomie charmante
+n’eût exprimé alternativement
+la curiosité et l’effroi. Après
+avoir promené ses regards autour
+de la salle, elle les arrêta sur Richard
+, et lui montrant de la main
+sa soeur courbée, qui ne pouvait
+l’apercevoir, un sourire, plus déchirant
+que les larmes , dévoila à
+Richard l’âme la plus sensible,
+qu’un sentiment aussi tendre qu’il
+
+<pb xml:id="PAG_00000177" n="164" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f177.image"/>était légitime navrait dans cet
+instant. Richard allait se rapprocher
+de Gemma, quand un garçon
+de l’hospice, les bras nus
+jusqu’aux coudes et enveloppé
+dans un grand tablier, ouvrit avec
+violence les deux battans d’une
+porte qui, de la salle d’attente,
+communiquait à une longue galerie
+conduisant dans les infirmeries.
+Du haut de la galerie s’avança
+alors le docteur n, entouré d’étudians
+dont quelques-uns étaient
+aussi âgés que le professeur luimême.
+Tous entrèrent dans la
+salle en causant très-haut et af-
+
+<pb xml:id="PAG_00000178" n="165" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f178.image"/>fectant l’air indifférent, léger et
+<hi rend="i">haïssable</hi>, reproché dans tous les
+temps au <hi rend="i">pouvoir invoqué</hi>. Toujours
+précédé par l’infirmier, le
+maître et les élèves traversèrent
+rapidement la salle d’attente, et
+furent s’établir dans une pièce voisine
+disposée en amphithéâtre , et
+à l’entrée de laquelle on avait pratiqué
+une espèce de cabinet demicirculaire
+qui s’ouvrait dans toute
+sa largeur sur les gradins. Le
+docteur s’assied près d’une table
+qu’entourent les étudians, et sur
+laquelle on a posé quelques instrumens.
+Les malades , derrière
+
+<pb xml:id="PAG_00000179" n="166" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f179.image"/>la cloison que forme le cabinet,
+sont appelés successivement. Richard
+s’est établi sur le premier
+banc de l’amphithéâtre ; comme
+spectateur, il est seul. Richard est
+très-ému ; mais il est observateur et
+Anglais ; il tire sa montre ; les consultations
+commencent. Les malades
+veulent exposer leur état ;
+soin inutile. Deux questions, quatre
+toutt au plus suffisent au docteur
+<hi rend="i">ci</hi>. Il regarde le consultant,
+ne lui répond jamais , et adresse
+à ses élèves quelques observations.
+<hi rend="i">Il professe</hi>. Ces élèves, penchés
+sur le malade , lui entr'ouvrent la
+
+<pb xml:id="PAG_00000180" n="167" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f180.image"/>bouche, tâtent son pouls, posent
+sur la poitrine un long tuyau qu’ils
+appliquent à leur oreille , et le
+patient, presque suffoqué par la
+foule qui l’assiége, interdit des
+mouvemens précipités et brusques
+qui le font mouvoir, est enfin
+lancé hors de l’enceinte, et reçoit
+une consultation dictée par le docteur
+avec une rapidité qui semble
+magique. Quelquefois la scène est
+égayée par la naïveté d’un campagnard
+, dont la voix sonore couvre
+le timbre grave du docteur,
+et qui se plaint de douleurs que
+le savant professeur juge incom-
+
+<pb xml:id="PAG_00000181" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f181.image"/>l68 UNE VISITE</p>
+        <p>
+patibles avec la maladie dont
+il se déclare atteint. Quelquefois
+aussi le docteur n, aussi spirituel
+que profond, sait, par un mot piquant
+, varier ses démonstrations ;
+son enjoûment excite l’hilarité de
+ceux qui l’écoutent, et l’on rit aux
+éclats devant le phthisique décharné,
+ou le scrophuleux livide,
+qui apprennent alors que la douleur
+peut être comique, et la mort
+</p>
+        <p rend="left">
+même ridicule Quels sont ces
+</p>
+        <p>
+hommes ? se demande Richard.
+Des seigneurs du moyen âge , tels
+que Sacchetti a peints ceux de l’Italie,
+qui se jouent avec les sup-
+
+<pb xml:id="PAG_00000182" n="169" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f182.image"/>plices, et ne dérident leur front
+que devant les torturés ? Où ces
+jeunes gens, riches dès l’enfance ,
+croient-ils que le pauvre endurci
+ne sent plus ses maux pour en
+avoir trop éprouvés ? Non, pour
+exercer cet art, que les anciens
+nommèrent divin, le rang ni la
+fortune ne furent jamais exigés.
+Inconséquence humaine ! ! ! Mais
+une heure s’est écoulée. Une seule
+femme attend encore. C’est Parsilia.
+Sa vue interrompt les réflexions
+de sir Richard. Elle n’est
+plus abattue et mélancolique. Le
+</p>
+        <p rend="left">
+courage d’une mère qui tente un
+
+</p>
+        <pb xml:id="PAG_00000183" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f183.image"/>
+        <p rend="left small">170 UNE VISITE</p>
+        <p>
+dernier effort pour le salut de son
+fils donne à son maintien une dignité
+particulière, et ses mouvemens
+ont cette âpreté qui trahit
+une émotion violente et concentrée
+Elle s’assied, et d’une voix
+ferme explique en peu de mots la
+situation de son enfant dont elle
+découvre le bras. A l’aspect dé
+cette belle personne, le docteur fi
+reste un instant en silence ; il semble
+lui donner un degré d’attention
+qui surprendrait ses élèves, si
+eux-mêmes n’étaient point exclusivement
+occupés à la considérer ;
+mais les habitudes du professeur
+</p>
+        <pb xml:id="PAG_00000184" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f184.image"/>
+        <p rend="left small">A L’HOSPICE. 171</p>
+        <p>
+ont bientôt succédé à cette impression
+nouvelle ; il reprend son
+importance doctorale, entremêlée
+d’ironie, et examinant le bras de
+l’enfant, il dit à l’étudiant le plus
+proche de lui :
+</p>
+        <p rend="left">
+« Fort bon à opérer.
+</p>
+        <p>
+— Comment, monsieur , demanda
+Parsilia, dont les yeux perçans
+épient tous les gestes du docteur,
+que dites-vous ?
+</p>
+        <p>
+— Que l’amputation est trèsbonne
+à faire, répond M. <hi rend="i">ci</hi> ; re-
+</p>
+        <pb xml:id="PAG_00000185" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f185.image"/>
+        <p rend="left small">172 UNE VISITE</p>
+        <p rend="left">
+venez dans trois jours….. A un
+autre…..
+</p>
+        <p>
+— Entendez-vous , répète un
+jeune étudiant à Parsilia , qui semble
+en effet n’avoir rien compris
+au discours du professeur ; revenez
+dans trois jours , et nous opérerons
+ce petit. »
+</p>
+        <p>
+Mais Parsilia n’écoutait plus
+rien. Serrant son enfant contre
+son sein, elle s’empressait de s’éloigner
+de ce cercle affreux, où
+son imagination lui représentait
+déjà son fils expirant de douleur.
+</p>
+        <pb xml:id="PAG_00000186" n="173" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f186.image"/>
+        <p>
+Sa fuite ne fut aperçue que de Richard
+et de Gemma, qui n’avait
+osé pénétrer dans l’enceinte. Ils
+rejoignirent la malheureuse Parsilia
+dans la première salle, et
+Gemma voulut se jeter dans ses
+bras ; mais elle repousse sa soeur,
+qui recule elle-même effrayée en
+voyant le visage de Parsilia se
+couvrir d’une rougeur pourprée,
+ses yeux égarés rouler rapidement
+dans leurs orbites, et sa bouche
+entr'ouverte n’articuler que des
+sons inintelligibles
+</p>
+        <p rend="left">
+« Elle se meurt, crie Gemma
+
+<pb xml:id="PAG_00000187" n="174" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f187.image"/>en élevant ses bras vers Richard ;
+ayez pitié de nous ! »
+</p>
+        <p>
+Ces mots furent proférés dans
+une angoisse qui ne laissait pas à
+Gemma l’usage de sa raison ; mais
+ils n’en firent pas moins la plus
+vive impression sur Richard, qui,
+comme tous ceux de sa nation,
+<hi rend="i">depuis le dernier matelot jusqu’au
+lord, éprouvait pour les femmes
+cette bienveillance délicate qui sied
+si bien à celui que la nature a
+doué de force</hi>. Dès lors sir RiMadame
+</p>
+        <p rend="left">
+de Staël, OEuvres posthumes.
+</p>
+        <pb xml:id="PAG_00000188" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f188.image"/>
+        <p rend="left small">A L’HOSPICE. 175</p>
+        <p>
+chard se crut chargé par la Providence
+du soin de cette famille
+infortunée, et n’attribuant qu’à la
+pitié des sentimens, qu’une passion
+moins généreuse lui avait
+inspirés à son insu dès le moment
+qu’il avait parlé à Gemma , il n’observa
+plus les formes que lui prescrivait
+une liaison aussi nouvelle,
+ignorée même de l’aînée des soeurs ;
+ne voyant que le danger de Parsilia
+, il ôte de ses bras son enfant,
+le remet à Gemma, et porte la
+jeune mère presque évanouie dans
+la voiture qui l’avait amené à l’hospice.
+Il y fait monter Gemma et
+</p>
+        <pb xml:id="PAG_00000189" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f189.image"/>
+        <p rend="left small">176 UNE VISITE</p>
+        <p>
+Léon, s’y place lui-même pour
+soutenir Parsilia, et donne à son
+cocher l’ordre de le conduire à
+son hôtel, rue de Provence.
+</p>
+        <p>
+« Mais, dit Gemma, c’est chez
+ma soeur qu’il faudrait aller.
+</p>
+        <p>
+— Non, répond sir Richard,
+vous serez mieux chez moi ; ne
+m’interrogez plus. »
+</p>
+        <p>
+La voiture s’arrête devant un
+bel hôtel garni, et Tom, sur le
+seuil de la porte , est un peu
+étonné de voir arriver son maî-
+</p>
+        <pb xml:id="PAG_00000190" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f190.image"/>
+        <p rend="left small">A L’ HOSPICE. 177</p>
+        <p>
+tre avec une femme mourante,
+une jeune fille en pleurs et un
+enfant. Mais il n’a pas le temps
+de témoigner sa surprise, sir Richard
+lui donnant l’ordre d’appeler
+sur-le-champ son hôtesse, et
+d’aller ensuite chercher le docteur
+Du , dont il lui indique
+</p>
+        <p>
+l’adresse. Les maîtresses d’hôtel
+garni commentent peu les actions
+des hôtes qui paient exactement et
+sans murmurer. Celle de Richard,
+avec une extrême obligeance, fit
+transporter dans un joli appartement
+madame de C***, et se joignait
+à Gemma pour rappeler ses sens,
+</p>
+        <pb xml:id="PAG_00000191" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f191.image"/>
+        <p rend="left small">178 UNE VISITE</p>
+        <p>
+qu’elle n’avait pas encore recouvrés,
+lorsque le docteur Du
+</p>
+        <p>
+entra conduit par Richard. Le célèbre
+praticien , après un court
+examen, déclare que Parsilia ne
+court aucun danger, et attribue
+son état à une attaque de nerfs
+prête à se terminer. Ce discours
+rassure Gemma, qui demande à
+sir Richard si le docteur ne voudrait
+pas regarder le bras de
+Léon. Sans attendre de réponse,
+</p>
+        <p rend="left">
+M. Du s’empare de l’enfant,
+</p>
+        <p>
+l’examine et interroge Gemma,
+qui rend un compte fidèle de la
+maladie de Léon, sans oublier la
+</p>
+        <pb xml:id="PAG_00000192" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f192.image"/>
+        <p rend="left small">A L’HOSPICE. I79</p>
+        <p rend="left">
+consultation faite le matin
+</p>
+        <p rend="left">
+« J’en suis fâché pour mon confrère,
+répond Du , mais ce
+</p>
+        <p rend="left">
+bras ne doit pas être amputé, j’en
+réponds. »
+</p>
+        <p>
+Un cri de Parsilia annonce qu’elle
+a entendu ces paroles. Le docteur
+se rapproche de son lit, lui répète
+cette consolante assurance,
+et la quitte en promettant de revenir.
+Quand madame de C*** fut
+entièrement remise, sir Richard,
+s’approchant gravement, d’elle, se
+fit connaître, et lui demanda la
+</p>
+        <pb xml:id="PAG_00000193" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f193.image"/>
+        <p rend="left small">180 UNE VISITE</p>
+        <p>
+permission de subvenir à tous ses
+besoins et à ceux de son fils jusqu’au
+moment où il obtiendrait, par
+quelques amis puissans, la révision
+du procès de son mari, qui
+probablement n’était pas plus coupable
+que beaucoup de militaires
+condamnés à la même époque, et
+acquittés pac un nouveau jugement.
+
+</p>
+        <p rend="left">
+« Mais, monsieur, quand mon
+mari rentrerait en France , répondit
+madame de C*** , il reviendrait
+pauvre, et la dette que je
+contracterai envers vous , il ne
+
+<pb xml:id="PAG_00000194" n="181" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f194.image"/>pourrait l’acquitter. D’ailleurs, je
+suis inséparable de ma soeur, et
+elle ne peut accepter les bienfaits
+d’un homme de votre âge,
+</p>
+        <p>
+— N’y a-t-il donc aucun moyen
+de faire de ma générosité un devoir ?
+demanda Richard.
+</p>
+        <p rend="left">
+— Je n’en sais pas.
+</p>
+        <p rend="left">
+— Vous n’en savez pas ? »
+</p>
+        <p rend="left">
+En répétant cette réponse de
+Parsilia, Richard regarda sa soeur,
+</p>
+        <pb xml:id="PAG_00000195" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f195.image"/>
+        <p rend="left"><hi rend="sub">182</hi> UNE VISITE
+</p>
+        <p rend="left">
+qui baissa les yeux en rougissant.
+</p>
+        <p>
+« Vous m’avez compris , vous
+m’avez deviné , Gemma ! s’écria
+Richard. Ah ! si vous ne partagiez
+pas mes sentimens , répondriezvous
+ainsi à ma pensée »
+</p>
+        <p rend="left">
+Richard apprit alors à madame
+</p>
+        <p>
+de C*** comment, le matin même,
+il avait su de sa soeur tous les détails
+qui concernaient sa famille,
+et comment il avait dès lors conçu
+le projet de connaître plus intimement
+une jeune personne si
+pieuse, si sensible et si naïve.
+</p>
+        <pb xml:id="PAG_00000196" n="183" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f196.image"/>
+        <p>
+« La rare beauté de Gemma me
+séduisit d’abord , ajouta sir Richard
+ ; mais je ne me décidai à
+vous la demander pour épouse que
+lorsque dans sa détresse je fus
+l’unique protecteur qu’elle invoquât.
+Je lus alors dans ses yeux
+que l’homme auquel elle s’adressait
+ainsi devait être le premier,
+le seul qu’elle eût encore distingué
+Me serais-je trompé,
+</p>
+        <p rend="left">
+Gemma ?
+</p>
+        <p rend="left">
+— Oh ! mon Dieu, répondit la
+</p>
+        <p rend="left">
+jeune Italienne, douteriez-vous… »
+Puis elle s’arrêta, et un sourire
+
+<pb xml:id="PAG_00000197" n="184" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f197.image"/>acheva de convaincre Richard qu’il
+était le plus heureux des hommes,
+comme il en était le meilleur.
+</p>
+        <p>
+Lorsque peu de temps après le
+chevalier de Mervel revint apprendre
+à Richard que miss Jovanna
+Elmouth lui accordait sa
+main , le jeune Anglais à son tour
+lui annonça son mariage avec
+Gemma.
+</p>
+        <p>
+« Rien n’est plus plaisant, dit
+Mervel, le même jour a décidé de
+notre sort : nous l’avons pourtant
+
+<pb xml:id="PAG_00000198" n="185" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f198.image"/>passé d’une manière bien différente.
+</p>
+        <p rend="left">
+ »
+</p>
+        <p>
+On assure que par la suite aussi
+rien ne se ressembla moins que
+la destinée des deux amis.
+</p>
+        <p rend="left">
+
+</p>
+        <pb xml:id="PAG_00000199" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f199.image"/>
+        <pb xml:id="PAG_00000200" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f200.image"/>
+      </div>
+      <div>
+        <head>Léonore,</head>
+        <p rend="left small">POEME.</p>
+        <pb xml:id="PAG_00000201" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f201.image"/>
+        <pb xml:id="PAG_00000202" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f202.image"/>
+        <p rend="left">
+          <hi rend="i">A Madame</hi>
+        </p>
+      </div>
+      <div>
+        <head>La <hi rend="i">Courtesse de Geulix</hi></head>
+        <p>
+          <big>Je suis heureuse de pouvoir</big>
+          <big>dire que je vous dois l’hommage</big>
+          <big>de ce premier essai : autrement,</big>
+        </p>
+        <pb xml:id="PAG_00000203" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f203.image"/>
+        <p>
+          <big>aurais-je osé vous l’offrir ? Vous</big>
+          <big>m’avez conseillé, ordonné l’étude</big>
+          <big> ; vous m’avez prouvé qu’elle</big>
+          <big>pouvait s’allier avec mes devoirs.</big>
+          <big>Je vous ai obéi ; et ma docilité</big>
+          <big>m’a valu des plaisirs dont le souvenir</big>
+          <big> ne me donnera jamais de</big>
+          <big>regrets. Ayez, je vous prie, quelque</big>
+          <big> indulgence pour Léonore ;</big>
+          <big>songez, en la lisant, que je lui</big>
+          <big>dois le bonheur de vous répéter</big>
+          <big>que mon respect et ma tendresse</big>
+        </p>
+        <pb xml:id="PAG_00000204" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f204.image"/>
+        <p>
+          <big>égalent ma reconnaissance et les</big>
+          <big>bontés que votre amitié m’a prodiguées.</big>
+          <big/>
+        </p>
+        <pb xml:id="PAG_00000205" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f205.image"/>
+        <pb xml:id="PAG_00000206" n="17" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f206.image"/>
+        <pb xml:id="PAG_00000207" n="194" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f207.image"/>
+        <p>
+tion de <hi rend="i">Léonore</hi>, que j’ai trop souvent
+prêtée. L’opinion de madame
+de Staël, sur la romance de Bürger,
+est tout-à-fait décourageante : ce
+qu’elle regarde comme difficile doit
+m’être impossible ; et j’aurais caché
+mon ouvrage plus que jamais , si je
+n’avais su qu’il allait paraître avec
+toutes les fautes que j’ai corrigées
+depuis que le manuscrit est rentré
+dans mes mains.
+</p>
+        <p rend="left">
+Une imitation ne vaut guère d’éloges
+à son auteur, mais peut lui
+
+<pb xml:id="PAG_00000208" n="195" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f208.image"/>attirer beaucoup de critiques ; je
+vais d’avance répondre le mieux
+possible à celles que je prévois.
+</p>
+        <p>
+On me reprochera le choix du sujet
+ ; mais si l’on tolère les revenans
+sur la scène et dans les romans , on
+peut bien les tolérer dans un petit
+poème' ; il n’est pas plus fou de croire
+aux apparitions qu’aux devineresses
+ ; c’est moins dangereux, et les
+morts ne donnent que d’utiles leçons
+partout où on les fait intervenir.
+J’ai trouvé le dénouement de
+</p>
+        <pb xml:id="PAG_00000209" n="196" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f209.image"/>
+        <p>
+Léonore très - moral ; son amant
+même la punit du crime dont il est
+la cause. Cette pensée est juste et
+terrible ; on peut la méditer avec
+fruit.
+</p>
+        <p>
+On dira que ; je n’ai pas imité assez
+scrupuleusement l’original : j’avoue
+que je n’ai pas eu le courage de
+faire <hi rend="i">danser les morts</hi> ni de détailler
+les dernières scènes de Léonore ; le
+goût français s’y opposé. Je me suis
+crue obligée aussi d’ajouter quelques
+vers, qui, en apprenant aux
+
+<pb xml:id="PAG_00000210" n="197" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f210.image"/>lecteurs les premières vertus de
+Léonore , motivent la grâce qui lui
+est faite au moment d’expirer.
+</p>
+        <p rend="left">
+Le lecteur doit savoir que Léonore
+est une <hi rend="i">promise</hi>, et que ce titre
+</p>
+        <p rend="left">
+justifie en Allemagne le parti qu’elle
+</p>
+        <p rend="left">
+prend de suivre Wilhelm.
+</p>
+        <pb xml:id="PAG_00000211" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f211.image"/>
+        <pb xml:id="PAG_00000212" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f212.image"/>
+      </div>
+      <div>
+        <head>Léonore ;</head>
+        <p rend="left small">POÈME.</p>
+        <p rend="left small">Léonore, accablée, oubliant ses douleurs,
+Vers la fin de la nuit a fait trève à ses pleurs.
+Depuis quelques instans Léonore sommeille ;
+Bientôt un songe affreux l’agite et la réveille.</p>
+        <pb xml:id="PAG_00000213" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f213.image"/>
+        <p rend="left small">200 . LÉONORE,</p>
+        <p rend="left small">« Cher amant, ô Wilhelm ! hélas ! combien de temps
+ » Dois-je voir loin de toi prolonger mes tourmens ?
+ » Dieu ! peut-être la mort, peut-être l’inconstance
+ » De te revoir jamais m’ont ravi l’espérance ! »
+Ainsi l’infortunée a gémi sur son sort.
+Affrontant les périls et méprisant la mort,
+Loin d’elle son amant trop avide de gloire,
+De son sang achetait l’honneur et la victoire ;
+De Frédéric, à Prague, il a suivi les pas.</p>
+        <p rend="left small">Quel sera son destin parmi tant de combats ?
+Quels seront ses succès, ses revers ? Léonore
+Craint et pleure déjà des malheurs qu’elle ignore.
+Mais du peuple Hongrois la reine fait la paix :
+Souveraine adorée, elle aime ses sujets.
+Leur sang vient de couler, et son noble courage
+Fit la guerre en héros et veut la paix en sage.
+Les traités sont signés. On laisse les guerriers
+Regagner triomphans leurs paisibles foyers.
+Ils arrivent ! Quels cris ! Quels transports d’allégresse !
+Quels doux embrassemens bannissent la tristesse !</p>
+        <pb xml:id="PAG_00000214" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f214.image"/>
+        <p rend="left small">POEME. 201</p>
+        <p rend="left small">Les lauriers qui paraient la tête des vainqueurs
+Sont déjà remplacés par de plus simples fleurs.
+Ils quittent leurs faisceaux pour de fraîches guirlandes:
+L’amour leur prépara ces touchantes offrandes.</p>
+        <p rend="left small">On revoit un époux, un fils, un frère Hélas !</p>
+        <p rend="left small">Parmi tant de guerriers Wilhelm ne paraît pas !
+La triste Léonore, inquiète, agitée,
+Vers la foule en tremblant s’était précipitée ;
+Son visage inondé d’un déluge de pleurs,
+Aux regards attendris décelait ses terreurs ;
+Ses genoux affaiblis la soutenaient à peine.
+Elle parcourt les rangs d’une marche incertaine ;
+Elle hésite, interroge…On répond tristement
+Que l’on ne connaît point le sort de son amant.
+Elle s’adresse à tous, et la même ignorance
+Ravit à son amour un reste d’espérance.
+On la quitte. Chacun de bonheur enivré
+Va revoir son foyer si long-temps désiré,
+Heureux et fier de voir sa parure guerrière
+Décorer l’humble mur qu’il regrettait naguère,</p>
+        <pb xml:id="PAG_00000215" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f215.image"/>
+        <p rend="left small">202 LÉONORE,</p>
+        <p rend="left small">Léonore est glacée. Une morne stupeur
+La prive de ses sens et suspend sa douleur ;
+Ses yeux semblent fixés sur un objet terrible,
+Dont l’aspect effrayant l’a rendue insensible ;
+Mais bientôt reprenant sa force et ses esprits,
+Ses regrets concentrés s’exhalent en longs cris :
+Elle meurtrit son sein, se jette sur la terre ;
+Ses cheveux détachés sont souillés de poussière.
+Dans les convulsions d’un frénétique amour,
+Elle veut se soustraire à la clarté du jour.
+Sa mère, qui déjà sent les glaces de l’âge ,
+Vient dans ses faibles bras ranimer son courage,
+La presse toute en pleurs sur le sein maternel,
+Et pour sa Léonore invoque l’Éternel.
+« Laisse le Ciel en paix, lui dit l’infortunée :
+ » Aux maux les plus affreux par ton Dieu destinée,
+ » Puis-je encor le prier d’adoucir mon tourment ?
+ » Que pourrait-il pour moi ? J’ai perdu mon amant.
+ » — Juste Ciel, prends pitié de ce coeur trop fidèle !
+ » Hélas ! jusqu’à ce jour, te servant avec zèle,</p>
+        <pb xml:id="PAG_00000216" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f216.image"/>
+        <p rend="left small">POÈME. 203</p>
+        <p rend="left small"> » Elle observa tes lois, elle bénit ton nom !</p>
+        <p rend="left small"> » Ma fille, soumets-toi ; rappelle ta raison.
+ » Dieu répand tour à tour les biens et les misères,
+ » Et d’une âme affligée exauce les prières.
+ » Peut-être que Wilhelm voit encore le jour ?
+ » Peut-être qu’égaré par un nouvel amour,
+ » Auprès d’une autre épouse il devient infidelle ?
+ » Tu pleures son trépas, il t’oublie auprès d’elle…
+ » Mais de ton désespoir l’accablant souvenir
+ » Tourmentera l’ingrat jusqu’au dernier soupir
+ » — Je croirais un instant que Wilhelm est parjure !…
+ » Ma mère, qu’as-tu dit ? Cesse, je t’en conjure,
+<hi rend="i"> »</hi> D’outrager mon amant , de profaner son nom !
+ » Tu veux , en m’abusant, rappeler ma raison….,
+ » Je l’ai perdue. Eh quoi ! terminant ma carrière,
+ » Ne puis-je perdre aussi ce reste de lumière ?
+ » Ne me prodigue plus tes impuissans secours,
+ » Je maudis à jamais le premier de mes jours.
+ » La tombe est mon bonheur, la mort mon espérance,
+ » Je vois fuir avec joie une affreuse existence.</p>
+        <pb xml:id="PAG_00000217" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f217.image"/>
+        <p rend="left small">204 LÉONORE ,</p>
+        <p rend="left small"> » Mon adoré Wilhelm., je, n’espère qu’en toi ;
+ » Je meurs, et ton nom seul est invoqué par moi.
+ » — Pardonne, Dieu clément, ce coupable murmure !
+ » Pardonne à cette aveugle et faible créature !
+ » Jamais par cette enfant tu ne fus offensé ;
+ » Elle abjure déjà ce discours insensé.
+ » Oh, mon enfant ! oublie un amour périssable ;
+ » Pense au ciel où l’on goûte une joie ineffable ;
+ » C’est là qu’une âme pure aime éternellement:
+ » Ici tout est fragile et passe en un moment,</p>
+        <p rend="left small"> » — Ni du ciel le séjour, ni de l’enfer l’abîme,
+ » Ne peut rien sur un coeur que l’amour seul anime:
+ » Le ciel, sans mon amant, ne m’offre point d’appas,
+ » Et l’enfer est aux lieux où je ne le vois pas. »</p>
+        <p rend="left small">Telle est de son amour la coupable folie ;
+Dans ses égaremens elle devient impie,
+Ne craint plus d’irriter le Ciel par ses clameurs,
+Et sans la consoler voit une mère en pleurs.</p>
+        <pb xml:id="PAG_00000218" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f218.image"/>
+        <p rend="left small">POÈME. 205</p>
+        <p rend="left small">Périsse de l’amour la funeste puissance !
+Cette enfant jusqu’alors vivait dans l’innocence.
+Sa mère tous les jours bénissait le Seigneur
+Des pieux sentimens qui remplissaient son coeur.
+Sur son front virginal brillait la modestie,
+Léonore ignorait qu’elle en fût embellie.
+On n’osait point louer la grâce , les attraits
+Qu’une noble pudeur répandait sur ses traits.
+Maintenant ce n’est plus la douce Léonore ;
+C’est une amante en proie au feu qui la dévore ;
+Elle a tout oublié, sa mère, la vertu :
+Wilhelm est le seul dieu d’un esprit éperdu.
+Son corps succombe enfin sous tant de violence,
+Et l’excès de ses maux la réduit au silence.</p>
+        <p rend="left small">Cependant s’élevait l’astre mystérieux
+Qui remplace du jour le flambeau radieux.
+Léonore, épuisée, a promis à sa mère
+De chercher le repos sur son lit solitaire.</p>
+        <pb xml:id="PAG_00000219" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f219.image"/>
+        <p rend="left small">206 LÉONORE,</p>
+        <p rend="left small">C’est en vain : le silence et l’ombre de la nuit
+Ne peuvent ramener le repos qui la fuit.
+Libre enfin ; pour pleurer, pour gémir elle veille.. .
+Quel sou ! quel bruit lointain a frappé son oreille !
+C’est le hennissement, c’est le pas d’un coursier,
+C’est le bruit d’une armure annonçant un guerrier….
+Mais on vient d’ébranler la cloche domestique ;
+Quelle voix retentit auprès du seuil rustique ?
+« Veilles-tu, Léonore ? As-tu de ton amant
+ » Perdu le souvenir, oublié le serment ? »
+A ces accens d’amour, l’heureuse Léonore
+Se lève en tressaillant. C’est l’amant qu’elle adore !
+Elle court, elle vole, et d’une faible voix
+Elle dit : « Oh ! Wilhelm, enfin je te revois !
+ » Les craintes, les douleurs ont été mon partage.
+ » Oh ! pourquoi loin de moi signaler ton courage ?
+ » Oh ! pourquoi si long-temps différer ton retour ?
+ » — Je n’ai pu quitter Prague avant la fin du jour.
+ » J’attendais ce coursier ; sur lui tu dois me suivre ;
+ » Auprès de ton époux, Léonore, il faut vivre.</p>
+        <pb xml:id="PAG_00000220" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f220.image"/>
+        <p rend="left small">POEME. 207</p>
+        <p rend="left small"> » — Eh ! pourquoi donc ici ne point te reposer ?</p>
+        <p rend="left small"> » A de nouveaux périls te faut-il exposer ?</p>
+        <p rend="left small"> » Les vents impétueux attristent la nature,</p>
+        <p rend="left small"> » Et de quelque malheur semblent être l’augure.</p>
+        <p rend="left small"> » — Laisse mugir levent, que te fait son courroux ?</p>
+        <p rend="left small"> » Ne peux-tu le braver pour suivre ton époux ?</p>
+        <p rend="left small"> » Je suis impatient. Hâte-toi, Léonore,</p>
+        <p rend="left small"> » Veux-tu que loin de toi ton amant souffre encore ?</p>
+        <p rend="left small"> » Je ne saurais ici me reposer en paix,</p>
+        <p rend="left small"> » Et ce coursier fougueux ne s’arrête jamais.</p>
+        <p rend="left small"> » Viens occuper enfin la couche nuptiale ;</p>
+        <p rend="left small"> » Tu dois y précéder l’aurore matinale.</p>
+        <p rend="left small"> » Partons sans différer.— Attends au moins le jour:</p>
+        <p rend="left small"> » J’éprouve autant d’effroi que je ressens d’amour:</p>
+        <p rend="left small"> » L’heure…,l’obscurité…J’entends l’airain qui <hi rend="sub">sonne</hi></p>
+        <p rend="left small"> » Bientôt il est minuit… La foudre au loin résonne…</p>
+        <p rend="left small"> » Oh,Wilhelm ! attendons.— Vois l’astre de la nuit,</p>
+        <p rend="left small"> » Profitons de l’instant où sa clarté nous luit.</p>
+        <p rend="left small"> » Mon amour a déjà disposé ton asile,</p>
+        <p rend="left small"> » Nous l’atteindrons bientôt sur ce coursier agile.</p>
+        <pb xml:id="PAG_00000221" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f221.image"/>
+        <p rend="left small">208 LÉONORE,</p>
+        <p rend="left small"> » Viens, pour te recevoir on a tout préparé ;</p>
+        <p rend="left small"> » Viens célébrer enfin cet hymen désiré.</p>
+        <p rend="left small"> » — Mais où sont les flambeaux, les voiles, les guirlandes</p>
+        <p rend="left small"> » Quel temple , quel autel recevra nos offrandes ?</p>
+        <p rend="left small"> » D’une nouvelle épouse ai-je les vêtemens ? -</p>
+        <p rend="left small"> » — Loin de toi le désir de ces vains ornemens !</p>
+        <p rend="left small"> » Un long voile de lin doit recouvrir ta tête</p>
+        <p rend="left small"> » Tout éclat est banni de cette auguste fête ;</p>
+        <p rend="left small"> » Cependant jusqu’ici le plus puissant mortel</p>
+        <p rend="left small"> » Ne célébra jamais hymen plus solennel.</p>
+        <p rend="left small"> » — Ma mère t’attendait pour me bénir encore ?</p>
+        <p rend="left small"> » — Elle suivra bientôt les pas de Léonore.</p>
+        <p rend="left small"> » Cesse de résister J’espérais que l’amour</p>
+        <p rend="small"> » Par plus d’empressemens payerait mon retour. »
+Wilhelm se tait. L’amour lui prête tous ses charmes ;
+La douceur de sa voix , ses yeux baignés de larmes,</p>
+        <p rend="left small">Les dangers qu’il courut, tant de fidélité</p>
+        <p rend="left small">Léonore se dit qu’elle a trop résisté.</p>
+        <p rend="left small">Sa robe est détachée et flotte sans ceinture ;</p>
+        <p rend="left small">Son sein n’est recouvert que par sa chevelure ;</p>
+        <pb xml:id="PAG_00000222" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f222.image"/>
+        <p rend="left small">POÈME. 209</p>
+        <p rend="left small">Elle craignait l’orage, elle craignait là nuit:
+Mais elle ne Voit plus que l’amant qu’elle suit.
+Wilhelm par ses regards l’interroge en silence,
+Enfin sur le coursier, légère, elle s’élance.
+Et, pressant son amant de ses bras délicats,
+Elle oublie un danger qu’elle ne brave pas.</p>
+        <p rend="left small">Aussi prompt que l’éclair dans sa marche rapide,
+L’indomptable coursier, sous un maître intrépide ,
+Entraîne Léonore à travers les guérets.
+Ni les monts escarpés, ni les sombres forêts
+N’arrêtent son élan qui fait trembler la terre ;
+Autour de lui s’élève une épaisse poussière ;
+Ses pieds frappent le roc qui jaillit en éclats,
+Et vole étincelant embrasé sous ses pas.
+Wilhelm s’adresse alors à sa triste compagne,
+« Les astres, lui dit-il, éclairent la campagne ;
+ » Rassure-toi ; bientôt je serai ton époux ;
+ » Vois, les âmes des morts vont moins vite que nous.</p>
+        <p rend="left small">II. 18</p>
+        <pb xml:id="PAG_00000223" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f223.image"/>
+        <p rend="left small">210 LÉONORE,</p>
+        <p rend="left small"> » Les morts, les craindrais-tu ? — Oh ! non, lui répond-elle ;
+ » Mais laisse-les en paix dans la nuit éternelle. »</p>
+        <p rend="left small">Soudain le bruit confus de gémissantes voix
+Interrompt le repos des habitans des bois.
+Le corbeau croassant et l’oiseau des ténèbres
+Font retentir l’écho de leurs accens funèbres.
+Des prêtres du Seigneur, vêtus d’habits de deuil,
+S’avancent à pas lents, conduisant un cercueil:
+La dure austérité d’une vie ascétique
+Traça de creux sillons leur visage antique.
+Ils portent des flambeaux, dont la pâle lueur
+Rend les bois plus obscurs et répond la terreur ;
+Ils chantent gravement un hymne funéraire:
+« O mortel, tu n’es plus que cendre et que poussière !
+ » Quoi ! tu connus l’orgueil, et dans un froid tombeau
+ » Ton corps sert de pâturé au plus vil vermisseau !
+ » Abjure ta fierté, reconnais ta misère ;
+ » Hâte-toi d’obéir : terre, redeviens terre ! »</p>
+        <pb xml:id="PAG_00000224" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f224.image"/>
+        <p rend="left small">POEME. 211</p>
+        <p rend="left small">« Oui bientôt, dit Wilhelm, vous serez satisfaits.
+ » Pontifes du Très-Haut, achevez vos apprêts ;
+ » Nous atteignons enfin cette heure fortunée
+ » Où vous devez bénir un si saint hyménée.
+ » Hâtons-nous, Léonore ; » et le coursier fougueux
+Semble un trait décoché par un bras vigoureux.
+Son maître, de la voix l’encourage et le presse,
+Il déchire ses flancs, et le fer qui le blesse
+Irrite l’animal, qui, redoublant d’ardeur,
+Croit laisser loin de lui le fer et la douleur.
+Léonore s’écrie, en respirant à peine :
+« Oh,Wilhelm ! arrêtons ! quelle lugubre scène !
+ » Ces crêpes, ce cercueil, me ; remplissent d’effroi.
+ » Je tremble, je frémis, et je suis près de toi !
+ » — Pourquoi trembler encor ! la fortune jalouse
+ » Ne peut plus de mes bras arracher mon épouse.
+ » Crains-tu ceux que la mort a glacés pour jamais ?
+ » —Non, je ne les crains pas ; mais laisse-les en paix. »
+Elle répond ces mots d’une voix défaillante :
+Ses esprits sont troublés sa force est chancelante ;</p>
+        <pb xml:id="PAG_00000225" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f225.image"/>
+        <p rend="left small">212 LÉONORE,</p>
+        <p rend="left small">Son regard fixe et morne exprime la terreur,
+Son front est recouvert d’une horrible pâleur.
+Du sang coule autour d’elle et rougit la verdure.
+Elle voit des apprêts de mort et de torture,
+Des fantômes errans, des ombres de pécheurs ;
+Un bruit sourd et confus, d’effrayantes clameurs,
+La voix de son amant qui devient menaçante,
+Tout de l’infortunée augmente l’épouvante.
+L’astre brillant des nuits a perdu sa clarté,
+De bleuâtres éclairs percent l’obscurité,
+En nuages épais le vent chasse la poudre,
+L’air au loin retentit des éclats de la foudre ;
+La terre lui répond par un mugissement ;
+Sur le sol ébranlé s’élève un monument ;
+L’enfer en construisit les murailles sanglantes,
+Couvertes d’ossemens et de chairs palpitantes !
+Une grille d’airain s’entr'ouvre avec fracas.
+Le coursier haletant précipite ses pas.
+D’un bond il a franchi cette enceinte cruelle
+Qui contient des pécheurs la dépouille mortelle.</p>
+        <pb xml:id="PAG_00000226" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f226.image"/>
+        <p rend="left small">POÈME. 213</p>
+        <p rend="left small">Les morts épouvantés sortis de leurs tombeaux,</p>
+        <p rend="left small">Soulèvent lentement leurs linceuls en lambeaux.</p>
+        <p rend="left small">Le fier coursier hennit, et sa bouche enflammée</p>
+        <p rend="left small">Vomit un tourbillon d’une épaisse fumée.</p>
+        <p rend="left small">Il rampe, se relève, et ses crins hérissés</p>
+        <p rend="left small">Se changent en serpens hideux et courroucés.</p>
+        <p rend="left small">A des feux souterrains le roc ouvre un passage ;</p>
+        <p rend="left small">Ils coulent en torrens sur un sanglant rivage ;</p>
+        <p rend="left small">Des esprits infernaux apportés sur les vents,</p>
+        <p rend="left small">Repoussent les pécheurs dans leurs noirs monumens.</p>
+        <p rend="left small">Léonore , éperdue , entr'ouvre la paupière ;</p>
+        <p rend="left small">Elle touche bientôt à son heure dernière.</p>
+        <p rend="left small">Mais avant que ses yeux se ferment sans retour,</p>
+        <p rend="left small">Elle veut voir encor l’objet de tant d’amour.</p>
+        <p rend="left small">Juste Ciel ! son amant n’est plus qu’un spectre horrible ;</p>
+        <p rend="left small">Dans sa main brille un dard flamboyant et terrible.</p>
+        <p rend="left small">Les bras de Léonore, autour de lui pressés,</p>
+        <p rend="left small">N’approchent de son sein que des restes glacés.</p>
+        <p rend="left small">Elle succombe enfin à cette horrible vue ;</p>
+        <p rend="left small">Aux pieds de son amant elle tombe étendue.</p>
+        <pb xml:id="PAG_00000227" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f227.image"/>
+        <p rend="left small">214 LÉONORE, POÈME.</p>
+        <p rend="left small">« Résigne-toi, lui crie un messager divin,</p>
+        <p rend="left small"> » Et n’accuse que toi d’un si triste destin.</p>
+        <p rend="left small"> » Aux arrêts de ton Dieu tu te montras rebelle ;</p>
+        <p rend="left small"> » Mais ton Dieu se souvient que tu lui fus fidelle.</p>
+        <p rend="left small"> » Viens joindre ton époux, sa compagne à jamais,</p>
+        <p rend="left small"> » Ton âme va me suivre au séjour de la paix. »</p>
+        <pb xml:id="PAG_00000228" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f228.image"/>
+      </div>
+      <div>
+        <head>Poésies diverses.</head>
+        <pb xml:id="PAG_00000229" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f229.image"/>
+        <pb xml:id="PAG_00000230" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f230.image"/>
+      </div>
+      <div>
+        <head>Poésies diverses.</head>
+        <p rend="left">
+L’AMANT,
+</p>
+        <p rend="left small">CHANSON.</p>
+        <p rend="left small">Lorsqu’à tes genoux je jure
+De n’aimer jamais que toi,
+Je sais que je suis parjure,
+Mais tu le fus avant moi.</p>
+        <p rend="left small">Trop coquette et trop jolie
+Pour t’aimer ou pour te fuir,
+Je te tromperai, Sylvie,
+De toi j’appris à mentir.</p>
+        <p rend="left small">II. 19</p>
+        <pb xml:id="PAG_00000231" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f231.image"/>
+        <p rend="left small">218 POESIES DIVERSES.</p>
+        <p rend="left small">Puissent mes feintes promesses
+T’abuser quelques momens,
+Je trahirais deux maîtresses,
+Combien trahis-tu d’amans ?</p>
+        <pb xml:id="PAG_00000232" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f232.image"/>
+        <p rend="left">
+LE MIRACLE,
+</p>
+        <p rend="left small">ROMANCE.</p>
+        <p rend="left small">C’est dans l’Andalousie
+Que vivaient deux amans
+Dévoués à Marie
+Dès leurs plus jeunes ans.
+Mais la mort est cruelle ,
+La mort les sépara ;
+Et son amant fidelle
+Pleurait ainsi Lina :</p>
+        <pb xml:id="PAG_00000233" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f233.image"/>
+        <p rend="left small">220 POÉSIES</p>
+        <p rend="left small">Lorsque sur la montagne
+Je conduis mon troupeau ,
+Je cherche ma compagne
+Et ne vois qu’un tombeau.
+C’est en vain que j’appelle ,
+Lina ne répond pas ;
+Mais l’âme est immortelle,
+Lina, tu m’entendras.</p>
+        <p rend="left small">En achevant sa plainte
+L’infortuné berger
+Tremble d’amour, de crainte,
+Lina sort d’un rocher.
+Il revoit son amante,
+Mais bientôt à ses yeux
+L’âme de l’innocente
+S’envole vers les cieux.</p>
+        <pb xml:id="PAG_00000234" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f234.image"/>
+        <p rend="left small">DIVERSES. 221</p>
+        <p rend="left small">Ma Lina, je t’implore,
+Intercède pour moi ;
+Que celui qui t’adore
+Soit placé près de toi.
+Exaucez ma prière,
+Vierge , mon seul recours !
+A ces mots , sur la pierre,
+Il s’endort pour toujours.</p>
+        <pb xml:id="PAG_00000235" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f235.image"/>
+        <p rend="left">
+L’ÉGLANTINE,
+</p>
+        <p rend="left small">A MADAME LA COMTESSE DE GENLIS,</p>
+        <p rend="small"><hi rend="i">Qui avait demandé cette fleur peinte à l’auteur, pour
+la réunir à celles dont ses amis lui composaient
+une guirlande</hi>.</p>
+        <p rend="left small">Je n’ai que trop souvent envié les destins</p>
+        <p rend="left small">De la reine des fleurs , brillant dans les jardins.</p>
+        <p rend="left small">Nous sommes soeurs, disais-je, et tout lui rend hommage ;</p>
+        <p rend="left small">On s’en pare à la cour, on s’en pare au village ;</p>
+        <pb xml:id="PAG_00000236" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f236.image"/>
+        <p rend="left small">POÉSIES DIVERSES. 223</p>
+        <p rend="left small">La beauté, la vertu la reçoivent en don ;
+Des roses couronnaient le vieil Anacréon.
+Ainsi, dans tous les temps, vaine ou noble parure,
+La rose n’a point vu négliger sa culture.
+Et moi je dois encor, témoin de ses succès,
+De ma superbe soeur enceindre le palais.
+Mes rameaux épineux défendent ma rivale ;
+On me fait respirer le parfum qu’elle exhale.
+Ah ! pourquoi m’enlever à mes sombres forêts ?
+Pourquoi de mes buissons dépouiller les guérèts ?
+L’homme qui n’est plus libre enchaîne la nature,</p>
+        <p rend="left small">Et je suis destinée à servir de clôture</p>
+        <p rend="left small">Mais bientôt sur mon sort je ne dois plus gémir,
+Genlis, dit-on, Genlis a daigné me choisir ;
+De respect et d’amour je deviens une offrande.
+Mise au nombre des fleurs qui forment sa guirlande ,
+Je me vois transformée en astre radieux ,
+Et l’Églantine enfin brillera dans les cieux.</p>
+        <pb xml:id="PAG_00000237" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f237.image"/>
+        <p rend="left">
+LA BERGÈRE NAÏVE,
+</p>
+        <p rend="left small">CHANSON.</p>
+        <p rend="left small">Sylvandre, pourquoi t’affliger
+D’un aveu naïf et sincère ?
+Il était simple de changer
+Puisque tu cessais de me plaire :
+Tes reproches sont superflus ;
+Je t’aimais, je ne t’aime plus.</p>
+        <pb xml:id="PAG_00000238" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f238.image"/>
+        <p rend="left small">POÉSIES DIVERSES. 225</p>
+        <p rend="left small">Promettre un éternel amour
+Serait une étrange folie.
+On se convient, on s’aime un jour ;
+Jurer de s’aimer pour la vie
+C’est former des voeux superflus :
+On s’aimait, on ne s’aime plus.</p>
+        <p rend="left small">Est-il juste de m’accuser
+De caprice, de perfidie ?
+Hélas ! je voudrais t’abuser,
+Mais ne sus mentir de ma vie.
+Cesse donc des cris superflus :
+Je t’aimais, je ne t’aime plus.</p>
+        <pb xml:id="PAG_00000239" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f239.image"/>
+        <p rend="left">
+MÉDITATION,
+</p>
+        <p rend="left small">Vague mélancolie ; es-tu peine ou plaisir ?</p>
+        <p rend="left small">En me livrant à toi je sens couler mes larmes ;
+Mais cette douleur a des charmes,
+Pleurer n’est pas toujours souffrir.</p>
+        <p rend="left small">D’une sombre forêt je cherche le silence.</p>
+        <p rend="left small">Au pied d’un froid tombeau j’aime à me recueillir ;</p>
+        <p rend="left small">Là je vois qu’il faudra vieillir,</p>
+        <p rend="left small">Là je vois que la mort avance.</p>
+        <pb xml:id="PAG_00000240" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f240.image"/>
+        <p rend="left small">POÉSIES DIVERSES. 327</p>
+        <p rend="left small">Lorsque l’oiseau nocturne a quitté le beffroi,
+Qu’à l’airain gémissant il joint sa voix plaintive,</p>
+        <p rend="left small">Je viens méditer sur la rive,</p>
+        <p rend="left small">Et je l’écoute sans effroi.</p>
+        <p rend="left small">L’air est calme et serein , la rive est solitaire.
+Seule, assise à l’écart, il m’échappe un soupir</p>
+        <p rend="left small">Hélas ! quel triste souvenir ! ! !</p>
+        <p rend="left small">A de plus doux je le préfère,</p>
+        <p rend="left small">Je cacherai toujours mes plaisirs, ma douleur.</p>
+        <p rend="left small">Ah ! qui partagerait la crainte , l’espérance,
+Et le bonheur et la souffrance
+Qui viennent agiter mon coeur.</p>
+        <p rend="left small">Je ne confierai pas, douce mélancolie ,</p>
+        <p rend="left small">Tes aimables secrets. On ne m’entendrait pas.</p>
+        <p rend="left small">Seule je chanterai tout bas</p>
+        <p rend="left small">Les charmes de la rêverie.</p>
+        <pb xml:id="PAG_00000241" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f241.image"/>
+        <p rend="left small">228 POÉSIES DIVERSES.</p>
+        <p rend="left small">Brillant astre des nuits, affaiblis ta clarté ;</p>
+        <p rend="left small">Tu troubles des plaisirs dont mon âme est éprise ;</p>
+        <p rend="left small">Je n’ai point changé de devise :</p>
+        <p rend="left small"><hi rend="i">Le silence et l’obscurité</hi> .</p>
+        <p rend="left small">La devise de l’auteur, à vingt ans, était un <hi rend="i">hibou</hi>
+avec ces mots : <hi rend="i">Le silence et l’obscurité</hi>.</p>
+        <pb xml:id="PAG_00000242" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f242.image"/>
+        <p rend="left">
+LES QUARANTE ANS.
+</p>
+        <p rend="left small">CHANSON.</p>
+        <p rend="left small">Pourquoi d’un oeil aussi malin
+Avez-vous regardé Céline ?
+Pourquoi d’un air aussi chagrin
+Vous éloignez-vous de Rosine ?
+Pourquoi des êtres si charmans
+Excitent-ils votre colère ?
+Non, Lise, je ne puis me taire,
+Lise, vous ayez quarante ans.</p>
+        <pb xml:id="PAG_00000243" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f243.image"/>
+        <p rend="left small">230 POÉSIES</p>
+        <p rend="left small">Pourquoi blâmer le noeud, la fleur
+Qui rattache leur chevelure ?
+Pourquoi juger avec rigueur
+Leur brillante ou simple parure ?
+Roses , muguet ou diamans
+Sur leur sein semblent vous déplaire:
+Non, Lise, je ne puis me taire,
+Lise, vous avez quarante ans.</p>
+        <p rend="left small">Parle-t-on d’opéra, de bal,</p>
+        <p rend="left small">De quelque plaisir de leur âge,</p>
+        <p rend="left small">Vous nous dites : Rien n’est plus mal,</p>
+        <p rend="left small">Chanter ! danser, quand on est sage !</p>
+        <p rend="left small">Le nom de ces amusemens
+Rembrunit votre front sévère :
+Non, Lise, je ne puis me taire ,
+Lise*, vous ayez quarante ans.</p>
+        <pb xml:id="PAG_00000244" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f244.image"/>
+        <p rend="left small">DIVERSES. 231</p>
+        <p rend="left small">C’est exciter votre courroux
+De leur trouver l’air vif ou tendre ,
+Et de leurs regards, selon vous,
+On ne saurait trop se défendre.
+Ne peut-on, sans avoir d’amans,
+Etre jeune, belle, enfin plaire ?
+Non, Lise, je ne puis me taire,
+Lise, vous avez quarante ans.</p>
+        <p rend="left small">Pauvre Lise, changez d’humeur
+Ne pouvant changer de visage.
+Vous êtes laide , sans fraîcheur,
+Devenez donc savante et sage.
+Hé quoi ! vous avez des enfans !
+Moins que jamais je dois me taire :
+Ah ! Lise ! soyez bonne mère,
+Vous oublierez vos quarante ans.</p>
+        <pb xml:id="PAG_00000245" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f245.image"/>
+        <p rend="left">
+LA PRÉCAUTION,
+</p>
+        <p rend="left small">CHANSON.</p>
+        <p rend="left small">Sylvandre, un jour, me jura</p>
+        <p rend="left small">Une ardeur éternelle ;</p>
+        <p rend="left small">Mais bientôt il me quitta :</p>
+        <p rend="left small">Je pleurais l’infidelle.
+Si tous les hommes sont trompeurs,</p>
+        <p rend="left small">Que faut-il faire ?
+On évite de grands malheurs</p>
+        <p rend="left small">En changeant la première.</p>
+        <pb xml:id="PAG_00000246" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f246.image"/>
+        <p rend="left small">POÉSIES DIVERSES. 233</p>
+        <p rend="left small">Lubin demande un baiser,</p>
+        <p rend="left small">Aussitôt je le donne ;</p>
+        <p rend="left small">Le soir au fond du verger</p>
+        <p rend="left small">Il embrassait OEnone.
+Si tous les hommes sont trompeurs ,</p>
+        <p rend="left small">Que faut-il faire ?
+On évite de grands malheurs</p>
+        <p rend="left small">En changeant la première,</p>
+        <p rend="left small">Colas voulait mon bouquet,</p>
+        <p rend="left small">Je l’accorde, pauvrette !</p>
+        <p rend="left small">Il en pare le corset</p>
+        <p rend="left small">De la jeune Lisette.
+Si tous les hommes sont trompeurs ,</p>
+        <p rend="left small">Que faut-il faire ?
+On évite de grands malheurs</p>
+        <p rend="left small">En changeant la première.</p>
+        <p rend="left small">II. 20</p>
+        <pb xml:id="PAG_00000247" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f247.image"/>
+        <p rend="left small">234 POÉSIES DIVERSES.</p>
+        <p rend="left small">Bergers, venez tour-à-tour
+Pour plaire et pour séduire,
+Le doux langage d’amour
+Ne saurait plus me nuire.</p>
+        <p rend="left small">Puisque vous ètes tous trompeurs,
+Que faut-il faire ?</p>
+        <p rend="left small">Pour éviter de tels malheurs
+On change la première.</p>
+        <pb xml:id="PAG_00000248" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f248.image"/>
+        <p rend="left">
+GISELLE,
+</p>
+        <p rend="left small">ROMANCE .</p>
+        <p rend="left small">La noble châtelaine</p>
+        <p rend="left small">Du beau château de Craîne,
+Avant quinze ans dut vivre sous les lois
+D’un vieil époux , chasseur, triste et sournois.</p>
+        <p rend="left small">Elle avait nom Giselle,</p>
+        <p rend="left small">Elle était la plus belle
+Des dames qui, sur le haut des donjons,
+Se faisaient voir dans tous les environs</p>
+        <pb xml:id="PAG_00000249" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f249.image"/>
+        <p rend="left small">236 POÉSIES</p>
+        <p rend="left small">OEil d’un azur céleste,</p>
+        <p rend="left small">Regard tendre et modeste,
+Cheveux dorés se bouclaient sur son front,
+Petit fossé partageait son menton.</p>
+        <p rend="left small">Tous les jours dans la plaine</p>
+        <p rend="left small">Le vieux seigneur de Craîne
+S’en va chasser le lièvre ou le lapin,
+Et rentre las dormir jusqu’au matin.</p>
+        <p rend="left small">Il dit : Bonsoir, Giselle,</p>
+        <p rend="left small">Allez dans la tourelle,
+Dormez la nuit et filez tout le jour,
+C’est le moyen de trouver le temps court.</p>
+        <p rend="left small">D’une main très-habile</p>
+        <p rend="left small">Giselle file , file ;
+Mais en été quand le jour est trop long,
+Son lourd fuseau tombe à son pied mignon.</p>
+        <pb xml:id="PAG_00000250" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f250.image"/>
+        <p rend="left small">DIVERSES. 237</p>
+        <p rend="left small">Giselle le ramasse</p>
+        <p rend="left small">En disant : Suis bien lasse,
+M’en vais monter sur le haut des créneaux ,
+Verrai passer dames ou damoiseaux.</p>
+        <p rend="left small">Las ! ne voit rien qui passe ,</p>
+        <p rend="left small">Mais voit venir la chasse
+Et son mari qui bat valet ou chien ;
+Car en chassant il ne prend jamais rien.</p>
+        <p rend="left small">Le soir d’un jour d’automne</p>
+        <p rend="left small">La grosse cloche sonne,
+Un damoisel traverse le préau ,
+Il veut parler au maître du château.</p>
+        <p rend="left small">Bien noire est son armure,</p>
+        <p rend="left small">Bien pâle est sa figure,
+Ses yeux sont beaux, quoique baignés de pleurs,
+Giselle croit ressentir ses douleurs.</p>
+        <pb xml:id="PAG_00000251" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f251.image"/>
+        <p rend="left small">236 POÉSIES</p>
+        <p rend="left small">Le vicomte de Sade</p>
+        <p rend="left small">Est mort à la croisade ;
+Je suis son fils ; il vous nomme, seigneur,
+Pendant deux ans, mon chef et mon tuteur.</p>
+        <p rend="left small">— En attendant plus d’âge</p>
+        <p rend="left small">Pourrez être mon page ;
+Auprès de moi quelquefois chasserez,
+Dans le château toujours me servirez.</p>
+        <p rend="left small">Quel ennuyeux service,</p>
+        <p rend="left small">Dit tout bas le novice ;
+Mais de Giselle il rencontra les yeux,
+Il lui sembla voir s’entr'ouvrir les cieux.</p>
+        <p rend="left small">O belle et noble dame,</p>
+        <p rend="left small">Dit-il au fond de l’âme,
+Toi seule ici Sade voudrait servir ;
+Pour toi, Giselle, il veut vivre et mourir.</p>
+        <pb xml:id="PAG_00000252" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f252.image"/>
+        <p rend="left small">DIVERSES. 239</p>
+        <p rend="left small">De la forêt prochaine</p>
+        <p rend="left small">On rapportait à Craîne,
+Dès le midi, sanglier, chevreuil, loup ;
+Sade jamais n’avait manqué son coup.</p>
+        <p rend="left small">Le damoisel s’ennuie</p>
+        <p rend="left small">De son errante vie.
+Allez, dit-il, seigneur, chasser au <hi rend="i">loin</hi>,
+Moi de dormir ai vraiment trop besoin.</p>
+        <p rend="left small">Mais pourtant à l’aurore</p>
+        <p rend="left small">Sade veillait encore ;
+Il voit Giselle à travers un créneau ;
+Et jusqu’à lui vient rouler son fuseau.</p>
+        <p rend="left small">Le damoisel s’empresse,</p>
+        <p rend="left small">Vole vers sa maîtresse :
+Dame , dit-il, quand fut dans le donjon,
+Veux d’un fuseau charger mon écusson.</p>
+        <pb xml:id="PAG_00000253" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f253.image"/>
+        <p rend="left small">240 POÉSIES</p>
+        <p rend="left small">— Y pensez-vous, beau sire ?
+Apprêterez à rire.</p>
+        <p rend="left small">— Me souviendrai qu’à ce fuseau je dois
+D’avoir pu seul vous parler une fois.</p>
+        <p rend="left small">— Et que voulez me dire ?</p>
+        <p rend="left small">— Que nuit et jour soupire.</p>
+        <p rend="left small">— Soupire aussi, seigneur, tout en filant,
+Depuis, hélas ! qu’êtes entré céans.</p>
+        <p rend="left small">— Pleurez pas, châtelaine ,
+M’en vais partir de Craîne,</p>
+        <p rend="left small">Suis jeune encor, vais attendre le jour
+Où sans péché pourrons parler d’amour.</p>
+        <p rend="left small">Mais on entend la cloche,</p>
+        <p rend="left small">Un écuyer s’approche.
+Dame , dit-il, le seigneur votre époux,
+Pour suivre un cerf s’est noyé devant nous.</p>
+        <pb xml:id="PAG_00000254" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f254.image"/>
+        <p rend="left small">DIVERSES. <hi rend="i">241</hi></p>
+        <p rend="left small">Hélas ! répond Giselle,</p>
+        <p rend="left small">Veux que dans la chapelle
+Ait mon seigneur un digne monument ;
+Nous y prierons tous deux dévotement.</p>
+        <p rend="left small">Pendant un an la dame</p>
+        <p rend="left small">Sut contenir sa flamme ;
+Le page alors put lui parler d’amour ;
+Ne faut-il pas que chacun ait son tour ?</p>
+        <p rend="left small">II. 2 1</p>
+        <pb xml:id="PAG_00000255" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f255.image"/>
+        <p rend="left">
+LE TROUBADOUR ITALIEN,
+</p>
+        <p rend="left small">ROMANCE.</p>
+        <p rend="left small">Sous le beau ciel de l’Italie,
+Dans un vallon de l’Apennin,
+Cédant à sa mélancolie,
+Philène chantait ce refrain :
+N’allez jamais aimer en France,
+Jeune et fidèle troubadour ;
+Là, le premier jour d’absence
+Est le dernier jour d’amour.</p>
+        <pb xml:id="PAG_00000256" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f256.image"/>
+        <p rend="left small">POÉSIES DIVERSES. <hi rend="i">243</hi></p>
+        <p rend="left small">Celle qui partagea ma flamme,
+Qui me fit le plus doux serment ;
+Celle que je nommai ma dame,
+Me fit ses adieux en disant :
+Pour moi ne reviens plus en France,
+Jeune et fidèle troubadour ;
+Car le premier jour d’absence
+Est le dernier jour d’amour.</p>
+        <p rend="left small">Pourquoi faut-il que la cruelle
+Ait dédaigné de me tromper !
+Elle eut cessé d’être fidelle,
+Je n’eus point cessé de l’aimer.
+Est-il besoin de dire en France,
+Quand on quitte son troubadour,
+Que le premier jour d’absence
+Est le dernier jour d’amour ?</p>
+        <pb xml:id="PAG_00000257" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f257.image"/>
+        <p rend="left">
+ELMIRE 1,
+</p>
+        <p rend="left small">ROMANCE.</p>
+        <p rend="left small">Elmire a préparé l’armure
+Qui doit couvrir son chevalier ;
+Il ne vient pas, elle murmure,
+Et déjà se plaint d’Olivier:</p>
+        <p rend="small"><hi rend="sup">1</hi> Les paroles de cette romance ont été insérées
+au <hi rend="i">Panorama des Nouveautés parisiennes</hi>, et gravées
+en tète de ce Recueil avec un air nouveau et
+un accompagnement de forté-piano, composés par
+M. J. ADRIEN LAFASGES.</p>
+        <pb xml:id="PAG_00000258" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f258.image"/>
+        <p rend="left small">POÉSIES DIVERSES. <hi rend="i">245</hi></p>
+        <p rend="left small">Que fais-tu loin de moi ? dit-elle,
+Qui peut t’arrêter si long-temps ?
+Olivier, reviens-tu fidelle ?
+Tu me l’as juré , mais j’attends.</p>
+        <p rend="left small">Serment d’amour ne se tient guère,
+Disent les sages de nos jours ;
+Mais tu me répétais naguère:
+Quand on aime, on aime toujours.
+Olivier, je veux seul te croire,
+Ton amour bravera le temps,
+Tu n’aimes qu’Elmire et la gloire ;
+Mais, mon Olivier, je t’attends.</p>
+        <p rend="left small">On me dit que la perfidie
+A la valeur peut s’allier,
+Que l’on peut trahir son amie
+Et se couronner de laurier.</p>
+        <pb xml:id="PAG_00000259" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f259.image"/>
+        <p rend="left small">246 POÉSIES DIVERSES.</p>
+        <p rend="left small">Hélas ! pardonne, je t’offense</p>
+        <p rend="left small">Pourquoi tardes-tu si long-temps ?
+Je crois toujours à ta constance ;
+Mais, mon Olivier, je t’attends.</p>
+        <pb xml:id="PAG_00000260" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f260.image"/>
+        <p rend="left">
+LA COURONNE IMPERIALE,
+</p>
+        <p rend="left small">VERS MIS AU BAS <hi rend="i">D’UNE</hi> FLEUR DE CE NOM , PEINTE</p>
+        <p rend="left small">PAR</p>
+        <p rend="left small">Noble et brillante fleur, ornement des parterres,
+Elle séduit les yeux par ses vives couleurs ;
+Le sage, en la voyant, rêve sur les grandeurs,
+Et de plus d’un mortel déplore les misères.
+O fleur, dit-il, ton nom ne touche point mon coeur…
+Tu me rappelles la victoire,
+Les faisceaux, la pourpre, la gloire,
+Les Muses, les beaux-arts, l’honneur…
+Mais tu n’étais pas le bonheur.</p>
+        <pb xml:id="PAG_00000261" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f261.image"/>
+        <p rend="left">
+LES REGRETS.
+</p>
+        <p rend="left small">Lieux chéris où jadis j’ai goûté le bonheur,
+Pour la première fois je vous vois sans ivresse ;</p>
+        <p rend="left small">Le souvenir de ma faiblesse</p>
+        <p rend="left small">A tout plaisir ferme mon coeur.</p>
+        <p rend="left small">Lieux qui me rappelez l’innocence et la paix,
+Vous aigrissez les maux qui déchirent mon âme.</p>
+        <p rend="left small">Hélas ! une coupable flamme</p>
+        <p rend="left small">Du repos me prive à jamais.</p>
+        <pb xml:id="PAG_00000262" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f262.image"/>
+        <p rend="left small">POÉSIES DIVERSES. 249</p>
+        <p rend="left small">Quoi ! ces tourmens affreux ne doivent plus finir ?
+Quoi ! je dois renoncer à la douce espérance ?</p>
+        <p rend="left small">Il n’en est plus… ; mais quand j’y pense…..</p>
+        <p rend="left small">Peut-être je pourrai mourir.</p>
+        <p rend="left small">O vous , de tant d’amour objet cruel et doux,
+Ne me regrettez point après m’avoir trahie ;
+A quoi me servirait la vie ,
+Quand je ne puis <hi rend="i">vivre</hi> pour vous ?</p>
+        <pb xml:id="PAG_00000263" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f263.image"/>
+        <p rend="left">
+LES ADIEUX,
+</p>
+        <p rend="small">CHANSON ÉCRITE AU BAS D’UN DESSIN REPRÉSENTANT
+UN OFFICIER FRANÇAIS SE SÉPARANT D’UNE JEUNE
+PERSONNE.</p>
+        <p rend="left small">Pour moi je vois couler vos larmes.
+( Je suis sûr qu’elle rit tout bas.) 
+Que mon retour aura de charmes !
+(Grâce au ciel, je ne reviens pas.) 
+Vous me serez toujours fidelle ;
+Un tel serment comble mes voeux ;</p>
+        <p rend="left small">Comptez aussi sur moi, ma belle</p>
+        <p rend="left small">(Comme nous mentons tous les deux !) </p>
+        <pb xml:id="PAG_00000264" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f264.image"/>
+        <p rend="left small">POÉSIES DIVERSES. 251</p>
+        <p rend="left small">Rassurez-vous, ma douce amie,
+(Elle ne craint rien, je le vois.) </p>
+        <p rend="left small">L’amour conservera ma vie</p>
+        <p rend="left small">(Pour une autre belle que toi)  ;
+Mais, hélas ! j’entends la trompette,
+Il faut marcher au champ d’honneur.
+Adieu, mon ange !… (adieu coquette !…
+Ah ! que de rire j’avais peur ! ) </p>
+        <pb xml:id="PAG_00000265" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f265.image"/>
+      </div>
+      <div>
+        <head>Vers</head>
+        <p rend="left small">MIS AU BAS DES FLEURS FORMANT LE NOM D’UNE
+AMIE INFIDELLE.</p>
+        <p rend="left small">Si je vous ai juré l’amitié la plus tendre,
+Je vous aime toujours comme je vous aimais.
+Combien de fois aussi, je crois encor l’entendre,
+M’avez-vous répété : Je vous aime à jamais !
+Trahissez vos sermens, moi seule je déplore
+Le sort qui me condamne à me plaindre de vous.
+Des souvenirs trop vifs encore
+Rappellent des instans si doux</p>
+        <pb xml:id="PAG_00000266" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f266.image"/>
+        <p rend="left small">POÉSIES DIVERSES. 253</p>
+        <p rend="left small">Mais l’amitié m’exauce, elle est ingénieuse,</p>
+        <p rend="left small">Et pour adoucir mes douleurs,
+Dans ce simple bouquet sa main mystérieuse</p>
+        <p rend="left small">Cacha votre nom sous des fleurs.</p>
+        <pb xml:id="PAG_00000267" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f267.image"/>
+        <p rend="left">
+UN SERMENT D’AMOUR.
+</p>
+        <p rend="left small">ROMANCE.</p>
+        <p rend="left small">Avais déjà vingt ans passés,
+Et cheminais vers la Syrie,
+Quand vis damoiselle jolie ,
+Au teint de lys, aux yeux baissés ;
+Voulais, du pied de sa tourelle,
+Lui chanter quelque loi d’amour.
+Mon père vous reçoit, dit-elle,
+Venez attendre ici le jour.</p>
+        <pb xml:id="PAG_00000268" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f268.image"/>
+        <p rend="left small">POÉSIES DIVERSES 255</p>
+        <p rend="left small">Aurais oublié les croisés
+Auprès de la gentille dame,
+Quand, pour le salut de mon âme,
+Le châtelain me dit : partez.
+Mais avant de quitter la belle
+Fallut répéter maintes fois
+Le serment de rester fidelle,
+Comme l’étais depuis un mois.</p>
+        <p rend="left small">Aurais garde <hi rend="sup">tous</hi> mes sermens
+Si n’avais pas, dans le voyage,
+Rencontré près d’un ermitage
+Pélerine de dix-huit ans.
+Hélas ! quand fus dans la Judée,
+Près de la fille d’un païen,
+Trahis encor la foi jurée,
+Et n’osai plus jurer de rien.</p>
+        <pb xml:id="PAG_00000269" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f269.image"/>
+        <p rend="left small">256 POÉSIES DIVERSES.</p>
+        <p rend="left small">Pourtant retournais du château
+Épouser la noble maîtresse,
+Quand appris qu’amour et tristesse
+Venaient de la mettre au tombeau.
+Depuis qu’arriva cette histoire,
+Dames n’ont plus voulu compter
+Sur le coeur ou sur la mémoire
+D’amans qui devaient voyager</p>
+        <pb xml:id="PAG_00000270" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f270.image"/>
+        <p rend="small">OUVRAGES <hi rend="i">qui se trouvent chez le même éditeur,
+Place de l’Odéon, n</hi>. 3 , <hi rend="i">en entrant par la rue
+Racine, n. 6, et à toutes les autres adresses
+indiquées sur ces volumes</hi>.</p>
+        <p rend="small"><hi rend="i">L’Héritière corse</hi>, par madame la comtesse
+DE BRADI. Seconde édition ; 2 vol. , 4 fr.</p>
+        <p rend="small"><hi rend="i">Dictionnaire de la pénalité</hi> dans toutes les parties
+du monde connu ; tableau historique, chronologique
+et descriptif des supplices, tortures
+ou questions ordinaires et extraordinaires, tourmens</p>
+        <p rend="left small">, peines corporelles <hi rend="u">et infamantes,</hi> châtimens,</p>
+        <p rend="small">corrections, etc., ordonnés par les lois,
+ou infligés par la cruauté ou le caprice , chez
+tous les peuples de la terre, tant anciens que
+modernes ; auxquels on a rattaché les faits les
+plus importans que l’histoire présente en condamnations
+cu exécutions civiles , correctionnelles
+ou criminelles ; par M. B. DE SAINT-EDME ;
+dédié au jeune Barreau français dans la personne
+de <num>M<hi rend="sup">e</hi></num>. Mérilhou , avocat. — 4 <hi rend="sup">vol</hi>. in-8°.
+de près de 500 pages chaque , avec 48 gravures</p>
+        <pb xml:id="PAG_00000271" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f271.image"/>
+        <pb xml:id="PAG_00000272" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f272.image"/>
+        <pb xml:id="PAG_00000273" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f273.image"/>
+        <pb xml:id="PAG_00000274" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f274.image"/>
+        <pb xml:id="PAG_00000275" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f275.image"/>
+        <pb xml:id="PAG_00000276" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f276.image"/>
+        <pb xml:id="PAG_00000277" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f277.image"/>
+        <pb xml:id="PAG_00000278" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5551000w/f278.image"/>
+      </div>
+    </body>
+  </text>
+</TEI>

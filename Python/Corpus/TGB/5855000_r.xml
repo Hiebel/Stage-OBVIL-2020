@@ -1,0 +1,4287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="5855000" xml:id="cb303759001">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Saint-Charles, poème, par Honoré Dumont</title>
+        <author role="Auteur du texte" key="10307033">Dumont, Honoré</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>TGB (BnF – OBVIL)</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno>http://gallica.bnf.fr/ark:/12148/bpt6k5855000v</idno>
+          <publisher>Ladvocat</publisher>
+          <date when="1829">1829</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData>
+      <date>1829</date>
+      <title>La Saint-Charles, poème, par Honoré Dumont</title>
+      <dewey>800 - Littérature (Belles-lettres)</dewey>
+      <meta-data_comprehensiveness_score>0.66</meta-data_comprehensiveness_score>
+      <authors>
+        <author_1>
+          <alpha_key>dumonth</alpha_key>
+          <last_name>Dumont</last_name>
+          <author>Dumont, Honoré</author>
+          <first_name_or_initials>Honoré</first_name_or_initials>
+          <is_reconciliated>False</is_reconciliated>
+          <role>Auteur du texte</role>
+          <key>10307033</key>
+        </author_1>
+      </authors>
+    </xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <pb xml:id="PAG_00000001" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f1.image"/>
+      <pb xml:id="PAG_00000002" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f2.image"/>
+      <pb xml:id="PAG_00000003" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f3.image"/>
+      <pb xml:id="PAG_00000004" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f4.image"/>
+      <div>
+        <head>La <hi rend="sup">SAINT-GH-A:ltIIE:s</hi> ! ■■■= <hi rend="sup">Wi&lt;&gt;im</hi> <hi rend="i">1</hi></head>
+        <p rend="left">
+PAR HONORÉ DUMONT.
+</p>
+        <p rend="left small">Propice aux yoeux ardens que pour lui nous formons ,
+Conserve-nous, grand Dieu, le roi que nous aimons.</p>
+        <p rend="left small">LoursRACINE, <hi rend="i">ode Fil, tirée du Psaume</hi> 19.</p>
+        <p rend="left">
+LADVOCAT, LIBRAIRE,
+</p>
+        <p rend="left small">PALAIS-ROYAL, GALEKIE D’ORLEAKS ;</p>
+        <p rend="left">
+JACQUES LEDOYEN, LIBRAIRE,
+</p>
+        <p rend="left small">PALAIS-ROYAL, GALER.E VITltEE , H", a'iS ;</p>
+        <p rend="left small">ET CHEZ L’ÀUTEUK, A Si. VALRHY-SUR-SOMMi-.</p>
+        <p rend="left">
+AVRIL 1829.
+</p>
+        <p rend="left small">Paris, Imprimerie de Gaultier-Laguionic, Ilôlel des Fermes.</p>
+        <pb xml:id="PAG_00000005" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f5.image"/>
+        <pb xml:id="PAG_00000006" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f6.image"/>
+      </div>
+      <div>
+        <head>La saint-charles,</head>
+        <p rend="left">
+POEME.
+</p>
+        <pb xml:id="PAG_00000007" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f7.image"/>
+        <p rend="left small">PAWS, 1MPBIMEME DE GATJLTIER-LAGIÏtOKIE.</p>
+        <pb xml:id="PAG_00000008" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f8.image"/>
+      </div>
+      <div>
+        <head>La saint-charles,</head>
+        <p rend="left">
+PAR HONORÉ DUMONT
+</p>
+        <p rend="left small">Propice aux voeux ardens que pour lui nous formons ,
+Conserve-nous, grand Dieu, le roi que nous aimons.</p>
+        <p rend="left small">Louis RACIHE , <hi rend="i">ode Fil, tirée du Psaume XIX</hi>.</p>
+        <p rend="left small">S</p>
+        <p rend="left"><hi rend="sub">#</hi> LÂDVOCAT, LIBRAIRE,
+</p>
+        <p rend="left small">PALAIS-ROYAL , GALERIE D’ogl&amp;AHS ;</p>
+        <p rend="left">
+JACQUES LEDOYEN, LIBRAIRE,
+</p>
+        <p rend="left small">TALAIS-ROYAL, GALERIE VITREE, <hi rend="i">S. 1l8</hi> ;
+ET CHEZ L’AUTEUR.</p>
+        <p rend="left">
+1829.
+</p>
+        <pb xml:id="PAG_00000009" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f9.image"/>
+        <pb xml:id="PAG_00000010" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f10.image"/>
+      </div>
+      <div>
+        <head>A sa seigneurie</head>
+        <p rend="left small"><hi rend="i">*</hi> MONSEIGNEUR. LE MARQUIS</p>
+      </div>
+      <div>
+        <head>Le pelletier-no^ambo,</head>
+        <p rend="left small">PAIR DE FRANCE,</p>
+        <p rend="left small">MÏMURE DU CONSEIL - GÉKÉRAL D’ADIUIITIS’ÇRATIOIf DES HOSI'ICES CIVILS ,
+ET DU BUREAU DE CHARITE DU <num>I<hi rend="sup">er</hi></num> ARRONDISSEMENT DE TARIS.</p>
+        <p rend="left">
+MONSEIGNEUR,
+</p>
+        <p>
+En jous offrant l’hommage d’une production
+consacrée à peindre des sentiments d’allégresse,
+oserai-je interrompre un moment la douleur profonde
+dans laquelle vous êtes plongé, depuis trois
+années, par là perte d’une épouse accomplie.
+</p>
+        <p>
+Je crains beaucoup, Monseigneur, de faire saigner
+encore davantage la blessure que votre coeur
+a reçue, et que malheureusement le temps ne vient
+pas cicatriser.
+</p>
+        <p>
+Le touchant intérêt que vous ne cessez de me
+témoigner, Monseigneur, me pénètre de plus en
+</p>
+        <pb xml:id="PAG_00000011" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f11.image"/>
+        <p rend="left">
+(6) 
+</p>
+        <p rend="left">
+plus d’une vive reconnaissance, et je vous prie de
+permettre que j’en manifeste ici l’expression.
+</p>
+        <p>
+Si ma démarche avait quelque chose d’inconvenant,
+je vous supplierais, Monseigneur, d’avoir la
+bonté de l’excuser, en faveur de la gratitude qui
+me l’a commandée, et dont il m’est bien doux de
+donner une nouvelle marque à un si digne descendant
+de l’illustre Malesherbes.
+</p>
+        <p rend="left">
+Je suis, avec un profond respect,
+</p>
+        <p rend="left">
+Monseigneur,
+</p>
+        <p rend="left">
+De votre Seigneurie,
+</p>
+        <p rend="left">
+Le très humble
+et très obéissant serviteur,
+</p>
+        <p rend="left">
+DUMONT.
+</p>
+        <pb xml:id="PAG_00000012" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f12.image"/>
+      </div>
+      <div>
+        <head>Avertissement</head>
+        <p rend="left">
+DE L’AUTEUR.
+</p>
+        <p><hi rend="i">"%■</hi> Cet ouvrage est né au sein’de l’infortune, au
+milieu des soucis d’une position gênée, parmi les
+embarras d’une famille nombreuse, et il est le fruit
+des loisirs d’un très médiocre emploi dans une administration
+de finances.
+</p>
+        <p rend="left">
+*• . .
+</p>
+        <p rend="left">
+Voici comment j’ai été amené à traiter le sujet
+</p>
+        <p>
+d’e la Saint-Charles. Depuis le milieu de l’année
+dernière, je travaillais à un poème sur <hi rend="i">l’automne</hi>.
+Je me » smis rappelé que la fête du Roi avait lieu
+dans cette saison-là, et j’ai pensé que cette solennité
+pourrait faire la matière d’un chant de mon
+ouvrage. Mais à peine avais-je commencé à traiter
+cet épisode , que l’abondance des idées qui se présentaient
+à mon esprit m’a fait naître le dessein
+d’en former un ouvrage séparé.
+</p>
+        <p>
+Ma production, qui renferme plus de deux mille
+vers, a été composée dans l’espace de quatre mois.
+Je n’ai pas été à portée de consulter aucun homme
+de lettres , et j’offre au public mon ouvrage
+</p>
+        <pb xml:id="PAG_00000013" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f13.image"/>
+        <p rend="left small">■ ( 8 ) </p>
+        <p rend="left">
+tel qu’il est sorti de mon^, cerveau, ou plutôt de
+mon coeur.
+</p>
+        <p>
+Pour que j’eusse pu donner un ordre plus méthodique
+à cette production, et la revoir attentivement
+, il eût fallu en différer de quelque temps
+la publication. Mais des circonstances particulières
+me forcent à la mettre au jour en ce moment.
+Je prie donc le public d’avoir de l’indulgence
+pour une composition qui réclame la bien-"
+veillance générale.
+</p>
+        <p>
+Je suis passionné pour toutes les gloires nationales
+ ; et mon coeur palpite également au récit de
+la bataille de Marengo et à celui de la bataille de
+Fontenoi.
+</p>
+        <p>
+Je n’ai jamais fait d’études. Le goût de la poésie
+ne s’est révélé à moi qu’à l’âge de .trente-sept ans,
+et néanmoins je me crois destiné à chsfhfer les
+beaux événemens, et à célébrer les grands hommes,
+de même que Jeanne-d’Arc s’est crue appelée
+à, délivrer son roi et à sauver la France.
+</p>
+        <p>
+Je m’attends à ce que quelques personnes pourront.
+m’accuser de présomption, de témérité et
+même de folie. Je les prie de vouloir bien suspendre
+leur jugement, jusqu’à ce que j’aie fait paraître
+un poème, en vingt-six chants, sur <hi rend="i">Montesquieu</hi>,
+auquel je travaille depuis dix années, et un poème,
+</p>
+        <pb xml:id="PAG_00000014" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f14.image"/>
+        <p rend="left">
+'( 9 ) .
+en vingt chants , sur <hi rend="i">Malesherbes</hi> , dont je m’occupe
+aussi depuis long-temps.
+</p>
+        <p>
+Les contrariétés nombreuses que j’éprouve , et
+les dégoûts de toutes sortes dont on m’abreuve,
+ont souvent abattu mon ame, et j’ai quelquefois
+été tenté de briser ma plume, comme l’a fait Beccaria.
+Mais Dieu m’a soutenu dans l’adversité ; et,
+si je ne dois pas persévérer toute,ma vie dans mon
+ardeur poétique , je ne cesserai mon essor que
+quand j’aurai payé le tribut que j’ai voué à l’immortel
+auteur de l’Esprit des Lois et au sublime
+défenseur de Louis XVI.
+</p>
+        <pb xml:id="PAG_00000015" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f15.image"/>
+        <pb xml:id="PAG_00000016" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f16.image"/>
+      </div>
+      <div>
+        <head>La saint-charles.</head>
+        <p rend="left">
+Novembre a ramené la fête intéressante
+D’un Roi que fait chérir son ame bienfaisante.
+"Ce prince, aimé de tous, pour son humanité.
+Pour sa sollicitude.et pour son équité,
+Mérite éminemment les hommages sincères^
+D’pn peuple qu’il régit par des soins tutélaires.
+Muse ! allons prendre part aux joies de ce beau jour :
+11 faut lui consacrer un chant de notre amour.
+</p>
+        <p rend="left">
+La cloche matinale a déjà fait entendre
+Des sons que ton esprit a su très bien comprendre ;
+If faut les imiter, s’il se peut, dans ces vers,
+Et peindre les transports en ce grand jour offerts.
+</p>
+        <p rend="left small">f| LES CLOCHES.</p>
+        <p rend="left">
+Canons, tonnez ;
+Clairons, sonnez ;
+Tambours, battez ;
+Drapeaux, flottez.
+</p>
+        <p rend="left">
+Solennisez,
+Préconisez,
+</p>
+        <pb xml:id="PAG_00000017" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f17.image"/>
+        <p rend="left small">( 1 » ) </p>
+        <p rend="left">
+L’événement .
+Qu’en ce moment
+Nous annonçons,
+Et bénissons.
+</p>
+        <p rend="left">
+Jour imposant,
+Et bienfaisant ;
+Jour attachant,
+Et fort touchant,
+Nous te vantons,
+Nous te chantons.
+</p>
+        <p rend="left">
+Oh] quel beau jour
+Pour notre amour !
+Quel doux réveil !
+Quel beau soleil !
+</p>
+        <p rend="left">
+Dans aucun temps,
+Le doux printemps
+N’offrit jamais
+Autant d’attçaits.
+</p>
+        <p rend="left">
+Us sont ouverts,
+Les temples^saints,
+Pour des concerts
+Vraiment divins.
+</p>
+        <p rend="left">
+Venez, venez,
+Français, venez.
+Entrez, entrez,
+Français, entrez.
+</p>
+        <pb xml:id="PAG_00000018" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f18.image"/>
+        <p rend="left">
+(^3 ) 
+Prôsternez-vous
+Devant l’autel :
+Adorez tous
+L’Etre éternel.
+</p>
+        <p rend="left">
+Offrez des voeux
+Pour votre Roi,
+Si généreux,
+Si plein de foi,
+</p>
+        <p rend="left">
+Ce potentat,
+Cher au Seigneur,
+Et pour l’état,
+Rempli d’ardeur ;
+</p>
+        <p rend="left">
+Ce Roi pieux,
+Et gracieux,
+Veut aux humains
+D’heureux destins.
+</p>
+        <p rend="left">
+Que de beaux chants,
+Vraiment touchans,
+Vont retentir,
+Et le bénir !
+</p>
+        <p rend="left">
+Oh ! que de ; voix
+Vont à la fois
+Célébrer Dieu,
+Dans ce saint lieu !
+</p>
+        <p rend="left">
+Prêtres sacrés,
+Versez l’encens ;
+</p>
+        <pb xml:id="PAG_00000019" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f19.image"/>
+      </div>
+      <div>
+        <head>( i40</head>
+        <p rend="left">
+Au ciel offrez
+Vos purs accens.
+</p>
+        <p rend="left">
+Descends des cieux,
+O bienheureux !
+Puissant patron
+D’un vrai Bourbon.
+</p>
+        <p rend="left">
+Viens voir l’ardeur
+De son grand coeur,
+Et ses projets
+Pour ses sujets.
+</p>
+        <p rend="left">
+Viens voir combien
+Sa piété
+Est le soutien
+De sa bonté.
+</p>
+        <p rend="left">
+Viens voir combien,.
+Dans le saint lieu,
+Ce Roi chrétien
+Sait plaire à Dieu.
+</p>
+        <p rend="left">
+Ce souverain,
+Au front serein,
+N’a pas en vain
+L’appui divin.
+</p>
+        <p rend="left small">LES TROMPETTES.</p>
+        <p rend="left small">Air :</p>
+        <p rend="left">
+O cloches ! nous nous empressons
+De venir mêler à vos sùns
+</p>
+        <pb xml:id="PAG_00000020" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f20.image"/>
+        <p rend="left">
+•( i5 ) 
+Notre voix , qui fait retentir
+Un nom qu’il est doux de bénir.
+</p>
+        <p rend="left">
+Charles, prince cher aux Français,
+Est digne de vivre*à jamais.
+Il mérite, entre tous les rois,
+De donner à l’état des lois.
+</p>
+        <p rend="left">
+Combien son amour paternel
+S’accroît encor devant l’autel ! '
+Combien envers la nation
+I S’augmente son affection !
+</p>
+        <p rend="left">
+Seconde ses nobles desseins,
+Toi, l’un des plus vénérés saints :
+Sois son puissant intercesseur,
+Et son appui près du Seigneur.
+</p>
+        <p rend="left">
+Qu’il a de loyaux sentimens,
+Dont nous sont garans ses sermens !
+Combien il a d’activité
+Pour faire régner l’équité !
+</p>
+        <p>
+Il a la grande mission
+D’appuyer la religion.
+Il a là fonction sacrée
+De rendre la .France éclairée.
+</p>
+        <p rend="left">
+Au premier rang de ses bienfaits,
+Il met le maintien de la paix.
+Il veut affermir l’union
+"Qui règne dans la nation.
+</p>
+        <pb xml:id="PAG_00000021" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f21.image"/>
+        <p rend="left">
+Il cherche sa félicité
+</p>
+        <p rend="left">
+Au sein de la prospéri té ,• • • ……
+</p>
+        <p rend="left">
+Du peuple grand et généreux
+Qu’il s’efforce de rendre heureux.
+</p>
+        <p rend="left small">LES TAMBOURS ET LA MUSIQUE,
+Alternativement, se rendant à NOTKE-EAME.</p>
+        <p rend="left small">Air :</p>
+        <p rend="left">
+Bronzes tonnans,
+Votre bouche s’empresse
+</p>
+        <p rend="left">
+D’unir aux chants
+Qui peignent l’allégresse
+</p>
+        <p rend="left">
+Vos sons pompeux,
+Autant que belliqueux.
+</p>
+        <p rend="left">
+Bronzes tonnans,
+Un Roi cher à. la France
+</p>
+        <p rend="left">
+Voit les accens
+De la reconnaissance
+</p>
+        <p rend="left">
+Et de l’amour,
+Eclater en ce jour.
+</p>
+        <p rend="left">
+Bronzes tonnans,
+Quel honorable hommage
+</p>
+        <p rend="left">
+Vos sons bruyans
+Rendent au prince sage,
+</p>
+        <p rend="left">
+Et généreux,
+Qui rend son peuple heureux !
+</p>
+        <p rend="left">
+Bronzes tonnans !
+Pour ce digne monarque,
+</p>
+        <pb xml:id="PAG_00000022" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f22.image"/>
+        <p rend="left">
+Vos sons bruyans
+v Sont iune ; noble marque
+D’affection,
+De vénération.
+</p>
+        <p rend="left">
+Bronzes tonnais,
+Ce potentat auguste
+</p>
+        <p rend="left">
+Montre en tout.temps
+Un caractère juste : . ; .
+</p>
+        <p rend="left">
+Son équité . <hi rend="sub"> ;</hi>
+S’unit à la, bonté.
+</p>
+        <p rend="left">
+Nobles canons, <hi rend="sub"> ;</hi>
+Votre voix solennelle
+</p>
+        <p rend="left">
+Doit aux. Bourbons
+Etre toujours fidèle :
+</p>
+        <p rend="left">
+Quel digne emploi
+Que de bénir son roi !
+</p>
+        <p rend="left">
+Bronzes tonnans,
+N’alarmez plus la terre :
+Assez long-temps. ;'
+Votre effrayant tonnerre
+A renversé des.remparts formidables,
+Et terrassé des guerriers redoutables.
+</p>
+        <p rend="left">
+Bronzes tonnans,
+Fameux par, des conquêtes,
+</p>
+        <p rend="left">
+Vos sons ; bruyans
+Proclameront <hi rend="sub">nos ;.fêtes,</hi> '
+Et vous ferez répéter aux échos
+Les noms par qui nous goûtons le repos.
+</p>
+        <pb xml:id="PAG_00000023" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f23.image"/>
+        <p rend="left">
+(i8) 
+Bronzes tonnans,
+Qu’on a rendus terribles, <hi rend="sub">n</hi>
+</p>
+        <p rend="left">
+Vos sons frappans
+i Sont devenus paisibles, ■
+Et maintenant votre imposante voix
+Doit célébrer les peuples et les rois.
+</p>
+        <p rend="left">
+Bronzes tonnans,
+Quand votre arme naissante,
+</p>
+        <p rend="left">
+Au sein des camps
+Se montra foudroyante,
+La guerre prit un aspect tout nouveauf
+Et des donjons vous fûtes le fléau.
+</p>
+        <p rend="left">
+Bronzes tonnans,
+L’art de l’artillerie,
+</p>
+        <p rend="left">
+En peu de temps,
+A, dans notre patrie,
+</p>
+        <p rend="left">
+Pris un éclat
+Précieux à l’Etat,
+</p>
+        <p rend="left">
+Bronzes tonriàns ;,
+Votre gloire est illustre,
+</p>
+        <p rend="left">
+Et, dans mille ans,
+On parlera du lustre
+</p>
+        <p rend="left">
+De vos exploits,
+Signalés tant de fois <hi rend="sup">1</hi>.
+</p>
+        <p rend="left">
+Bronzas tonnans <hi rend="sup">,r</hi>
+Vos bouches enflammées-,
+</p>
+        <p rend="left">
+En ces instâns, *■
+</p>
+        <p rend="left">
+Vont au Dieu des armées
+</p>
+        <pb xml:id="PAG_00000024" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f24.image"/>
+        <p rend="left">
+( -i9 ) 
+Rendre l’honneur
+<hi rend="sup">r&lt;</hi> Que l’on doit au Seigneur.
+</p>
+        <p>
+Bronzes tonnans y
+.Saluez la patrie :
+</p>
+        <p rend="left">
+Pour ses enfans
+On la voit attendrie
+</p>
+        <p rend="left">
+De tout l’amour
+Qu’ils montrent en ce jour.
+</p>
+        <p>
+Bronzes tonnans,
+<hi rend="i">'</hi> Saluez nos phalanges,
+</p>
+        <p>
+Vos sons bruyans
+Leur doivent des louanges,
+</p>
+        <p>
+Pour.léjtr valeur,
+Et leur constante ardeur.
+</p>
+        <p>
+Bronzes tonnans,
+Au drapeau de la France
+</p>
+        <p rend="left">
+Que vos accens,
+Aimés de la vaillance,
+</p>
+        <p>
+Rendent honneur,
+En ce jour de bonheur.
+</p>
+        <p rend="left">
+Bronzes tonnans,
+Votre voix fulminante
+Vient.tous les ans
+Se montrer éclatante :
+Nous désirons que dans un siècle, et plus,
+De Charles-dix vous soyez entendus.
+</p>
+        <p rend="left">
+Bronzes tonnans,
+</p>
+        <pb xml:id="PAG_00000025" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f25.image"/>
+        <p rend="left">
+( ao ) 
+Qu’un grand nombre d’années
+</p>
+        <p rend="left">
+Soient à ses ans
+Par le ciel ajoutées.
+</p>
+        <p rend="left">
+Puisse un tel voeu
+Etre exaucé dé Dieu !
+</p>
+        <p rend="left small">LES CLARINETTES, LES VIOLONS ET LES FLUTES,
+Alternativement.</p>
+        <p rend="left small">Air <hi rend="i">: -</hi></p>
+        <p rend="left">
+CHARLES, vois ton beau nom
+Inspirer l’allégresse ;
+Il nous montre un Bourbon
+Qu’on chérira sans cesses
+</p>
+        <p rend="left">
+Tu te vis proclamé ,
+Par la reconnaissance,
+Du nom de Bien-Aimé
+Dès ton entrée en France.
+</p>
+        <p rend="left">
+Ce titre vraiment’doux
+Anime ta grande-ama,
+Et l’on voit que pour tous
+Un beau zèle t’enflamme.
+</p>
+        <p rend="left">
+Tu consacres tes jours
+</p>
+        <p rend="left">
+A servir la patrie,
+</p>
+        <p rend="left">
+Et de tes soins toujours »
+</p>
+        <p rend="left">
+-La France est attendrie. *
+</p>
+        <p rend="left">
+Oh ! que ta bienfaisance
+Est chère aux malheureux !
+</p>
+        <pb xml:id="PAG_00000026" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f26.image"/>
+        <p rend="left small">(•ai ) 
+Combien ta vigilance
+Est prospice à leurs voeux !
+</p>
+        <p rend="left">
+Soutien de l’industrie,
+Qui fait fleurir l’État,
+A tes soins la patrie
+Doit un solide éclat.
+</p>
+        <p rend="left">
+Les sciences, les arts,
+Sous ta noble influence,
+Brillent à nos regards, ,
+Avec magnificence.
+</p>
+        <p rend="left">
+Protecteur de la loi,
+Appui de la justice,
+Tu nous montres un roi
+Au bien toujours-propice.
+</p>
+        <p rend="left">
+Ami des libertés
+Que possède la France,
+La presse à tes bontés
+Doit son indépendance
+</p>
+        <p rend="left small">LA MUSIQUE ET LES TAMBOURS ,
+Alternativement.</p>
+        <p rend="left small">Air :</p>
+        <p rend="left">
+Drapeau des lis,
+Ton éclat se déploie,
+.-… Et dans Paris,
+Tu peux voir quelle joie,
+</p>
+        <p rend="left">
+Et <hi rend="u">quel amour</hi>
+On m^çftftpSïfc’çe grand jour.
+</p>
+        <pb xml:id="PAG_00000027" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f27.image"/>
+        <p rend="left">
+( M ) 
+Drapeau royal,
+"Étendard magnifique^
+</p>
+        <p rend="left">
+Noble signal
+D’allégresse publique,
+</p>
+        <p rend="left">
+En ce moment
+Tu flottes brillamment.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Dans cette auguste fête,
+</p>
+        <p rend="left">
+Tu nous souris,
+Et couronnes le faîte
+</p>
+        <p rend="left">
+Du beau palais
+D’un roi cher à iamais.
+</p>
+        <p rend="left">
+Drapeau français,
+Les. élus de la France.
+</p>
+        <p rend="left">
+Voient leurs palais
+Applaudir ta présence :.
+</p>
+        <p rend="left">
+Ta dignité
+Flatte leur loyauté.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Ce dôme où l’or éclate
+</p>
+        <p rend="left">
+A, dans Paris,
+Un destin qui te flatte,
+</p>
+        <p rend="left">
+Et la valeur
+Te voit lui rendre honneur.
+</p>
+        <p rend="left">
+Drapeau français,
+Qu’où aime ta présence
+</p>
+        <pb xml:id="PAG_00000028" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f28.image"/>
+        <p rend="left">
+          <hi rend="sub">(23) </hi>
+        </p>
+        <p rend="left">
+Sur le palais
+Où l’honneur, se dispense !■
+</p>
+        <p rend="left">
+Et constamment
+Il t’a pour ornement ;
+</p>
+        <p rend="left">
+Drapeau des lis,
+La colonne éternelle
+</p>
+        <p rend="left">
+Que dans Paris
+Une voix immortelle
+</p>
+        <p rend="left">
+Sut ordonner
+Te voit la dominer.
+</p>
+        <p rend="left">
+Drapeau charmant,
+Quel noble orgueil t’anime,
+</p>
+        <p rend="left">
+En couronnant
+Ce monument sublime,
+</p>
+        <p rend="left">
+Où nos héros
+Voient leurs fameux travaux !
+</p>
+        <p rend="left">
+Drapeau des lis,
+Sur le vaste édifice
+</p>
+        <p rend="left">
+Où dans Paris
+Vient régner la Justice,
+</p>
+        <p rend="left">
+Ta majesté
+Honore l’équité.
+</p>
+        <p rend="left">
+Drapeau français,
+L’élite de la France
+</p>
+        <p rend="left">
+Sur son palais
+Voit ta magnificence :
+</p>
+        <p rend="left">
+Aux nobles pairs
+Tes honneurs sont offerts.
+</p>
+        <pb xml:id="PAG_00000029" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f29.image"/>
+      </div>
+      <div>
+        <head>- ( <hi rend="sub">340 ;</hi> :</head>
+        <p rend="left">
+Drapeau dès lis,
+É téndard monarchique,.
+</p>
+        <p rend="left">
+Tu resplendis
+Sur notre Basilique y
+</p>
+        <p rend="left">
+Et rends honneur
+Au divin Rédènipféur.
+</p>
+        <p rend="left">
+Drapeau français,
+Étendard tutélaire,
+</p>
+        <p rend="left">
+Quand tu parais
+Au sein du sanctuaire,
+</p>
+        <p rend="left">
+Ton noble aspect
+Imprime un grand respect..
+</p>
+        <p rend="left">
+Drapeau des lis,
+O brillante bannière !'
+</p>
+        <p rend="left">
+Tu réjouis
+La France tout entière :
+</p>
+        <p rend="left">
+De toutes parts.
+Tu charmes les regards.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Nos ports et nos vaisseaux,
+</p>
+        <p rend="left">
+Enorgueillis
+De tes destins si beaux,
+</p>
+        <p rend="left">
+Ont l’espérance
+D’une grande abondance. ;
+</p>
+        <p rend="left">
+Drapeau des lis,.
+Dans chaque capitale,
+Pour Charles*T3ix,
+</p>
+        <p rend="left">
+Ton éclat se signalé,
+</p>
+        <pb xml:id="PAG_00000030" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f30.image"/>
+        <p rend="left">
+(aft-&gt;. .
+En ce moment,.
+Si rempli d’agrément.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Que le ciel envisage,
+</p>
+        <p rend="left">
+A Charles-Dix
+Tu rends un noble hommage,
+</p>
+        <p rend="left">
+Parmi les pavillons
+De tant de nations.
+</p>
+        <p rend="left small">LES TROMPETTES.
+Air:</p>
+        <p rend="left">
+Charles le bien aimé,
+D’un beau zèle enflammé,
+Vient secourir la Grèce :
+Aussitôt tout s’empresse
+A traverser les flots
+Pour des projets si beaux.
+</p>
+        <p rend="left small">LES CORS.'</p>
+        <p rend="left">
+Le général Maison,,
+Vaillant fils de la gloire,
+A fait briller son nom
+Par plus d’une victoire,
+Et son rare mérite
+Guide une noble élite.
+</p>
+        <p rend="left small">LES TROMPETTES.</p>
+        <p>
+On arrive en Morée,
+Cette antique contrée
+Chère à la liberté,
+</p>
+        <pb xml:id="PAG_00000031" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f31.image"/>
+        <p rend="left">
+( a6. <hi rend="i">) </hi>
+</p>
+        <p rend="left">
+A la société,
+</p>
+        <p rend="left">
+Aux filles de mémoire,
+</p>
+        <p rend="left">
+Qui révèrent sa gloire.
+</p>
+        <p rend="left small">LES CORS.</p>
+        <p rend="left">
+Terre jadis classique
+En tous genres de biens,
+Le pouvoir despotique
+Changea les citoyens
+En esclaves flétris
+Par un. brutal mépris.
+</p>
+        <p rend="left small">LES CLARINETTES.</p>
+        <p rend="left">
+Un roi, cher à la France,
+</p>
+        <p rend="left">
+Prescrit la délivrance.,
+</p>
+        <p rend="left">
+La résurrection
+</p>
+        <p rend="left">
+De cette nation
+</p>
+        <p rend="left">
+Si pleine d’héroïsme,
+</p>
+        <p rend="left">
+Et de patriotisme.
+</p>
+        <p rend="left small">LES FLUTES.</p>
+        <p rend="left">
+Généreux Charles-dix,
+Tu dois avoir pour prix
+De ton oeuvre admirable,
+A jamais mémorable,
+Les bénédictions
+De bien des nations.
+</p>
+        <p rend="left small">LES VIOLONS.</p>
+        <p rend="left">
+Oui, ton noble salaire,
+O prince tutélaire !
+Sera le douîç plaisir
+</p>
+        <pb xml:id="PAG_00000032" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f32.image"/>
+        <p rend="left">
+. ( »-7 &gt;
+De combler le désir
+D’un peuple magnanime,
+Qu’un zèle pur anime.
+</p>
+        <p rend="left small">LA. MUSIQUE ET LES TAMBOURS,
+Alternativement.
+Air :</p>
+        <p rend="left">
+Drapeau des lis,
+Depuis huit cents années,
+</p>
+        <p rend="left">
+Tu t’applaudis
+Des hautes destinée^
+</p>
+        <p rend="left">
+Qu’à ta valeur
+Accorde le Seigneur.
+</p>
+        <p rend="left">
+Drapeau des lis,
+La Religion sainte
+</p>
+        <p rend="left">
+Te voit soumis
+A sa divine empreinte,
+</p>
+        <p rend="left">
+Et t’affermit
+Quand sa main te bénit.
+</p>
+        <p rend="left">
+Drapeau brillant,
+Que la gloire environne,
+</p>
+        <p rend="left">
+Noble garant
+D’une auguste couronne,
+</p>
+        <p rend="left">
+Combien tu dois
+Etre cher à nos rois’
+</p>
+        <p rend="left">
+Drapeau des lis,
+Aimé de la victoire,
+</p>
+        <p rend="left">
+Tu t’es acquis
+Une immortelle gloire
+</p>
+        <pb xml:id="PAG_00000033" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f33.image"/>
+        <p rend="left small">( a* &gt;</p>
+        <p rend="left">
+Dont les succès
+Enflamment les Français.
+</p>
+        <p rend="left">
+Noble drapeau
+D’une intrépide armée,,
+</p>
+        <p rend="left">
+Oh ! qu’il est beau
+De la voir animée
+</p>
+        <p rend="left">
+De tant d’ardeur
+Pour le prince et l’honneur !
+</p>
+        <p rend="left">
+Noble étendard,
+O bannière sacrée,
+</p>
+        <p rend="left">
+Chère à Bavard,
+Et toujours-illustrée,
+</p>
+        <p rend="left">
+Quel grand essor
+Tu sauras prendre encor !
+</p>
+        <p rend="left">
+Drapeau des lis,
+Ta blancheur éclatante
+</p>
+        <p rend="left">
+Aux ennemis
+Inspire l’épouvante,
+</p>
+        <p rend="left">
+Et ta beauté
+Brille avec majesté.
+</p>
+        <p rend="left">
+Drapeau d’honneur,
+Qu’une héroïne illustre,.
+</p>
+        <p rend="left">
+Par sa valeur,
+Décora d’un beau lustre,
+</p>
+        <p rend="left">
+Soutiens nos droits,
+Et protège lés rois.
+</p>
+        <p rend="left">
+Drapeau des lis,
+</p>
+        <pb xml:id="PAG_00000034" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f34.image"/>
+        <p rend="left">
+(*9) 
+Duguesclin l’indomptable,
+</p>
+        <p rend="left">
+Pour son pays
+Fut inappréciable,
+</p>
+        <p rend="left">
+Et ta grandeur
+Enflamma son ardeur.
+</p>
+        <p rend="left">
+Drapeau des lis <hi rend="sub">r</hi>
+Dunois, par sa vaillance,
+</p>
+        <p rend="left">
+Des ennemis
+Sut délivrer la France ;
+</p>
+        <p rend="left">
+Il vint, sous toi,
+S’illustrer pour son roi.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Clisson, ce connétable,
+</p>
+        <p rend="left">
+Qui s’est acquis
+Un nom recommandable,
+</p>
+        <p rend="left">
+Accrut l’honneur
+De ta rare splendeur.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Qu’un grand éclat décore,
+</p>
+        <p rend="left">
+Pour son pays,
+Un La Trémouille encore,
+</p>
+        <p rend="left">
+Devant tes yeux,
+Fit des traits glorieux.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Grillon, la valeur même,
+</p>
+        <p rend="left">
+Sous deux Henris,
+Pour ta gloire suprême.
+</p>
+        <pb xml:id="PAG_00000035" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f35.image"/>
+        <p rend="left">
+( 3o ) 
+Fit des exploits
+Qui sont chers à nos rois.
+</p>
+        <p rend="left">
+Drapeau des lis <hi rend="i">-</hi>,
+Ton premier capitaine,
+</p>
+        <p rend="left">
+Pour son pays,
+Sur la sanglante arène,
+</p>
+        <p rend="left">
+Eut un trépas
+Fameux dans les combats.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Ce Condé qu’on renomme,
+</p>
+        <p rend="left">
+Et dont tu fis
+Un héros, un grand homme,
+</p>
+        <p rend="left">
+Eut une ardeur
+Qui le combla d’honneur.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Catinat et Vendôme ,-
+</p>
+        <p rend="left">
+Tous deux remplis
+D’amour pour le royaume,
+</p>
+        <p rend="left">
+Sous ton éclat
+Ont secouru l’État.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Luxembourg, plein de gloire,
+</p>
+        <p rend="left">
+Sut, pour Louis,
+Maîtriser la victoire,
+</p>
+        <p rend="left">
+Et sa valeur
+Aussi te fit honneur*
+</p>
+        <p rend="left">
+Drapeau français,
+</p>
+        <pb xml:id="PAG_00000036" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f36.image"/>
+        <p rend="left">
+( 3i ) 
+Vauban, par son génie,
+</p>
+        <p rend="left">
+Cher à jamais
+A sa noble patrie,
+</p>
+        <p rend="left">
+Sous un grand roi
+Fut très zélé pour toi ;
+</p>
+        <p rend="left">
+Drapeau dès lis,
+L’admirable Maurice,
+</p>
+        <p rend="left">
+Ton vaillant fils,
+Te vit toujours propice
+</p>
+        <p rend="left">
+A ses efforts-,
+A ses nobles transports.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Berwick, plein de vaillance.
+</p>
+        <p rend="left">
+Que tu chéris,
+Et qu’adopta la France,
+</p>
+        <p rend="left">
+Eut en rétour
+Pour elle un grand "amour.
+</p>
+        <p rend="left">
+Dràp'èaù des lis,
+Que d’Assas eut pour guide.
+</p>
+        <p rend="left">
+Tu t’applaudis
+De son zèle intrépide,
+</p>
+        <p rend="left">
+Et son grand coeur
+Sut te rendre vainqueur.
+</p>
+        <p rend="left">
+Drapeau français,
+Sous ta haute influence,
+</p>
+        <p rend="left">
+Par ses succès,
+Villars sauva la France, »
+</p>
+        <pb xml:id="PAG_00000037" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f37.image"/>
+        <p rend="left">
+.•(.3a) " ,'
+</p>
+        <p rend="left">
+Etee héros
+Nous donna le repos. ;
+ »
+</p>
+        <p rend="left">
+Drapeau des lis,
+L’héroïque Vendée
+</p>
+        <p rend="left">
+Fut un pays
+Où ta foi fut gardée :
+</p>
+        <p rend="left">
+Quel, dévoûment '
+S’y montra constamment !
+</p>
+        <p rend="left">
+Drapeau des lis,
+Étendard tutélaire,
+</p>
+        <p rend="left">
+Tu t’applaudis
+De l’union sincère
+</p>
+        <p rend="left">
+Qui, .pour jamais,
+Règne entre les Français.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Enseigne formidable,
+</p>
+        <p rend="left">
+Tu t’embellis
+D’un éclat agréable
+<hi rend="i">„</hi> Quand ton ardeur
+Protège le malheur.
+</p>
+        <p rend="left">
+Drapeau français,
+Que la blancheur décore,
+</p>
+        <p rend="left">
+De nobles faits
+D^ieu te réserve encore,
+</p>
+        <p rend="left">
+Pour protéger
+Les peuples en danger.
+</p>
+        <pb xml:id="PAG_00000038" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f38.image"/>
+        <p rend="left">
+* (33) 
+</p>
+        <p rend="left small">LES VIOLONS ET LÈS CLARINETTES.) 
+.Alternativement.</p>
+        <p rend="left small">Aii-î ' ' '</p>
+        <p rend="left">
+Rendons un sincère hommage
+A notre roi bienfaisant i
+Bénissons tous l’avantagé
+De son règne intéressant.
+</p>
+        <p rend="left">
+A ce prince chérissable
+Payons, en ce noble jour,
+Le tribut vraiment louable ■
+De notre constant amour.
+</p>
+        <p rend="left">
+Avec un tendre intérêt,
+11 visite ses provinces :
+Chacune en lui reconnaît
+Le plus affable des princes.
+</p>
+        <p rend="left">
+Aux bords du Rhin, de la Meuse &gt;
+Aussi bien que dans Paris,
+De son ame généreuse
+Il reçoit le digne prixi
+</p>
+        <p rend="left">
+Tout lui paie un doux tribut
+D’amour et de gratitude :
+Tout voit que son noble but
+Est plein de sollicitude. " <hi rend="i">\"■</hi>
+</p>
+        <p rend="left">
+Il découvre les besoins
+Qu’éprouve chaque contrée,
+</p>
+        <pb xml:id="PAG_00000039" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f39.image"/>
+        <p rend="left">
+( 34 ) 
+Et de fleurir, par ses soins,
+Chacune est bien assurée.
+</p>
+        <p rend="left">
+Il interroge, il accueille
+Avec beaucoup de bonté,
+Et de sa bouche on recueille
+©es mots pleins d’humanité.
+</p>
+        <p rend="left">
+Mais combien ses actions
+Sur ses paroles l’emportent !
+Que de bénédictions
+De toutes les bouches sortent !
+</p>
+        <p rend="left">
+De saint Louis il possède
+La touchante "piété.
+Charles à nul roi ne cède
+En haute capacité.
+</p>
+        <p rend="left">
+De Louis-Douze on lui voit
+Le zèle <hi rend="sup">pur1 ;et</hi> sincère^
+Et chaque jour on lui doit
+Quelque événement prospère.
+</p>
+        <p rend="left">
+Il montre la bonté rare
+Qu’avait Henri de Navarre,
+Et la sensibilité
+Qu’avait ce roi, si vanté.
+</p>
+        <p rend="left">
+Il a la franchise aimable
+De ce roi, toujours cité ;
+Il a son air agréable,
+Et sa popularité.
+</p>
+        <pb xml:id="PAG_00000040" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f40.image"/>
+        <p rend="left">
+(35) 
+Ainsi que Louis-le-Grand,
+Vrai bienfaiteur du génie,
+Charles, "du profond savant,
+Veut voir-la vie embellie.
+</p>
+        <p rend="left">
+Les Muses encouragées
+Par ses regards gracieux,
+Sont constamment protégées
+Par son appui glorieux..
+</p>
+        <p rend="left small">LES FLUTES.</p>
+        <p rend="left">
+Charles sait applaudir
+L’heureuse découverte
+Que nous devons bénir,
+Et qui nous est offerte
+Par l’amour paternel
+D’un bienfaisant mortel.
+</p>
+        <p rend="left small">LES FLAGEOLETS.</p>
+        <p rend="left">
+La vaccine aux humains
+Est vraiment précieuse:
+De funestes levains
+Elle est victorieuse,
+Et le nom de Jenner ,
+A l’Europe est bien cher.
+</p>
+        <p rend="left small">LA MUSIQUE ET LES TAMBOURS ,</p>
+        <p rend="left small">Alternativement, 'y-.</p>
+        <p rend="left">
+Air :
+</p>
+        <p rend="left">
+Drapeau dés lis
+Que respecte le monde,
+</p>
+        <pb xml:id="PAG_00000041" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f41.image"/>
+        <p rend="left">
+(36 ) 
+</p>
+        <p>
+Tu t’es acquis,
+Sur la terre et sur l’onde,
+</p>
+        <p>
+Une splendeur
+A qui tout rend honneur.
+</p>
+        <p rend="left">
+Drapeau dès lis,
+Duquesne, l’invincible,
+</p>
+        <p rend="left">
+Aux ennemis
+Sut se rendre terrible ;
+</p>
+        <p rend="left">
+Son pavillon
+Fit trembler Albion.
+</p>
+        <p rend="left">
+Drapeau français,
+En exploits si fertile,
+</p>
+        <p rend="left">
+Par quels beaux faits
+Duguay-Trôùinî, Tourville,
+</p>
+        <p rend="left">
+Ont augmenté
+Ton éclat mérité !
+</p>
+        <p rend="left">
+Drapeau des lis,
+Jean Bartj plein, d’une audace
+</p>
+        <p>
+Qu’en nul pa ;ys
+Aucune autre n’efface,
+</p>
+        <p rend="left">
+Vengea, sous <hi rend="i">toi</hi>,
+Sa patrie et son roi.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Forbin,: grand dans l’histoire,
+</p>
+        <p rend="left">
+Fut très épris
+Des attraits de fa gloire,
+</p>
+        <p rend="left">
+Et son àmôur
+S’augmenta chaque jour.
+</p>
+        <pb xml:id="PAG_00000042" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f42.image"/>
+        <p rend="left">
+( 37 ) 
+</p>
+        <p rend="left">
+Drapeau des lis,
+L’intrépide d’Estrèes.y
+</p>
+        <p rend="left">
+Pour son pays,
+Dans diverses contrées,.
+</p>
+        <p rend="left">
+En ton honneur,
+Signala sa valeur.
+</p>
+        <p rend="left">
+Drapeau, deslis,
+La puissante AmériqueConnaît
+</p>
+        <p rend="left">
+le prix
+De ton zèle civique,
+</p>
+        <p rend="left">
+Et, dans Bdston,
+Tu charmas Washington.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Suffren, si redoutable
+</p>
+        <p rend="left">
+Aux ennemis,
+Eut un zèle admirable
+</p>
+        <p rend="left">
+Pour ta splendeur,
+Qu’affermit sa-valeur.
+</p>
+        <p rend="left">
+Drapeau français,
+D’Estaing,, guerrier illustre ;
+</p>
+        <p rend="left">
+Par ses succès
+Accrut encor ton lustre ;
+</p>
+        <p rend="left">
+Et ses talens
+Furent très éminens.
+</p>
+        <p rend="left">
+Drapeau des lis,
+Sous toi l’on vit de Grasse
+</p>
+        <p rend="left">
+Aux ennemis
+Montrer sa grande audace,
+</p>
+        <pb xml:id="PAG_00000043" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f43.image"/>
+        <p rend="left">
+(-38) 
+Et ce héros
+Fut- cher aux matelots.
+</p>
+        <p rend="left">
+Drapeau des.lis,
+D’Orvilliers eut. la gloire <hi rend="sub">v</hi>
+</p>
+        <p rend="left">
+Pour son. pays &gt;
+</p>
+        <p rend="left">
+D’obtenir la victoire,
+</p>
+        <p rend="left">
+Et tes destins
+Brillèrent-dans ses mains.
+</p>
+        <p>
+Drapeau des. lis,
+Bien d’autres capitaines,
+</p>
+        <p>
+Vraiment remplis
+De vertus souveraines ,
+</p>
+        <p>
+Ont, pour l’état,
+Fait briller ton éclat.
+</p>
+        <p>
+DrapSeau des lis,
+Qu’un zèle pur anime,
+</p>
+        <p rend="left">
+Que tu chéris
+Charles le magnanime !
+Tu veux long-temps voir vivre ce bon roi,
+Dont la justice est. la, suprême loi.
+</p>
+        <p>
+Drapeau des lis ;,
+Plein d’ardeur pour la France,
+</p>
+        <p rend="left">
+Tu resplendis
+Sous l’oeil de la vaillance.
+Tu fais des voeux pour que ton souverain
+Ait un long âge, un très heureux destin.
+
+<pb xml:id="PAG_00000044" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f44.image"/>ijA MUSIQUE, DANS L’ÉGLISE.</p>
+        <p rend="left small">Air:-- '.M</p>
+        <p rend="left">
+Honneur et gloire au roi des cieux,
+Qui nous donne un prince pieux,
+Vigilant, actif ; équitable,
+E ;t pleinement recômmandableQu’il
+</p>
+        <p rend="left">
+soit comblé de jours heureux,
+Ce prince vraiment généreux. ;
+Que sa famille, si chérie,
+Orne long-temps notre patrie ;
+Qu’elle .ait cette félicité
+Que lui mérite sa bonté.
+</p>
+        <p rend="left">
+Qu’à jamais les Bourbons règlent nos destinées,
+</p>
+        <p rend="left">
+Pour qu’elles soient toujours tranquilles, fortunées..
+</p>
+        <p rend="left">
+Que la .religion s’attache tous les coeurs:
+</p>
+        <p rend="left">
+Que toujours la vertu soit au sein des grandeurs ;
+</p>
+        <p rend="left">
+Que toujours les beaux-arts embellissent la France ;
+</p>
+        <p rend="left">
+Que les lois aient toujours la .plus haute influence ;
+</p>
+        <p rend="left">
+Que la liberté soit sans cesse parmi nous :
+</p>
+        <p rend="left">
+Qu’on n’abuse jamais d’un bienfait aussi doux ;
+</p>
+        <p rend="left">
+Qu’entrejfbus les Français l’union soit constante ;
+</p>
+        <p rend="left">
+Que l’autorité soit constamment vigilante ;
+</p>
+        <p rend="left">
+Qu’elle soit constamment fidèle au souverain :
+</p>
+        <p rend="left small">
+Que dans elle le peuple ait un appui certain,
+y
+</p>
+        <p rend="left small">LES TAMBOURS.</p>
+        <p rend="left small">* ?■ '.■'■■.:"</p>
+        <p rend="left">
+Célébrons Dieu,
+Dans ce saint lieu.
+</p>
+        <pb xml:id="PAG_00000045" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f45.image"/>
+        <p rend="left">
+(4o) - ^
+</p>
+        <p rend="left">
+far- tous nos sons,
+Nous bénissons
+L’Etre éternel
+Et paternel,
+Dont la bonté-,
+La volonté,
+Fait nos destins.
+</p>
+        <p rend="left">
+Dieu des humains,
+Nous t’adorons ;
+Nous t’implorons,
+Pour notre roi,
+Cher à ta loi :
+Fais que ses jours
+Aient un long cours. !
+</p>
+        <p rend="left">
+Prince excellent,
+Et vigilant ;
+Prince éclairéEt
+révéré ;
+Prince pieux
+Et gracieux ;
+Roi bienfaisant,
+Compatissant,
+Plein d’équité,
+De majesté,
+Tout vous sourit <hi rend="sub">r</hi>
+Tout vous chérit.
+</p>
+        <p rend="left">
+Comblez nos* voeux :
+Soyez heureux.
+Ces vrais souhaits,
+</p>
+        <pb xml:id="PAG_00000046" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f46.image"/>
+        <p rend="left small">:•■ (4i ) </p>
+        <p rend="left">
+Des bons Français,
+Sont pleins d’ardeur
+Et de ferveur.
+</p>
+        <p rend="left">
+O juste Dieu !
+Dans ce saint lieu,
+Comblez nos voeux,
+Rendez heureux*
+Votre oint sacré
+Si vénéré.
+</p>
+        <p rend="left">
+Qu’il soit long-temps,
+Oh ! bien long-temps !
+Notre soutien,
+Ce roi chrétien.
+</p>
+        <p rend="left">
+C’est notre espoir ;
+Notre devoir
+Est d’obéir,
+Et de servir
+Avec amour,
+Et chaque jour,
+Ce roi si bon ,
+Ce grand Bourbon.
+</p>
+        <p rend="left small">PRIÈRE DU ROI.</p>
+        <p rend="left">
+Dans ce temple, je viens adorer ta puissance,
+Dieu, qui m’as confié le sceptre de la France.
+O Dieu de l’univers ! sans toi l’homme n’est rien,
+Sans ton divin secours^ il ne peut aucun bien.
+Oui, c’est de toi, grand Dieu, que je tiens la couronne ;
+Fais que de la vertu mon trône s’environne,
+</p>
+        <pb xml:id="PAG_00000047" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f47.image"/>
+        <p rend="left">
+Et fais que dans mon coeur la parfaite équité
+</p>
+        <p rend="left">
+Accompagne toujours la douce piété. *^
+</p>
+        <p rend="left">
+Donne à tout mon royaume <hi rend="i">une-</hi> grande abondance <hi rend="sub"> ;;</hi>
+</p>
+        <p rend="left">
+Donne à tous les Français une heureuse existence.
+</p>
+        <p rend="left">
+Pour leur félicité tu connais mon ardeur,
+</p>
+        <p rend="left">
+Et tu sais qu’ils ont tous leur placé.dans mon coeur.
+</p>
+        <p rend="left">
+Dispose à ton désir de ma- noble carrière ;
+Eclaire-moi toujours*de ta vive lumière,
+Et que ton esprit saint daigne me suggérer
+Ce qu’il faut pour te faire en tous lieux révérer.
+Fais que dans mon état la sage tolérance
+A tous fasse goûter sa touchante influence,
+Et qu’en France jamais la superstition <hi rend="i">*</hi>
+</p>
+        <p rend="left">
+Ne vienne s’allier à la religion ;
+Que les préceptes chers du pur christianisme
+Ne s’unissent jamais avec le fanatisme.
+</p>
+        <p rend="left">
+Fais que je sois toujours l’esclave de la loi ;
+Que mon peuple en moi trouve un secourable roi »
+Rends-moi toujours l’appui du pacte tutélaire,
+Qu’aux Français a donné mon magnanime frère.
+Fais que j’exerce avec sagesse et fermeté
+Tout ce que tu remets à mon autorité.
+Répands sur ma famille et sur ma dynastie
+Les bénédictions de ta grâce infinie.
+Que les ministres saints de la religion
+Donnent l’exemple à. tous de la soumissioff
+A tout ce que prescrit le bien de la patrie,
+Qui de chaque Français doit se trouver chérie.
+</p>
+        <p rend="left">
+Ranime dans les coeurs le. flambeau de la foi :
+Embrase-les d’amour pour ta divine loi.
+Que l’incrédulité perde enfin son audace,
+</p>
+        <pb xml:id="PAG_00000048" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f48.image"/>
+        <p rend="left">
+, 0 43 ) ■
+El ressente l’effet de ta grâce efficace ;
+Que ton culte si pur, si saint, si consolant,
+Ne soit jamais l’objet d’aucun schisme alarmant..
+Éloigne des autels l’indigne*hypocrisie,
+Plus coupable à tes yeux qu’une affreuse hérésie.
+Que tes ministres aient toujours cette douceur,
+Que montra constamment notre divin sauveur.
+Pour toi, Dieu tout puissant, je donnerais ma vie,
+Plutôt que de céder aux clameurs de l’impie,
+Et de ne pas offrir à ta religion
+Tout l’appui qu’elle attend de mon affection.
+Puisqu’on m’a proclamé fils aîné de l’église,
+Je remplirai la tâche à mon pouvoir commise.
+Je veux que ton culte ait, au sein démon état,,,
+La plus grande splendeur et le plus pur éclat ;
+Que tes prêtres sacrés, pleins d’un zèle sincère,
+Aient un sort convenable à leur saint ministère.
+</p>
+        <p rend="left">
+Noble habitant des cieux, dont je porte le nom,
+Qui de bien des mortels es le divin patron,
+Donne-moi le secours fle ta haute assistance :
+Inspire-moi toujours beaucoup de vigilance
+Pour l’intérêt public et la religion,
+Ces deux objets si chers à mon affection.
+Que ta puissante main constamment me protège :
+Le poids du diadème a besoin qu’on l’allège,
+Par le divin secours des esprits bienheureux,
+Toujours prêts à servir nos légitimés voeux.
+</p>
+        <p rend="left">
+Et toi, reine du ciel, adorable Marie,
+A qui l’on a voué le sort de ma patrie,
+Toi, qui donnas le jour au divin rédempteur,
+Toi, dés infortunés l’appui consolateur,
+</p>
+        <pb xml:id="PAG_00000049" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f49.image"/>
+        <p rend="left">
+. (44&gt;.
+</p>
+        <p rend="left">
+Agrée, en ce grand jour, mes hommages sincères^
+Qui sont constamment dus à tes soins tutélaires.
+Quel amour on te doit, ô reine des humains !
+Quel ? ascendant tu peux avoir sur leurs destins !
+Goiiibien ton assistance à l’homme est précieuse !
+Combien ta mission est sainte et glorieuse- !
+Alors que l’on t’invoque, avec beaucoup de foi,
+L’on est bien sûr d’avoir un grand secours de toi,
+Intercède envers moi près du maître suprême,
+Pour qu’il fasse toujours chérir mon diadème,
+Et verse dans mon coeur, jusqu’à mon dernier jour,
+L’inestimable bien de son divin amour.
+</p>
+        <p>
+Je vous invoque encore, ô céleste milice !
+Soyez à tous mes voeux également propice :
+Que tout le ciel enfin soit en notre faveur,
+Et nous pourrons goûter un durable bonheur..
+</p>
+        <p rend="left small">LES ORGUES.</p>
+        <p rend="left">
+O souverain cher aux Français ,
+Vos soins 'ont un noble succès !
+Nous chérissons votre existence,
+Nous supplions la Providence
+D’étendre le cours fortuné
+Du pouvoir qui vous est donné.
+</p>
+        <p rend="left small">- v-/ ■..</p>
+        <p rend="left">
+Qu’elle est belle cette entreprise
+Que le Tout-Puissant <hi rend="i">#</hi>. commise
+A votre zèle généreux,
+Qui désire nous rendre heureux !
+C’est nne tâche vraiment grande,
+Qu’à vos soins le ciel recommande.
+</p>
+        <pb xml:id="PAG_00000050" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f50.image"/>
+        <p rend="left">
+(45) 
+</p>
+        <p rend="left">
+Trente millions de citoyens
+</p>
+        <p rend="left">
+De vous attendent tous les biens.
+</p>
+        <p rend="left">
+Vous êtes le prince et le père
+</p>
+        <p rend="left">
+D’un peuple loyal et sincère&gt;
+</p>
+        <p rend="left">
+Et qui se soumet à ses rois, , ;.
+</p>
+        <p rend="left">
+Autant qu’il est fier de ses droits.
+</p>
+        <p rend="left">
+Prince, vraiment grand par vousVnième) 
+Combien le plus beau diadème
+Entre vos mains se fait bénir !
+Combien vous vous faites chérir !
+Combien votre sollicitude
+Mérite notre gratitude !
+</p>
+        <p rend="left small">PRIÈRE DES ASSISTANS.</p>
+        <p rend="left">
+Dieu juste, Dieu clément, Dieu que le mondé adoré,
+</p>
+        <p rend="left">
+Pour notre Charles-Dix chacun de nous t’implore.
+</p>
+        <p rend="left">
+Aucun prince jamais n’eut droit à plus d’amour.
+</p>
+        <p rend="left">
+Toi, qui vois ses desseins, du céleste séjour,
+</p>
+        <p rend="left">
+Dieu, promoteur des rois, protecteur dé la France,
+</p>
+        <p rend="left">
+Conserve-nous long-temps la royale existence
+</p>
+        <p rend="left">
+D’un monarque.rempli d’une si noble ardeur.
+</p>
+        <p rend="left">
+Il mérite à jamais sa suprême grandeur.
+</p>
+        <p rend="left">
+Tu connais les desseins qui sont dans sa pensée :
+</p>
+        <p rend="left">
+Tu vois combien son ame est toujours empressée
+</p>
+        <p rend="left">
+A combler tous les voeux que forment ses sujets.
+</p>
+        <p rend="left">
+Accomplis, Djeu^puissant, tous ses nobles projets.
+</p>
+        <p rend="left">
+Combien il a de droits à la reconnaissance
+</p>
+        <p rend="left">
+De tous les citoyens, ce roi cher à la France !
+</p>
+        <p rend="left">
+Vois combien de travaux il fait exécuter,
+</p>
+        <p rend="left">
+Et vois combien d’amour il cherche à mériter.
+</p>
+        <p rend="left">
+Après tant de malheurs qu’a supportés la terre,
+</p>
+        <pb xml:id="PAG_00000051" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f51.image"/>
+        <p rend="left">
+( 46 ) 
+'Chaque état souffre encor des troubles de la guerre.
+Le commerce partout languit également :
+Fais qu’il prenne bientôt un grand accroissement.
+Donne à chaque contrée un repos salutaire ;
+Donne-lui le bienfait d’un régime prospère.
+Que ta puissante voix affranchisse les mers,
+Et répande la paix au sein de l’univers.
+O Dieu ! restaurateur d’un trône légitime,
+Bénis les êtres chers au prince magnanime
+Pour qui, dans cet instant, toute une nation
+Se plaît à témoigner beaucoup d’affection.
+Que sa famille auguste ait toujours en partage
+Ce que peut désirer son plus grand avantage ;
+Qu’elle n’éprouve .plus jamais aucun, malheur r&gt;
+Qu’elle soit à l’abri de ton aile, ô Seigneur !
+</p>
+        <p rend="left small">LES ORGUES.</p>
+        <p rend="left">
+Vivez long-temps, ô magnanime roi !
+Vivez long-temps, prince rempli de foi.
+Votre existence est à tous précieuse,
+Et vos travaux la rendent glorieuse.
+</p>
+        <p rend="left">
+L’Eglise voit en vous un protecteur.
+</p>
+        <p rend="left">
+La France trouve en vous un bienfaiteur.
+</p>
+        <p rend="left">
+La royauté, par vos soins affermie,
+</p>
+        <p rend="left">
+Des droits du peuple est là sincère amie.
+</p>
+        <p rend="left">
+Aimez toujours ce roi, qui vous porte en son coeur,
+Français, il n’est heureux que de votre bonheur.
+Il vous donne les lois que votre ame désire.
+De la religion il assure l’empire.
+</p>
+        <pb xml:id="PAG_00000052" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f52.image"/>
+      </div>
+      <div>
+        <head>I 4 ? ) $</head>
+        <p rend="left small">UN PRETRE, DANS LA CHAIRE.</p>
+        <p rend="left">
+Chrétiens, qu’un zèle pur assemblé en ce saint lieu,
+</p>
+        <p rend="left">
+Que d’actions de grâce il nous faut rendre à Dieu,
+</p>
+        <p rend="left">
+-Pour avoir confié le sceptre de la France ; ;/
+</p>
+        <p rend="left">
+A des princes qui font bénir sa Providence !
+</p>
+        <p rend="left">
+Ces protecteurs zélés de la religion
+</p>
+        <p rend="left">
+Sont aussi les soutiens de notre nation. '''
+</p>
+        <p rend="left">
+Pères de leurs sujets, ces princes légitimes
+</p>
+        <p rend="left">
+Sont affables, autant qu’on les voit^agnahimés,
+</p>
+        <p rend="left">
+Et celui qui gouverne aujourd’hui les Français
+</p>
+        <p rend="left">
+Voit couronner ses soins du plus heureux succès.
+</p>
+        <p rend="left">
+Qu’il mérite, en effet, que son règne prospère,
+Ce prince, vraiment sage et vraiment tutélaire !
+Quels droits il s’est acquis à notre affection,
+Ce prince, si rempli de modération !
+Et quels droits n’a-t-il pas à notre gratitude,
+Ce prince, en qui l’on-voit tant de sollicitude !
+</p>
+        <p rend="left">
+Fort des droits de son sang, et fort de notre amour,
+Qu’il voit évidemment s’accroître chaque jour,
+Il était présenté par sa haute naissance <hi rend="i">-</hi>,
+Dont l’illustration a mille ans d’existence ;
+Il était proclamé par le voeu dés Français,
+Qui déjà présageaient ses insignes bienfaits.
+Sor^ame a voulu suivre un solennel usage,
+A qui la piété se plaît à rendre hommage ;
+Et, dans là Basilique où l’imposant Rémi
+Vit le trône des Francs par sa main affermi,
+Alors que sur Glovis il versa l’huile sainte &gt;
+Charles-Dix a voulu, plein d’amour et de crainte,
+Pour les nobles devoirs imposés à son coeur,
+</p>
+        <pb xml:id="PAG_00000053" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f53.image"/>
+        <p rend="left small">'■(■ <hi rend="i">%8</hi> &gt;</p>
+        <p rend="left">
+Charles-Dix a voulu que la main du Seigneur
+Imprimât sur son front le signe salutëtiçe
+Du suffrage céleste,, et vraiment nécessaire <hi rend="sub"> ;:.</hi>
+Pour garantir à tous le dévoûment sacré
+D’un prince qui par Dieu désire être éclairé.
+Quelle digne assurance au peuple fut donnée,
+Dans cette auguste enceinte, à jamais destinée
+A voir le Saint-Esprit répandre tous ses feux
+Sur nos princes, qui sont lés envoyés des ciéux !
+Charles-Dix a jure, sur le saint Évangile,
+Qu’à la foi de l’Église on le verrait docile ; ,
+Au pied du saint autel, il a fait le serment
+D’affermir l’équité, dans, son gouvernement ;
+De respecter les lois, d’appuyer l’innocence <hi rend="i">-</hi>,
+Et d’employer toujours sa royale existence
+A faire le bonheur de l’état, que le ciel
+A daigné confier à son soin paternel.
+</p>
+        <p rend="left">
+Ce monarque, en ce jour "de touchante allégresse,
+Renouvelle, en son coeur, sa royale promesse.
+J’en atteste votre ame,.ô prince bien aimé !
+De quel ardent amour je vous vois animé
+Pour la religion, pour la loi,.pour la France,
+Et je lis dans vos yeux la sublime espérance ,
+Que, secondé de Dieu, vous parviendrez enfin
+A remplir pleinement votre éminent destin.
+</p>
+        <p rend="left">
+O mortels ! qui venez, dans cette auguste enceinte,
+Apporter tous vos voeux à la majesté sainte,
+</p>
+        <p rend="left">
+Intercédons ensemble en faveur de ce roi,
+Dont le coeur est rempli de la plus pure foi.
+Que le Père éternel, que le Ghrist adorable,
+Que l’Esprit saint, brûlant d’un amour ineffable,
+</p>
+        <pb xml:id="PAG_00000054" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f54.image"/>
+        <p rend="left"><big>(49) '</big>
+Que la reipe des eieùx, que l’immortel patron
+Dont l’Église, è#cë jour, 'célèbre le saint nom :
+De tous les bienheureux, enfin, que le cortège
+Favorise ce roi j, lé guide-, le protège ;
+Qu’il soit toujours comblé de bénédictions,,.
+Ce prince, vénéré de tant de nations.
+</p>
+        <p rend="left">
+'Que ces grands magistrats dont là voix le seconde,
+Et-qui font applaudir sa'Sagesse profonde,
+Conservent, bien <hi rend="sup">long-temps:son</hi> auguste faveur,
+Puisqu’ils ont" pour ses lois la plusïîoyale ardeur.
+</p>
+        <p rend="left">
+* Que sa famille auguste, affable et bienfaisante,
+Exerce fort long-temps sa tâche consolante.
+Que les jours de ce roi, pour nous si précieux,
+Soient rendus par le ciel infiniment nombreux.
+</p>
+        <p rend="left">
+LES ORGUES.,, A L’ÉLÉVATION.
+</p>
+        <p rend="left">
+Voici le corps du Dieu vivant ;
+</p>
+        <p rend="left">
+Prosternons-nous dans cet instant :
+</p>
+        <p rend="left">
+Bénissons ce divin mystère
+</p>
+        <p rend="left">
+Que l’univers entier révère.
+</p>
+        <p rend="left">
+Le sang d’un Dieu, mort sur la croix,
+</p>
+        <p rend="left">
+Vient ici s’offrir à la voix
+</p>
+        <p rend="left">
+Du prêtre, dont le saint office
+</p>
+        <p rend="left">
+Célèbre un si grand sacrifice.
+</p>
+        <p rend="left">
+Adorons tous, avec ferveur,
+</p>
+        <p rend="left small">■■■*■■ t ,</p>
+        <p rend="left">
+Le corps de ce divin sauveur.
+</p>
+        <p rend="left">
+Heureux qui participé ait banquet ineffable <hi rend="sup">:</hi>
+Que nous offre d’un Dieu la bonté secourable !
+Quelle force nous donne un si pur aliment !
+Il élève notre ame au sein du firmament ;
+</p>
+      </div>
+      <div>
+        <head>4</head>
+        <pb xml:id="PAG_00000055" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f55.image"/>
+        <p rend="left">
+ ? ( 5Q ) 
+</p>
+        <p rend="left">
+Il donne a notre coeur un courage invincible :
+</p>
+        <p rend="left">
+Il semble qu’au malheur il n’est plusiaççessiblé.
+</p>
+        <p rend="left">
+Quel bonheur pour celui qui possède son Dieu,
+Qui s’immole pour nous encor dans ce saint lieu !
+La grâce du Très Haut nous remplit d’allégresse :
+Il faut à l’obtenir que tout mortel s’empresse.
+Dieu vient offrir à nous son amour paternel :
+Il veut nous accorder un bonheur éternel.
+Sa voix puissante crie, à chaque créature,
+Qu’il est l’unique auteur de toute la nature ; "
+Que la religion qu’il révèle aux humains
+</p>
+        <p rend="left">
+Est le plus grand bienfait que nous donnent ses mains ;
+Qu’une piété tendre, éclairée et sincère,
+Perfectionne l’homme au sein de sa carrière,
+Et lui donne la paix, la douce paix du coeur,
+Sans laquelle jamais il n’est de vrai bonheur,
+</p>
+        <p rend="left small">SAINT LOUIS-.</p>
+        <p rend="left">
+Nous sommes descendus de la voûte azurée, i
+</p>
+        <p rend="left">
+Afin de prendre part à la fête sacrée
+Que célèbre la France, en l’honneur de son roi i.
+Dont la sollicitude est égale à, sa foi.
+</p>
+        <p rend="left">
+Toi, qui nous as placés dans le séjour céleste,
+Dont le trône à nos yeux toujours se manifesté,
+Dieu puissant, dont la voix veut sauver les mortels,
+Pour Charles nous formons, aux pieds de "tes autels,
+Tous les sincères voeux que puisse faire entendre
+L’amour le plus touchant, l’intérêt le plus tendre. .
+</p>
+        <p rend="left">
+Ce prince est dans ta voie, ô souverain seigneur !
+Fais qu’il reste fidèle à sa plus pure ardeur:
+Sa piété si ferme, éclairée et <hi rend="sub">sublime ?</hi>
+</p>
+        <pb xml:id="PAG_00000056" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f56.image"/>
+        <p rend="left small">…-■■*" ;%■ <hi rend="sup">(</hi> ^ <hi rend="sup">) </hi></p>
+        <p rend="left">
+jj^iéntî àjrandir encor son ame magnanime,
+■Et fortifie aussi son zèle pour l’État,
+Qui s’applaudit d’avoir "ce Roi pour potentat.
+</p>
+        <p rend="left">
+O Dieu, qui sur son front as mis le diadème,
+Donne-lui le, secours de ton appui suprême !
+Permets que, secondant ses jjes.sein§: précieux,
+Nous portions bien souvent sur ce prince les yeux ;
+Mais que pourtant il n’ait aucune connaissance
+J^e ;^e que, fait pour lui notre haute assistance' ;
+-D^jë ;|pême qu’il ignore, en ce jour solennel,
+Qu’à ses côtés il a » des habitans du ciel,
+Des princes pleins d’amour pour le bieu de la France,
+Qui conserve pour eux de la reconnaissance.
+</p>
+        <p rend="left">
+Charles, continuez de vous montrer en roi
+Qui respecte beaucoup l’empire de la loi ;
+Continuez d’agir en prince pacifique,
+Et protégez toujours la liberté publique. "
+Maintenez l’équilibre entre les nations :
+Soyez médiateur dans leurs divisions.
+Que la religion, sous vôtre aimable règne,
+Fasse à chacun goûter les dogmes qu’elle enseigne.
+Conduisez votre État à la prospérité,
+Et vous affermissez toujours dans l’équité.
+</p>
+        <p rend="left small">LOUIS XII.</p>
+        <p rend="left">
+Créateur des humains, du ciel et dé la terre,
+</p>
+        <p rend="left">
+O toi ! qui fais mouvoir ce que le globe enserre,
+</p>
+        <p rend="left">
+Accorde le bonheur à cette nation
+</p>
+        <p rend="left">
+Qui cherche à mériter ta bénédiction.
+</p>
+        <p rend="left">
+Tu la fais gouverner par un monarque auguste,
+</p>
+        <p rend="left">
+4-
+</p>
+        <pb xml:id="PAG_00000057" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f57.image"/>
+        <p rend="left">
+Doué d’un caractère aussi ferme que juste. "
+</p>
+        <p rend="left">
+Donne à ce souverain des jours assez nombreux
+</p>
+        <p rend="left">
+Pour qu’il puisse bénir ses arrière-nèveux.
+</p>
+        <p rend="left">
+Donne-lui constamment la force précieuse
+</p>
+        <p rend="left">
+Qu’il faut pour bien remplir sa tâche glorieuse.
+</p>
+        <p rend="left">
+Fais qu’il ait constamment cette, <hi rend="i">sérénité,■</hi> ?
+</p>
+        <p rend="left">
+Si rare dans les soins qu’offre la royauté ;
+</p>
+        <p rend="left">
+Que sa santé jamais n’offre d’inquiétude
+</p>
+        <p rend="left">
+A tant d’êtres voués à sa sollicitude ;
+</p>
+        <p rend="left">
+Que la noble louange ait pour lui des attraits,
+</p>
+        <p rend="left">
+Quand elle a pour objet de vanter ges bienfaits,
+</p>
+        <p rend="left">
+Et de l’encourager à la persévérance
+</p>
+        <p rend="left">
+Dans ses heureux desseins en faveur de la France ;
+</p>
+        <p rend="left">
+Que l’adulation, corruptrice des Rois,
+</p>
+        <p rend="left">
+N’ose jamais, à lui, faire entendre sa voix ;
+</p>
+        <p rend="left">
+Fais-lui toujours haïr l’indigne flatterie. .
+</p>
+        <p rend="left">
+Fais qu’il soit surnommé père de la patrie.
+</p>
+        <p rend="left small">¥ ÏIENRI IV. <hi rend="i">■ ;,"■'</hi></p>
+        <p rend="left">
+Maître de l’univers, donne au roi de la France,
+Pour le bonheur jpubhç, une longue existence. .
+Puisque tous les humains sont protégés par toi,
+Rien à toi ne plaît mieux qu’un pacifique roi.
+Charles, par un effet de son louable zèle,
+Voudrait anéantir la guerre si cruelle ;
+JMais il sait que pourtant la sévère équité
+"Fait parfois de'là guerre une nécessité.
+La guerre peut donc être un objet légitime
+Pour un roi très humain et vraiment magnanime ;
+Elle peut lui paraître un souverain devoir,
+Et pourtant mal remplir son raisonnable espoir.
+</p>
+        <pb xml:id="PAG_00000058" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f58.image"/>
+        <p rend="left">
+Ainsi, sans que la guerre aitpour lui quelques charmes,
+Un roi doit être .prêt à signaler ses armes.
+Si Charles est forcé de lever l’étendard,
+O Dieu puissant ,sSers-lui d’invincible rempart !
+Fais que ses légions, par l’honneur enflammées, *
+Sachent que par toi seul triomphent les <hi rend="sup">5</hi> armées.
+</p>
+        <p rend="left small">LOUIS XIV.</p>
+        <p rend="left">
+Auteur de la nature,,: ô roi de l’univers !
+Toi, qui donne'lavié <hi rend="sup">à1</hi> tant d’êtres divers,
+Vois un puissant État pour lequel on t’implore,
+Et qui depuis Clovis te connaît et t’adore.
+Tu lui donnes’ un chef digne d/un grand amour ;
+Il semble être venu dé l’éternel séjour, . ■ '■ <hi rend="i">■ ■:&gt; </hi>.
+Tant il montre d’ardeur pour ta divine lof,
+Et tant il sait remplir tous les devoirs d’un roi.
+On espère de luijput ce qu’on peut attendre
+D’un prince dont le zèle est aussi pur que'tendre.
+Favorise, ô nion Dieu ! les louables desseins
+D’un roi si distingué parmi tous les humains.
+Fais que sa nation , si grande et généreuse, ■
+Devienne, par ses soins-, aussi la plus heureuse ;
+La France est un État comblé de tes faveurs,
+Et qui sent tout le prix de tes soins protecteurs. *
+Conserve-lui, seigneur, ce roi recommandable, " ;
+Qui voue à sa patrie un zèle inaltérable. ■
+Fais qu’il puisse accomplir lès plus chers de ses ! voeux.
+Ce prince, si » rempli de penchans vertueux ; ■-•■■ ; - •
+Fais qu’il puisse affermir tout’ce que sa puissance,
+Par ton divin secours, établit dans la France ;
+</p>
+        <pb xml:id="PAG_00000059" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f59.image"/>
+        <p rend="left">
+(%) 
+</p>
+        <p rend="left">
+Fais qu’au milieu des siens, il jouisse long-temps
+De tout ce qu’ont produit ses bienfaits importans."
+</p>
+        <p rend="left small">LOUIS XVI.</p>
+        <p rend="left">
+ » Seigneur, entends ma voix pour un frèrequi t^aime,
+Et qui tient de tes mains un brillant jdiad’ême.
+Qu’il m’est doux de lui voir beaucoup de piété^
+Et de trouver en lui la plus grande équité !
+</p>
+        <p rend="left">
+Alors qu’orfme ravit ma terrestre existence,
+La terreur désolait le royaume,, de France ;
+Tous mes proches étaient dans l’exil et les pleurs ;
+Les Français gémissaient sous d’horriblesmalheurs.
+Le trône des Bourbons, brisé par l’anarchie,
+Sous.ses débris semblait entraîner la, patrie :
+Tout paraissait perdu pour cet État puissant,
+Que maintenant je vois si beau, si florissant.
+</p>
+        <p rend="left">
+Quelle reconnaissance à tes bontés est due,
+O Dieu, par qui' la France à ses <hi rend="sub">rois ;est</hi> renduélr
+Cet État, restauré par une habile main, "■• ' ."■
+Est sûr d’avoir long-temps un fortuné destin,.
+Si, fidèle aux vertus, à la foi. de ses pères, ■ . ■ »
+Le peuple craint l’effet dès funestes chimères.
+</p>
+        <p rend="left">
+Les Bourbons sont vraiment à l’État dévoués,.
+Et par l’honneur toujours veulent être avoués ;
+Mais ils veulent surtout que leur haute puissance
+'Obtienne l’agrément de cette Providence
+Qui gouverne les rois, ainsi que leurs sujets.
+Ils veulent fortement que leurs nobles projets,.
+Dictés par la raison, mûris par la sagesse,
+Garantissent l’État des maux de la, détresse.
+</p>
+        <p rend="left">
+Charles,, mettez au rang de vos nobles, travaux
+</p>
+        <pb xml:id="PAG_00000060" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f60.image"/>
+      </div>
+      <div>
+        <head>(<hi rend="i">"m</hi></head>
+        <p rend="left">
+Le grand soin de veiller à l’emploi des impôts ;
+Les tributs sont le{|ang de la chose publique ;
+Il ne faut point contre eux de remède empirique.
+Quant aux calamités qui peuvent survenir,
+Charles ,'soyez toujours prêt à lés adoucir ;
+Que contre ces fléaux un trésor se conserve,
+Et qu’il soit: dans l’État constamment en réserve.
+Apportez un remède à la mendicité,
+Et traitez cette plaie avec habileté:
+Multipliez beaucoup le travail, l’industrie,
+Par qui toujours on voit prospérer la patrie.
+</p>
+        <p rend="left">
+Charles, *oyez heureux, par votre dignité,
+En donnant à l’État cette félicité
+Qui peut naître des soins d’un prince magnanime,
+Que la religion, si bienfaisante, anime.
+Le ciel vous a placé dans ce suprême rang,
+Où vous établissait l’éclat de votre sang.
+Le peuplè^s’applaudi ! de rendre obéissance
+A Charles, si zélé pour lé bien de la France,
+</p>
+        <p rend="left">
+Évitez les écueils qu’offre la royauté ;
+Ne rebutez jamais l’utile vérité.
+Craignez la flatterie avide et téméraire ;
+Mais accueillez toujours un éloge sincère:
+La louange est l’encens qu’on peut offrir aux rois,
+Quand elle ne part point d’une servile voix,
+Et qu’elle a pour objet d’exciter leur courage
+"A faire pour le peuple encore davantage.
+</p>
+        <p rend="left">
+Vous avez la vertu, la foi, l’humanité :
+, Joignez-y constamment beaucoup de fermeté ;
+Ne fléchissez jamais devant cette licence ,
+'Dont ou n’a que trop vu la funeste influence.
+</p>
+        <pb xml:id="PAG_00000061" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f61.image"/>
+        <p rend="left">
+Satisfaites aux voeux de tous les citoyens’,
+Autant qu’un prince peut en avoir, les moyens,.
+</p>
+        <p rend="left">
+Soyez aussi clément qu’ura souverain doit l’être :
+La clémence est beaucoup agréable au grand Être ;
+* Il faut que ses avis soient- squvent écoutés :•
+Faites-là donc toujours asseqir à vo&amp; côtés.
+</p>
+        <p rend="left">
+Par vous même voyez tout ce que peut connaître
+Un prince fort zélé "pour le Commun bien-être.
+Fermez toujours votre âme à la prévention,
+Qui des mortels, hélas ! trompe l’opinion.
+Gardez-vous d’écouter l’affreuse qalomnie : •
+De votre noble cour que sa voix soitbaniàie.
+Que d’hommes précieux elle a sacrifiés,
+Qu’ensuite les rois ont, trop tard, appréciés !
+« ■■ Continuez d’avoir beaucoup de vigilance:
+Elle est bien nécessaire à votre tâche immense.
+Écoutez des’conseils propres à vous guider:
+Que de nobles esprits viennent TOUS seconder.
+Prenez souvent l’avis de vôtre conscience ;
+Elle ne peut jamais trahir la confiance
+Que vous accorderez à sa sincère voix.
+</p>
+        <p rend="left">
+Imposez-vous toujours le frein sacré des lois.
+Affermissez beaucoup la liberté légale,
+Si propre à faire aimer l’autorité royale,
+Et si propre à donner à ce gouvernement
+Un appui qu’il" n’a pas assez communément.
+</p>
+        <p rend="left">
+• Charles, vous êtes mûr, par votre expérience ; <hi rend="sup">1</hi>
+Mais vous êtes encor bien jeune pour la France ,
+Puisqu’elle attend de vous un long cours de travaux.
+D’où chaque jour naîtront quelques bienfaits nouveaux.
+Vous avez la santé, l’agilité, la force,
+</p>
+        <pb xml:id="PAG_00000062" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f62.image"/>
+      </div>
+      <div>
+        <head>( $n</head>
+        <p rend="left">
+Et le zèle avec vous n’est jamais en divorce.
+La patrie,.attentive,, aux voeux de ses enfans, <hi rend="i">-'■'</hi>
+Vous demande poù*i£père encore bien long-temps.
+Le ciel doit exaucer des voeux si légitimes,
+Et par-là, satisfaire à nos désirs intimes.
+</p>
+        <p rend="left small">LOUIS XVIII.</p>
+        <p rend="left">
+Souveraine Bonté, divine Providence,
+Toi, dont toujours on doit invoquer l’assistance,
+Tu me vois, en ce jour, dans ce temple sacré,'
+Qu’à la mère de Dieu la France a consacré.
+Pour un frère, je viens au sein du sanctuaire,
+Honorer de son nom le saint anniversaire ;
+Je viens t’offrir mes voeux pour sa prospérité,
+Et pour le plus grand bien, de sa postérité.
+</p>
+        <p rend="left">
+Si, pendant mon exil du royaume de France,
+Je n’ai point exercé la suprême puissance, *,
+Mon coeiir n’en a pas moins régné sur les Français,
+Et je n’en ai pas moins applaudi leurs succès.
+Mon amour t’adressait, pour eux, des voeux sincères,
+Et j’espérais revoir le-trône de mes pères,
+Par ta protection, qui ne trompe jamais,
+Et de qui j’ai reçu tant de nobles bienfaits.
+</p>
+        <p rend="left">
+J’avais laissé la France en proie à l’anarchie ;
+Elle m’apparaissait par la guerre envahie.
+Les étrangers visaient à démembrer l’État ;
+Mais les Français-voulaient m’avoir pour potentat :'•'
+Alors les souverains les plus considérables
+Furent à ce désir pleinement favorables,
+Et l’on vint m’apporter, sur le sol d’Albion ,
+Le voeu que m’adressait la grande nation.
+</p>
+        <pb xml:id="PAG_00000063" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f63.image"/>
+        <p rend="left">
+( 5ft-) 
+Enfin, après trente ans ; je revis ma patrie ? '
+</p>
+        <p rend="left">
+Tu sais combien mon ame alors fut attendrie,
+Et combien je reçus, à mon heureux retour,
+De bénédictions et de marques d’amour.
+Lorsque tu me chargeas de restaurer la France,,
+Mon zèle désira d’avoir cette prudence
+Bien nécessaire, après les révolutions
+Pour arrêter l’effet de faut,de passions.
+Le vaisseau de l’État était à reconstruire.
+Dans ses proportions il fallait le réduire ;
+A sa première forme il fallait qu’il" revînt,
+Et qu’à le bien pourvoir tout mon zèle parvînt.
+Mais en lui retirant sa grandeur colossale ,
+Il fallait conserver sa force principale,
+Et tous les attributs qu’il pouvait réclamer
+De celui dont la voix venait le ranimer.
+Il fallait lui donner une nouvelle allure,
+Pour que sa marche fût moins fougueuse et plus sûre ;
+Il fallait, en un mot, qu’il fût cher aux humains,
+Et qu’il vînt protéger leurs paisibles destins.
+</p>
+        <p rend="left">
+Pendant dix ans, ô Dieu ! grâce à ton assistance,
+Ma main a gouverné le vaisseau de la France.
+Je n’ai craint nul péril, en pensant que toujours. *
+En toi seul se trouvait l’arbitre de mes jours.,
+Pouvais-je redouter, en effet, un.naufrage,
+Puisque ma mission était ton propre- ouvrage,
+Et que tu me voyais m’efforcer, constamment,
+D’agir avec sagesse, avec discernement ?
+</p>
+        <p rend="left">
+Ta voix m’a rappelé près de ton trône auguste,.
+Pour me récompenser du désir d’être juste. *
+</p>
+        <p rend="left">
+Mon digne frère a pris <hi rend="sub">en:</hi> ses mains le pouvoir,.
+</p>
+        <pb xml:id="PAG_00000064" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f64.image"/>
+        <p rend="left">
+          <hi rend="sup">(</hi>
+          <hi rend="sup">%) </hi>
+        </p>
+        <p rend="left">
+Et tu sais qu’il se fait le plus sacré devoir
+De rendre sa patrie heureuse, florissante,
+Et qu’il a pour ta loi l’ardeur la plus constante.
+Conserve-le long-temps, à l’amour des Français,
+Et couronne ses soins du plus noble succès.
+</p>
+        <p rend="left small">LA RELIGION.</p>
+        <p rend="left">
+Orgues, qui consacrez
+A la majesté sainte
+Des sons purs et sacrés.
+Dans cette auguste enceiuje,
+Louez un roi pieux,
+Que contemplent les cieux.
+</p>
+        <p rend="left small">LA PRUDENCE.</p>
+        <p rend="left">
+Serpens pompeux, donnez
+A la cérémonie
+Tout ce que vous venez
+Déployer d’harmonie
+Dans les solennités
+Où vos airs sont portés.
+</p>
+        <p rend="left small">LA JUSTICE.</p>
+        <p rend="left">
+Sublimes violons,
+Riches en mélodie,
+De nos impressions
+Parlez avec génie ;
+Peignez nos senlimens,
+En de si doux momens.
+</p>
+        <p rend="left small">LA FORCE.</p>
+        <p rend="left">
+Clairons impétueux ;
+</p>
+        <pb xml:id="PAG_00000065" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f65.image"/>
+        <p rend="left">
+(6o) 
+</p>
+        <p rend="left">
+Que vos sons belliqueux
+Montrent leur véhémence,
+En cette circonstance,
+Pour célébrer l’amour
+Qu’inspire ce grand jour.
+</p>
+        <p rend="left small">LA TEMPÉRANCE.</p>
+        <p rend="left">
+Bassons majestueux, "
+Que par vos sons pompeux
+S’exprime l’allégresse
+Et toute la tendresse
+Que sent la nation
+Pour un roi vraiment bon.
+</p>
+        <p rend="left small">LA FOI.</p>
+        <p rend="left">
+Clarinettes brillantes,
+Et bien réjouissantes,
+Venez, par vos accords,
+Témoigner les transports
+Que la reconnaissance
+Fait naître dans la France..
+</p>
+        <p rend="left">
+L’ESPÉRANCE.
+</p>
+        <p rend="left">
+O Lyres ! illustrées
+Parmi l’antiquité,
+Et vraiment révérées
+Pour votre dignité ;
+Ranimez votre ardeur
+Pour chanter un grand coeur.
+</p>
+        <p rend="left small">LA CHARITÉ.</p>
+        <p rend="left">
+Vous, luths harmonieux,
+</p>
+        <pb xml:id="PAG_00000066" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f66.image"/>
+        <p rend="left">
+(6i) ._
+Par vos vibrations,
+Exprimez tous nos voeux
+Nos bénédictions
+Pour ce grand personnage
+A qui tout rend hommage.
+</p>
+        <p rend="left small">LA PIÉTÉ.</p>
+        <p rend="left">
+O harpes glorieuses !
+Que vos Voix généreuses
+Viennent, en ce grand jour,
+Témoigner leur amour,
+Avec magnificence,
+Au soutien de la France.
+</p>
+        <p rend="left small">LA TOLÉRANCE.</p>
+        <p rend="left">
+Basses, qui soutenez
+Des concerts l’harmonie,
+Pour Charles résonnez
+-Sous la main du génie ; ,
+Que vos graves accens
+Soient très intéressans.
+</p>
+        <p rend="left small">LA VERTU.</p>
+        <p rend="left">
+Flûtes mélodieuses,
+Et toujours gracieuses,
+Que vos touchans açcens
+Peignent nos sentimens
+Pour un roi tutélaire,
+Dont l’existence est chère.
+</p>
+        <p rend="left">
+L’HONNEUR.
+Trompettes imposantes,
+</p>
+        <pb xml:id="PAG_00000067" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f67.image"/>
+        <p rend="left">
+, ( 6a ) <hi rend="i">*</hi>
+Et souvent triomphantes,
+Montrez, en cet instant,
+Votre zèle éclatant
+Pour un roi magnanime,
+Dont l’ardeur est sublime.
+</p>
+        <p rend="left small">LA FIDÉLITÉ.</p>
+        <p rend="left">
+Cors, qui retentissez
+Avec un grand éclat,
+Sonnez'et bénissez
+Aussi ce potentat,
+Dont l’âme bienfaisante
+Est toujours consolante.
+</p>
+        <p rend="left small">LA SAGESSE.</p>
+        <p rend="left">
+Trombonnes, que l’on doit
+A cette Germanie
+Où la musique voit
+Exceller son génie,
+Mêlez à tous les sons
+La vigueur de vos tons.
+</p>
+        <p rend="left small">LA BONTÉ.</p>
+        <p rend="left">
+Champêtres chalumeaux,
+Délaissez les hameaux,
+Et venez à la fête ;
+Pour vous la place est prête.
+Que vos sons délicats
+Ont pour nous dés appas !
+</p>
+        <p rend="left">
+L’HUMANITÉ.
+Joyeux hautbois,
+</p>
+        <pb xml:id="PAG_00000068" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f68.image"/>
+        <p rend="left">
+( 63 ) -
+Que votre voix, <hi rend="sub">T</hi>
+Par sa gaîté
+</p>
+        <p rend="left">
+Par sa clarté, ♦
+</p>
+        <p rend="left">
+Chante un grand coeur,
+Un bienfaiteur.
+</p>
+        <p rend="left small">LA CONCORDE.</p>
+        <p rend="left">
+Cymbales éclatantes,
+Soyez retentissantes.
+Pour un grand souverain, *
+Aussi juste qu’humain,
+Et par yotre énergie
+Mesurez l’harmonie.
+</p>
+        <p rend="left small">LA CLÉMENCE.</p>
+        <p rend="left">
+Flageolets agréables,
+Que vos sons délectables
+Viennent dans ces concerts
+Faire éclater des airs
+Pleins de délicatesse,
+Qui peignent l’allégresse.
+</p>
+        <p rend="left small">LA PAIX.</p>
+        <p rend="left">
+Vous, Tambours, alternez,
+Dans cette symphonie,
+Avec tant d’instrumens
+Éclatans d’harmonie ;
+Et sentez tout le prix
+De vanter Charles-Dix.
+</p>
+        <p rend="left small">LA BIENFAISANCE.</p>
+        <p rend="left">
+Fifres, qui secondez
+</p>
+        <pb xml:id="PAG_00000069" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f69.image"/>
+        <p rend="left">
+* Les tambours belliqueux-, V
+Avec eux accordez « -■-.■, - <hi rend="sup">-ri</hi>
+Vos sfns vifs et nombreux,
+Pour la réjouissance
+Où se livre la France.
+</p>
+        <p rend="left small">LA SINCÉRITÉ.</p>
+        <p rend="left">
+Cloches, retentissez
+Pour un grand personnage :
+Par vos sons bénissez
+Le glorieux hommage
+Que rend tout un état" '"
+Au meilleur potentat.
+</p>
+        <p rend="left small">LA MAGNANIMITÉ.</p>
+        <p rend="left">
+Canons, qui possédez
+Une voix éclatante
+Par vos sons répandez
+L’allégresse touchante
+Que cause un souverain
+Si cher au genre humain.
+</p>
+        <p rend="left small">LES ORGUES, LA MUSIQUE, LES TAMBOURS, LES CLOCHES
+, LES CANONS.</p>
+        <p rend="left">
+Nous bénissons,
+Nous honorons,
+Nous célébrons,
+Nous exaltons,
+Et nous chantons,
+Tous un Bourbon.
+</p>
+        <pb xml:id="PAG_00000070" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f70.image"/>
+      </div>
+      <div>
+        <head>. <hi rend="sub">*-r:'</hi> -(j56") ■"</head>
+        <p>
+Quels beaux destins-'
+iîâés les lieux"saints,
+Dans les cités, <hi rend="sub">t</hi>
+</p>
+        <p>
+Dans les vallons,
+Et sur les monts,
+Au sein des airs,
+Et sur les mers,
+Nos sons bruyans
+Sont éclajtans.,
+</p>
+        <p rend="left">
+Quelle harmonie
+Entre ? nos sons !
+Heureux génie
+Des nations,
+Nos sons pieux
+Vont jusqu’aux cieux.
+</p>
+        <p rend="left">
+L’Être éternel .
+Pour un mortel
+Voit tant d’amour,
+En ce beau jour.
+</p>
+        <p rend="left">
+Mais ce mortel
+Est un bon roi, "
+</p>
+        <p rend="left">
+Qui soumet son sceptre à là loi.
+</p>
+        <p rend="left small">LA MUSIQUE.</p>
+        <p rend="left">
+Honneur au céleste patron
+D’un roi souverainement bon.
+Que nos sons aient cette noblesse
+Convenable à tant d’allégresse :
+</p>
+        <pb xml:id="PAG_00000071" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f71.image"/>
+      </div>
+      <div>
+        <head>…. i^l ; ,*:.'</head>
+        <p rend="left">
+Qu’ils expriment en ce grand joùfe
+</p>
+        <p rend="left">
+De touchans sëntimens d’ampuri
+</p>
+        <p rend="left small">* . .■■■.■■• <hi rend="sup"/> ; ' ',</p>
+        <p rend="left small">LES ORGUES.</p>
+        <p rend="left">
+O bienheureux ! que la patrie
+De toi soit constamment chérie !
+Noble ministre du Seigneur,
+Conserve toujours ta faveur
+A la France qui te révère,
+Comme son ange tutélaire.
+</p>
+        <p rend="left small">LA MUSIQUE."</p>
+        <p rend="left">
+Sublime protecteur d’un’roi
+Tout rempli d’une pure foi,
+Qu’il mérite ta bienveillance,.
+Puisque constamment sa puissance
+Affermit la religion,
+Et régit bien sa nation !
+</p>
+        <p rend="left small">LES ORGUES.</p>
+        <p rend="left">
+Veillé Sur les jours précieux
+D’un souverain si glorieux,,
+Tu peux, par ta haute influence,
+Faire étendre spn existence
+Au terme le plus reculé :
+Ce serait un bien signalé*
+</p>
+        <p rend="left small">LA MUSIQUE.</p>
+        <p rend="left">
+Nous espérons, que le Sauveur,
+Favorable à notre bonheur,
+Exaucera nos voeux sincères,
+</p>
+        <pb xml:id="PAG_00000072" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f72.image"/>
+        <p rend="left small">• <hi rend="sup">('ê</hi> <hi rend="sup">7) </hi> , ■</p>
+        <p rend="left">
+En donnant dés destins "prospèresyAinsi
+que des ans très nombreux,
+A notre prince géhéreuxi « - s,,
+</p>
+        <p rend="left small">„i . "LES, .ORGUES.</p>
+        <p rend="left">
+Oui, nous croyons que l’éternel,
+D’un monarque si "paternel
+Etendra bien loin l’éxistêjic’e,"' -
+Pour l’intérêt de cette France
+Qui témoigne des sentimèhs
+Aussi louables que fervens.
+</p>
+        <p rend="left small">LES TAMBOURS ET LA MUSIQUE,
+Alternativement, en revenant de la Cathédrale.</p>
+        <p rend="left small">: » Air : <hi rend="i">C’est un Moufbon</hi>.</p>
+        <p rend="left">
+Que les Bourbons
+Sont dignes de nous plaire !
+</p>
+        <p rend="left">
+Nous chérissons
+Leur règne tutélaire,
+</p>
+        <p rend="left">
+Leur équité,
+Pleine d’humanité.
+</p>
+        <p rend="left">
+Sous les Bourbons
+La France enfin respiré :
+</p>
+        <p rend="left">
+Nous jouissons^' <hi rend="sup">) : !'</hi> ; <hi rend="sup"> ;/</hi>
+</p>
+        <p rend="left">
+Du paternel empire
+</p>
+        <p rend="left">
+Des sages lois* <hi rend="sup">5</hi> "'■'''' "'"'■
+Que noué donnent ribs rois. '
+</p>
+        <p rend="left">
+Oui, des Bourbons
+</p>
+        <pb xml:id="PAG_00000073" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f73.image"/>
+        <p rend="left">
+( 68 ) 
+L’heureux retour en France
+</p>
+        <p rend="left">
+Aux nations
+A donné l’assurance
+</p>
+        <p rend="left">
+Que désormais
+On pourra vivre en paix.
+</p>
+        <p rend="left">
+Sages Bourbons-,
+Dans votre dynastie,
+</p>
+        <p rend="left">
+Nous retrouvons
+La forte garantie
+</p>
+        <p rend="left">
+Des libertés
+Et des prospérités.
+</p>
+        <p rend="left">
+Heureux Bourbons
+Pères de la patrie,
+</p>
+        <p rend="left">
+Des nations
+Votre gloire est chérie ;
+</p>
+        <p rend="left">
+Votre grandeur .
+N’a point d’éclat trompeur-.
+</p>
+        <p rend="left">
+Venez, Bourbons,
+Recevoir les hommages.
+</p>
+        <p rend="left">
+Que nous devons
+A vos lois vraiment sages,
+</p>
+        <p rend="left">
+A vos travaux -,
+Aussi nombreux que beaux.
+</p>
+        <p rend="left">
+Pour les Bourbops,
+</p>
+        <p rend="left">
+Qu’a réclamés la France,
+NPUS conservons
+Cette reconnaissance
+</p>
+        <pb xml:id="PAG_00000074" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f74.image"/>
+        <p rend="left">
+: ;, , <hi rend="sup">(</hi> <hi rend="sup">69) </hi>
+</p>
+        <p rend="left">
+Qu’aux plus grands biens
+Doivent des citoyens <hi rend="sup">1</hi>.
+</p>
+        <p rend="left">
+De ces Bourbons,^
+Que tout affectionne^
+Ï, Nous vénérons
+La sublime couronne,
+</p>
+        <p rend="left">
+Gage, suprême, ' ;
+</p>
+        <p rend="left">
+Donné par le ciel même.
+</p>
+        <p>
+Sans les Bourbons.,,
+Que devenait la France ?
+</p>
+        <p rend="left">
+Les nations
+Étaient d’intelligence ,
+</p>
+        <p rend="left">
+'Pour se veijger, . , .
+Et se la partager. . ,.
+</p>
+        <p rend="left">
+Par les Bourbons,
+Q'aime la Providence,
+</p>
+        <p rend="left">
+Nous recouvrons <hi rend="i">■■'■■,--</hi>
+Une noble influencé-..
+</p>
+        <p rend="left">
+Sur les destins
+D’états même lointains <hi rend="i">"</hi>.
+</p>
+        <p>
+Sous les Bourbons,
+Pleins d’ardeur généreuse,
+</p>
+        <p>
+Quand des clairons
+La voix audacieuse
+</p>
+        <p>
+Veut des combats,
+Nous avons dés soldats.
+</p>
+        <p rend="left">
+Nous admirons
+</p>
+        <pb xml:id="PAG_00000075" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f75.image"/>
+        <p rend="left">
+( ?o) 
+D’illustres ; capitaines,
+</p>
+        <p rend="left">
+Que des Bourbons
+Les bontés souveraines
+</p>
+        <p rend="left">
+Comblent d’honneurs ^
+De sublimes faveurs. ""'"■■
+</p>
+        <p rend="left">
+Cent légions, "'
+Pleines d’un nobïélzële <hi rend="sub">,y</hi>
+</p>
+        <p rend="left">
+Pour les Bourbons
+Ont une ardeur fidèle,
+</p>
+        <p rend="left">
+Un dévôûment
+Qui brille éminemment^
+</p>
+        <p rend="left">
+Nobles Bourbons,
+Amis de la vaillance,
+</p>
+        <p rend="left">
+Nosiégions, "
+Pleines dé confiance
+</p>
+        <p rend="left">
+Dans votre voix,
+Respectent tous les,droits.
+</p>
+        <p rend="left">
+Nos légions ;, … . <hi rend="sub">:</hi>
+Dont la gloire est chérie „
+</p>
+        <p rend="left small">" <hi rend="sup">:'0::','</hi> ; :ri':.'jlïr .::,'</p>
+        <p rend="left">
+Dans les Bourbons
+Voient aussi la patrie :
+</p>
+        <p rend="left">
+Le Roi, l’lîtat&gt;
+Sont l’amour du soldat..
+</p>
+        <p rend="left">
+Oui-, nous voyons
+Que notre belle armée
+</p>
+        <p rend="left">
+Pour les Bourbons -
+Est vraiment animée
+</p>
+        <pb xml:id="PAG_00000076" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f76.image"/>
+        <p rend="left"><big>,(70</big>
+D’un noble amour,
+Qui s’accroît chaque jour,
+</p>
+        <p rend="center">
+Nos vieux sojdats
+</p>
+        <p rend="center">
+Sont ehérs à <hi rend="sup">là</hi> ; patrie ;
+</p>
+        <p rend="center">
+Par cent combats
+</p>
+        <p rend="left">
+Leur ame est aguerrie,
+</p>
+        <p rend="left">
+Et leurs exploits
+Sont aimés de nos Rois.
+</p>
+        <p rend="left">
+Honneur des camps,
+Glorieux invalides ! '-
+</p>
+        <p rend="left">
+Par vos élans
+Belliqueux, intrépides,
+</p>
+        <p rend="left">
+Le riôm français ""
+Est plus grand qùé jamais.
+</p>
+        <p rend="left">
+• Avec respect ;•
+La France vous contemple,
+</p>
+        <p rend="left">
+Et votre aspect : ' .' ;.( ;
+En un palais rassemble
+</p>
+        <p rend="left">
+Des faits brillans,
+Et vraiment imposans. ; ■
+</p>
+        <p rend="left">
+Oui, dans ces <hi rend="sub">i,ie,ux, ;</hi>
+Votre gloire est empreinte ;
+v Un roi fameux
+À fondé cette enceinte
+</p>
+        <p rend="left">
+Où des héros -,
+Ont un nobjÈ ! repos.
+</p>
+        <p rend="left">
+Charles, doué
+</p>
+        <pb xml:id="PAG_00000077" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f77.image"/>
+      </div>
+      <div>
+        <head>( ?o.</head>
+        <p rend="left">
+D’une ame magnanime,
+</p>
+        <p rend="left">
+Vous a voué
+La plus parfaite estime,
+Vaillans guerriers,
+*TPUS couverts: de lauriers.
+</p>
+        <p rend="left">
+Dans les^ Bourbons,
+Tout a de l’espérance,.
+</p>
+        <p rend="left">
+Et nous avons
+Beaucoup de confiance
+</p>
+        <p rend="left">
+Dans leurs talens,
+Et dans leurs, sentimens.
+</p>
+        <p rend="left">
+Sur les Bourbons
+Que l’honneur a d’empire !
+</p>
+        <p rend="left">
+Nous admirons
+Ce que vient leur prescrireLa
+loyauté,
+Qui fait leur volonté.
+</p>
+        <p rend="left">
+Quand les Bourbons
+Sont revenus en France &gt;.
+</p>
+        <p rend="left">
+Les nations
+Ont béni l’influence
+</p>
+        <p rend="left">
+De ce retour,
+Si cher à notre amour ;
+</p>
+        <p rend="left">
+En vous*, Bourbons,.
+Nés pour le diadème,.
+</p>
+        <p rend="left">
+Nous retrouvons
+Cette bonté suprême-
+</p>
+        <pb xml:id="PAG_00000078" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f78.image"/>
+        <p rend="left">
+('73 ) ■ ,
+Qu’il faut chérir
+Et que l’on doit bénir.
+</p>
+        <p rend="left">
+Voyez, Bourbons,
+L’amour de nos provinces^.
+</p>
+        <p rend="left">
+Nous remarquons
+Leur zèle pour des princes
+</p>
+        <p rend="left">
+Dont le malheur
+A retrempe le coeùrv
+</p>
+        <p rend="left">
+Dignes Bourbons,
+Votre splendeur auguste
+</p>
+        <p rend="left">
+Aux nations
+Montre Un régime juste :
+</p>
+        <p rend="left">
+Le monde entier
+Sait vous apprécier.
+</p>
+        <p rend="left">
+Qui des Bourbons
+N’aimerait la puissance ?
+</p>
+        <p rend="left">
+Combien sont bons
+Ces Rois dont l’existence
+</p>
+        <p rend="left">
+Est constamment
+Un noble dévouement !
+</p>
+        <p rend="left">
+Goûtez, Bourbons,
+La douce récompense
+</p>
+        <p rend="left">
+Que nous offrons
+A votre,bienveillance :.
+</p>
+        <p rend="left">
+Oui, notre amour
+Vous bénit chaque jour.
+</p>
+        <p rend="left">
+Suivez, Bourbons,
+Les plans de votre zèle :
+</p>
+        <pb xml:id="PAG_00000079" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f79.image"/>
+        <p rend="left">
+(-.74) 
+</p>
+        <p rend="left">
+Nous connaissons
+Votre ardeur si fidèle
+</p>
+        <p rend="left">
+Aux intérêts
+De vos nombreux sujets..
+</p>
+        <p>
+Croyez, Bourbons,
+A nôtre amour sincère :
+</p>
+        <p>
+Nous vous devons,
+Un régime prospère,
+</p>
+        <p>
+Et vraiment doux,
+Que nous chérissons tous.
+</p>
+        <p rend="left">
+Jamais, Bourbons.,' ;'.
+Le sceptre dé la France
+</p>
+        <p rend="left">
+Aux nations
+N’a donné d’espérance
+</p>
+        <p rend="left">
+D’un plus haut prix
+Que ne fait Charles-Dix.
+</p>
+        <p rend="left">
+Régnez, Bourbons,"
+A jamais sur l’a'France :
+</p>
+        <p rend="left">
+Les plus beaux dons
+Que fait la Providence
+</p>
+        <p rend="left">
+Offrent des Rois
+Qui respectent lès lois.
+</p>
+        <p>
+A vous, Bourbons,
+Que l’amour environne
+</p>
+        <p rend="left">
+Nous désirons
+Que le grand Être donne
+</p>
+        <p>
+Un très- long cours
+Des plus fortunés jours.
+</p>
+        <pb xml:id="PAG_00000080" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f80.image"/>
+        <p rend="left">
+( 75 ) ■ .
+</p>
+        <p rend="left">
+Air :
+</p>
+        <p rend="left">
+Charles, votre règne heureux
+Doit faire une grande époque,
+Car votre coeur généreux
+Accorde ce qu’on invoque.
+</p>
+        <p rend="left">
+Vous êtes le bienfaiteur
+D’un peuple aimable, éclairé,
+De qui l’intérêt majeur <hi rend="i">■■'</hi>
+Est pour vous toujours sacré.
+</p>
+        <p rend="left">
+Prince, le cours fortuné
+De votre royale vie
+Paraît vraiment destiné
+Au bonheur de la patrie.
+</p>
+        <p rend="left">
+Oh ! combien, en peu d’années,
+Votre règne offre à nos* yeux
+D’actions qu’a couronnées
+Un succès bien glorieux !
+</p>
+        <p rend="left">
+Mais combien nous attendons
+Encor de votre puissance !
+Oui, prince, nous demandons
+Beaucoup à votre obligeance.
+</p>
+        <p rend="left">
+Après tant de maux soufferts ,
+Après tant de sacrifices,
+Des biens qui nous sont offerts
+Goûtons enfin les délices.
+</p>
+        <pb xml:id="PAG_00000081" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f81.image"/>
+        <p rend="left">
+. ( <hi rend="sup">7&amp;</hi> ) 
+</p>
+        <p rend="left">
+Vous êtes le bienfaiteur,
+Le père de la patrie :
+La France, de votre coeur,
+Est éminemment chérie.
+</p>
+        <p rend="left">
+Sur une terre- étrangère <hi rend="sub">%</hi>
+Dans l’exil et lé malheur,
+Votre noble caractère
+Désirait notre bonheur.
+</p>
+        <p rend="left">
+Vous avez mis à profit
+Une si pénible absence,
+Pour donner à votre esprit
+Encor plus <hi rend="sup">dJintéllïgehce</hi>.
+</p>
+        <p rend="left">
+Sur le sol vraiment classique
+De la liberté publique,
+Vous ayez vu que la loiRègne-toujours/sur
+le roi.
+</p>
+        <p rend="left">
+Vous avez vu quel amour
+Font éclater, chaque jour,
+Pour leurs lois si salutaires,
+D’énergiques insulaires,,
+</p>
+        <p rend="left">
+Vous îàvez vu que la loi
+Inspire un respect suprême,
+Sans qu’on fasse nul emploi
+D’aucune rigueur extrême.
+</p>
+        <p rend="left">
+Quand les lois sont consenties
+Par les voeux des citoyens,
+</p>
+        <pb xml:id="PAG_00000082" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f82.image"/>
+        <p rend="left">
+' (77). -
+Elles sont les garanties
+Des plus avantageux biens.
+</p>
+        <p rend="left">
+Vous avez vu l’industrie
+Faire la prospérité
+D’une nation mûrie
+Au sein de la liberté.
+</p>
+        <p rend="left">
+Vous avez vu quelle gloire
+La marine d’Albion
+Donne à tout: son territoire,
+A toute sa nation.
+</p>
+        <p rend="left">
+Vous avez vu des vaisseaux.
+Jadis enfans de la France,
+Parer, à regret, les eaux
+D’une orgueilleuse puissance.
+</p>
+        <p rend="left">
+Votre ame patriotique
+A pleuré sur nos revers,
+Dans l’empire britannique
+Qui domine sur les mers.
+</p>
+        <p rend="left">
+Vous avez vu nos’ marins,
+Esclaves sur-la Tamise,
+Qui, par de cruels destins,
+Expiaient leur gloire acquise.
+</p>
+        <p rend="left">
+Votre coeur s’est rappelé
+Cette brillante carrière
+Où-l’honneur a signalé
+NotFe marine guerrière.
+</p>
+        <pb xml:id="PAG_00000083" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f83.image"/>
+        <p rend="left"><hi rend="sub">(78) </hi>
+Elle peut par vous reprendre
+Son éclat si précieux:
+Oui, votre voix peut la rendre
+A ses destins glorieux.
+</p>
+        <p rend="left">
+La France attache un haut prix
+A sa grandeur maritime ;
+Noble fils de saint Louis,
+Votre zèle la ranime.
+</p>
+        <p rend="left">
+Sur le vaste sein de l’onde,
+Allez, généreux vaisseaux,
+Allez assurer au monde
+Un profitable repos.
+</p>
+        <p rend="left">
+Allez répandre eh tous lieux
+Le trésor de nos lumières,
+Vous mériterez des cieux
+Les faveurs particulières.
+</p>
+        <p rend="left">
+Allez ouvrir au commerce
+Des sentiers avantageux ;
+Depuis long-temps il s’exerce
+A rendre le globe heureux.
+</p>
+        <p rend="left">
+De la navigation
+</p>
+        <p rend="left">
+Accroissez la sphère immense,
+</p>
+        <p rend="left">
+Et que son extension
+</p>
+        <p rend="left">
+Fasse encor bénir la France.
+</p>
+        <p rend="left">
+Allez, soyez pour les mers
+Une égide protectrice ;
+</p>
+        <pb xml:id="PAG_00000084" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f84.image"/>
+        <p rend="left">
+(79) 
+Montrez à tout l’univers
+Votre important exercice.
+</p>
+        <p rend="left">
+Que le pavillon de lis
+Trouve en toutes les contrées
+Des peuples vraiment amis
+De ses faveurs épurées. -,
+</p>
+        <p rend="left">
+Arrachez à l’esclavage
+Tant d’infortunés mortels,
+Qui, sur un lointain rivage,
+Eprouvent des maux cruels.
+</p>
+        <p rend="left">
+Empêchez que l’on n’attente
+Aux droits de l’humanité,
+Par la traite révoltante
+Que fait la cupidité.
+</p>
+        <p rend="left">
+Anéantissez les maux
+Que fait la piraterie :
+Frappez, valeureux vaisseaux,
+Ce reste de barbarie.
+</p>
+        <p rend="left">
+Que la marine marchande
+Est précieuse à l’état 1
+Oh ! qu’elle se recommande,
+Sous le plus modeste éclat !
+</p>
+        <p rend="left">
+A quels encouiagemens
+Ne doit-elle pas prétendre !
+Que de bienfaits importâns
+De ses soins on doit attendre !
+</p>
+        <pb xml:id="PAG_00000085" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f85.image"/>
+        <p rend="left small">LES TROMPETTES, LES, CORS, LES CLAIRONS, ET
+LES CLARINETTES,</p>
+        <p rend="left small">Alternativement.
+Air : <hi rend="i">Vive Henri IV</hi>.</p>
+        <p rend="left">
+Ce Charles-Dix,
+Qui gouverne la France,
+</p>
+        <p rend="left">
+A vu Cadix
+Bénir son influence,
+</p>
+        <p rend="left">
+Et nos guerriers
+Y cueillir des lauriers.
+</p>
+        <p rend="left">
+Son fils aîné,
+Que la gloire âccompagrje,
+</p>
+        <p rend="left">
+A terminé
+Les troubles de l’Espagne,
+</p>
+        <p rend="left">
+Et nos soldats
+De lui font un grand cas,
+</p>
+        <p rend="left">
+Duc d’Angoùlême,
+O modeste héros !
+</p>
+        <p rend="left">
+Ton rang suprême
+T’offrait un doux repos,
+</p>
+        <p rend="left">
+Lorsque l’honneur ,
+Éveilla ta valeur.
+</p>
+        <p rend="left">
+Ta voix commande,
+A l’étendart des lis,
+</p>
+        <p rend="left">
+Ce que démande
+Un immortel Louis,
+</p>
+        <pb xml:id="PAG_00000086" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f86.image"/>
+        <p rend="left">
+( ** ) 
+Ce sage roi,
+Protecteur dé la loi.
+</p>
+        <p rend="left">
+Le drapeau blanc,
+Cette antique bannière,
+</p>
+        <p rend="left">
+Tout éclatant,
+Rentre dans l’a carrière,
+</p>
+        <p rend="left">
+Et ses exploits
+Affermissent les rois.
+</p>
+        <p rend="left">
+Trocadéro,
+Citadelle fameuse,
+</p>
+        <p rend="left">
+Notre drapeau,
+Plein d’ardeur généreuse
+</p>
+        <p rend="left">
+T’a délivré,
+Par un fait célébré.
+</p>
+        <p rend="left">
+O Ferdinand !
+Ton brillant diadème
+</p>
+        <p rend="left">
+A pour garant
+Notre duc d’Angoulême,
+</p>
+        <p rend="left">
+Libérateur
+Que chérit notre coeur.
+</p>
+        <p rend="left">
+Les factions
+Sont bientôt comprimées .
+</p>
+        <p rend="left">
+Les nations
+Cessent d’être,alarmées ;
+</p>
+        <p rend="left">
+La piété
+Règne avec l’équité.
+</p>
+        <pb xml:id="PAG_00000087" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f87.image"/>
+        <p rend="left">
+(8a ) 
+</p>
+        <p rend="left small">LES TAMBOURS ET LA MUSIQUE,
+Alternativement.</p>
+        <p rend="left">
+Air:
+</p>
+        <p rend="left">
+Aux faits brillans
+La France est destinée.
+</p>
+        <p rend="left">
+De grands talens
+Elle est toujours ornée,
+</p>
+        <p rend="left">
+Et leur éclat
+Fait resplendir l’état.
+</p>
+        <p rend="left">
+La liberté,
+Toujours chère à la. France,
+</p>
+        <p rend="left">
+A cimenté
+Une heureuse alliance
+</p>
+        <p rend="left">
+Avec les rois,
+Qui soutiennent ses droits.
+</p>
+        <p rend="left">
+Chaque Français
+Aux honneurs peut prétendre.
+</p>
+        <p rend="left">
+Oh ! quels bienfaits
+Ce mode vient répandre
+.Dans tous les rangs,
+Jadis si djfférens !
+</p>
+        <p rend="left">
+La loi sur nous
+Montre un égal empire
+</p>
+        <p rend="left">
+Nous sentons tous
+Ce qu’elle vient prescrire.
+</p>
+        <p rend="left">
+Nos magistrats
+Ne nous alarment pas.i
+</p>
+        <pb xml:id="PAG_00000088" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f88.image"/>
+        <p rend="left">
+( 8,3 ) 
+</p>
+        <p rend="left">
+L’instruction
+Partout est répandue »
+</p>
+        <p rend="left">
+La nation
+A ses droits est rendue :
+</p>
+        <p rend="left">
+L’égalité
+Règne avec l’équité.
+</p>
+        <p rend="left">
+L’agriculture
+A fait de grands progrès^
+</p>
+        <p rend="left">
+Et tout assure
+Aux travaux dé Gérés
+</p>
+        <p rend="left">
+D’être à jamais.
+Les premiers des bienfaits.
+</p>
+        <p rend="left">
+Le laboureur
+Est un propriétaire,
+</p>
+        <p rend="left">
+Et son labeur
+N’est plus d’un mercenaire,
+</p>
+        <p rend="left">
+Qu’on, alarmait,
+Et que l’on opprimait.
+</p>
+        <p rend="left">
+Que l’industrie
+Étonne nos regards. !
+</p>
+        <p rend="left">
+Notre patrie
+Offre, de toutes parts,
+</p>
+        <p rend="left">
+D’heureux effets
+De ses travaux parfaits.
+</p>
+        <p rend="left">
+La liberté <hi rend="sub"> ;</hi>
+Reçoit un juste hommage :
+</p>
+        <p rend="left">
+L’humanité
+Veut bannir l’esclavage,
+</p>
+        <pb xml:id="PAG_00000089" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f89.image"/>
+        <p rend="left">
+■ .KM) '
+</p>
+        <p rend="left">
+Et les mot-tels
+Deviennent môinS cruels ;
+</p>
+        <p rend="left">
+Si lé commercé
+Offre quelque lànguetuy
+</p>
+        <p rend="left">
+Charles s’exerce .
+</p>
+        <p rend="left">
+A rendre la vigueur
+</p>
+        <p rend="left">
+A ce lien y <hi rend="sub">yr</hi>
+Source d’un si gratid bien..
+</p>
+        <p rend="left">
+Notre marine ,.
+Prend un brillant essor :
+</p>
+        <p rend="left">
+On là destine
+A s’illustrer encor, <hi rend="i">"</hi>
+</p>
+        <p rend="left">
+Et ce dessein,
+Prince-, est rie dans, ton sein.
+</p>
+        <p rend="left">
+La politiqueA
+de la loyauté :
+</p>
+        <p rend="left">
+Elle s’âppliquéy
+Avec sincérité,
+</p>
+        <p rend="left">
+A rendre heureux
+Des peuplés, fort ù'ônibreûx.
+</p>
+        <p rend="left">
+Chaque artisan
+Peut, dans ;riotre patrie ,.
+</p>
+        <p rend="left">
+D’après son plan,
+Régler son industrie :
+</p>
+        <p rend="left">
+Nulle maîtrisé
+A présent n’est admise..
+</p>
+        <p rend="left">
+La Capitale ; ,
+</p>
+        <pb xml:id="PAG_00000090" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f90.image"/>
+      </div>
+      <div>
+        <head>( <hi rend="i">m</hi> ) </head>
+        <p rend="left">
+S’embellit chaque jour :
+</p>
+        <p>
+La main royale
+Y montre son amour ;
+</p>
+        <p>
+Elle y répand
+Un éclat vraiment grand.
+</p>
+        <p rend="left">
+De quels beaux ponts
+La Seinéest décorée !
+</p>
+        <p>
+Nous y voyous
+L’image révérée
+</p>
+        <p>
+De ces Français
+Qu’on bénit à jamais.
+</p>
+        <p rend="left">
+Le luxe fait
+Briller notre patrie,
+</p>
+        <p rend="left">
+Et son effet
+Donne à notre industrie
+</p>
+        <p>
+L’accroissement
+Qu’elle offre heureusement.
+</p>
+        <p>
+De ces tributs
+Qui sont levés en France,
+</p>
+        <p>
+Bien peu d’abus
+Sont une conséquence.
+</p>
+        <p>
+Tous nos impôts
+Maintenant sont légaux.
+</p>
+        <p>
+Tout est utile
+A la société ; -
+</p>
+        <p>
+Tout est facile
+A notre habileté,
+</p>
+        <pb xml:id="PAG_00000091" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f91.image"/>
+      </div>
+      <div>
+        <head>i ( <hi rend="i">m</hi> ) </head>
+        <p rend="left">
+Et l’opulence
+A de la vigilance.
+</p>
+        <p rend="left"><hi rend="i">■4</hi> On connaît mieux
+Le prix delà richesse :
+</p>
+        <p rend="left">
+L’homme, en tous lieux,
+Veut, bannir, la molless.e ;
+</p>
+        <p rend="left">
+L’oisiveté
+Cède à l’actiyité^
+</p>
+        <p rend="left">
+L enseignement
+Est devenu facile :
+</p>
+        <p rend="left">
+Il est vraiment
+Aussi simple jgu'utUe,
+</p>
+        <p rend="left">
+Et les enfans
+Font des progrès frappans.
+</p>
+        <p rend="left">
+La gymnastique,
+Dans notre nation,
+</p>
+        <p rend="left">
+Très bien s’applique
+A l’éducation,
+</p>
+        <p rend="left">
+Et la jeunesse.
+A là suivre s’empresse.
+</p>
+        <p rend="left">
+Les sâvans ont
+Agrandi les sciences :
+</p>
+        <p rend="left">
+Oh ! quels bieris sont
+Les justes conséquences
+</p>
+        <p rend="left">
+De leurs travaux,
+Si précieux, si <hi rend="sup">1</hi> beaux !
+</p>
+        <p rend="left">
+Depuis trente ans
+</p>
+        <pb xml:id="PAG_00000092" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f92.image"/>
+        <p rend="left">
+. ( 87 J ■
+Que de vastes contrées,
+</p>
+        <p rend="left">
+Par les sa vans,
+Se trouvent explorées !
+</p>
+        <p rend="left">
+Quels faits nouveaux
+Présentent leurs travaux !
+</p>
+        <p rend="left">
+L’imprimerie
+Va tout civiliser :
+</p>
+        <p rend="left">
+Notre'patrie *
+Doit la préconiser,
+</p>
+        <p rend="left">
+Car, parlra presse,
+On s’éclaire sans cesse.
+</p>
+        <p rend="left">
+Voyez partout,
+Dans la littérature,
+</p>
+        <p rend="left">
+Combien le goût
+S’agrandit et s’épure !
+</p>
+        <p rend="left">
+Tous les auteurs
+Veulent peindre les moeurs.
+</p>
+        <p rend="left">
+La poésie,
+Au lieu du merveilleux,
+</p>
+        <p rend="left">
+Avec génie,
+Peint les faits glorieux,
+</p>
+        <p rend="left">
+Les actions
+Des grandes nations.
+</p>
+        <p>
+Le romantique
+Est très intéressant,
+</p>
+        <p>
+Et le classique
+Est toujours florissant:
+</p>
+        <pb xml:id="PAG_00000093" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f93.image"/>
+        <p rend="left">
+Tous deux ; pour n’ous,-
+Ont des charmes bien doux. ■
+</p>
+        <p rend="left">
+Que l’éloquence
+Brille d’un noble éclat !
+</p>
+        <p rend="left">
+Son influence
+Est utile à l’État : ;
+</p>
+        <p rend="left">
+Nos orateurs
+Méritent des honneurs.
+</p>
+        <p rend="left">
+De nos bonpRpis
+L’auguste dynastie
+</p>
+        <p rend="left">
+Pour tous’nos droits
+Est ujie garantie :
+</p>
+        <p rend="left">
+Leur volonté
+Suit toujours l’équité.
+</p>
+        <p rend="left">
+Quel sort prospère
+La restauration
+</p>
+        <p rend="left">
+Parvient à faire
+A notre nation !
+</p>
+        <p rend="left">
+Nos citoyens
+Vont goûter tous les biens.
+</p>
+        <p rend="left small">LES TAMBOURS ET LA MUSIQUE.
+Air:</p>
+        <p rend="left">
+Charles que votre retour
+Intéressait la patrie.
+Nous bénissons chaque jour ;
+Votre sagesse mûrie.
+</p>
+        <pb xml:id="PAG_00000094" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f94.image"/>
+        <p rend="left">
+Vous nous ;a§éz rapporté ' ..
+</p>
+        <p rend="left">
+Une très grande aptitude
+A rétablir l’équité
+Dans toute sa plénitude.
+</p>
+        <p rend="left small">.-- - ' .. ' M’</p>
+        <p rend="left">
+Vous nous avez .rapporté '■''*•'
+</p>
+        <p rend="left">
+Un grandamour des lumières,
+</p>
+        <p rend="left">
+Et qui s’est manifesté
+</p>
+        <p rend="left">
+En vous de toutes maniées.
+</p>
+        <p rend="left">
+Vous avez su maùatènir
+Ce que votre 'auguste frère
+A su chez nous établir
+Par son zèle tutélaire.
+</p>
+        <p rend="left">
+Vous avez exécuté
+</p>
+        <p rend="left">
+Ses projets yraim.ent louables, ;
+</p>
+        <p rend="left">
+Et vous avez mérité
+</p>
+        <p rend="left">
+Des louanges mémorables.
+</p>
+        <p rend="left">
+Au zèle qui Ranimait,
+"Votre coeur fait son étude
+De joindre le grand bienfait
+De votre sollicitude.
+</p>
+        <p rend="left">
+C’est à vous à compléter
+Ce qui manque à la patrie,
+Pour qu’on ne puisse attenter
+A sa liberté chérie.
+</p>
+        <p rend="left">
+Oui, c’est de vous qu’elle attend
+Toutes ces lois protectrices
+</p>
+        <pb xml:id="PAG_00000095" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f95.image"/>
+        <p rend="left">
+■(SP)  ;._
+jiQui sont du gouvernement
+™es formes conservatrices,
+</p>
+        <p rend="left">
+Haïti, le grand bienfait
+De ta noble indépendance
+Doit son précieux effet
+Au souverain de la France^
+</p>
+        <p rend="left">
+Charlësr-Dix. a consacré
+Ta liberté désirée ;
+Par ce prince révéré
+Ta puissance- est assurée..
+</p>
+        <p rend="left">
+.Bénis un tel souverain,
+• Et chéris notre alliance,
+Et favorise en ton sein
+Le pavillon de la France.
+</p>
+        <p rend="left">
+Roi, qui répandez partout
+Votre influence prospère,
+De quoi ne vient pas à bout’
+Un zèle aussi salutaire !
+</p>
+        <p rend="left">
+Le monde se recompose,
+Sur de nouveaux élémens ;
+Plus d’un peuple se reposeSur
+vos loyaux sentimens. <hi rend="sub"> ;</hi> ■
+</p>
+        <p rend="left">
+Garantissez l’équilibre
+Entre tant de nations ;
+Que sanslicence on soit libre,.
+Par les constitutions. ;
+</p>
+        <pb xml:id="PAG_00000096" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f96.image"/>
+        <p rend="left">
+(9&gt;) 
+Soyez un vivant exemple
+De l’amour qu’inspire un roi,
+Puisque dans vous, on contemple
+Un protecteur de la loi.
+</p>
+        <p rend="left">
+Soyez un parfait modèle
+De tout ce qu’un potentat
+Peut, par son ardeur fidèle ^
+Pour le bien de son État. <hi rend="i">~*\</hi>
+</p>
+        <p rend="left">
+Montrez à toute la terre
+Ce que, pour l’humanité,
+Peut la piété sincère <hi rend="sub">r</hi>
+Unie avec F équité.
+</p>
+        <p rend="left">
+Occupez, prince, long-temps
+Le plus beau trône du monde,
+Que méritent vos talens,
+Votre sagesse profonde.
+</p>
+        <p rend="left">
+Tenez, pendant un long cours,
+Votre sceptre tu télaire,
+Puisque vous montrez toujours
+Le plus lp« ^}C^ctère.
+</p>
+        <pb xml:id="PAG_00000097" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f97.image"/>
+        <pb xml:id="PAG_00000098" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f98.image"/>
+        <pb xml:id="PAG_00000099" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f99.image"/>
+        <pb xml:id="PAG_00000100" n="" corresp="http://gallica.bnf.fr/ark:/12148/bpt6k5855000v/f100.image"/>
+      </div>
+    </body>
+  </text>
+</TEI>
