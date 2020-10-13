@@ -25,6 +25,8 @@ def lire_TEI_XML(input_file):
 # donné en paramètre ainsi qu'une ligne à ecrire dans un csvsous le format 
 # "erreur,suggestion,contexte,fichier"
 # Le correcteur est un objet de type SpellChecker 
+# On a besoin du correcteur en entrée pour ne pas le recréer à chaque fichier quand on corrige un corpus
+# puisque l'on souhaite potentiellement personnaliser le correcteur en ajoutant les entrée d'une liste
 def correction(texte, chkr, fichier=""):
     # A tester : ne pas corriger les noms propres
     lignes = []
@@ -59,31 +61,35 @@ def corriger_dossier(chemin_dossier_corpus, chemin_dossier_sortie):
     chkr = SpellChecker("fr")
 
     # Chargement de la liste d'erreurs personnalisée
-    charger_liste = False
+    charger_liste = True
 
 
     if charger_liste:
         # Chemin du fichier csv sous la forme erreur,correction
-        chemin_liste = "Liste_correction/liste.csv"
+        chemin_liste = "Correction_automatique.csv"
 
         # Le fichier contient-il des entetes ? La variable est à True si oui, False sinon
-        presence_entetes = False
+        presence_entetes = True
 
         # Si le fichier contient des entêtes (presence_entetes = True), il faut les définir ici
         # La première valeur de la liste sera le nom de la colonne des formes erronées, et la deuxième celle des formes correctes
-        liste_entetes = ["forme_erronée", "forme_correcte"]
+        liste_entetes = ["Erreur observée", "Correction proposée"]
 
-        delimiteur = ","
+        delimiteur = "\t"
 
         with open(chemin_liste, "r", encoding="utf-8", newline='') as csvfile:
             if presence_entetes == False:
                 reader = csv.reader(csvfile, delimiter=delimiteur)
                 for row in reader:
                     chkr.replace_always(row[0], row[1])
+                    # ajouter le nouveau mot dans le dictionnaire
+                    chkr.add(row[1])
             else:
                 reader = csv.DictReader(csvfile, delimiter=delimiteur)
                 for row in reader:
                     chkr.replace_always(row[liste_entetes[0]], row[liste_entetes[1]])
+                    # ajouter le nouveau mot dans le dictionnaire
+                    chkr.add(row[liste_entetes[1]])
 
     # Chemin du fichier tsv qui contiendra la liste des erreurs avec la correction proposée et le fichier d'origine
     fichier_erreurs = "%s/erreurs.csv" % chemin_dossier_sortie
